@@ -26,29 +26,22 @@
     
     <div class="max-w-md mx-auto px-4 py-6">
         <header class="mb-8 flex flex-col gap-2">
-            <div class="flex items-center justify-between">
-                <h1 id="title" class="text-2xl font-bold tracking-tight">Kateqoriyalar</h1>
-                <button id="back-btn" onclick="goBack()" class="hidden p-2 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
-                        <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
-                    </svg>
-                </button>
-            </div>
-            
-            <div id="stats-bar" class="hidden flex items-center gap-4 text-sm font-medium opacity-80">
-                <div class="flex items-center gap-1">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-4 h-4 text-blue-500">
-                        <path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12zm11.378-3.917c-.89-.777-2.366-.777-3.255 0a.75.75 0 01-.988-1.117c1.435-1.27 3.797-1.27 5.232 0a.75.75 0 11-.989 1.117zM15 12a3 3 0 11-6 0 3 3 0 016 0zm-1.245 2.233a.75.75 0 011.023.271c.5 1.02 1.5 1.747 2.722 1.747a.75.75 0 110 1.5c-1.78 0-3.3-1.066-4-2.58a.75.75 0 01.255-.938z" clip-rule="evenodd" />
-                    </svg>
-                    <span id="progress">0/0</span>
-                </div>
-                <div class="flex items-center gap-1">
-                    <span class="text-green-500" id="score-correct">0</span>
-                    <span>/</span>
-                    <span class="text-red-500" id="score-wrong">0</span>
-                </div>
-            </div>
-        </header>
+    <div class="flex items-center justify-between">
+        <h1 id="title" class="text-2xl font-bold tracking-tight">Kateqoriyalar</h1>
+        <button id="back-btn" onclick="goBack()" class="hidden p-2 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" /></svg>
+        </button>
+    </div>
+
+    <div id="search-container" class="relative mt-2">
+        <input type="text" id="search-input" placeholder="Bank axtar..." 
+               class="w-full p-3 pl-10 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 outline-none focus:ring-2 focus:ring-blue-500 transition-all text-sm">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="absolute left-3 top-3.5 w-4 h-4 opacity-40">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+        </svg>
+    </div>
+    
+    </header>
 
         <main id="content" class="space-y-3">
             <div class="flex justify-center py-12">
