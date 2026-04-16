@@ -1,0 +1,2127 @@
+{
+  "questions": [
+    {
+      "question": "1. Kəskin appendisitin diaqnozunu qoymaq üçün hansı müayinə metodlarından istifadə edilir?",
+      "options": [
+        "Sistoqrafiya, ekskretor uroqrafiya",
+        "Qanın analizi, sidiyin analizi, EKQ",
+        "Qarın boşluğunun R-qrafiyası, irriqoqrafiya",
+        "Laborator müayinə, kolonoskopiya",
+        "Klinik müayinə, USM, laborator müayinə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2. Soxulcanabənzər çıxıntının atipik lokalizasiyası hansıdır?",
+      "options": [
+        "Qaraciyər altında",
+        "Göstərilənlərin hamısı",
+        "Çanaqda",
+        "Sol qalça çuxurunda",
+        "Retrosekal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. Kəskin appendisitin hansı formasında iltihabın reqresiyası mümkündür?",
+      "options": [
+        "Fleqmonoz appendisitdə mümkündür",
+        "Çıxıntının empieması",
+        "Perferativ appendisitdə mümkündür",
+        "Qanqrenoz appendisitdə mümkündür",
+        "Sadalananlardan heç birində mümkün deyil"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "4. Erkən yaşlı uşaqlarda kəskin appendisitin klinik əlamətləri hansılardır?",
+      "options": [
+        "Ağrının göbək nahiyəsində spastik xarakterli olması",
+        "Yatarkən ağızdan suyun axması, diş qıcaması",
+        "Ağrının bel nahiyəsinə vurması, qusma",
+        "Qarnın yumşaq, az ağrılı olması, ishal əlamətləri",
+        "Sağ qalça çuxurunda ağrı, əzələ gərginliyi, Şotkin-Blümberq simptomunun müsbət olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "5. Kəskin appendisitə şübhə ilə olan xəstənin yataqda vəziyyəti hansıdır?",
+      "options": [
+        "Qarını üstə",
+        "Oturaq vəziyyətdə",
+        "Sağ böyrü üstə ayağını qarına sıxaraq",
+        "Arxası üstə",
+        "Sol böyrü üstə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "6. Kəskin appendisitdə qanın analizində hansı dəyişikliklər müşahidə edilir?",
+      "options": [
+        "Trombositlərin miqdarının kəskin azalması",
+        "Eritropeniya",
+        "Heç bir dəyişiklik olmur",
+        "Leykopeniya",
+        "Leykositoz və neytrofillərin sola meyilliyi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "7. Nə üçün erkən yaşlı uşaqlarda kəskin appendisitin diaqnozunu dəqiqləşdirmək çətindir?",
+      "options": [
+        "Defekasiya aktı zamanı qanın olması",
+        "Mərkəzi sinir sistemi zəif inkişaf etməsi və ağrını lokallaşdıra bilməməsi",
+        "Sidik ifrazı zamanı göynəmənin olması",
+        "İshalın olmasına",
+        "Çoxlu miqdarda bəlğəmin olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "8. Kəskin appendisitin fəsadlaşması sadalananlardan hansıdır?",
+      "options": [
+        "Mekkel divertikuliti",
+        "Düz bağırsağın polipozu",
+        "Sağ yumurtalığın burulması",
+        "Düz bağırsağın qanaxması",
+        "Peritonit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "9. Soxulcanabənzər çıxıntının qarın boşluğundakı normal lokalizasiyası hansıdır?",
+      "options": [
+        "Retrosekal vəziyyət",
+        "Sol qalça çuxuru nahiyəsi",
+        "Sağ qalça nahiyəsi medial vəziyyət",
+        "Sağ yan kanal",
+        "Qaraciyəraltı nahiyyə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "10. Kəskin appendisitin hansı xəstəliklərlə differensasiyası aparıla bilər?",
+      "options": [
+        "Ginekoloji xəstəliklərlə",
+        "Cərrahi xəstəliklərlə",
+        "Uroloji xəstəliklərlə",
+        "Sadalananların hamısı ilə",
+        "Terapevtik xəstəliklərlə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "11. Böyük yaşlı uşaqlarda kəskin appendisiti hansı xəstəliklərlə differensasiya etmək lazım deyil?",
+      "options": [
+        "Kəskin pankreatit ilə",
+        "Kəskin öd daşı xəstəliyi ilə",
+        "Sidik axarının daşla obturasiyası ilə",
+        "Sağ yumurtalığın burulması ilə",
+        "Kriptorxizmin abdominal forması ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "12. Böyük yaşlı uşaqlarda ən çox rast gəlinən qarın boşluğunun kəskin cərrahi xəstəliyi hansıdır?",
+      "options": [
+        "Kəskin böyrək xəstəlikləri",
+        "Kəskin xolesistit",
+        "Kəskin pankreatit",
+        "Kəskin bağırsaq keçməməzliyi",
+        "Kəskin appendisit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "13. Kəskin appendisitdə qanın analizində hansı xarakter dəyişikliklər müşahidə edilir?",
+      "options": [
+        "Trombositlərin sayının artması",
+        "Dəyişiklik olmur",
+        "Leykopeniya",
+        "Leykositoz",
+        "Neytrofiloz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "14. Peritonit nədir?",
+      "options": [
+        "Plevra boşluğunun iltihabı",
+        "Düz bağırsağın iltihabı",
+        "Öd kisəsinin iltihabı",
+        "Periton qışasının iltihabı",
+        "Sidik kisəsinin iltihabı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "15. Peritonitin formalarını göstərin",
+      "options": [
+        "Deşilən və deşilməyən formalar",
+        "Sadə və mürəkkəb formalar",
+        "Gərginləşən və gərginləşməyən formaları",
+        "Residiv verən və residiv verməyən formaları",
+        "Birincili və ikincili formaları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "16. Aşağıdakı simptomlardan hansı peritonitə uyğundur?",
+      "options": [
+        "Val simptomu",
+        "Elefant simptomu",
+        "Ortner simptomu",
+        "Dans simptomu",
+        "Şotkin-Blümberq simptomu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "17. Birincili peritonitin yaranma səbəbi nədir?",
+      "options": [
+        "Qanqrenoz –perforativ appendisit",
+        "Sidik kisəsinin periton xarici partlaması",
+        "Hematogen və ya limfogen yolla qarın boşluğunun infeksiyalaşması",
+        "Açıq pnevmatoraks",
+        "Böyrəklərin travmatik zədələnməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "18. İkincili peritonitin yaranma səbəbi nədir?",
+      "options": [
+        "Mədə-bağırsaq qanaxması",
+        "Sidik axarının daşla obturasiyası",
+        "Hematuriya",
+        "Qarın boşluğu orqanlardan hər hansı birinin partlaması",
+        "Bağırsaq infeksiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "19. Birincili peritonitin ilkin müalicəsi hansıdır?",
+      "options": [
+        "Sadalanan müalicələrdən heç biri",
+        "Nəzarət altında saxlama",
+        "Rentgenoloji müalicə",
+        "Cərrahi müalicə",
+        "Konservativ müalicə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "20. Peritonit diaqnozunun təsdiqlənməsi üçün hansı müayinə metodlarından istifadə edilir ?",
+      "options": [
+        "İzotop müayinə",
+        "Kolonoskopiya",
+        "Ekskrator uroqrafiya",
+        "Rentgenoqrafiya",
+        "Kliniki, laborator, instrumental (USM, KT)"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "21. İkincili peritonitdə “lal qarın” nə deməkdir ?",
+      "options": [
+        "Auskultasiyada vezikulyar səsinin eşidilməsi",
+        "Sadalananlardan heç biri",
+        "Auskultasiyada qutu səsinin eşidilməsi",
+        "Auskultasiyada fit səsinin eşidilməsi",
+        "Auskultasiyada bağırsaq küyünün eşidilməməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Peritonitlərdə xəstənin vəziyyətini ağırlaşdıran səbəb nədir?",
+      "options": [
+        "Hematuriya",
+        "Toksiki şok",
+        "Defekasiya aktının ləngiməsi",
+        "Qarın boşluğunun həddən çox böyüməsi",
+        "Daxili qanaxma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23. Öd yolları atreziyasını göstərən kliniki əlamətləri qeyd edin?",
+      "options": [
+        "Axolik nəcis, getdikcə normallaşan nəcis rəngi, fizioloji sarılıq",
+        "Doğulandan 3-4 gün sonra yaranan, artmayan sarılıq, normal nəcis",
+        "Doğulandan 3-4 gün sonra yaranan sarılıq, getdikcə artan sarılıq, axolik nəcis",
+        "Doğulduğu gündən yaranan sarılıq, getdikcə azalan sarılıq, axolik nəcis",
+        "Doğulandan 3-4 gün sonra yaranan, getdikcə azalan sarılıq, normal nəcis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "24. Öd yolları atreziyası qeyd olunan hansı patologiya ilə differensiasiya olunmur?",
+      "options": [
+        "Hemolitik sarılıq ilə",
+        "Fizioloji sarılıq ilə",
+        "Toksoplazmoz ilə",
+        "Fetal hepatit ilə",
+        "Öd daşı xəstəliyi ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "25. Öd yolları atreziyasının müalicəsi hansıdır?",
+      "options": [
+        "Heç biri",
+        "Xolekinetiklərlə müalicə",
+        "Əvvəl konservativ sonra cərrahi",
+        "Cərrahi",
+        "Konservativ"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "26. Öd yolları atreziyası ilə fizioloji sarılıq bir-birindən hansı əlamətə görə fərqlənir?",
+      "options": [
+        "Fizioloji sarılıq zamanı nəcis axolik olur, öd yolları atreziyasında sarılıq azalır, nəcis normal rəngdə olur",
+        "Hər ikisində sarılıq getdikcə artır",
+        "Hər ikisində sarılıq getdikcə azalır",
+        "Fizioloji sarılıqda sarılıq getdikcə azalır, öd yolları atreziyasında getdikcə artır.",
+        "Fizioloji sarılıqda sarılıq artır, öd yolları atreziyasında getdikcə azalır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "27. Öd yolları atreziyası zamanı ilk olaraq hansı orqanda patoloji dəyişikliklər baş verir?",
+      "options": [
+        "Heç biri",
+        "Baş beyin",
+        "Dalaq",
+        "Qaraciyər",
+        "Əvvəl dalaq, sonra qaraciyər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "28. Öd yolları atreziyası zamanı ən çox hansı ağırlaşmalar qeyd oluna bilər?",
+      "options": [
+        "Heç biri",
+        "Qlomerulonefrit, portal hipertenziya",
+        "Biliar sirroz, pnevmoniya",
+        "Portal hipertenziya, enterokolit",
+        "Biliar sirroz, portal hipertenziya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Öd yollarının atreziyası zamanı portal hipertenziyanın yaranma səbəbi nədir?",
+      "options": [
+        "Qaraciyər arteriyasının trombozu",
+        "Kiari xəstəliyi",
+        "İnkişaf edən biliar sirroz",
+        "Qapı vena trombozu",
+        "Qaraciyər venalarının trombozu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "30. Öd yolları atreziyası zamanı qanda əsasən hansı dəyişikliklər baş verir?",
+      "options": [
+        "Qaraciyər fermentlərinin azalması fonunda, bilirubin fraksiyalarının yüksəlməsi",
+        "Bilirubin fraksiyalarının normal olması fonunda, qaraciyər fermentlərinin yüksəlməsi",
+        "Qaraciyər fermentlərinin artması fonunda, bilirubin fraksiyalarının dəyişməməsi",
+        "Eritrositlərin, leykositlərin və trombositlərin azalması fonunda, qaraciyər fermentlərinin normal olması",
+        "Bilirubin fraksiyalarının və qaraciyər fermentlərinin yüksəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Öd yolları atreziyası zamanı nəcisin axolik olmasına səbəb nədir?",
+      "options": [
+        "Sterkobilin istehsalının artması",
+        "Mikroelementlərin sorulmaması",
+        "Zülalların həzm olunmaması",
+        "Urobilin səviyyəsinin artması",
+        "Sterkobilin istehsalının olmaması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "32. Portal hipertenziya dedikdə nə nəzərdə tutulur?",
+      "options": [
+        "Qaraciyərə daxil olan arteriyada təzyiqin yüksəlməsi",
+        "Qapı venası və aşağı boş venada təzyiqin yüksəlməsi",
+        "Aşağı boş vena sistemində təzyiqin yüksəlməsi",
+        "Qaraciyər venalarında təzyiqin yüksəlməsi",
+        "Qapı venası sistemində təzyiqin yüksəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. Portal hipertenziyanın hansı formaları var?",
+      "options": [
+        "Qaraciyərdaxili, kombinasiyalı, qaraciyər arteriyasının trombozu",
+        "Qaraciyərxarici, aşağı boş venanın trombozu",
+        "Qaraciyərdaxili, qaraciyərxarici, kombinasiyalı forma",
+        "Qarışıq forma, qaraciyər arteriyasının trombozu",
+        "Aşağı boş venanın, qaraciyər venalarının və arteriyasının trombozu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "34. Aşağı vena kava ilə hansı anastamozlar porto-kaval anastomozlarına aiddir?",
+      "options": [
+        "Sadalananlardan heç biri",
+        "Bud venası ilə anastomoz",
+        "Ağciyər venaları ilə anastomoz",
+        "Yuxarı hemorroidal vena ilə anastomoz",
+        "Xaya venası ilə anastomoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "35. Aşağı vena kava ilə hansı anastamozlar porto-kaval anastomozlarına aid deyil?",
+      "options": [
+        "Mədə venaları ilə anastomoz",
+        "Qida borusu venaları ilə anastomoz",
+        "Yuxarı hemorroidal venalarla anastomoz",
+        "Göbəkətrafı venalarla anastomoz",
+        "Xaya venası ilə anastomoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Qeyd olunanlardan hansı portal hipertenziyanın əlamətidir?",
+      "options": [
+        "Oynaqdaxili qanaxma",
+        "Beyindaxili qanaxma",
+        "Burundan qanaxma",
+        "Qan hayxırma",
+        "Qan qusma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "37. Portal hipertenziyanın kliniki əlamətlərinə hansılar aiddir?",
+      "options": [
+        "Assit, hemorragik sindrom, hematouriya",
+        "Splenomeqaliya, hematouriya, assit",
+        "Assit, splenomeqaliya, xolesistit",
+        "Splenomeqaliya, assit, nefroptoz",
+        "Assit, splenomeqaliya, hemorragik pozğunluqlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "38. Uşaqlarda portal hipertenziyanın hansı forması daha çox rast gəlinir?",
+      "options": [
+        "Qaraciyərxarici, kombinasiyalı",
+        "Kombinasiyalı",
+        "Qaraciyərdaxili, kombinasiyalı",
+        "Qaraciyərxarici",
+        "Qaraciyərdaxili"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "39. Portal hipertenziyanın ağırlaşmalarına hansılar aiddir?",
+      "options": [
+        "Qida borusu venalarının varikoz genişlənməsi, xaya hidropsu, plevrit",
+        "Assit, plevrit, hidrosefaliya",
+        "Assit, plevrit, xaya hidropsu",
+        "Qida borusu venalarının varikoz genişlənməsi, assit, plevrit",
+        "Qida borusu venalarının varikoz genişlənməsi, assit, splenomeqaliya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "40. Portal hipertenziya zamanı nəyə görə qida borusu venaları genişlənir?",
+      "options": [
+        "Qida borusu venalarında venoz malformasiyanın hesabına",
+        "Qida borusu venalarında qapaq çatmazlığı hesabına",
+        "Heç biri",
+        "Qapı venası ilə qida borusu venaları arasında anastomozların hesabına",
+        "Qida borusu venalarında arterio-venoz şuntların hesabına"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "41. Portal hipertenziyanın hansı formasında kliniki əlamətlər daha erkən yaşlarda başlayır?",
+      "options": [
+        "Heç biri",
+        "Bütün hamısı",
+        "Kombinasiyalı forma",
+        "Qaraciyərdaxili forma (hepatitlər)",
+        "Qaraciyərxarici forma (qapı venasının trombozu)"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Portal hipertenziyanın hansı forması mövcud deyildir?",
+      "options": [
+        "Qaraciyəraltı portal hipertenziya",
+        "Qaraciyərdaxili portal hipertenziya",
+        "Parenximatoz formalı portal hipertenziya",
+        "Qaraciyərüstü portal hipertenziya",
+        "Əlaqəli portal hipertenziya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "43. Xəstə də qarın boşluğunun ayaqüstə rentgenoqrafiyası zamanı Kloyber kasacıqları və horizontal səviyyələr qeyd olunur. Bu hansı patologiya üçün xarakterikdir?",
+      "options": [
+        "Onikibarmaq bağırsaq xorası",
+        "Mədə xorası",
+        "Kəskin xolesistit",
+        "Bağırsaq keçməzliyi",
+        "Kəskin pankreatit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "44. Mədə və onikibarmaq bağırsağın iltihabi xəstəliklərində diaqnozu təsdiqləmək üçün hansı müayinə metodundan istifadə olunmalıdır?",
+      "options": [
+        "Qarın boşluğunun obzor rentgenoqrafiyası",
+        "Qanın biokimyəvi analizi",
+        "Fibroqastroduodenoskopiya",
+        "Qarın boşluğu orqanlarının ultrasəs müayinəsi",
+        "Qanın ümumi analizi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "45. Yenidoğulmuşda həyatın ilk saatlarından ağızdan və burundan köpüklü ifrazat təsadüf edilir. Muayinə zamanı qida borusunun atreziyasına şübhə yaranır. Diaqnozu təsdiqləmək üçün əsas müayinə üsulu hansıdır?",
+      "options": [
+        "Qanin ümumi analizi",
+        "Döş qəfəsi orqanlarının ultrasəs müayinə",
+        "Elefant sınağı",
+        "Kontrastlı rentgen müayinəsi",
+        "Rentgen müayinəsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "46. Yuxarı bağırsaq keçməzliyi zamanı öd qarışıqlı qusuntunun olması nəyi bildirir?",
+      "options": [
+        "12 barmaq bağırsaq atreziyasının olmasını",
+        "Keçməzliyin Fater məməciyindən aşağı səviyyədə olmasını",
+        "Keçməzliyin pilorik sfinkter səviyyəsində olmasını",
+        "Keçməzliyin Fater məməciyindən yuxarı səviyyədə olmasını",
+        "Keçməzliyin kardial sfinkter səviyyəsində olmasını"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "47. Aşağıdakı klinik əlamətlərdən hansı anadangəlmə aşağı bağırsaq keçməzliyinin əlamətidir?",
+      "options": [
+        "Meteorizm",
+        "Çoxlu qusma",
+        "Nəcisin və qazın olmaması",
+        "Yumşaq ağrısız qarın",
+        "Aspirasiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "48. Aşağıdakı hallardan hansında mekoneal qusma təsadüf edilir?",
+      "options": [
+        "Köndələn çənbər bağırsağın atreziyasında",
+        "Düz bağırsağın atreziyasında",
+        "Nazik bağırsağın atreziyasında",
+        "Peritonitdə",
+        "Hirşprunq xəstəliyinin ağır formalarında"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "49. Böyük yaşlı uşaqlarda bağırsaq invaqinasiyasının ən çox rast gələn səbəblərdən birini göstərin.",
+      "options": [
+        "Qasıq yırtığı",
+        "Ledd sindromu",
+        "Hirşprunq xəstəliyi",
+        "Mekkel divertikulu",
+        "Bağırsaq burulması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "50. Bağırsağın bir hissəsinin o biri hissəsinə keçib pərçim olunmasına nə deyilir?",
+      "options": [
+        "Ledd sindromu",
+        "Eventrasiya",
+        "Daxili yirtıq",
+        "Evaginasiya",
+        "İnvaginasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "51. Bir yaşına kimi uşaqlarda bağırsaq invaginasiyasının əsas səbəblərindən biri hansıdır?",
+      "options": [
+        "Nekrotik enterokolit",
+        "Hirşprunq xəstəliyi",
+        "Yoğun bağırsaq polipozu",
+        "Mekkel divertikulu",
+        "Qida rejiminin dəyişməsi (alimentar faktor)"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "52. Bağırsaq invaginasiyası zamanı invaginat hansı istiqamətlərdə hərəkət edir (təsnifat üzrə)?",
+      "options": [
+        "Düz,çəp",
+        "Saq,sol",
+        "Medial, lateral",
+        "Nazik,yoğun",
+        "Qalxan,enən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "53. Sadalanan kliniki simptomlar: qarında periodik kəskin tutma şəkilli ağrılar, qusma, düz bağırsaqdan qanlı ifrazat, hansı kəskin bağırsaq patologiyasına aiddir?",
+      "options": [
+        "Bağırsaq burulması",
+        "Boğulmuş qasıq yirtığı",
+        "Mədə xorası",
+        "Kəskin appendisit",
+        "İnvaginasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "54. Bağırsaq invaginasiyası zamanı ağrının patogenetik növünü göstərin.",
+      "options": [
+        "Qarışıq",
+        "Daimi",
+        "Mərkəz mənşəli",
+        "İrradiasiyalı",
+        "Reflektor"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "55. Bağırsaq invaqinasiyası zamanı ən informativ rentgenolojı müayinə hansıdır?",
+      "options": [
+        "Fistuloqrafiya",
+        "Təsviri rentgenoqramma",
+        "İnvertoqramma",
+        "İrriqoqrafiya",
+        "Mədə bağırsaq traktının kontrast müayinəsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "56. Obturasion bağırsaq keçməzliyi səbəblərindən birini göstərin.",
+      "options": [
+        "Xolestaz",
+        "İnvaginasiya",
+        "Bağırsaq burulması",
+        "Koprostaz",
+        "Bağırsaq infeksiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "57. 5 yaşlı uşaq klinikaya qarnın ağrılı və köp olmasından, bir dəfə qusmadan, nəcis və qazların xaric olmaması şikayətləri ilə daxil olub. Kliniki müayinədən sonra «Koprostaz» diaqnozu qoyuldu. Sizin sonraki tədbirləriniz?",
+      "options": [
+        "Planlı əməliyyat",
+        "Dinamiki müşahidə",
+        "Əməliyyat önü infuzion terapiya",
+        "Təcili əməliyyat",
+        "Təmizləyici imalə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. 8 yaşlı uşaqda bir həftə əvvəl «Qanqrenoz perforativ appendisit. Yayılmış peritonit» diaqnozu qoyulduqdan sonra «Laparotomiya, appendektomiya. Qarın boşluğunun sanasiyası və drenajı» əməliyyatı icra olunub. Hal - hazırda uşaqda qarında kəskin tutma şəkillli ağrılar, tez-tez qusma, qarın boşluğunun təsviri rentgenoqrammada çoxsaylı horizontal səviyyələr aşkarlanır. Sizin diaqnozunuz?",
+      "options": [
+        "Bağırsaq burulması",
+        "Kəskin bağırsaq invaginasiyası",
+        "Dinamiki bağırsaq keçməzliyi",
+        "Erkən bitişmə mənşəli bağırsaq keçməzliyi",
+        "Gecikmiş bitişmə mənşəli bağırsaq keçməzliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "59. Dinamiki bağırsaq keçməzliyinin növünə aid olanı göstərin.",
+      "options": [
+        "Aperistaltik",
+        "Mexaniki",
+        "Stranqulyasion",
+        "Obturasion",
+        "Spastik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "60. Bağırsaq parezi nəticəsində əmələ gələn dinamiki bağırsaq keçməzliyinin növünü qeyd edin.",
+      "options": [
+        "Obturasion",
+        "Mexaniki",
+        "Kəskin",
+        "Paralitik",
+        "Spastik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "61. Mexaniki bağırsaq keçməzliyinin əsas rentgenoloji əlaməti hansıdır?",
+      "options": [
+        "Dolma deffekti",
+        "Diafraqmanın altında \"aypara\" kölgəliyin olması",
+        "Qarın boşluğunda sərbəst qazın olması",
+        "Bağırsaq ilgəklərində üfüqi maye səviyyəsi",
+        "Aerokoliya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "62. İnvaqinasiyaya şübhə olduqda hansı rentgenoloji müayinə aparılmalıdır?",
+      "options": [
+        "İnvertoqramma",
+        "Vangensten üsulu ilə R-qrafiya",
+        "Ekskretoruroqrafiya",
+        "Barium suspenziyası ilə irriqoqrafiya",
+        "Uzanmış vəziyyətdə qarın boşluğunun obzor rentgenoqrafiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "63. Mədə bağırsaq traktının bitki mənşəli yad cismi necə adlanır?",
+      "options": [
+        "Sekvestr",
+        "Spikula",
+        "Skoleks",
+        "Trixobezoar",
+        "Fitobezoar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "64. Kiçik yaşlı uşaqlarda bağırsaq invaginasiyası zamanı düz bağırsaqdan patolojı ifrazatın («moruq jelesi») tərkibi nədir?",
+      "options": [
+        "Duru nəcis və qan",
+        "Qan, selik və irin",
+        "Al qırmızı qan",
+        "Qan və selik",
+        "Qan və irin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "65. İnvaginasiyası başlanğıc mərhələsində olan xəstənin qarnı palpasiya zamanı necə olur?",
+      "options": [
+        "Şotkin-Blumberq simptomu müsbət olur",
+        "Yayılmış «defans» müşayət olunur",
+        "Yerli «defans» müşayət olunur",
+        "Gərqin",
+        "Yumşaq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. İnvaginasiya zamanı invaziv olmayan yüksək effektivliyə malik olan diqnostik üsulu göstərin.",
+      "options": [
+        "Kolonoskopiya",
+        "Təsviri rentqenoqrafiya",
+        "Laparoskopiya",
+        "Stintiqrafiya",
+        "Sonoqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. 5 aylıq uşaqda klininikaya daxil olarkən kliniki «İnvaginasiya» diaqnozu təsdiq olundu. Təsviri rentgenoqrafiyada qarın boşluğunda diafraqma altında sərbəst qazın olması müəyyənləşdirildi. Əsas xəstəliyin hansı fəsadı baş verib?",
+      "options": [
+        "Leddi sindromu",
+        "Yayılmış peritonit",
+        "Bağırsaq perforasiyası",
+        "Bağırsaq qanaxması",
+        "Bağırsaq burulması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "68. Gecikmiş bitişmə mənşəli stranqulyasion bağırsaq keçməzliyinin müalicəsi hansıdır?",
+      "options": [
+        "Müalicə tələb etmir",
+        "İnfuzion terapiya",
+        "Konservativ",
+        "Dinamiki müşahidə",
+        "Cərrahi əməliyyat"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. 10 aylıq uşaqda bağırsaq invaginasiyasının klinikası var. Uşaqda 8 saat bundan əvvəl narahatlıq başlamışdır. Ən informativ müayinə üsulu hansıdır?",
+      "options": [
+        "Pnevmoirriqoqrafiya",
+        "Kolonoskopiya",
+        "Rektal müayinə",
+        "Laparoskopiya",
+        "Barium ilə irriqoskopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Hansı növ diafraqmal yırtıqlar arxa diafraqmal yırtıq adlanır?",
+      "options": [
+        "Diafraqmanın qida borusu dəliyi yırtığı",
+        "Frenoperikardial yırtıqlar",
+        "Bunların hamısı",
+        "Plevral- diafraqmal yırtıqlar",
+        "Parasternal yırtıqlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "71. Hansı növ diafraqmal yırtıqlara ön yırtıqlar deyilir?",
+      "options": [
+        "Hamısı",
+        "Diafraqmanın parezi",
+        "Frenoperikardial yırtıqlara",
+        "Diafraqmanın relaksasiyasına",
+        "Parasternal yırtıqlara"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "72. Morqani yırtığı nədir?",
+      "options": [
+        "Diafraqmanın əzələ qatının olmaması",
+        "Diafraqmanın relaksasiyası",
+        "Diafraqmanın parezi",
+        "Döş sümüyünün sağ tərəfində olan diafraqmal yırtıqlar",
+        "Diafraqmanın qida borusu dəliyi yırtığı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "73. Diafraqmanın relaksasiyası nədir?",
+      "options": [
+        "Diafraqmanın vətər hissəsinin olmaması",
+        "Diafraqmada tamamilə əzələ qatının olmaması",
+        "Diafraqmanın plegiyası",
+        "Diafraqmanın parezi",
+        "Diafraqmada Larrey yırtığının olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "74. Frenoperikardial yırtıqlar diafraqmanın hansı hissəsində olur?",
+      "options": [
+        "Diafraqmanın qida borusu dəliyində",
+        "Diafraqmanın əzələ hissəsində",
+        "Diafraqmanın sol günbəzində",
+        "Diafraqmanın vətər hissəsində",
+        "Diafraqmanın sağ günbəzində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "75. Yalançı diafraqmal yırtıq nədir?",
+      "options": [
+        "Yırtıq möhtəviyyatının olmaması",
+        "Yırtıq kisəsinin olması",
+        "Sadalananlardan heç biri",
+        "Yırtıq kisəsinin olmaması",
+        "Yırtıq qapısının olmaması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "76. Yalançı diafraqma dəbəliyinin diaqnostikasında çətinlik olduqda aşağıdakılardan nəyi etmək olmaz?",
+      "options": [
+        "Mədə-bağırsaq traktının kontrast müayinəsi",
+        "Perkussiya",
+        "Auskultasiya",
+        "Plevra boşluğunun punksiyası",
+        "Döş boşluğunun obzor rentqenoqrafiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "77. Yenidoğulmuşlarda anadangəlmə diafraqma dəbəliyin əsas rentgenoloji əlamətləri hansıdır?",
+      "options": [
+        "Diafraqmanın bir və ya hər iki künbəzinin deformasiyası",
+        "Ağciyərlərin hipoventilyasiya əlamətləri",
+        "Orqanların divararalığına əhəmiyyətli yerdəyişməsi",
+        "Müayinə zamanı rentgen şəklinin dəyişkənliyi",
+        "Əlavə kölgəliklərin olması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "78. Yemək borusunun yuxarı traxeya fistullu atreziyasını təsdiq edən əlamət hansıdır?",
+      "options": [
+        "Yemək borusunun kontrastlaşmaması",
+        "Kontrast maddənin yemək borusunun yuxarı seqmentinin kürə şəklində toplanması",
+        "Kontrast maddənin bağırsaqlarda olması",
+        "Kontrast maddənin mədəyə keçməsi",
+        "Kontrast maddənin bronxlara dolması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Yemək borusunun hansı inkişaf qüsurunda Elefant sınağının aparılması göstərişdir?",
+      "options": [
+        "Yemək borusunun xalaziyasında",
+        "Yemək borusunun axalaziyasında",
+        "\"Qısa\" yemək borusununda",
+        "Yemək borusunun atreziyasına şübhə olduqda",
+        "Yemək borusunun traxeya ilə fistulu varsa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "80. Həzm traktında təcili endoskopik müayinə hansı halda aparılır?",
+      "options": [
+        "Kardiyanın anadangəlmə stenozunda",
+        "Kardiyanın xalaziyasında",
+        "Kardiyanın axalaziyasında",
+        "Həzm traktının yuxarı hissəsində olan qanaxma zamanı",
+        "Mədə xorasını aşkar etmək üçün"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "81. Yenidoğulmuşların həzm traktının hansı patologiyaları təcili endoskopik müayinəyə göstərişdir?",
+      "options": [
+        "Pilorostenoz",
+        "Leddi sindromu",
+        "Həzm traktının dublikaturasında",
+        "Kardiyanın xalaziyası",
+        "Yemək borusu, mədənin anadangəlmə inkişaf qüsurlarında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "82. Hansı patologiyada qusma ürəkbulanma ilə müşayiət olunmur?",
+      "options": [
+        "Qastrit",
+        "Peritonitdə",
+        "Yuxarı bağırsaq keçməzliyi",
+        "Qida borusunun stenozu",
+        "Kəskin appendisit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "83. Göstərilən patologiyalardan hansında qusuntu kütləsi qələvi reaksiyalı olur?",
+      "options": [
+        "Kəckin appendisitdə",
+        "Pilorostenozda",
+        "Qida borusunun stenozunda",
+        "Kəckin qastritdə",
+        "Yuxarı bağırsaq keçməzliyində"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "84. Anadangəlmə qida borusu atreziyasının hansı forması daha çox rast gəlinir?",
+      "options": [
+        "Qida borusunun traxeyaya fistulu ilə aşağı seqmentinin atreziyası",
+        "Qida borusunun traxeyaya fistulu ilə yuxarı seqmentinin atreziyası",
+        "Həm yuxarı, həm də aşağı seqmentlərdə fistüllu qida borusu atreziyası",
+        "Fistulsuz qida borusu atreziyası",
+        "Distal traxeya fistulu ilə kor-koranə bitən proksimal seqment"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "85. Yemək borusuna birbaşa qoyulmuş anastomoz zamanı ən çox rast gəlinən əməliyyatdan sonrakı ağırlaşmaları göstərin.",
+      "options": [
+        "Disfagiya",
+        "Residivləşən aspirasion pnevmoniya",
+        "Uzunmüddətli qastroezofagial reflüks",
+        "Yemək borusu-traxeya fistulunun rekanalizasiyası",
+        "Yemək borusunun stenozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "86. Doğuşdan sonra 20-25-ci gündə qusma hansı patologiyada görünür?",
+      "options": [
+        "Meningit",
+        "Leddi sindromu",
+        "Pilorospazm",
+        "İnvaginasiya",
+        "Pilorik stenoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Yemək borusunun kontrastlı müayinəsində axalaziya üçün xarakterik əlamət hansıdır?",
+      "options": [
+        "Kontrast maddə bronxlara axır",
+        "Kontrast maddə mədəyə sərbəst keçir",
+        "Yemək borusu kontrastlaşmır",
+        "Kontrast maddə ya mədəyə keçmir, ya da nazik axınla süzülür",
+        "Yemək borusunun yuxarı seqmentində kürə şəklində toplanır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "88. Ezofagus atreziyası şübhəsi olan yenidoğulmuş körpəyə doğum evində hansı tibbi müayinə metodları lazımdır?",
+      "options": [
+        "Qastroskopiya",
+        "Su içilməsi",
+        "Kompyuter tomoqrafiyası",
+        "Döş qəfəsinin obzor rentgenoqrafiyası",
+        "Qida borusuna silikon və ya rezin zond daxil edilməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "89. Qastro-ezofageal reflüks xəstəliyi dedikdə nə başa düşülür?",
+      "options": [
+        "Təkrarlanan qusmalar",
+        "Mədədə paroksismal ağrı",
+        "Mədə möhtəviyyatının qida borusuna atılması",
+        "Regurgitasiya",
+        "Döş sümüyü arxası ağrılar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "90. Yemək borusunun axalaziyasının əsas simptomu hansıdır?",
+      "options": [
+        "Aspirasion pnevmoniya",
+        "Qanlı qusma",
+        "Süd çürüntülü qusma",
+        "Mədə möhtəviyyatlı qusma",
+        "Disfagiya və regurgitasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "91. Yemək borusu kardial çatmazlığını daha dürüst təsdiqləyən üsul hansıdır?",
+      "options": [
+        "Fibroezofaqoskopiya",
+        "Sərt ezofaqoskopiya",
+        "Trendelenburq vəziyyətdə yemək borusunun kontrastlı müayinəsi",
+        "Yemək borusunun ayaq üstə kontrastlı rentgen müayinəsi",
+        "pH-metriya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "92. Uşaqlarda anadangəlmə yemək borusu stenozunun əsas klinik əlamətləri ən çox hansı yaş dövründə rast gəlinir?",
+      "options": [
+        "3-6-cı aylarda",
+        "1-3-cü aylarda",
+        "Yenidoğulmuşlarda",
+        "6-12 ayda",
+        "1 ildən sonra"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "93. Yemək borusu dəliyi dəbəliyi hansı patologiya ilə differensial diaqnostikası aparılır?",
+      "options": [
+        "Anadangəlmə qida borusu stenozu ilə",
+        "Qida borusu divertikulu ilə",
+        "Anadangəlmə qısa yemək borusu ilə",
+        "Xalaziya ilə",
+        "Axalaziya ilə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "94. Yenidoğanın həyatının ilk saatlarından ağız və burundan köpüklü axıntı hansı patologiyada təsadüf edilir?",
+      "options": [
+        "Düz bağırsağın və anusun atreziyası",
+        "Anusun atreziyası",
+        "Hissəvi bağırsaq keçməzliyi",
+        "Pilorostenoz",
+        "Yemək borusunun atreziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "95. Hirşprunq xəstəliyi zamanı aqanqlionar zona kliniki olaraq necə adlanır?",
+      "options": [
+        "Paralitik",
+        "Spastik",
+        "Axolik",
+        "Suprastenotik",
+        "Aperistaltik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. Yoğun bağırsağın genəlməsi və onun divarının hipertrofiyaya uğraması ilə nəticələnən andangəlmə və ya qazanılma patologiya necə adlanır?",
+      "options": [
+        "Kron xəstəliyi",
+        "Bağırsaq invaginasiyası",
+        "Bağırsaq dublikaturası",
+        "Hirşprunq xəstəliyi",
+        "Meqakolon"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "97. Hirşprunq xəstəliyində hansı rentgen müayinə üsulu daha informativdir?",
+      "options": [
+        "Pnevmoirriqoqrafiya",
+        "Barium suspenziyası ilə irriqoqrafiya",
+        "Uzanmış vəziyyətdə qarın boşluğunun obzor rentgenoqrafiyası",
+        "Bütün göstərilən üsullar",
+        "Vangensten üsulu ilə R-qrafiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "98. Hirşprunq xəstəliyi üçün hansı rentgenoloji əlamət xarakterikdir?",
+      "options": [
+        "Suprostenotik daralma ilə birlikdə genişlənmiş zonanın olması",
+        "Taxça simptomu",
+        "Kontrast maddənin qarın boşluğuna axması",
+        "Suprastenotik genişlənmə ilə birgə daralma zonasının olması",
+        "Dolma defekti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "99. Anorektal qüsurların hansı sindromla birgə rast gəlmə ehtimalı yüksəkdir?",
+      "options": [
+        "Bekvit-Videman sindromu",
+        "Triçer-Kolinz sindromu",
+        "Edvards sindromu",
+        "Daun sindromu",
+        "Patau sindromu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "100. Yalnız qızlarda müşahidə olunan anorektal qüsur hansıdır?",
+      "options": [
+        "Düz bağırsaq atreziyasının fistulsuz forması",
+        "Düz bağırsağın atreziyası və ya stenozu",
+        "Düz bağırsaq-sidik kanalı fistulu",
+        "Düz bağırsaq-aralıq fistulu",
+        "Kloaka"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "101. Düz bağırsaq atreziyasının ən yüksək formasında aşağıda qeyd olunanlardan hansı müşahidə olunur?",
+      "options": [
+        "Düz bağırsaq-aralıq fistulu",
+        "Düz bağırsaq-uşaqlıq dəhlizi fistulu",
+        "Düz bağırsaq-prostatik sidik kanalı fistulu",
+        "Düz bağırsaq-sidik kisəsi boynu fistulu",
+        "Düz bağırsaq-bulbar sidik kanalı fistulu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "102. Yenidoğulmuşlarda düz bağırsaq-sidik kanalı fistulunun olduğunu göstərən ilk kliniki əlamət hansıdır?",
+      "options": [
+        "Mekoniumun uşaqlıq dəhlizindən xaric olması",
+        "Mekoniumun xayalıq nahiyəsində subepitelial traktda izlənilməsi",
+        "Mekoniumla qarışmış sidik ifrazının olması",
+        "Mekoniumun xaric olmasının gecikməsi",
+        "Mekoniumun aralıq nahiyəsindən xaric olması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "103. Hansı anomaliyanın anorektal qüsurlarla yanaşı müşahidə edilmə ehtimalı çoxdur?",
+      "options": [
+        "Pilorostenoz",
+        "Anadangəlmə diafraqmal dəbəlik",
+        "Üst dodağın və damağın yarığı",
+        "Boynun orta sisti",
+        "Bel-oma fəqərələrinin inkişaf etməməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "104. İnvertoqram nədir?",
+      "options": [
+        "Düz bağırsaq-sidik kanalı fistulunun səviyyəsini təyin edən rentgenoloji müayinədir",
+        "Kloaka zamanı ümumi kanalın uzunluğunu təyin edən rentgenoloji müayinədir",
+        "Düz bağırsaq-sidik kanalı boynu fistulunun səviyyəsini müəyyən edən rentgenoloji müayinədir",
+        "Anorektal qüsurlar zamanı ikincili meqakolonu təyin edən rentgenoloji müayinədir",
+        "Anorektal qüsurlar zamanı düz bağırsaq atreziyasının səviyyəsini təyin edən rentgenoloji müayinədir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "105. Düz bağırsaq-uşaqlıq dəhlizi fistulu olan xəstədə fistulun dar olması və müalicənin gecikdirilməsi nə ilə nəticələnə bilər?",
+      "options": [
+        "Xroniki qəbizliklə",
+        "Sepsislə",
+        "Enterokolitlə",
+        "Sfinkter çatmamazlığı ilə",
+        "İkincili meqakolonla"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "106. Anorektal qüsurların etaplı cərrahi müalicəsi zamanı ilk mərhələdə icra olunan əməliyyat hansıdır?",
+      "options": [
+        "Pull-through əməliyyatı",
+        "Kolostomanın ləğvi",
+        "Kolostomanın qoyulması",
+        "Anorektoplastika",
+        "Fistulun ləğvi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "107. Düz bağırsağın atreziyasında rentgenoloji müayinə hansı vəziyyətdə aparılır?",
+      "options": [
+        "Uzanmış vəziyyətdə obzor rentgenoqrafiya",
+        "Yan proeksiyada rentgenqrafiya",
+        "Ön proeksiyada rentgenoqrafiya",
+        "Ayaqüstə obzor rentgenoqrafiya",
+        "Vangensten üsulu ilə invertoqramma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "108. Doğuşdan nə qədər sonra anus və düz bağırsağın atreziyası üçün Vanqestin üsulu ilə invertoqramma aparılmalıdır?",
+      "options": [
+        "3 sutka sonra",
+        "Doğulandan 6 saat sonra",
+        "36 saat sonra",
+        "3 saat sonra",
+        "12 saat sonra"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "109. İki yaşlı uşaqda xroniki qəbizlik var. Defekasiya aktı yalnız imalədən sonra mümkündür. Diaqnozu aydınlaşdırmaq üçün nə etmək lazımdır?",
+      "options": [
+        "Pnevmoirriqoqrafiya",
+        "Kolonoskopiya",
+        "Qarın boşluğun obzor rentgen müayinəsi",
+        "Barium suspenziyası ilə mədə-bağırsaq traktının rentgen müayinəsi per os",
+        "İrriqoqrafiya barium suspenziyası ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "110. Qarın travmalarında ən çox zədələnən orqan?",
+      "options": [
+        "Mədə",
+        "Böyrək",
+        "Qaraciyər",
+        "Mədəaltı vəz",
+        "Dalaq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "111. Göbək simptomunda ağrının güclənməsi hansı bağın dartılması ilə əlaqədardır?",
+      "options": [
+        "Mədə-köndələn çənbər bağırsaq bağı",
+        "Qaraciyərin üçbucaq bağı",
+        "Qaraciyər-mədə bağı",
+        "Qaraciyərin girdə bağı",
+        "Qaraciyərin tac bağı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "112. Dalaq travmasında ilk saatlarda qan göstəricilərində xarakterik dəyişiklik hansıdır?",
+      "options": [
+        "ECS artması",
+        "Eritrositlərin azalması",
+        "Leykositlərin azalması",
+        "Eritrositlərin artması",
+        "Leykositlərin artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "113. Rentgen müayinədə aşkarlanan hansı əlamət qarın boşluğu orqanlarının travması üçün xarakterik deyil?",
+      "options": [
+        "Mədə qaz qovuğunun yerdəyişməsi",
+        "Lokal homogen kölgəlik",
+        "Diafraqmanın hərəkət məhdudluğu",
+        "Diafraqmaaltı sərbəst qaz",
+        "Üfüqi maye səviyyəsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "114. Qarnın küt travması almış uşaqda perkutor olaraq qaraciyər kütlüyü itib. Sonrakı müayinə hansı olmalıdır?",
+      "options": [
+        "Laparosintez",
+        "Laparoskopiya",
+        "Angioqrafiya",
+        "Qarın boşluğunun rentgenskopiyası",
+        "Qarın boşluğunun USM"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "115. Doğuş travması zamanı qarın boşluğu orqanlarından hansı daha çox zədələnir?",
+      "options": [
+        "Böyrəklər",
+        "Yoğun bağırsaq",
+        "Sidik kisəsi",
+        "Nazik bağırsaq",
+        "Qaraciyər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "116. Sümük sınıqlarında hansı yerdəyişmə olmur?",
+      "options": [
+        "Bucaqvari",
+        "Boylama",
+        "Köndələn",
+        "Rotasion",
+        "Həlqəvi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. Yalnız uşaqlarda rast gəlinən sınıq hansıdır?",
+      "options": [
+        "Yerdəyişməyən",
+        "Yerdəyişən",
+        "Patoloji",
+        "Natamam",
+        "Tam"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "118. Natamam sınığa aid olan yerdəyişmə hansıdır?",
+      "options": [
+        "Həlqəvi",
+        "Köndələn",
+        "Boylama",
+        "Rotasion",
+        "Bucaqvari"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "119. Uşaqlarda sınıqlar zamanı cərrahi müdaxiləyə mütləq göstəriş hansıdır?",
+      "options": [
+        "Yerdəyişməyən",
+        "Yerdəyişmə",
+        "Apofizioliz",
+        "Epifizioliz",
+        "İnterpozisiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "120. Montedc zədələnmə nə ilə xarakterizə olunur?",
+      "options": [
+        "Mil sümüyünün sınığı, dirsək sümüyünün başının çıxığı",
+        "Mil və dirsək sümüklərinin sınığı, hər iki sümüyün başlarının çıxığı",
+        "Mil sümüyünün sınığı, mil sümüyünün başının çıxığı",
+        "Dirsək sümüyünün sınığı, dirsək sümüyünün başının çıxığı",
+        "Dirsək sümüyünün sınığı, mil sümüyünün başının çıxığı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "121. Bazu sümüyünü iç kondilusunun qopmuş sınığı zamanı əsasən nə zədələnir?",
+      "options": [
+        "Sinir zədələnmir",
+        "Orta sinir",
+        "Əzələ-dəri siniri",
+        "Dirsək siniri",
+        "Mil siniri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "122. Uşaqlarda irinli-iltihabi proseslərin əsas törədicisi hansıdır?",
+      "options": [
+        "Bağırsaq çöpləri",
+        "Streptokokk",
+        "Göy-yaşıl irin çöpləri",
+        "Stafilokokk",
+        "Protey"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "123. Uşaqlarda stafilokokk infeksiyası üçün xarakterik nədir?",
+      "options": [
+        "Antibiotiklərə qarşı yüksək həssaslıq",
+        "Ətraf mühitdə az yayılma",
+        "Kliniki əlamətlərin qeyri-müəyyən təzahürü",
+        "Antibiotiklərə qarşı davamlılığın nadir hallarda inkişafı",
+        "Antibiotiklərə qarşı davamlılıq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "124. Antibiotik seçərkən nələrə diqqət yetirilir?",
+      "options": [
+        "İrinli axıntının tərkibi",
+        "İrinli oçağın lokallaşdırılması",
+        "İltihabi prosesin yayılması",
+        "İrinli axıntının həcmi",
+        "Patogenin təbiəti və onun həssaslığı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "125. Dizbakterioz nədir?",
+      "options": [
+        "Nəcis möhtəviyyatında patogen mikrofloranın olması",
+        "Qan kulturasında saprofitlərin aşkarlanması",
+        "Nəcis möhtəviyyatında mikroorqanizmlərin olmaması",
+        "Makro və mikroorqanizmlərin simbiozu",
+        "Simbiozun pozulması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "126. Psevdofurunkuloz zamanı iltihabi prosesdə dərinin hansı elementləri iştirak edir?",
+      "options": [
+        "Dərialtı toxuma",
+        "Derma",
+        "Epidermis",
+        "Piy toxuması",
+        "Tər vəziləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "127. Yenidoğulmuşların flegmonasında ilk növbədə hansı strukturlar zədələnir?",
+      "options": [
+        "Tər vəziləri",
+        "Epidermis",
+        "Derma",
+        "Piy toxuması",
+        "Dərialtı toxuma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "128. Yenidoğulmuşların nekrotik fleqmonasın müalicəsində icra olunan düzgün cərrahi taktika hansıdır?",
+      "options": [
+        "Yaraya irriqator vasitəsilə antibiotiklərin yeridilməsi və drenə edilməsi",
+        "Hipertonik məhlulla sarğı",
+        "Kəsikdən sonra yaranın tamponadası",
+        "Yaranın rezin buraxıcı ilə drenə edilməsi",
+        "Bir neçə şahmatvari kəsiklərin aparılması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "129. Omfalitin hansı formalarında cərrahi əməliyyat göstərişdir:",
+      "options": [
+        "Kataral forma",
+        "Sadə forma",
+        "Funqus",
+        "İrinli omfalit",
+        "Qanqrenoz forma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "130. Omfalitin ən ağır forması hansıdır?",
+      "options": [
+        "İnfiltrativ",
+        "Metastatik",
+        "Fleqmonoz",
+        "Kataral",
+        "Nekrotik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "131. Embrional yırtığı olan yenidoğulmuşlarda hansı hallarda təcili cərrahi müdaxilə tələb olunur?",
+      "options": [
+        "Boğulmuş yırtıqlarda",
+        "Ürək xəstəliyi ilə birgə təsadüf ediləndə",
+        "Yırtıq kisəsi iltihablaşdıqda",
+        "Yırtıq kisəsi yırtıldıqda",
+        "Böyük yırtıqlarda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "132. Hansı göbək patologiyası üçün göbəyi zondlamaq əks göstərişdir?",
+      "options": [
+        "Uraxusun tam fistulu",
+        "Uraxusun natamam fistulu",
+        "Sarı cismin tam fistulu",
+        "Sarı cismin natamam fistulu",
+        "Funqus"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "133. Kəskin hematogen osteomielit keçirmiş uşaqda 2 il ərzində proses kəskinləşməsi təsadüf edilməmişdir. O, osteomielitin hansı klinik formasından əziyyət çəkib? Göstərilən hansı gediş variantına aiddir?",
+      "options": [
+        "Toksiki",
+        "Yerli",
+        "Septikopiemik",
+        "Yarımkəskin",
+        "Xroniki"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "134. Hematogen osteomielitin kəskin dövrünün müddəti aşağıdakılardan hansıdır?",
+      "options": [
+        "4-8 aya qədər",
+        "8-10 aya qədər",
+        "12 aya qədər",
+        "3 aya qədər",
+        "1 aya qədər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "135. Sümükdaxili kanalda təzyiq göstəricisi normada necə olmalıdır?",
+      "options": [
+        "300 mm. su süt.",
+        "160-180 mm. su süt.",
+        "90 mm. su süt. -dan aşağı",
+        "60-100 mm. su süt.",
+        "140-160 mm. su süt."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "136. Kəskin hemotegen osteomielitin erkən rentgenoloji əlaməti hansıdır?",
+      "options": [
+        "Osteoskleroz",
+        "Sekvestr",
+        "Ocaqlı osteoparoz",
+        "Ağır dərəcəli osteoparoz",
+        "Periostit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "137. Epifizar osteomielit ən çox hansı yaşda təsadüf olunur?",
+      "options": [
+        "8- 11 yaş",
+        "5- 7 yaş",
+        "12- 15 yaş",
+        "Bir yaşa qədər",
+        "2- 4 yaş"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "138. Xroniki hematogen osteomielitinin cərrahi müalicəsində istifadə olunan əməliyyatının adını göstərin?",
+      "options": [
+        "Skelet dartılması",
+        "Dekompression trepanasiya",
+        "Osteoperforasiya",
+        "Osteotomiya",
+        "Sekvestrektomiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "139. Kəskin hematogen osteomielitdə ətrafın immobilizasiyası necə aparılır?",
+      "options": [
+        "İmmobilizasiyaya ehtiyac yoxdur",
+        "Dairəvi gips longeti qoymaqla",
+        "İlizarov aparatı ilə",
+        "Skelet dartma ilə",
+        "Dərin arxa gips longeti qoymaqla"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "140. Epifizar osteomielit üçün hansı ağırlaşmalar xarakterik deyil?",
+      "options": [
+        "Epifizin lizisə uğraması və ətrafın qısalması",
+        "Heç bir fəsad olmur",
+        "Oynağın deformasiyası",
+        "Prosesin xroniki formaya keçməsi",
+        "Patoloji sınığın əmələ gəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "141. Kiçik yaşlı uşaqlarda kəskin hematogen osteomielit sümüyün hansı hissəsindən başlayır?",
+      "options": [
+        "Diafizdən",
+        "Epifizdən",
+        "Sümük üstlüyündən",
+        "Oynaq qığırdağından",
+        "Metafizdən"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "142. Epifizar osteomielit zamanı ikitərəfli drenaj nə vaxt tətbiq olunur?",
+      "options": [
+        "Paraartikulyar flegmonada",
+        "Qoyulmuş dəqiq diaqnozun bütün hallarında",
+        "Punksiya üsulu təsirsizdirsə",
+        "Tətbiq göstəriş deyil",
+        "Bol axıntı zamanı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "143. Kəskin hematogen osteomielitdə osteoperforasiya hansı məqsədlə aparılır?",
+      "options": [
+        "Sümük iliyi kanalındakı təzyiqi ölçmək üçün",
+        "Sitoloji müayinə üçün sümük iliyi kanalından bioloji material götürmək məqsədi ilə",
+        "İcra olunmur",
+        "Ağrıları aradan qaldırmaq üçün",
+        "Patoloji ocağın dekompressiya və sanasiya məqsədi ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "144. Rentgen müayinəsi zamanı təsadüfən uşağın qamış sümüyünün yuxarı 1/3-də xroniki osteomielit ocağı əlamətini aşkar etsəniz, taktikanız necə olacaq?",
+      "options": [
+        "Skelet dartması",
+        "Osteotomiya",
+        "Dinamiki müşahidə",
+        "Təcili əməliyyat",
+        "Planlı əməliyyat"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "145. Uşaq yaşlarda travmatizmin hansı forması üstünlük təşkil edir?",
+      "options": [
+        "Küçə",
+        "Nəqliyyat",
+        "Idman",
+        "Məktəb",
+        "Məişət"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "146. Kiçik yaşlı uşaqlar üçün hansı növ sınıqlar xarakterik deyil?",
+      "options": [
+        "Osteoepifizioliz",
+        "“Yaşıl budaq” tipli sınıqlar",
+        "Subperiostal sınıq",
+        "Epifizioliz",
+        "Qəlpəli sınıqlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "147. Anadangəlmə Düşen-Erba iflici zamanı nə müşahidə edilir?",
+      "options": [
+        "Əl barmaqlarının hərəkəti zamanı çiyinlərin içəriyə rotasiyası və yaxınlaşması",
+        "Bazu oynağında hərəkətin məhdudlaşdırılması zamanı əl barmaqlarında hərəkətin itməsi",
+        "Zədələnmiş ətrafda hərəkətin tam itməsi",
+        "Əl barmaqlarında hərəkətin itməsi",
+        "Birtərəfli spesifik hemiparez"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "148. Sadalanan patologiyaların hansında qusma mərkəzi xarakter daşıyır?",
+      "options": [
+        "Qida borusunun xalaziyasında",
+        "Kəckin appendisitdə",
+        "Sirkə turşusu ilə zəhərlənmədə",
+        "Kəllə-beyin travmasında",
+        "Paralitik bağırsaq keçməzliyində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "149. Hansı patologiyalarda ürəkbulanma qusmanı qabaqlamır?",
+      "options": [
+        "Peritonitdə",
+        "Yuxarı bağırsaq keçməzliyi",
+        "Qida borusunun xalaziyası",
+        "Qida zəhərlənməsi",
+        "Beynin əzilməsində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "150. Körpücük sümüyün sınığı ən çox harada lokalizasiya olunur?",
+      "options": [
+        "Orta və medial 1/3-i sərhəddində",
+        "Dimdiyə bənzər çıxıntı sahəsində",
+        "Orta və lateral 1/3-i sərhəddində",
+        "Orta 1/3-də",
+        "Körpücük sternal hissəsində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "151. 1 yaşa qədər uşaqlarda körpücüyün orta 1/3 hissəsinin sınığı zamanı optimal fiksasiyaedici sarğı hansıdır?",
+      "options": [
+        "Torakobraxial sarğı",
+        "Fiksasiya tələb olunmur",
+        "Dezo sarğısı",
+        "8-vari sarğı",
+        "Kuzmenko-Karpov sarğısı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "152. “Qurbağa” məcburi vəziyyəti hansı sınıq üçün xarakterikdir?",
+      "options": [
+        "Oma-qalça birləşməsinin qopması zamanı",
+        "Oturaq qabarının apofizinin qopması zamanı",
+        "Ön-üst qalça tininin qopması zamanı",
+        "Hər iki oturaq sümüklərinin sınığı zamanı",
+        "Çanaq həlqəsinin pozulması ilə sümüklərin sınığı zamanı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "153. Müayinə zamanı III-IV əl barmaqlarının anadangəlmə bir-birinə birləşməsi aşkar olunur. Diaqnozunuz?",
+      "options": [
+        "Braxidaktiliya",
+        "Araxnodaktiliya",
+        "Polidaktiliya",
+        "Ektrodaktiliya",
+        "Sindaktiliya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "154. Anadangəlmə əzələ əyriboyunluğun səbəbləri?",
+      "options": [
+        "Dermo-desmogen deformasiya",
+        "Desmogen deformasiya",
+        "Konstitusion deformasiya",
+        "Neyrogen deformasiya",
+        "Miogen deformasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "155. Əyriboyunluğun cərrahi müalicəsinə mütləq göstəriş hansıdır?",
+      "options": [
+        "Qamətin və görmənin pozulması",
+        "Gələn və gedən strabizm",
+        "Görmə itiliyinin pozulması",
+        "Qamətin pozğunluğu",
+        "Üzün və boynun artan asimmetriyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "156. Göstərilən sınıqlardan hansı uşaqlar üçün daha xarakterikdir?",
+      "options": [
+        "Bucaqaltı yerdəyişmə",
+        "Qəlpəli",
+        "Çəp",
+        "Subperioseal",
+        "Köndələn"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "157. Qeyd olunan patologiyalardan hansı boyun və ətrafların uzun olması ilə xarakterizə olunur?",
+      "options": [
+        "Daun sindromu",
+        "Klinefelter sindromu",
+        "Pierre-Robin sindromu",
+        "Eagle-Barrett sindromu",
+        "Marfan sindromu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "158. Uşaqlarda sınıqlar zamanı cərrahi müalicəyə əks göstəriş hansıdır?",
+      "options": [
+        "Düzgün bitişməyən sınıqlar",
+        "Çoxsaylı uğursuz repozisiya cəhdləri",
+        "Sınıq sahəsində infeksiyalaşmış yaranın olması",
+        "Sümük fraqmentlərinin rotasiya ilə oynaqdaxili sınıqlar",
+        "Yumşaq toxumaların interpozisiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "159. Qıfvari döş qəfəsi nə ilə xarakterizə olunur?",
+      "options": [
+        "Döş qəfəsinin assimmetriyası",
+        "Arxa döş dıvarının önə çıxması",
+        "Döş qəfəsinin retrosternal boşluğunun artması",
+        "Döş sümüyü-qabırğaların sümük-qığırdaq sturukturları ilə birlikdə içəriyə doğru batması",
+        "Döş qəfəsinin ön-arxa ölçüsünün azalması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "160. Barmaqların sayının az olması ilə müşahidə olunan inkişaf qüsurunu göstərin.",
+      "options": [
+        "Polidaktiliya",
+        "Makrodaktiliya",
+        "Konkressensiya",
+        "Sindaktiliya",
+        "Ektrodaktiliya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "161. Osteoxondropatiyanın əsasını nə təşkil edir?",
+      "options": [
+        "Yetişkənliyin disfunksiyası",
+        "Dölün ana bətnində infeksiyası",
+        "Terotogen amillər",
+        "Dölün ana bətnində qeyri düzgün inkişafı",
+        "Qığırdaq toxumasının inkişafının disfunksiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "162. \"Ekzastoz xondrodisplaziya\" termini nə deməkdir?",
+      "options": [
+        "Xoşxassəli şiş",
+        "Sümük mezenximasının malformasiyası",
+        "Sümük metafizinin normal inkişafı ilə epifiz qığırdağının malformasiyası",
+        "Bədxassəli şiş",
+        "İltihabi xəstəlik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "163. Polidaktiliya nəıdir?",
+      "options": [
+        "Barmaqların qısalığı",
+        "Barmaqların olmaması",
+        "Bunlardan hec biri",
+        "Barmaqların bitişməsi",
+        "Əlavə barmaqların olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "164. Anadangəlmə bud çıxığının daha dəqiq erkən klinik əlaməti hansıdır?",
+      "options": [
+        "Ayağın xaricə rotasiyası",
+        "Sağrı büküşlərin asimmetriyası",
+        "Budun uzaqlaşdırılmasının məhdudlaşması",
+        "Aşağı ətrafın nisbi qısalması",
+        "Marks-Ortolani simptomu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "165. Sınıqların cərrahi müalicəsinə göstərişlər hansılardır ?",
+      "options": [
+        "Bazu sümüyünün metafizar zədələnmələrində",
+        "Bazu sümüyünün metadiafizar zədələnmələrində",
+        "Bazu sümüyünün diafizar zədələnmələrində",
+        "Bazu sümüyünün oynaqdaxili zədələnmələrində",
+        "Interpozisiya olduqda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "166. Qeyd olunan şişlərdən hansı kiçik yaşlı uşaqlar üçün xarakterdir?",
+      "options": [
+        "Karsinoma",
+        "Süd vəzinin xərçəngi",
+        "Yuinq sarkoması",
+        "Mədə xərçəngi",
+        "Vilms şişi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "167. Qeyd olunanlardan hansı xayaların inkişaf anomaliyalarına aid deyil?",
+      "options": [
+        "Anorxizm",
+        "Kriptorxizm",
+        "Poliorxizm",
+        "Monorxizm",
+        "Hipospadiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "168. Qeyd olunan patologiylardan hansı ilə oğlanlarda qasıq yırtğını differensasiya etmək lazımdır?",
+      "options": [
+        "Monorxizm",
+        "Anorxizm",
+        "Nukki kisti",
+        "Toxum ciyəsinin kistası",
+        "Varikosele"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "169. Uroloji reflüksləri hansı müayinə metodu ilə müəyyən etmək olar?",
+      "options": [
+        "USM-si ilə",
+        "Sadalananlardan heç biri ilə",
+        "Radionuklid müayinə metodu ilə",
+        "Ekskretor uroqrafiya ilə",
+        "Miksion sistoqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "170. Peritonun yataq çıxıntısının obliterasiya prosesinin pozulmasına aşağıda qeyd olunanlardan biri aid deyil?",
+      "options": [
+        "Əlaqəli xaya hidropsu",
+        "Toxum ciyəsinin sisti",
+        "Qasıq yırtığı",
+        "Qasıq-xayalıq yırtığı",
+        "Xayanın ektopiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "171. Aşağıdakı patologiyalardan hansı üçün xaya qişalarının punksiyası göstərişdir?",
+      "options": [
+        "Xayaların burulması",
+        "Orxidoepidimit",
+        "Gərginləşmiş xaya hidropsu",
+        "İdiopatik xaya ödemi",
+        "Toxumciyəsi kisti"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "172. Uretranın travmatik zədələnmələrində hansı müayinə metodundan istifadə olunur?",
+      "options": [
+        "Urofloumetriya",
+        "Sidik kisəsinin kateterizasiyası",
+        "İnfuzion uroqrafiya",
+        "Retroqrad ureteroqrafiya",
+        "Qalxan uroqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "173. Böyrəyin travmasında hematuriya zamanı aşağıdakılardan hansı daha informativdir?",
+      "options": [
+        "Obzor rentgenoqrafiya",
+        "Retroqrad pieloqrafiya",
+        "Sistoskopiya",
+        "Ekskretor uroqrofiya",
+        "Ureterosistoqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "174. Yenidoğanın həyatının ilk saatlarından ağız və burundan köpüklü axıntı hansı patologiyada təsadüf edilir?",
+      "options": [
+        "Anusun atreziyası",
+        "Düz bağırsağın və anusun atreziyası",
+        "Pilorostenoz",
+        "Yemək borusunun atreziyası",
+        "Hissəvi bağırsaq keçməzliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "175. Gərgin pnevmotoraksda nə icra edilməlidir?",
+      "options": [
+        "Torakoskopiya və USM",
+        "Aktiv aspirasiya ilə plevral drenaj",
+        "Təcili əməliyyat",
+        "Planlı əməliyyat",
+        "Bülau üsulu ilə plevral boşluğun drenajı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "176. Döş qəfəsi orqanlarının patologiyalarını düzgün qiymətləndirmək üçün rentgenoqrafiya hansı vəziyyətdə icra edilməlidir?",
+      "options": [
+        "Uzanmış vəziyyətdə",
+        "Tredelenburq vəziyyətində",
+        "Üzü üstə",
+        "Yan proyeksiyada",
+        "Ayaqüstə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "177. Anadangəlmə lobar emfizemada ağciyərin hansı hissəsi daha çox zədələnir?",
+      "options": [
+        "Sağ orta pay",
+        "Sağ aşağı pay",
+        "Sol aşağı pay",
+        "Sol yuxarı pay",
+        "Sağ yuxarı pay"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "178. Xəstənin vəziyyəti ağırdır, təngnəfəslik, yüksək temperatur, R-qrammada sağ ağ ciyərdə perifokal reaksiyalı, maye tərkibli boşluq müəyyən edilir. Diaqnoz hansıdır?",
+      "options": [
+        "Ağ ciyərin bakterial destruksiyasının bulloz forması",
+        "Mediastenal emfizema",
+        "Piotoraks",
+        "Piopnevmotoraks",
+        "Ağ ciyərin absesi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "179. Piotoraksda müalicəyə nə aiddir?",
+      "options": [
+        "Bronxoskopiya",
+        "Plevral punksiya",
+        "Aktiv aspirasiya ilə plevral drenaj",
+        "Ocağa müdaxilə etmədən intensiv terapiya",
+        "Bilau üsulu ilə plevro boşluğunun drenajı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "180. Uşaqda ağır tənəffüs çatmamazlığı, R-qrammada sağ ağciyərin gərgin sisti müəyyən edilir. Müalicəyə hansı daxildir?",
+      "options": [
+        "Konservativ müalicə",
+        "Sistin drenajı",
+        "Sistin punksiyası",
+        "Gözləmə taktikası",
+        "Radikal əməliyyat"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "181. Xəstədə çətinləşmiş tənəffüs, mütəmadi boğulma tutmaları olur. Səsi xırıltılıdır, vaxtaşırı afoniya müşahidə edilir. Diaqnoz hansıdır?",
+      "options": [
+        "Bronxun yad cismi",
+        "Pay bronxun yad cismi",
+        "Traxeyanın hərəkət edən yad cismi",
+        "Qırtlağın yad cismi",
+        "Traxeyanın fiksasiyalı yad cismi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "182. Uşaqda ağciyəri irinləmiş sisti qeyd edilir. İkihəftəlik konservativ müalicə nəticəsizdir. Hansı məsləhətdir?",
+      "options": [
+        "Sanator müalicə",
+        "Sistin drenajı",
+        "Gözləmə taktikası",
+        "Radikal əməliyyat",
+        "Konservativ müalicənin davam edilməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "183. Ağ ciyər absesinin hansı forması konservativ müalicəyə göstərişdir?",
+      "options": [
+        "Abses böyük olduqda",
+        "Abses plevraya açıldıqda",
+        "Uşağın ümumi vəziyyəti çox ağır olduqda",
+        "İxtisaslaşmış həkim olmadıqda",
+        "Abses bronxa açıldıqda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "184. Bronxoektaziya xəstəliyinin diaqnostikasında maksimal informasiya müayinə metodu hansıdır?",
+      "options": [
+        "Angiopulmonoqrafiya",
+        "İcmal R-qrafiya",
+        "Bronxoskopiya",
+        "KT",
+        "Bronxoqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "185. Aşağı mədə-bağırsaq traktından qanaxma üçün xarakterik nədir?",
+      "options": [
+        "Öd qarışıq qusma",
+        "Selikli nəcisin axması",
+        "Epistaksis",
+        "Nəcisdə qırmızı qan",
+        "Qanlı qusma və melena"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "186. Yuxarı və aşağı hissələrdən qanaxmanın xarakterini təyin edən sərhəd həzm traktının hansı hissəsidir?",
+      "options": [
+        "Mədənin pilorik hissəsi",
+        "Mədənin kardial hissəsi",
+        "Köndələn çənbər bağırsaq",
+        "Onikibarmaq bağırsağın nazik bağırsağa keçid yeri",
+        "İleoçekal sfinkter"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "187. Həzm traktının qanaxmaları zamanı təyin olunan klassik əlamətlərə aid deyil?",
+      "options": [
+        "Qanlı defekasiya",
+        "Melena.",
+        "Qanlı qusma",
+        "Kollaps",
+        "Şotkin-Blumberq simptomu."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "188. Portal hipertenziya ilə olan uşaqlarda yemək borusu venalarının genişlənməsi nəticəsində gözlənilən fəsad hansıdır?",
+      "options": [
+        "Mellori-Veys sindromu",
+        "Diafraqmal yırtıq",
+        "Xalaziya",
+        "Mədə xorası",
+        "Profuz qanaxma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "189. Həzm traktının yuxarı şöbəsinin qanaxmalarına hansı əlamət xarakterikdir?",
+      "options": [
+        "Burun qanaxması",
+        "Selikli-qanlı nəcis ifrazı",
+        "Ödlü qusma",
+        "Nəcisdə al qanın olması",
+        "Qanlı qusma və melena"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "190. Aşağıdakı xəstəliklərdən hansı nazik bağırsaq qanaxmasına səbəb olur?",
+      "options": [
+        "Portal hipertenziya",
+        "Enterosistoma",
+        "Mekkel divertikulu",
+        "Kəskin paraproktit",
+        "Nazik bağırsaq vərəmi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "191. Aşağıda göstərilənlərdən hansı yoğun və düz bağırsaq qanaxmasına ən çox səbəb olur?",
+      "options": [
+        "Qeyri-spesifik xoralı kolit",
+        "Divertikullar",
+        "Portal hipertenziya",
+        "Xərçəng",
+        "Poliplər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "192. Uşaqlarda Mekkel divertikulunun diaqnozunun qoyulmasında ən etibarlı müayinə üsulu hansıdır?",
+      "options": [
+        "Ultrasəs",
+        "Kolonoskopiya",
+        "Qastroduodenoskopiya",
+        "Radioizotop",
+        "Obzor rentgenoqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "193. Aşağıdakı müayinə üsullarından hansından istifadə etməklə nazik bağırsaq qanaxmasını müəyyənləşdirmək mümkündür?",
+      "options": [
+        "USM",
+        "Kolonoskopiya",
+        "Qastroduodenoskopiya",
+        "Obzor rentgenoqrafiya",
+        "Radioizotop müayinə"
+      ],
+      "correct": 4
+    }
+  ]
+}

@@ -1,0 +1,4052 @@
+{
+  "questions": [
+    {
+      "question": "1. Bu həkimlərdən hansı qədim Yunanıstanda həkimlik etmişdir?",
+      "options": [
+        "Hipokrat",
+        "Qalen",
+        "İbn-Sına",
+        "Sels",
+        "Əz-Zəhrəvi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Fransa cərrahlıq məktəbinin nümayəndəsi kimdir?",
+      "options": [
+        "Ambruaz Pare",
+        "Bilrot",
+        "Qalen",
+        "Əz-Zəhrəvi",
+        "Nikolas Van Tulp"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Azərbaycanda təbabətin inkişafında müsbət rol oynayan hadisə hansıdır?",
+      "options": [
+        "Azərbaycan demokratik cümhurriyyətinin yaranması",
+        "Fransa inqilabı",
+        "1905-ci ildə Rusiyada fevral-burja inqilabı",
+        "1917-ci il oktyabr inqilabı",
+        "Sovetlər birliyinin süqutu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Azərbaycanda cərrahlığının inkişafında kimlərin xidməti olub?",
+      "options": [
+        "Mirqasımov, Topçubaşov",
+        "Buş, Buyalski",
+        "Muxin, Piroqov",
+        "Skilifosovski, Canelidze",
+        "Spasokukotski, Petrov"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Müasir Azərbaycan cərrahlığının inkişafı necədir?",
+      "options": [
+        "Hərtərəfli inkişaf edir",
+        "Durğundur",
+        "Zəifdir",
+        "İnkişaf geridir",
+        "İnkişaf etmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Antiseptikanın yaranma zərurəti nə idi?",
+      "options": [
+        "İrinləmiş yaralara qarşı müalicə tədbirlərini görmək",
+        "Qanaxmanı dayandırmaq",
+        "Ağrısızlaşdırma törətmək",
+        "Sınıqları müalicə etmək",
+        "Doğuşu idarə etmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Yaraların infeksiyalaşma mənbəyi hansıdır?",
+      "options": [
+        "Ekzogen, endogen",
+        "Qanköçürmə yolu ilə",
+        "Yatrogen zədələrdir",
+        "Sınıqlar, çıxıqlardır",
+        "Qapalı zədələnmələrdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Xörək duzunun hipertonik məhlulunun yara səthinə yeridilməsi hansı antiseptika növüdür?",
+      "options": [
+        "Fiziki",
+        "Bioloji",
+        "Kimyəvi",
+        "Mexaniki",
+        "Qarışıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Bunlardan hansı fiziki antiseptika vasitəsi deyil?",
+      "options": [
+        "Yaraların ikincili işlənməsi",
+        "Yaranın fəal drenajlanması",
+        "Yaranın qeyri fəal drenajlanması",
+        "Yuyucu axıdıcı drenajların qoyulması",
+        "Sorbentlərin yaraya yeridilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Bu müasir texniki vasitələrdən hansı ilə irinli boşluqların tam işlənməsi qeyri mümkündür?",
+      "options": [
+        "Yaraya antiseptiklə nəmləndirilmiş tənzif yeridilməsi ilə",
+        "Ultrasəslə kavitasiya",
+        "Lazer şüalandırılması",
+        "Rentgen şüaları ilə müalicə",
+        "Ultrabənövşəyi şüalandırma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Bunlardan hansı antiseptika növü deyil?",
+      "options": [
+        "Genişləndirilmiş",
+        "Səthi",
+        "Dərin",
+        "Yerli",
+        "Ümumi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Bunlardan hansı dezinfeksiya edici maye deyil?",
+      "options": [
+        "Turşular",
+        "Xloramin – B",
+        "Süleymani məhlulu",
+        "Detergentlər",
+        "Üçtərkibli maye"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Bunlardan hansı müalicə təsirinə malik deyil?",
+      "options": [
+        "Aldehidlər",
+        "İmidozol törəmələri",
+        "Sulfanilmidlər",
+        "Ftorximolin törəmələri",
+        "Nitrofuran törəmələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Çanaq boşluğundan irinin drenajla xaricə axması hansı antiseptika növüdür?",
+      "options": [
+        "Fiziki",
+        "Kimyəvi",
+        "Mexaniki",
+        "Bioloji",
+        "Qarışıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Hansı antiseptiklər bakteriaların sitoplazmasındakı zülalları pıxtalaşdırır?",
+      "options": [
+        "Ağır metal duzlarının məhluları",
+        "Qələvilər",
+        "Bitki mənşəli antiseptiklər",
+        "Halloidlər",
+        "Qətran törəmələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Yarada mikroblara bilavasitə təsir etməyən nədir?",
+      "options": [
+        "Bədənin mikroblara qarşı müqavimətinin tənzimləyən maddələr",
+        "Antibiotiklər",
+        "Fermentlər",
+        "Bakteriofaq",
+        "Müalicə təsirinə malik dərmanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Hansı maddələr bioloji antiseptikaya aid deyil?",
+      "options": [
+        "Sulfanilmidlər",
+        "Qeyri fəal immunizasiya təsirə malik zərdablar",
+        "Qeyri spesifik immuniteti tənzimləyən preparatlar",
+        "Qeyri spesifik rezistentliyi tənzimləyənlər",
+        "Qanköçürmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Hansı antiseptik aldehidlər qrupuna aiddir?",
+      "options": [
+        "Formalin",
+        "Salisil turşusu",
+        "Naşatır spirti",
+        "Etil spirti",
+        "Hidrogen peroksid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Fiziki antiseptikanın mahiyyəti nədir?",
+      "options": [
+        "Yarada mikrobların inkişafı üçün qeyri-məqbul şərait yaratmaq",
+        "Bədənin infeksiyaya qarşı müqavimətini artırmaq",
+        "Mikrobların virulentliyini azaltmaq",
+        "Mikrobları yarada məhv etmək",
+        "Mikrobların yarada inkişafını sürətləndirmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Antibioz hadisəsi nədir?",
+      "options": [
+        "Digər mikrobun inkişafını ləngitmək",
+        "Digər mikrobun inkişafını sürətləndirmək",
+        "Digər mikrobu məhv etmək",
+        "Digər mikrobla həmrəy olmaq",
+        "Yeni mikrob ştammı yaratmaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. Hansı ferment mikrobları antibiotikin təsirindən qoruyur?",
+      "options": [
+        "B-Laktaza",
+        "Tripsin",
+        "Ximotripsin",
+        "Dezoksiribonukleaza",
+        "İruksol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Bunlardan hansı antibiotiklə müalicənin fəsadı deyil?",
+      "options": [
+        "Eventerasiya",
+        "Allergik reaksiya",
+        "Daxili üzvlərə toksiki təsir",
+        "Disbakterioz",
+        "Kandidamikoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. İrinli yara antiseptik məhlul ilə yuyulduqdan sonra drenaj yara dibinə yeridilir. Antiseptikanın hansı növü icra edildi?",
+      "options": [
+        "Qarışıq",
+        "Fiziki",
+        "Kimyəvi",
+        "Mexaniki",
+        "Bioloji"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Hansı yolla antiseptiklər bədənə yeridilə bilməz?",
+      "options": [
+        "Sarğı otağının havasından",
+        "Yara səthinə",
+        "Damar daxilinə",
+        "Bədən boşluqlarına",
+        "Onurğa beyni kanalına"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Hansı yolla hava-damcı infeksiyasının qarşısını almaq mümkün deyil?",
+      "options": [
+        "Əməliyyat sahəsinin antiseptiklərlə təmizlənməsi ilə",
+        "Üz-burun örtüyünün köməyi ilə",
+        "Havanın bakteriosid lampalarla şüalandırılması ilə",
+        "Əməliyyat otağının havasının təmizlənməsi ilə",
+        "Üfüqü səthlərin dezinfeksiya edicilərlə nəmləndirilmiş parça ilə silinməsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Cərrahi şöbədə hava-damcı infeksiyası ilə mübarizə hansı yolla qeyri mümkündür?",
+      "options": [
+        "Əllərin yuyulması",
+        "Yarası irinləmiş xəstələrin təcrid olunması",
+        "Tibb işçilərinin xüsusi geyim forması ilə",
+        "Cərrahi şöbənin üfüqü səthlərini dezinfeksiya edicilərlə nəmləşdirilmiş parça ilə təmizləməklə",
+        "Palataların havasının vaxtaşırı dəyişdirilməsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Bunlardan hansı ilə əməliyyat otağını təmizləmək qeyri mümkündür?",
+      "options": [
+        "Palataların və cərrahi şöbənin üfüqi səthlərinin təmizlənməsi ilə",
+        "Əməliyyat otağının carı təmizlənməsi ilə",
+        "Hər əməliyyatdan sonra təmizlənmə ilə",
+        "İş günü sonunda təmizlənmə işləri ilə",
+        "İş həftəsinin sonunda genişlənmiş təmizləmə yolu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Bu üsullardan hansı ilə əllərin mikrobsuzlaşdırılması qeyri mümkündür?",
+      "options": [
+        "Axar su ilə yumaqla",
+        "Furbringer üsulu ilə",
+        "Spasokukotski – Koçergin",
+        "Alfeld",
+        "Brun üsulu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. İnfeksiyalaşmamış toxumalarda aparılmış cərrahi əməliyyatlardan sonra alətlər hansı mərhələni keçdikdən sonra mikrobsuzlaşdırılmalıdır?",
+      "options": [
+        "Yalnız yuyulub qaynadılmalıdır",
+        "Axar su altında yuyulmalıdır, və 3 saat gözlənilməlidir",
+        "Yuyucu toz məhlulunda saxlanmalıdır",
+        "Yenidən axar su altında yuyulmalıdır",
+        "Sobada qurudulduqdan sonra mikrobsuzlaşdırılmalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. İrinli cərrahi əməliyyatlarda istifadə olunmuş alətləri mikrobsuzlaşdırmadan əvvəl hansı hazırlıqdan keçməlidir? Düzgün olmayan cavab hansıdır?",
+      "options": [
+        "Dərhal sobaya yığılıb mikrobsuzlaşdırılmalıdır",
+        "Axar su altında yuyulmalıdır",
+        "Antiseptik məhlulunda saxlanılmalıdır",
+        "Təkrari axar su altında yuyulmalıdır",
+        "Sobada 850 qurudulduqdan sonra mikrobsuzlaşdırılmalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Mikrobsuzlaşdırma zamanı avtoklavın daxilində hərarət neçə dərəcə olmalıdır?",
+      "options": [
+        "1300 yuxarı",
+        "1100",
+        "1150",
+        "1200",
+        "1250"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. 180 hərarətdə etilen oksidi ilə mikrobsuzlaşdırma neçə saat aparılmalıdır?",
+      "options": [
+        "16",
+        "8",
+        "12",
+        "20",
+        "24"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Kəsici alətlər necə mikrobsuzlaşdırılmalıdır?",
+      "options": [
+        "960 spirtdə 30 dəqiqə saxlanılmalı",
+        "Alovda yandırmaqla",
+        "Naşatır spirtində saxlanılmalı",
+        "Yodla silməklə",
+        "Furasilin məhlulunda saxlamaqla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34. Əməliyyat örtük əşyaları qamma şüalarla mikrobsuzlaşdırıla bilərmi?",
+      "options": [
+        "Bəli",
+        "Xeyir",
+        "Bəziləri mikroblazlaşdırıla bilər",
+        "Bəziləri mikroblazlaşdırıla bilməz",
+        "Məcburi hallarda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Örtülü barabanlarda saxlanan mikrobsuzlaşdırılmış əməliyyat örtük əşyaları neçə müddətə qədər mikrobsuzlaşdırılmış sayılır?",
+      "options": [
+        "48 saat",
+        "24 saat",
+        "72 saat",
+        "6 gün",
+        "10 gün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Əlcəklərin hansı üsulla mikrobsuzladırılması yararsızdır?",
+      "options": [
+        "Qaynatmaqla",
+        "Qamma şüaları ilə",
+        "Avtoklavda yüksək buxarla",
+        "Etilen oksidlə",
+        "Quru isti hava sobasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Narkoz aparatının hissələri hansı üsulla mikrobsuzlaşdırıla bilməz?",
+      "options": [
+        "Qaynar su ilə",
+        "Xlorqeksidin+spirt məhlulu ilə",
+        "40% Formaldehid məhlulu ilə",
+        "Etilen oksidlə",
+        "3% hidrogen peroksid məhlulu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Endoskopik aparatlar hansı üsulla mikrobsuzlaşdırıla bilməz?",
+      "options": [
+        "Avtoklavda buxarla",
+        "0,5% xlorqeksidin + 700 spirt məhlulu ilə",
+        "2,5% Qlutar-aldehid məhlulu ilə",
+        "3% hidrogen peroksid məhlulu ilə",
+        "Etilen oksidlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Əkilən infeksiyanın qarşısını almaq üçün hansı mikrobsuzlaşdırma üsulu yararsızdır?",
+      "options": [
+        "Alov üzərində qızdırmaqla",
+        "Qamma şüaları ilə",
+        "Qaynatmaqla",
+        "Avtoklavda buxarla",
+        "Etilen oksidlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Tikiş saplarının müasir mikrobsuzlaşdırma üsulu hansıdır?",
+      "options": [
+        "Qamma şüaları ilə",
+        "Karbol turşusunda saxlamaqla",
+        "Hidrogen peroksidlə yumaqla",
+        "Distilə edilmiş suda yumaqla",
+        "960 spirt məhlulunda saxlamaqla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. İpək sapın Koxer üsulu ilə mikrobsuzlaşdırılmasında hansı mərhələ lazım deyil?",
+      "options": [
+        "Sabunlu su ilə yumaq lazım deyil",
+        "Efirdə 12 saat saxlamaq",
+        "700 spirt məhlulunda 12-24 saat saxlamaq",
+        "Süleymani məhlulunda 10 dəqiqə qaynatmaq",
+        "96% spirtdə saxlamaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42. Köçürülmək üçün bioloji üzvlər necə mikrobsuzlaşdırılmalıdır?",
+      "options": [
+        "Yalnız aseptik şəraitdə donor bədənindən xaric edilməlidir",
+        "Kimyəvi antiseptiklərlə yuyulmalıdır",
+        "Spirt məhlulunda saxlanılmalıdır",
+        "Qamma şüaları ilə mikrobsuzlaşdırılmalıdır",
+        "Kollinz məhlulunda saxlanılmalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Hansı tikiş sapı uzun müddət Luqol məhlulunda saxlanılmalıdır?",
+      "options": [
+        "Ketqut",
+        "Kapron",
+        "Lavsan",
+        "İpəksap",
+        "Vikril"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Təcili əməliyyatlardan əvvəl əllər hansı üsulla daha qısa müddətdə mikrobsuzlaşdırılmalıdır?",
+      "options": [
+        "Ultrasəs dalğaları ilə su vanasında",
+        "Xaysner üsulu",
+        "Brun üsulu",
+        "Fibrunger üsulu",
+        "Zabludovski üsulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. Ağrısızlaşdırma haqqında elm necə adlanır?",
+      "options": [
+        "Anesteziologiya",
+        "Sindesmologiya",
+        "Splanxnologiya",
+        "Histologiya",
+        "Osteologiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Cərrahi sarsıntı nədir?",
+      "options": [
+        "Bunlar hamısı birlikdə",
+        "Güclü ağrı hissiyatı",
+        "Qan təzyiqinin yüksəlməsi",
+        "Nəbzin sürətlənməsi",
+        "Sidik ifrazının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Bunlardan hansı ağrısızlaşdırmanın tamlığının kliniki göstəricisi deyil?",
+      "options": [
+        "Dəri örtüyünün nəmlənməsi",
+        "Dəri örtüyünün quru olması",
+        "Qan təzyiqinin normal səviyyəsi",
+        "Nəbzin sayının 80 vurğu olması",
+        "Dəqiqəlik 50 ml qədər sidik ifrazı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Monitor göstəricəsinin hansı əlaməti ağrısızlaşdırmanın yetərsizliyini göstərir?",
+      "options": [
+        "Nəbzin dəqiqəlik sayı 130 vurğu göstərməsi",
+        "Qan təzyiqinin normal səviyyəsi",
+        "Qanda karbon qazının normal parsial təzyiqi",
+        "Qanda oksigenin normal parsial təzyiqi",
+        "Sidik ifrazının davam etməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Təcili əməliyyatdan əvvəl pulmedikasiya məqsədi ilə xəstəyə nə vurulmalıdır?",
+      "options": [
+        "Promedol 2% 1.0 ml, atropin sulfat 0,5%-0,5 мл",
+        "Analqin 50% 2 мл",
+        "Maqnezium sulfat 25% 10,0",
+        "Qlükoza məhlulu 40% - 10 ml",
+        "Vena daxilinə 960 10 ml spirt vurulmalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Planlı cərrahi əməliyyatdan əvvəl hansı premedikasiya aparılmalıdır?",
+      "options": [
+        "Bütövlükdə bu təyinat e – bəndindən başqa yerinə yetirilməlidir",
+        "Axşam 1 həb fenobarbital və 1 həb də fenazipam kifayətdir",
+        "Əməliyyatdan 2 saat əvvəl droperidol 0,70 mq/kq və diazepam 0,14 mq/kq kifayətdir",
+        "Əməliyyatdan 30 dəq əvvəl 2% promedol məhlulu 1 ml, atropin sulfat 0,1%-0,5 ml və dimedrol 0,3",
+        "Morfin 2% - 1 ml kifayətdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Tam ümumi ağrısızlaşdırma nə yolla əldə olunur?",
+      "options": [
+        "Farmakodinamiki preparatlarla",
+        "Hipertermiya ilə",
+        "Hipotermiya ilə",
+        "Elektrokoaqulyasiya ilə",
+        "Antibiotiklərlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. İnhalyasion anestetiklər hansı halda olur?",
+      "options": [
+        "Maye, qaz halında",
+        "Yağ halında",
+        "Qaz halında",
+        "Kristal vəziyyətdə",
+        "Qranula şəklində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Bunlardan hansı inhalyasion anestetik deyil?",
+      "options": [
+        "Heksenal",
+        "Efir",
+        "Ftoraton",
+        "Şadlandırıcı qaz",
+        "Siklopropan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. İnhalyasion anestetiklər hansı qazla qarışıq bədənə yeridilir?",
+      "options": [
+        "Oksigenlə",
+        "Karbon qazı ilə",
+        "Arqon qazı ilə",
+        "Metan qazı ilə",
+        "Etilen oksidlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Tənəffüs blokuna nə aid deyil?",
+      "options": [
+        "Cərəyan mənbəyi",
+        "Adsorber",
+        "Tənəffüs qapaqları",
+        "Qeyri reservir çanaq",
+        "Tənəffüs kisəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Narkoz aparatı hansı konturda işləyə bilməz?",
+      "options": [
+        "Kontursuz",
+        "Qapalı",
+        "Açıq",
+        "Yarım açıq",
+        "Yarım qapalı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Bunlardan hansı inhalyasion narkozun kliniki gedişinə aid deyil?",
+      "options": [
+        "Premedikasiya",
+        "Analgeziya",
+        "Oyanma",
+        "Narkoz yuxusu",
+        "Ayılma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Narkoz yuxusu mərhələsinin hansı səviyyəsi həyat üçün təhlükəlidir?",
+      "options": [
+        "Diafraqmal tənəffüs səviyyəsi",
+        "Göz almasının səviyyəsi",
+        "Bəbəklərin daralması səviyyəsi",
+        "Bəbəklərin genişlənməsi səviyyəsi",
+        "Narkoz yuxusu mərhələsi bütövlükdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Bunlardan hansı inhalyasion narkoz növü deyil?",
+      "options": [
+        "Vena daxili",
+        "Maska ilə",
+        "Traxeya daxili",
+        "Bronx daxili",
+        "Yüksək təzliqli ventilyasiya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. Traxeyanı intubasiya üçün nə lazımdır?",
+      "options": [
+        "Laparoskop",
+        "Ağızgenəldən",
+        "Diltutan",
+        "Qaşıq",
+        "Traxeostomik trubka"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Ümumi narkozun gedişində hansı mərhələ gərəksizdir?",
+      "options": [
+        "IV mərhələ – anestetiklərin bədəndən xaric olmasını sürətləndirmək",
+        "III mərhələdə – əməliyyat yekunlaşana qədər anestetiklərin bədənə daxil olmasını davam",
+        "I mərhələ – giriş narkozu – relaksantın yeridilməsi",
+        "II mərhələ– əsas anestetiklərin qoşulması",
+        "Xəstənin ayılmasına nəzarət etmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Bunlardan hansı vena daxili anestetikdir?",
+      "options": [
+        "Tiopental natrium",
+        "Kalsium xlorid",
+        "Miorelaksant",
+        "Maqnezium sulfat",
+        "Analqin məhlulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63. Bunlardan hansı depolyarizasiyaedici miorelanksantdır?",
+      "options": [
+        "Ditilin",
+        "Pavulon",
+        "Arduan",
+        "Tubokurarin",
+        "Kurarin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Qusmanın qarşısını almaq üçün narkoza başlamazdan əvvəl nə etmək lazımdır?",
+      "options": [
+        "Mədəyə zond yeridilməlidir",
+        "Vena daxilinə antibiotik yeridilməlidir",
+        "Sidik kisəsinə kateter yeridilməlidir",
+        "Traxeyanı intubasiya etməlidir",
+        "Ağız boşluğuna havaötürücü yeridilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Traxeya yeridilmiş intubasion boru tənəffüs yolundan kənar nə törətməyə bilər?",
+      "options": [
+        "Aortanı deşə bilər",
+        "Baş bronxlardan birinə keçə bilər",
+        "Traxeyadan geriyə sürüşüb udlağa qayıda bilər",
+        "Traxeyanın arxa divarını cırıla bilər",
+        "Traxeyanın selikin qişasını zədələyə bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Hansı yerli anestetik efir tipli deyil?",
+      "options": [
+        "Trimekan",
+        "Dikain",
+        "Kokain",
+        "Novokain",
+        "Sovkain"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Amid tipli anestetiklər hansı xüsusiyyətə malikdir?",
+      "options": [
+        "Dəyişməmiş şəkildə bədəndən xaric olur",
+        "Tez parçalanır",
+        "Qısa müddətli təsir göstərir",
+        "Qanaxma törədir",
+        "Narkoz yuxusu törədir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Yerli ağrısızlaşdırmanın nə kimi fəsadı ola bilər?",
+      "options": [
+        "Hamısı ola bilər",
+        "Allergik reaksiya",
+        "Dərinin qızarması",
+        "Ümumi rahatsızlıq",
+        "Yuxululuq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Bunlardan hansı yerli anesteziya növü deyil?",
+      "options": [
+        "Qeyri inhalyasion anestetiklərin vena daxilinə yeridilməsi",
+        "Səthi anesteziya",
+        "Hopdurma anesteziyası",
+        "Məhəlli vena daxili anesteziya",
+        "Nəqledici anesteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Səthi anesteziya hansı səviyyədə olur?",
+      "options": [
+        "Reseptorlar",
+        "Dəri",
+        "Damar",
+        "Sümük",
+        "Sinir kötüyü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Hopdurma anesteziyası üçün novokainin neçə faizli məhlulu daha çox işlədilir?",
+      "options": [
+        "0,25%",
+        "10%",
+        "2%",
+        "1%",
+        "5%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Stomatoloji təcrübədə hansı anesteziya növü geniş tədbiq olunur?",
+      "options": [
+        "Mandibulyar anesteziya",
+        "Hopdurma anesteziyası",
+        "Oberst üsulu ilə anesteziya",
+        "Braun üsulu ilə anesteziya",
+        "Ulduzabənzər simpatik düyün anesteziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Epidural anesteziya hansı səviyyədə aparılır?",
+      "options": [
+        "III-IV bel fəqərəsi",
+        "III-IV döş fəqərəsi",
+        "V-VI döş fəqərəsi",
+        "VII-VIII döş fəqərəsi",
+        "XI-XII döş fəqərəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Xəstəxanaya daxil olarkən cərrahi xəstənin adına yazılan tibbi sənəd necə adlanır?",
+      "options": [
+        "Xəstəlik tarixi",
+        "Pasport",
+        "Sığorta vərəqəsi",
+        "Tibbi arayış",
+        "Epikriz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Xəstənin subyektiv şıkayətlərini artırması necə adlanır?",
+      "options": [
+        "Aqravasiya",
+        "Dissimulyasiya",
+        "Suisid",
+        "Simulyasiya",
+        "Intoksikasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Cərrahi müalicədən qorxan xəstələrin şikayətlərini gizlətməsi necə adlanır?",
+      "options": [
+        "Dissimulyasiya",
+        "İntoksikasiya",
+        "Simulyasiya",
+        "Aqravasiya",
+        "Aksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Qarın boşluğu üzvlərindən hər hansı birinin kəskin cərrahi xəstəliyi zamanı xəstənin əsas şikayəti hansı ola bilər?",
+      "options": [
+        "Bunların hamısı",
+        "Qarında ağrı",
+        "Qan qusma",
+        "Qarın köpməsi",
+        "Qətrana bənzər nəcis ifrazı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Xəstəni müayinə edərkən bunlardan hansı xüsusi əhəmiyyət kəsb edir?",
+      "options": [
+        "Bunların hamısı",
+        "Əsas xəstəliyin başlanması",
+        "Həyat anamnez (keçirilmiş xəstəliklər)",
+        "Epidemioloji anamnez",
+        "Sığorta anamnezi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Baxma zamanı xəstənin əsa ilə axsayaraq yerişi hansı üzvlərin fəaliyyətinin pozulması əlaməti deyil?",
+      "options": [
+        "Həzm sistemi üzvlərinin",
+        "Aşağı ətraf damarlarının xəstəlikləri",
+        "Aşağı ətraf zədələnmələri",
+        "Oynaq-sümük aparatının iltihabi xəstəlikləri",
+        "Keçirilmiş hemorragik insult"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Xəstəyə baxarkən «məcburi gülüş» əlaməti görünərsə hansı xəstəlik haqqında düşünmək olar?",
+      "options": [
+        "Tetanus",
+        "Osteomielit",
+        "Vərəm",
+        "Qazlı qanqrena",
+        "Qızıl yel"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Baxma zamanı uşağın təpə nahiyyəsində yumruq boyda yumşaq konsistensiyalı şiş nə haqda sizi düşündürməlidir?",
+      "options": [
+        "Beyin yırtığı",
+        "Ateroma",
+        "Lipoma",
+        "Hidrosefaliya",
+        "Kraniostenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. Sifətə baxarkən hansı inkişaf qüsurlarını görmək olur?",
+      "options": [
+        "Hamısını görmək olar",
+        "Çəpgözlük",
+        "Qurdağızlılıq",
+        "Makrostomiya",
+        "Qulaq seyvanının atreziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. Boyuna baxarkən hansı xəstəliklərin diaqnozunu qoymaq olar?",
+      "options": [
+        "Hamısının diaqnozunu",
+        "Boyunun orta sisti və süzgəci",
+        "Boyunun yan sisti və süzgəci",
+        "Böyümüş qalxanabənzər vəz",
+        "Əyri boyunluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84. Boyuna baxarkən döş körpücük məməvari əzələ altında nəbz vurğusu ilə şişkinlik görünərsə hansı xəstəliyə şübhə olmalıdır?",
+      "options": [
+        "Yuxu arteriyasının anevrizması",
+        "Boyunun yan sisti",
+        "Böyümüş qalxanabənzər vəz",
+        "Boyun limfadeniti",
+        "Limfaqranuliamatoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Döşə baxarkən dərialtı venaların genişlənməsi, toxuma ödemi, boyun venalarının xeyli dolğunluğu görünərsə hansı xəstəlik haqda fikirləşmək lazımdır?",
+      "options": [
+        "Yuxarı boş venanı sıxan divararalığının törəməsi",
+        "Ürək çatmamazlığı",
+        "Tənəffüs çatmamazlığı",
+        "Qaraciyər çatmamazlığı",
+        "Böyrək çatmamazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86. Döş qəfəsinə baxarkən sümüklə bağlı hansı dəyişiklikləri görmək olar?",
+      "options": [
+        "Bunların hamısı",
+        "Lordez",
+        "Kidoz",
+        "Skolioz",
+        "Qıfa bənzər döş"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Qarının ön divarının daxildən qabarması nə ilə əlaqədar ola bilər?",
+      "options": [
+        "Bunların hamısı",
+        "Böyümüş qaraciyər",
+        "Uşaqlığın böyük fibromioması",
+        "Periton arxasından çıxan törəmə",
+        "İlleosekal küncdən inkişaf edən törəmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Dəri örtüyünün avazıması nə ilə əlaqədardır?",
+      "options": [
+        "Daxili qanaxma əlamətidir",
+        "Təbiidir",
+        "Ürək infarktı əlamətidir",
+        "Ağciyər ödemi əlamətidir",
+        "Böyrək daşı xəstəliyi əlamətidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Köks qəfəsinə qulaq asarkən hansı küy xəstəlik əlaməti deyil?",
+      "options": [
+        "Vezikulyar",
+        "Amforik",
+        "Bronxial",
+        "Vızıldıyan",
+        "Xırıltılı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Ağciyərə qulaq asarkən köks qəfəsinin bir tərəfində tənəffüsün eşidilməməsi nə ilə əlaqədardır?",
+      "options": [
+        "Bunların hamısı ilə əlaqədardır",
+        "Plevra boşluğuna maye toplanması",
+        "Plevra boşluğuna hava toplanması",
+        "Ağciyərin atelektazı",
+        "Ağciyərin aplaziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Qarına qulaq asarkən bağırsaq küylərinin eşidilməməsi «qəbirstanlıq sakitliyi» sizi nə haqda düşündürməlidir?",
+      "options": [
+        "Peritonit",
+        "Plevrit",
+        "Perikardit",
+        "Artrit",
+        "Meningit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92. Köks qəfəsinin perkursiyası zamanı döş qəfəsinin bir yarısında təyin edilən kütlük nə haqqında sizi düşündürməlidir?",
+      "options": [
+        "Plevra boşluğunda maye olması",
+        "Pnevmotoraks",
+        "Ağciyərin atelektazı",
+        "Perikardit",
+        "Kardiomiopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93. Xəstənin ümumim vəziyyəti necə qiymətləndirilə bilməz?",
+      "options": [
+        "Sağlam",
+        "Kafi",
+        "Orta ağırlıqda",
+        "Ağır",
+        "Çox ağır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Bunlardan hansı funksional müayinə üsulu deyil?",
+      "options": [
+        "Rentgen müayinəsi",
+        "Ossiloqrafiya",
+        "Spirometriya",
+        "Elektrokardioqrafiya",
+        "Elektroensefaloqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. Qarın boşluğunun rentgen müayinəsi zamanı aşkarlanan «Kloyber fincanları» hansı xəstəliyin əlamətidir?",
+      "options": [
+        "Bağırsaq keçməməzliyi",
+        "Mədə xorası",
+        "Öddaşı xəstəliyi",
+        "Pankreatit",
+        "Appendisit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Yemək borusunun rentgen kontrast müayinəsi zamanı aşkarlanan dolma defekti hansı xəstəliyin əlamətidir?",
+      "options": [
+        "Yemək borusunun xərçəngi",
+        "Yemək borusunun divertikulu",
+        "Kardiyanın axalaziyası",
+        "Reflüks ezofagit",
+        "Yemək borusunun diafraqma dəliyinin yırtığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Mədənin rentgen müayinəsi zamanı aşkarlanan «taxça» simptomu hansı xəstəliyin əlamətidir?",
+      "options": [
+        "Mədə xorası",
+        "Mədə xərçəngi",
+        "Qastrit",
+        "Qara ciyərin sol payının exinokoku",
+        "Mədəaltı vəzin kistası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Mədənin rentgen müayinəsi zamanı aşkarlanan dolma defekti əlaməti hansı xəstəlik üçün səciyyəvidir?",
+      "options": [
+        "Mədə xərçəngi",
+        "Mədə xorası",
+        "Öddaşı xəstəli",
+        "Pankreatit",
+        "Köndələn çənbərbağırsağın şişi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Bunlardan hansı rentgen kontrast müayinə üsulu deyil?",
+      "options": [
+        "İcmal rentgenoqrafiya",
+        "Bronxoqrafiya",
+        "Arterioqrafiya",
+        "Limfoqrafiya",
+        "İrriqoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Ultrasəs müayinəsi invaziv müayinə üsuludurmu?",
+      "options": [
+        "Yox",
+        "Hə",
+        "Olada bilər, olmayada bilər",
+        "Bəzən hə",
+        "Şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Bu endoskopik müayinə üsullarından hansı ilə tənəffüs yolları müayinə olunur?",
+      "options": [
+        "Heç biri ilə",
+        "Ezofaqoskopiya",
+        "Torakoskopiya",
+        "Laparoskopiya",
+        "Qastroskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. Düz bağırsağın endoskopik müayinəsi necə adlanır?",
+      "options": [
+        "Rektoskopiya",
+        "Kolonoskopiya",
+        "Sistoskopiya",
+        "Qisteroskopiya",
+        "Laparoskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. Diaqnozu dəqiqləşdirmək üçün endoskopiya müayinəsi nə ilə tamamlanmalıdır?",
+      "options": [
+        "Bunların hamısını icra etməklə",
+        "Boşluqlu üzvlərin mənfəzinə baxmaqla",
+        "Müayinə üçün pataloji ocaqdan tikə götürməklə",
+        "Hemostaz aparmaqla",
+        "Boşluqlu üzvün mənfəzinin yumaqla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. Hematoma nədir?",
+      "options": [
+        "Məhdud toxuma arasında qanın toplanmasıdır",
+        "Qanın dəri səthinə çıxmasıdır",
+        "Mədə boşluğuna axmasıdır",
+        "Böyrək ləyəninə axmasıdır",
+        "Qarın boşluğuna axmasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. Fizioloji qanaxma nədir?",
+      "options": [
+        "Müəyyən yaş dövründə təkrarlanan aybaşıdır",
+        "Diş ətinin qanamasıdır",
+        "Babasil düyününün qanamasıdır",
+        "12 barmaq bağırsaq xorasının qanamasıdır",
+        "Şiş toxumasının dağılması nəticəsində qanaxmadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. Xarici qanaxma nədir?",
+      "options": [
+        "Qanın bilavasitə selikli qişa və dəri səthinə axmasıdır",
+        "Qanın bədən boşluğuna axmasıdır",
+        "Qanın oynaq boşluğuna axmasıdır",
+        "Qanın döş boşluğuna axmasıdır",
+        "Qanın qarın boşluğuna axmasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. Bunlardan hansı xarici qanaxma deyil?",
+      "options": [
+        "Heç biri",
+        "Hemotoraks",
+        "Hemoperitoneum",
+        "Hemokrannium",
+        "Hemartroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108. Nədir özünü dərhal biruzə verən daxili qanaxma?",
+      "options": [
+        "Boşluqlu üzvlərin daxilinə axan və xaric olan qanaxmadır",
+        "Damar divarının keçiriciliyinin artması ilə toxuma arasına qansızmadır",
+        "Qarın boşluğuna qanaxmadır",
+        "Oynaq boşluğuna qanaxmadır",
+        "Kapsula altı qanaxmadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. Nədir melena?",
+      "options": [
+        "Mədə-bağırsaq boşluğuna axan və qara nəcis şəklində təzahür edən qanaxmadır",
+        "Qanhayxırmadır",
+        "Sidikdə qan ifrazıdır",
+        "Uşaqlıq qanaxmasıdır",
+        "Öd yollarına qanaxmadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. Hansı xəstəliklər melenaya səbəb ola bilər?",
+      "options": [
+        "Bunların hamısı",
+        "12 barmaq bağırsaq xorası",
+        "Hemorraqik eroziv qastrit",
+        "Mədə şişi",
+        "12 barmaq bağırsağın zəif qanayan polipi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. Bunlardan hansı ikincili qanaxma deyil?",
+      "options": [
+        "Zədələnmədən dərhal sonra başlayan qanaxma",
+        "Zədələnmədən 6 saat sonra",
+        "4-5 gün sonra",
+        "10 gün sonra",
+        "15 gün sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. Bu xəstəliklərdən hansı xroniki qanaxmaya səbəb ola bilər?",
+      "options": [
+        "Hamısı",
+        "12 barmaq bağırsaq xorası",
+        "Mədə-bağırsağın dağılan şişləri",
+        "Uşaqlıq xərçəngi",
+        "Qanayan babasil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113. Ümumi dövr edən qanın neçə faizin itirilməsi ölümcül qanitirmədir?",
+      "options": [
+        "30-40%",
+        "5%",
+        "10-15%",
+        "15-20%",
+        "20-30%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Nədir «slac sindrom»?",
+      "options": [
+        "Eritrositlərin və trombositlərin damar divarına yapışıb trombolar yaratması",
+        "Plazma itkisi",
+        "Qanın toxumalara axması",
+        "Leykositlərin iltihab ocağına toplanması",
+        "Fibrinolitik qanaxmadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115. Hansı göstərici ilə qanaxmanı təyin etmək mümkündür?",
+      "options": [
+        "Bu göstəricilərin hamısının təyini ilə",
+        "Eritrositlərin sayının azalması",
+        "Hb düşməsi",
+        "Hemotokritin düşməsi",
+        "Qanın xüsusi çəkisinin azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. Ümumi dövr edən qanın neçə faizi itirildikdə posthemorragik şok yaranır?",
+      "options": [
+        "20-30%",
+        "10%",
+        "15%",
+        "40%",
+        "50%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. Kompensə olunmuş hemorragik şokda qan köçürmədən xəstə sağala bilərmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Sağalada bilər",
+        "Sağalmayada bilər",
+        "Şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118. Qanaxmanın öz-özünə dayanması nəyin hesabına baş verir?",
+      "options": [
+        "Bütün bu dəyişikliklərin birgə iştirakı hesabına",
+        "Zədələnmiş damarın daralması",
+        "Damar divarınının tonusunun yüksəlməsi",
+        "Trombositlərin zədələnmiş kollogen liflərinə yapışması",
+        "Trombinin və fibrinin trombosit laxtası yaratması hesabına"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119. Bunlardan hansı qanaxmanın müvəqqəti dayandırılması üsulu deyil?",
+      "options": [
+        "Damara tikiş qoymaq",
+        "Turna qoyulması",
+        "Damarın yaxın sümüyə sıxılması",
+        "Ətrafın oynaqdan bükülməsi",
+        "Ətrafın yuxarı istiqamətdə qaldırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120. Bunlardan hansı qanaxmanın qəti dayandırılması üsulu deyil?",
+      "options": [
+        "Sıxıcı sarğının qoyulması",
+        "Qanaxmanın dayandırılmasının mexaniki üsulu",
+        "Qanaxmanın dayandırılmasının fiziki üsulu",
+        "Qanaxmanın dayandırılmasının kimyəvi üsulu",
+        "Qanaxmanın dayandırılmasının bioloji üsulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. Qanaxan damar nə vaxt yara içərisində bağlanır?",
+      "options": [
+        "Təzə yarada",
+        "İrinləmiş yarada",
+        "Damarın mənfəzi trombla tutulduqda",
+        "Septik vəziyyətdə",
+        "Damarın protezlə əvəzlənməsi zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122. Kapilyar qanaxmanı saxlamaq üçün bu kimyəvi maddələrdən hansı yararsızdır?",
+      "options": [
+        "Kalium permanqanat",
+        "Hidrogen peroksid",
+        "Adrenalin",
+        "Jelatin",
+        "Karbozaxrom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. Bunlardan hansı qanköçürmə dövrü deyil?",
+      "options": [
+        "Orta əsrlər dövrü",
+        "Qədim dövr",
+        "Qan dövranının kəşfindən sonrakı dövrü",
+        "Qanın izohemoaqlütinasiya xüsusiyyənin açıqlamasından sonrakı dövrü",
+        "Müasir dövr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. Azərbaycanda qanköçürmə xidmətinin əsası neçənci ildə qoyulmuşdur?",
+      "options": [
+        "1932-ci il",
+        "1920-ci il",
+        "1925-ci il",
+        "1935-ci il",
+        "1940-ci il"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. Bunlardan hansı donorluq növüdür?",
+      "options": [
+        "Hamısı",
+        "Təmənnasız",
+        "Təmənnalı",
+        "İmmunizasiya olunmuş donorluq",
+        "Qohum donorluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126. Mədə rezeksiyası nefrektomiya, exinokokkektomiya, qastroektomiya əməliyyatları keçirmişlər, donor ola bilərlərmi?",
+      "options": [
+        "Yox",
+        "Hə",
+        "Olada bilər, olmayada bilər",
+        "Nadir hallarda olmaya bilər",
+        "Bəzi hallarda ola bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127. Bunlardan hansı donor ola bilməz?",
+      "options": [
+        "Heç biri",
+        "Mədə xorası, xroniki hepatit, nefrit xəstəliyi olanlar",
+        "Hamilə və süd verən qadınlar",
+        "Dəri xəstəlikləri olan şəxslər",
+        "Bronxial astmadan əziyyət çəkənlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128. Qan yığılan bankanın yaxud polietilen kisəsinin içərisində hansı maye olur?",
+      "options": [
+        "Limon turşusunun natrium duzlu məhlulu",
+        "5% qlükoza",
+        "0,9% fizioloji məhlul",
+        "Furasilin",
+        "Hidrogen peroksid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129. Hər bir donordan nə miqdarda qan götürmək olar?",
+      "options": [
+        "200 ml",
+        "600 ml",
+        "800 ml",
+        "900 ml",
+        "1000 ml"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130. Qanın antigen sistemi nədir?",
+      "options": [
+        "Qan hüceyrələrində və plazmada olan zülalların quruluş müxtəlifliyidir",
+        "Qanda olan hormonlardır",
+        "Qanda olan vitaminlərdir",
+        "Eritrositlərin sayıdır",
+        "Leykositlərin parçalanmasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131. Qanda hansı antigenlər mövcuddur?",
+      "options": [
+        "Hüceyrə və plazma antigenləri",
+        "Yalnız hüceyrə",
+        "Yalnız plazma",
+        "Hormonal antigen",
+        "Ferment antigenləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Hüceyrənin seroloji aktivliyini təmin edən və xarici səthində yerləşən polisaxarid tərkibli antigenlər necə adlanır?",
+      "options": [
+        "Qapten",
+        "Proton",
+        "Elektron",
+        "Mezaton",
+        "Karbogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133. Bunlardan hansı hüceyrə antigeni deyil?",
+      "options": [
+        "Alfa və betta aqqlütininləri",
+        "Eritrositlər",
+        "Leykositlər",
+        "Trombositlər",
+        "Limfositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134. Qan qrupu nədir?",
+      "options": [
+        "Eritrosit antigenlərinin və plazma aqqlütininlərinin vəhdətidir",
+        "Leykosit antigenlərinin zülalıdır",
+        "Qanda olan əks cismlərdir",
+        "Qanın plazmasının zülalıdır",
+        "Qazanılmış immunitetdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135. Hansı qrupa mənsub plazmada alfa və betta aqqlütininləri olur?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV",
+        "IVA1, IVA2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136. Bu üsullardan hansı ilə qan qrupunu təyin etmək mümkün deyil?",
+      "options": [
+        "Elektrolitlərlə",
+        "Standart eritrositlərlə",
+        "Zərdablarla",
+        "Zərdabla və eritrositlə",
+        "Monoklonal antitellərlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137. İzohemoaqqlütinasiya reaksiyasını sürətləndirmək və düzgün nəticə almaq üçün reaksiya mühitinə 2-3 damcı hansı məhlul əlavə olunmalıdır?",
+      "options": [
+        "0,9% natrium xlorid məhlulu",
+        "10% kalsium xlorid məhlulu",
+        "Furasilin məhlulu",
+        "Hidrogen peroksid",
+        "5% aminokapron turşusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138. Rezus-amil antigeni neçənci ildə və kimlər tərəfindən tapılmışdır?",
+      "options": [
+        "1940 Landşteyner-Viner",
+        "1925 Şamov-Yudin",
+        "1935 Anoxin-Boqomoles",
+        "1950 Yelanski-Axutin",
+        "1955 Kançalovski-Speranski"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139. Neçə faiz insanların eritrositlərində rezus antigen tapılır?",
+      "options": [
+        "85%",
+        "50%",
+        "70%",
+        "80%",
+        "87%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140. Bu üsullardan hansı ilə rezus amil təyin edilə bilər?",
+      "options": [
+        "Bunların hamısı ilə",
+        "Duzlu mühitdə aqqlütinasiya üsulu",
+        "Jelatinlə konaqqlütinasiya",
+        "Kümbs reaksiyası",
+        "Anti-D monoklonal zərdabla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141. Köçürüləcək qanın uyğunluğunu və rezus amili təyin etmək üçün qanı haradan götürmək lazımdır?",
+      "options": [
+        "Venadan quru məxbər şüşəsinə",
+        "Barmaqdan yaxma şüşəsi üzərinə",
+        "Barmaqdan melanjerə",
+        "Venadan içərisində sitrat məhlulu olan məxbər şüşəsinə",
+        "Barmaqdan yaxma şüşəsinə və üzərinə 0,9% natrium xlorid əlavə etməklə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142. Səhvən qeyri müvafiq qrupdan qan köçürüldükdə hansı formalı element aqqlütinasiyaya uğrayır?",
+      "options": [
+        "Donorun eritrositləri",
+        "Resipiyentin eritrositləri",
+        "Trombositlər",
+        "Resipiyentin leykositləri",
+        "Donorun limfositləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Rezus rezus mənfi amilə malik insanlarda hansı səbəbdən rezus əleyhinə əks cisimlər əmələ gəlir?",
+      "options": [
+        "Bunlar hamısı ilə əlaqədar",
+        "Hamiləliklə əlaqədar rezus uyğunsuzluq olduqda",
+        "Rezus müsbət amili qanın köçürülməsindən",
+        "Donorun razılığı ilə immunizasiyası ilə əlaqədar",
+        "Rezus müsbət amili eritrosit kütləsi köçürülməsindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144. Məcburi vəziyyətlə əlaqədar rezus amili mənfi olan resipiyentə rezus amili müsbət qan köçürülərsə hansı şərtlər nəzərə alınmalıdır?",
+      "options": [
+        "Bunların hamısı nəzərə alınmalıdır",
+        "Köçürülən qanın miqdarı 250 ml çox olmamalıdır",
+        "Bu növ qan köçürmə yalnız 1 dəfə olmalıdır",
+        "Bütün reanimasiya tədbirləri görməyə hazır olmaq lazımdır",
+        "Həyati göstəriş olduqda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145. Qan köçürmədən əvvəl qan qrupu haqda məlumat necə əldə olunmalıdır?",
+      "options": [
+        "Hər dəfə qan köçürmədən əvvəl mütləq qan qrupu yenidən təyin edilməlidir",
+        "Pasportdan köçürülməlidir",
+        "Xəstəlik tarixindən götürülməlidir",
+        "İlk qanköçürmə zamanı qan qrupunun təyini kifayətdir",
+        "Qan qrupu haqqında xəstənin anamnezində verdiyi məlumatla kifayətlənmək olar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146. Bunlardan hansı qanköçürməyə mütləq əks göstərişdir?",
+      "options": [
+        "Ağciyər ödemi, septik endokardit, qan dövranının pozulması",
+        "Peritonit, plevrit, artrit",
+        "Pulmonektomiya, qastroektomiya əməliyyatları",
+        "Travmatik şok, bud sümüyünün sınığı",
+        "Qarının küt travması, qarın daxili qanaxma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. Bunlardan hansı qanköçürməyə nisbi əks göstərişdir?",
+      "options": [
+        "Parenximatoz hepatit, nefrit",
+        "Bağırsaq keçməzliyi",
+        "Qarının ön divarının yırtığı",
+        "Ağır irinli intoksikasiya",
+        "Aşağı ətraf venalarının varikoz genəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148. Veneseksiya yolu ilə nə zaman qan köçürülür?",
+      "options": [
+        "Hipotoniya vəziyyətində səthi venalara punksiya qeyri mümkün olduqda",
+        "Dərialtı venalar qanla xeyli dolu olduqda",
+        "Vena damarları gözlə aydın göründükdə",
+        "Ağır intoksikasiya vəziyyətində",
+        "Turna qoyulduqdan sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. Xüsusiyyətlərinə görə hansı qan köçürülə bilər?",
+      "options": [
+        "Bunların hamısı",
+        "Katnonit",
+        "Konservatla qarışıq",
+        "Fibrinsizləşdirilmiş qan",
+        "Eritrositar kütlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. Ümumi narkoz yuxusunda olan xəstəyə qanköçürməzdən əvvəl hansı yoxlama kifayətdir?",
+      "options": [
+        "Qanın tam uyğunluğu təyin edilməlidir",
+        "Yalnız bioloji sınaq kifayətdir",
+        "Köçürüləcək qan uyğunluğu yalnız Rh amilinə görə təyin edilir",
+        "Bioloji sınaq keçirilməlidir",
+        "Uyğunluq ABO sisteminə əsasən təyin edilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151. Qan köçürməyə hazırlaşan həkim nələrə əməl etməlidir?",
+      "options": [
+        "Bunların hamısını etməlidir",
+        "Qan köçürməyə düzgün göstəriş və əks göstərişləri bilməlidir",
+        "Köçürülən qanın yararlığını təyin etməlidir",
+        "Donorun və resipiyentin qan qrupunu və rezus amilini təkrar yoxlamalıdır",
+        "Bioloji sınaq keçirilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152. Qanköçürməyə ehtiyacı olan hansı xəstələrdə fəsadlar ola bilər?",
+      "options": [
+        "Bunların hamısı",
+        "Parenximatoz hepatit keçirmişlərdə",
+        "Şiş xəstəliyi",
+        "Anamnezində qanköçürmə olanlarda",
+        "Zəlzələ zamanı zədələnmişlərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153. Hansı hallarda qarın boşluğuna axmış qanı yenidən xəstəyə köçürmək olar?",
+      "options": [
+        "Yalnız parenximatoz üzvlər zədələndikdə",
+        "Dalağın və nazik bağırsağın zədələnməsində",
+        "Qaraciyəri və mədənin yaralanmasında",
+        "Qarının zədələnməsi və sidik kisəsin cırılması",
+        "Bu vəziyyətlərin heç birində reinfuziya olmaz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154. Uşaqlara universal donor qanı köçürmək olarmı?",
+      "options": [
+        "Yox",
+        "Hə",
+        "Köçürməkdə olar, köçürülməkdə",
+        "Bəzən köçürmək olar",
+        "Təhlükəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Qanköçürmədən sonra ilk birinci sutka ərzində hansı fəsadlar ola bilər?",
+      "options": [
+        "Pirogen reaksiyalar",
+        "Trombemboliya",
+        "Ürəyin kəskin genişlənməsi",
+        "Kəskin böyrək çatmamazlığı",
+        "Beyin qan dövranın kəskin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156. Səhvən qrupu uyğun olmayan qan köçürdükdə dərhal hansı əlamətlər müşahidə olunur?",
+      "options": [
+        "Sifətin qızarması, tövşümə, nəbzin sürətlənməsi, titrəmə, döşdə sıxıntı, bel nahiyyəsində ağrılar",
+        "Bədən hərarətinin yüksəlməsi",
+        "Sidik ifrazının dayanması",
+        "Bəbəklərin genişlənməsi",
+        "Nəbzin seyrəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157. Konservləşdirilmiş qanın maksimum yararlıq müddəti neçə sutkadır?",
+      "options": [
+        "21 sutka",
+        "3 sutka",
+        "5 sutka",
+        "8 sutka",
+        "10 sutka"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158. Qanın hansı preparatı köçürüldükdə zülal uyğunsuzluqu əlaməti az ola bilər?",
+      "options": [
+        "Eritrositar kütlə",
+        "Təzə plazma",
+        "Təzə qan",
+        "Trombositar kütlə",
+        "Albumin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159. Xroniki anemiyalı xəstələrə nə köçürmək lazımdır?",
+      "options": [
+        "Eritrosit kütləsi",
+        "Trombosit kütləsi",
+        "Plazma",
+        "Təzə qan",
+        "Jelatinol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160. Plazma köçürülərkən bioloji sınaq yoxlanılmalıdırmı?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Yoxlamaqda olar, yoxlamamaqda",
+        "Bəzən yoxlamaq lazımdır",
+        "Hadir hallarda yoxlamaq lazımdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161. Köçürülən bu mayelərdən hansı bioloji uyğunsuzluq reaksiyası törətmir?",
+      "options": [
+        "Ringer məhlulu",
+        "Qanın komponentləri",
+        "Nativ qan",
+        "Qan preparatları",
+        "Liofilizə olunmuş plazma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162. Hemodinamik effektə malik mayelər hansı təsiri göstərir?",
+      "options": [
+        "Toxuma mayesini damarlarda saxlayır",
+        "Qan yaradıcı üzvləri stimulə edir",
+        "Qan təzyiqini endirir",
+        "Qanda zülalların miqdarını artırır",
+        "Qan təzyiqini aşağı salır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163. Qan əvəzləyici mayelər hansı təsirə malikdirlər?",
+      "options": [
+        "Bu təsirlərin hamısını göstərir",
+        "İntoksikasiyanı azaldır",
+        "Hemodinamik təsir göstərir",
+        "Kapilyar qan dövranını yaxşılaşdırır",
+        "Qanın reoloji xüsusiyyətlərini artırır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164. Yağ emulsiyyaları hansı təsirə malikdir?",
+      "options": [
+        "Bədənin kalori ehtiyacını təmin edir",
+        "Azotun sərfini azaldır",
+        "Plazmanın tərkibini qoruyur",
+        "Hüceyrə membranının quruluşunu qoruyur",
+        "Bütün bu təsirləri göstərir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165. Vena daxilinə köçürülən kristalloid mayelər necə təsir göstərir?",
+      "options": [
+        "Bədənin mayeyə tələbatını təmin edir",
+        "Onkotik tızyiqi təmin edir",
+        "Hipiprotenemiyanı ortadan götürür",
+        "Antioksidant təsir göstərir",
+        "Bütün bu təsirlərə malikdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166. Osmotik divertikllərin təyininə göstəriş hansıdır?",
+      "options": [
+        "Bunların hamısı",
+        "Kəskin böyrək çatmazlığı",
+        "Hemolitik şok",
+        "Ürək çatmamazlığı",
+        "Bağırsaq atoniyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167. Cərrahi əməliyyat nədir?",
+      "options": [
+        "Müalicə üsuludur",
+        "Kəsik aparmaqdır",
+        "Yaranı sarımaqdır",
+        "Yaraya sarğı qoymaqdır",
+        "Gips sarğısı qoymaqdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168. Bunlardan hansı cərrahi xəstənin müalicə mərhələsi deyil?",
+      "options": [
+        "Xəstəni evdə müayinə etmək",
+        "Əməliyyatdan əvvəl müayinə və hazırlıq",
+        "Cərrahi əməliyyatın aparılması",
+        "Əməliyyatdan sonrakı müalicə və müşahidə",
+        "Reablitasiya dövrü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169. Kəskin cərrahi xəstəliklərlə əməliyyat onü müayinə və müalicəyə nə qədər vaxt lazımdır?",
+      "options": [
+        "2 saata qədər",
+        "6 saat",
+        "12 saat",
+        "18 saat",
+        "24 saat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170. Dərhal icra tələb edən cərrahi əməliyyata götürülən xəstəyə hazırlıq nədən ibarət olmalıdır?",
+      "options": [
+        "Bunların hamısını",
+        "Mədəyə zond yeritmək lazım deyil",
+        "Sidik kisəsinə katetr yeritməyə lüzüm yoxdur",
+        "Əməliyyat sahəsi qırxılmaya da bilər",
+        "Mərkəzi venaya katetr yeritmək lazım deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171. Bunlardan hansı cərrahi əməliyyata göstəriş növü deyil?",
+      "options": [
+        "Müvəqqəti",
+        "Həyati",
+        "Mütləq",
+        "Nisbi",
+        "Əməliyyat lazımdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "172. Bu kəskin xəstəliklərdən hansı cərrahi əməliyyata mütləq göstərişdir?",
+      "options": [
+        "Bunların hamısı",
+        "Boğulmuş yırtıqlar",
+        "Bağırsaq keçməzliyi",
+        "Mədə xorasının deşilməsi",
+        "Məlum və naməlum mənşəli peritonit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "173. Əməliyyata nisbi göstəriş nədir?",
+      "options": [
+        "Xroniki davam edən və müalicəsi cərrahi yolla olan xəstəliklər",
+        "Qarındaxili qanaxma",
+        "Peritonit",
+        "Döş qəfəsi üzvlərinin xəstəlikləri",
+        "Qarın boşluğu üzvlərinin kəskin cərrahi xəstəlikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "174. Bu vəziyyətlərdən hansı cərrahi əməliyyata mütləq əks göstərişdir?",
+      "options": [
+        "Bu vəziyyətlərin hamısı",
+        "Ağır dərəcəli şok",
+        "Miokard infarktı",
+        "Beyin qan dövranının kəskin pozulması",
+        "Anuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "175. Cərrahi əməliyyata təyin olunan xəstə üçün hansı epikriz yazılmalıdır?",
+      "options": [
+        "Əməliyyatönü epikriz",
+        "Daxil olma epikrizi",
+        "Etaplı epikriz",
+        "Köçürmə epikrizi",
+        "Evə yazılma epikrizi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "176. Əməliyyat önü epikrizdə hansı göstəricilər öz əksini tapmalıdır?",
+      "options": [
+        "Bunlarin hamısı",
+        "Tam təstiq olunmuş diaqnoz",
+        "Əməliyyata göstəriş və əks göstərişlər",
+        "Əməliyyat önü hazırlıqlar",
+        "Əməliyyat planı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "177. Ümumi vəziyyəti yüngül olan xəstələrdə cərrahi əməliyyatın həyat üçün təhlükəliliyi neçə bal təşkil edir?",
+      "options": [
+        "0,5",
+        "0,1",
+        "1",
+        "1,5",
+        "2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "178. Ümumi vəziyyəti ağır olan xəstələrdə əməliyyatın həyat üçün təhlükəliliyi neçə balla qiymətləndirilir?",
+      "options": [
+        "2",
+        "1",
+        "1,5",
+        "2,5",
+        "3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179. Xəstənin vəziyyəti ümüdsüz olduqda əməliyyatın həyat üçün təhlükəliliyi neçə bala bərabərdir?",
+      "options": [
+        "6",
+        "2",
+        "4",
+        "8",
+        "10"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "180. Daxili üzvlərdə, fəqərələrdə, səthi sinir və damarlarda aparılan ağır əməliyyatların həyat üçün təhlükəliliyi neçə bal ola bilər?",
+      "options": [
+        "1",
+        "0,5",
+        "3",
+        "5",
+        "7"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "181. Süni qan dövranı şəraitində aparılan əməliyyatlar və üzvlərin köçürülməsi zamanı əməliyyatın təhlükəliliyi neçə balla qiymətləndirilir?",
+      "options": [
+        "2,5",
+        "1",
+        "1,5",
+        "2",
+        "3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182. Müasir traxeya daxili ümumi ağrısızlaşdırmanın həyat üçün təhlükəliliyi neçə balla qiymətləndirilir?",
+      "options": [
+        "1,5",
+        "0,5",
+        "1",
+        "2",
+        "3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "183. Cərrahi əməliyyatın və ağrısızlaşdırmanın həyat üçün təhlükəliliyi nə ilə təyin edilir?",
+      "options": [
+        "Balla",
+        "Qanitirmənin həcmi ilə",
+        "Üzvün kəsilib götürülməsi ilə",
+        "Əməliyyatın davam etmə müddəti ilə",
+        "Ağrısızlaşdırmanın yetərsizliyi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "184. Cərrahi əməliyyat sahəsi necə hazırlanmalıdır?",
+      "options": [
+        "Tüklər mütləq təmizlənməlidir",
+        "Tükləri təmizləmək lazım deyil",
+        "Kifayətdir ki yodla silinsin",
+        "Mütləq spirtlə silinməlidir",
+        "Tükləri təmizləmədən efirlə silinməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "185. Xəstəni cərrahi əməliyyata hazırlanarkən bunlardan hansı lazım deyil?",
+      "options": [
+        "Çoxlu qida və maye qəbul etməlidir",
+        "Qida və maye qəbulu olmaz",
+        "Təmizləyici imalə mütləq lazımdır",
+        "Əməliyyat sahəsinin tükləri təmizlənməlidir",
+        "Xəstə yuyunmalı və əyin paltarları dəyişdirilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "186. Əməliyyat önü hazırlıqda bunlardan hansı daha vacibdir?",
+      "options": [
+        "Bunların hamısı vacibdir",
+        "Sidik kisəsinin boşaldılması",
+        "Mədəyə zond yeridilməsi",
+        "Sidik kisəsinə kateter salınması",
+        "Əməliyyat sahəsinin tüklərinin təmizlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "187. Cərrahi əməliyyata təsadüfü köməkçilər niyə cəlb olunmur?",
+      "options": [
+        "Kömək etməyi bacarmırlar, cərrahın işinə mane olurlar",
+        "Onlar əməliyyatı özləri aparmaq istəyir",
+        "Çox yaxşı kömək edirlər",
+        "Çox danışırlar",
+        "Cərrahın yerini daraldırlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "188. Təxirə salınmaz əməliyyat haçan içra oluna bilər?",
+      "options": [
+        "Günün istənilən saatında",
+        "Yalnız gündüz",
+        "Yalnız gecə",
+        "Səhər tezdən",
+        "Günbatanda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189. Planlı əməliyyata hazırlanan xəstədə nəyə görə təxirəsalınmaz əməliyyata ehtiyyac yaranır?",
+      "options": [
+        "Həyat üçün təhlükəli fəsadlar yarandıqda",
+        "Xəstənin istəyi ilə",
+        "Cərrahın istəyi ilə",
+        "Müalicə vaxtını qısaltmaq üçün",
+        "Fəsadların qarşısını almaq üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. Bu xəstəliklərdən hansı təxirə salınmaz əməliyyata göstəriş deyil?",
+      "options": [
+        "Dalağın böyuməsi",
+        "Qarın boşluğu üzvlərinin kəskin cərrahi xəstəlikləri",
+        "Döş boşluğu üzvləri açıq zədələnmələri",
+        "Parenximatoz üzvlərin cırılması və davam edən qanaxma ilə qapalı zədələnmələr",
+        "Sidik kisəsinin cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "191. Təcili cərrahi əməliyyat xəstə klinikaya daxil olduqdan sonra nə müddətdə icra edilməlidir?",
+      "options": [
+        "1 həftə",
+        "3 gün",
+        "10 gün",
+        "2 həftə",
+        "3 həftə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "192. Planlı cərrahi əməliyyat xəstə daxil olduqdan sonra nə müddətdə aparılmalıdır?",
+      "options": [
+        "2 həftədən sonra",
+        "2 gün sonra",
+        "5 gün sonra",
+        "4 həftədən sonra",
+        "6 həftədən sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "193. Bunlardan hansı icra məqsədinə görə əməliyyatdır?",
+      "options": [
+        "Müalicə və diaqnostik əməliyyatlar",
+        "Təxirəsalınmaz",
+        "Təcili",
+        "Planlı",
+        "Təkrari əməliyyatlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194. Palliativ əməliyyatın mahiyyəti nədir?",
+      "options": [
+        "Xəstəni tam sağaltmır, ancaq yaşayış keyfiyyətini yaxşılaşdırır",
+        "Xəstəni tam sağaldır",
+        "Xəstənin yaşayış keyfiyyətini pişləşdirir",
+        "Xəstəyə heç bir köməklik etmir",
+        "Xəstənin vəziyyətini ağırlaşdırır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "195. Bu əməliyyatlardan hansı palliativdir?",
+      "options": [
+        "Qastrostomiya",
+        "Appendektomiya",
+        "Yırtığın ləğvi",
+        "Xolisistektomiya",
+        "Strumektomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "196. Palliativ əməliyyat aparmaq lazımdırmı?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Bəzən hə, bəzən yox",
+        "Nadir hallarda lazım deyil",
+        "Nadır hallarda lazımdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "197. Diaqnostik əməliyyata göstəriş nədir?",
+      "options": [
+        "Bütün müayinə üsullarını tətbiq etməklə diaqnozun qoyulmasının qeyri mümkünlüyü",
+        "Xəstənin istəyi",
+        "Cərrahın diaqnostik səhvi",
+        "Valideyinlərin təkidi",
+        "Cərrahi əməliyyatdan cərrahın imtinası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198. Neçə mərhələli əməliyyatlar tanıyırsınız?",
+      "options": [
+        "Bunların hamısı",
+        "Birmərhələdə",
+        "İkimərhələdə",
+        "Üçmərhələdə",
+        "Beş mərhələdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199. Nədir müştərək (simultan) əməliyyat?",
+      "options": [
+        "Bir əməliyyatla 2-3 patoloji ocağın ləğv edilməsi",
+        "Əməliyyatın mərhələlərlə bölünməsi",
+        "Əməliyyatın 3 mərhələdə tamamlanması",
+        "Əməliyyatın təkrari aparılması",
+        "Əməliyyatın beşmərhələdə yekunlaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "200. Nədir tipik cərrahi əməliyyat?",
+      "options": [
+        "Bir xəstəliyə görə təsdiqlənmiş texnika ilə əməliyyat",
+        "Əməliyyatın texniki icrasının yarısını yerinə yetirmək",
+        "Əməliyyatı mərhələlərlə yerinə yetirmək",
+        "Əməliyyatı təkrari aparmaq",
+        "Əməliyyatı aşağı texniki səviyyədə icra etmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "201. Xəstənin hansı vəziyyətində cərrahi əməliyyat icra oluna bilməz?",
+      "options": [
+        "Ayaqüstə",
+        "Arxası üstə",
+        "Boyrüüstə",
+        "Üzüüstə",
+        "Trendelenburq vəziyyətində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202. Üzvün xəstə hissəsinin çıxarılması necə adlanır?",
+      "options": [
+        "Rezeksiya",
+        "Stoma",
+        "Anastomoz",
+        "Ayırma",
+        "Birləşdirmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "203. Əməliyyat aparılan boşluğun infeksiyalaşma dərəcəsindən asılı olarq hər bir cərrahi əməliyyatın yekun mərhələsi necə tamamlanmalıdır?",
+      "options": [
+        "Göstərişlər olduqda bunların hamısı məqbuldur",
+        "Cərrahi kəsik yarası qat-qat tikilməlidir",
+        "Yara kanalında rezin buraxıcı saxlamaqla yaranı tikməlidir",
+        "Yara hissəvi tikilməlidir",
+        "Yaraya seyrək tikişlər qoymalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "204. Əməliyyatdan sonrakı dövrdə irinli fəsadların qarşısını almaq üçün əməliyyat zamanı cərrah nə etməlidir?",
+      "options": [
+        "Bunların hamısını etməlidir",
+        "Toxumalara əlavə zədə yetirməməlidir",
+        "Yara kanalını aseptiklərlə nəmləndirilmiş tənziflə örtməlidir",
+        "Əməliyyatın mərhələsinə uyğun əlcəklərini dəyişməlidir",
+        "Irinli ocağın möhtəviyyatını yaymadan sorucu ilə xaric etməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "205. Əməliyyatın gedişində irinləmənin qarşısını almaq üçün tibb bacısı nə etməməlidir?",
+      "options": [
+        "İrinli möhtəviyyatla bulanmış aləti təmizləmədən cərraha verməlidir",
+        "Əməliyyatdan əvvəl birinci yuyunmalıdır",
+        "Mikrobsuzlaşdırılmış xalat, maska geyinib, əməliyyat stolunu hazırlamalıdır",
+        "Əməliyyata lazım olan alətləri tikiş materialları hazırlamalıdır",
+        "Əməliyyata hazırlığı təmin etməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "206. Əməliyyatdan sonrakı dövr haçandan başlayır?",
+      "options": [
+        "Əməliyyat qurtardıqdan sonra başlayaraq evə yazılana qədər davam edir",
+        "Xəstənin daxil olduğu gündən",
+        "Müayinəyə başladığı vaxtdan",
+        "Reanimasiyada yatdığı gündən",
+        "Reanimasiyadan şöbəyə yazıldığı vaxtdan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207. Əməliyyatdan sonrakı ilk dövrdə 6-12 saat ərzində xəstəyə hansı yardım olmamalıdır?",
+      "options": [
+        "Dərhal ağızdan qidalandırılmalıdır",
+        "Ağrıkəsici verilməlidir",
+        "Hemodinamika nəzarətdə saxlanılmalıdır",
+        "Tənəffüs fəaliyyətinə nəzarət etməlidir",
+        "Sidik ifrazı tənzimlənməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "208. Cərrahi əməliyyatdan sonra aşağı ətraf damarlarında hansı fəsad törənə bilər?",
+      "options": [
+        "Dərin venaların tromboflebiti",
+        "Aterosklerozun inkişafı",
+        "Endarteriintin inkişafı",
+        "Limfostaz",
+        "Venoz qapaqlarının çatmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "209. Ağciyər arteriyasının trombemboliyası hansı formaları mövcuddur?",
+      "options": [
+        "Bu formaların hər biri",
+        "İldırımsürətli",
+        "Kəskin",
+        "Yarımkəskin",
+        "Xroniki"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "210. Ağciyər arteriyası trombemboliyasının profilaktikası üçün nə etmək lazımdır?",
+      "options": [
+        "Bunların hamısını etmək lazımdır",
+        "Aşağı ətraf elastiki bintlə sarılmalıdır",
+        "Əməliyyatdan sonra xəstələr xeyli aktivləşdirilir",
+        "Qanın laxtalanması və reologiyası tənzimlənməlidir",
+        "Aşağı dozada antikoaqulyant verilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "211. Əməliyyatdan sonra oma dərisi nahiyyəsində hansı fəsad inkişaf edə bilər?",
+      "options": [
+        "Yataq yarası",
+        "Şiş",
+        "Qanaxma",
+        "Yanıq",
+        "Donma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "212. Zədələnmə nədir?",
+      "options": [
+        "Zərbə nəticəsində toxuma və üzvlərin anatomik quruluşunun və fizioloji fəaliyyətinin pozulmasıdır",
+        "İnkişaf qüsurudur",
+        "Üzvün xeyli böyüməsidir",
+        "Üzvün fəaliyyətinin artmasıdır",
+        "Üzvün fəaliyyətinin tam itirilməsidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "213. Hərəkət-müvazinət üzvlərinin anadangəlmə inkişaf və qazanılma qüsurlarını öyrənən elm necə adlanır?",
+      "options": [
+        "Ortopediya",
+        "Travmotologiya",
+        "Artrodez",
+        "Kosmetologiya",
+        "Artrologiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "214. Travmatizm nədir?",
+      "options": [
+        "Müəyyən vaxt ərzində bir bölgədə baş verən zədələnmələrdir",
+        "1 ay ərzində xəstəxanaya daxil olan xəstələrin cəmidir",
+        "6 ay müddətində şəhərdə baş verən zədələnmələrin sayıdır",
+        "8 ay ərzində törənən dəmiryol qəzasıdır",
+        "10 ay müddətində baş verən avtomobil qəzasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "215. Qarın böşluğu üzvlərinin açıq və qapalı zədələnmələri ilə kim məşğul olmalıdır?",
+      "options": [
+        "Ümumi cərrahlar",
+        "Terapevtlər",
+        "Nervopatoloqlar",
+        "Neyrocərrahlar",
+        "Travmotoloqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "216. Kəllə-beyni zədələnmələrinin diaqnostikası və müalicəsi ilə kim məşğul olmalıdır?",
+      "options": [
+        "Neyrocərrahlar",
+        "Köks cərrahları",
+        "Ümumi cərrahlar",
+        "Damar cərrahları",
+        "Uroloqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "217. Bədənin qapalı zədələnmələrində boşluqlu üzvlər zədələnə bilərmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Zədələnmə olada bilər, olmayada bilər",
+        "Heç bir vaxt olmur",
+        "Bəzən olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "218. Bunlardan hansı zədələnmə ilk dövrü zamanı müşahidə olunan fəsad deyil?",
+      "options": [
+        "Osteomielit",
+        "Tənəffüs çatmazlığı",
+        "Qanaxma",
+        "Şok",
+        "Daxili üzvlərin cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "219. Əhali arasında zədələnmələrdən ölüm neçənci yerdə dayanır?",
+      "options": [
+        "2-ci",
+        "1-ci",
+        "3-ci",
+        "4-ci",
+        "5-ci"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "220. Mexaniki zədələrin hansı növü olur?",
+      "options": [
+        "Hər ikisi (həm açıq, həmdə qapalı)",
+        "Açıq",
+        "Qapalı",
+        "Heç biri",
+        "Olması şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "221. İstehsalat zədələnmələri əməyin mühafizəsi qaydalarına əməl etmədikdə törənirmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Törənədə bilər, törənməyədə",
+        "Nadir hallarda",
+        "Əksər hallarda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "222. Bunlardan hansı zədələnmə səbəbi deyil?",
+      "options": [
+        "Yataqda yuxulama",
+        "Mexaniki təsir",
+        "Kimyəvi madələrlə təmas",
+        "Elektrik cərəyan ilə əlaqə",
+        "Şüa təsiri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "223. Hansı zədə açıq sayılır?",
+      "options": [
+        "Dəri və selikli qişaların tamlığının pozulması ilə olan",
+        "Qaraciyərin cırılması",
+        "Sidik kisəsin cırılması",
+        "Arteriya və venaların əzilməsi",
+        "Əzələlərin qopması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "224. Bu səbəblərdən hansı daha çox zədəyə səbəb olur?",
+      "options": [
+        "Mexaniki",
+        "Termiki",
+        "Kimyəvi",
+        "Elektrik",
+        "Yüksək atmosfer təzyiqi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225. Bunlardan hansı zədənin erkən fəsadıdır?",
+      "options": [
+        "Şok, qanaxma",
+        "Sepsis",
+        "Osteomielit",
+        "Artrit",
+        "Süzgəclərin yaranması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "226. Bunlardan hansı zədənin yaxın fəsadıdır?",
+      "options": [
+        "Peritonit, plevrit, sepsis",
+        "Qanaxma, tənəffüs çatmazlığı",
+        "Ağciyərin və qaraciyərin cırılması",
+        "Osteomielit, süzgəclər",
+        "Heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "227. Bunlardan hansı zədənin uzaq fəsadıdır?",
+      "options": [
+        "Osteomielit",
+        "Şok",
+        "Qanaxma",
+        "Bağırsaq deşilməsi",
+        "Sidik kisəsinin cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228. Nədir sadə zədə?",
+      "options": [
+        "Bir üzvünm zədələnməsi",
+        "İki üzvün zədələnməsi",
+        "Üç üzvün zədələnməsi",
+        "Çoxsaylı üzvlərin zədələnməsi",
+        "Sadə zədə olmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229. Nədir sadə zədə?",
+      "options": [
+        "Bir üzvün yaxud onun hissəsinin zədələnməsi",
+        "Bir neçə üzvün zədələnməsi",
+        "Döş dəfəsi üzvlərinin zədələnməsi",
+        "Yuxarı ətrafın zədələnməsi",
+        "Çanağ üzvlərin zədələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "230. Bunlardan hansı boşluğa keçən yara deyil?",
+      "options": [
+        "Qabırğaarası əzələrin parietal plevraya qədər uzanan yarası",
+        "Qaraciyərin yarası",
+        "Ağciyərin yarası",
+        "Bağırsağın yarası",
+        "Sidik kisəsinin yarası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "231. Bilavasitə zədələnmə nədir?",
+      "options": [
+        "Mexaniki təsir olan yerdə hüceyrə və toxumanın tamlığının pozulması",
+        "Zədədən əks tərəfdə yerləşmiş toxumaların əzilməsi",
+        "Lüləli sümüklərin sınması",
+        "Yastı sümüklərin sınması",
+        "Aortanın cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232. Kəskin zədə haçan törənir?",
+      "options": [
+        "Bilavasitə mexaniki təsir zamanı",
+        "1 gün sonra",
+        "5 gün sonra",
+        "7 gün sonra",
+        "10 gün sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "233. Xroniki zədə haçan yaranır?",
+      "options": [
+        "Uzun müddətli yaxud təkrari mexanik zədələnmələr nəticəsində",
+        "Kəskin mexaniki zərbədən sonra",
+        "Qısa müddətli mexaniki zərbədən sonra",
+        "Xroniki zədə ümumiyyətlə yaranmır",
+        "Nadir hallarda yaranır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "234. Zədələnmənin ağırlığı hansı amillərdən asılıdır?",
+      "options": [
+        "Bunların hamısından",
+        "Mexaniki təsirin gücündən",
+        "Təsirin dəvamiyyətindən",
+        "Mexaniki təsirə məruz qalan üzvün anatomo-fizioloji xüsusiyyətlərindən",
+        "Boşluqlu üzvün mənfəzinin dolu olmasından"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "235. Bunlardan hansı müştərək zədə deyil?",
+      "options": [
+        "Baş beyinin əzilməsi",
+        "Baş beyinin əzilməsi-çanaq sümüklərinin sınığı",
+        "Döş və qarın boşluğu üzvlərinin zədələnməsi",
+        "Baş beyin və döş qəfəsinin əzilməsi",
+        "Qarın boşluğu üzvlərinin cırılması, bud, baldır sümüklərinin sınığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "236. Nəyə görə ağır zədələnmələri hər tərəfli müayinə etmək imkanı yoxdur?",
+      "options": [
+        "Vaxt məhdudiyyətinə görə",
+        "Həkimin ixtisaslaşma dərəcəsinə görə",
+        "Dəqiq müayinəyə ehtiyyac yoxdur",
+        "Maddi imkan yoxdur",
+        "Xəstəxananın şəraiti imkan vermir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "237. Fəsadlaşmış zədələnmələr ola bilərmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Olada bilər, olmayada bilər",
+        "Hadir hallarda",
+        "Çox nadir təsədüfdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "238. Zədələnmənin gecikmiş fəsadı hansıdır?",
+      "options": [
+        "Yaranın irinləməsi",
+        "Tənəffüs çatmazlığı",
+        "Qanaxma",
+        "Şok",
+        "Həyati əhəmiyyətli üzvün cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "239. Zədələnmənin erkən fəsadı hansıdır?",
+      "options": [
+        "Tənəffüs çatmazlığı",
+        "Peritonit",
+        "Plevrit",
+        "Sepsis",
+        "Yaranın irinləməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "240. Bunların hansı müştərək zədədir?",
+      "options": [
+        "Bud sümüyünün, çanaqın sınığı və sidik kisəsinin cırılması",
+        "Beyin silkələnməsi",
+        "Dalağın cırılması",
+        "Mil sümüyünün sınığı",
+        "Döşün yumuşaq toxumalarının əzilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "241. Bunların hansı qarışıq zədədir?",
+      "options": [
+        "Budun yumuşaq toxumasının cırılması və termiki yanığı",
+        "Beyin əzilməsi",
+        "Hematoraks",
+        "Bazu çıxığı",
+        "Aşıq daban oynağının gərilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "242. Hansı üzvün zədələnməsi səthi zədə sayılır?",
+      "options": [
+        "Qarın dərisində sıyrıntı və qansızma",
+        "Bud sümüyünün sınığı",
+        "Qaraciyərin cırılması",
+        "Dalağın cırılması",
+        "Sidik kisəsinin cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "243. Bunların hansı xroniki zədədir?",
+      "options": [
+        "Əlin ovuc səthində döyənək",
+        "Kəsilmiş təzə yara",
+        "Diz oynağının əzilməsi",
+        "Əzələarası hematoma",
+        "Saidin dərisinin termiki yanığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244. Zədələnmişlərə ilk yardımı kim göstərə bilər?",
+      "options": [
+        "Bunların hamısı",
+        "Zədələnmə törənən sahəyə yaxın ailə üzvləri, adi vətəndaşlar",
+        "Polis işçiləri",
+        "Yanğın söndürən dəstənin üzvləri",
+        "Sürücülər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "245. Zədələnmişin hansı vəziyyəti daha qorxuludur?",
+      "options": [
+        "Məcburi",
+        "Fəsadsız",
+        "Huşsuz",
+        "Qeyri-fəal",
+        "Normal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "246. Kəllə beyni zədələnmələrində huşun hansı vəziyyətdə olması ölüm təhlükəsindən xəbər verir?",
+      "options": [
+        "Huşun tam itməsi, bəbəklərin bərabər genişlənməsi, işığa reaksiyasının olmaması",
+        "Huşun tam aydınlığı",
+        "Huşun yüngül dərəcədə pozulması",
+        "Huşun səpor tipli pozulması",
+        "Huşun koma tipli pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247. Cırılma zamanı bu üzvlərdən hansının tamlığını pozulmaya bilər?",
+      "options": [
+        "Dəri örtüyü",
+        "Əzələ",
+        "Vətər",
+        "Bağlar",
+        "Oynaq kisəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248. Hansı vətərlər cırılmaya daha çox məruz qalır?",
+      "options": [
+        "Axil vətəri",
+        "Barmaqların açıcı əzələlərinin vətərləri",
+        "Bazunun ikibaşlı əzələsi uzun başın vətəri",
+        "Budun dördbaşlı əzələsinin vətəri",
+        "Bunların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249. Bunlardan hansı başın qapalı kəllə-beyin zədələnməsinə aiddir?",
+      "options": [
+        "Hamısı birlikdə yaxud ayrı-ayrılıqda",
+        "Yumuşaq toxumaların əzilməsi",
+        "Kəllə skeletinin sümüklərinin sınığı",
+        "Beyin toxumasının zədələnməsi",
+        "Beynin əzilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "250. Bunlardan hansı beyindaxili hematoma deyil?",
+      "options": [
+        "Başın yumuşaq toxumasının hematoması",
+        "Peridural hematoma",
+        "Subdural hematoma",
+        "Mədəcikdaxili hematoma",
+        "Beyin toxuması daxili hematoma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251. Beyindaxili hematomanın əsas əlaməti hansıdır?",
+      "options": [
+        "Anizokariya",
+        "Kəskin baş ağrısı",
+        "Huşun itməsi",
+        "Mədə bulanması",
+        "Qusma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "252. Beynin əzilməsi üzvü dəyişiklikdirmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Sayılada bilər, sayılmayada",
+        "Nadir hallarda olur",
+        "Bəzən olmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "253. Onurğa beyninin boyun səviyyəsində zədələnməsinin əsas əlamətləri hansıdır?",
+      "options": [
+        "Hər iki yuxarı və aşağı ətrafın hərəkətsizliyi (tetraplekiya)",
+        "Nəbzin sürətlənməsi",
+        "Qusma",
+        "Qarında köp",
+        "Huşun itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "254. Onurğa beyninin aşağı döş və bel səviyyəsində zədələnməsinin əsas əlaməti hansıdır?",
+      "options": [
+        "Hər iki aşağı ətrafın hərəkətsizliyi (paraplekiya)",
+        "Huşun itməsi",
+        "Qarında ağrı",
+        "Anuriya",
+        "Qusma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255. Diafraqmanın sağ kümbəzi cırılıqda hansı üzv plevra boşluğuna keçə bilər?",
+      "options": [
+        "Qaraciyər",
+        "Sağ böyrək",
+        "Mədəaltı vəz",
+        "Dalaq",
+        "Sol böyrək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256. Plevra boşluğuna havanın yığılması necə adlanır?",
+      "options": [
+        "Pnevmotoraks",
+        "Hidrotoraks",
+        "Hemotoraks",
+        "Xilotoraks",
+        "Piotoraks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257. Açıq pnevmotoraksda ilk yardım necə göstərilməlidir?",
+      "options": [
+        "Döş yarası üzərinə yağlı sarğı qoyub açıq pnevmotoraksı qapalıya çevirmək lazımdır",
+        "Mədəyə zond yeridilməli",
+        "Vena daxili məhlullar köçürməli",
+        "Yaranı genişləndirmək",
+        "Plevra boşluğuna drenaj yeritmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "258. Ağır dərəcəli beyin əzilməsində huş neçə müddətdə itir?",
+      "options": [
+        "Bir neçə gün (4-7)",
+        "10 gün",
+        "15 gün",
+        "20 gün",
+        "30 gün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259. Bunlardan hansı pnevmotoraks növü deyil?",
+      "options": [
+        "Havanın diafraqmanın kümbəzinin altına toplanması",
+        "Açıq",
+        "Qapalı",
+        "Qapaqlı",
+        "Gərgin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "260. Gərgin pnevmotoraks açıq pnevmotoraksa çevrildikdən sonra 24-48 saat plevra boşluğundan hava fasiləsiz xaric olarsa nə etməli?",
+      "options": [
+        "Cərrahi əməliyyat aparıb-bronxial suzgəc qapamaq lazımdır",
+        "Gözləməli",
+        "Əlavə drenaj yeritməli",
+        "Xəstənin intubasiya edib süni tənəffüs aparatına qoşmalı",
+        "Antibiotiklər vurulmalı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "261. Döş qəfəsinin küt zədələnməsində baş bronx traxeyadan qopub aralandıqda nə etmək lazımdır?",
+      "options": [
+        "Əməliyyat aparıb traxeya-bronx anastomozu qoymaq",
+        "Pnevmoektomiya",
+        "Lobektomiya",
+        "Bilobektomiya",
+        "Seqmentar rezeksiya etmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "262. Qarının bütün küt zədələnmələri qarın daxili qanaxma ilə nəticələnirmi?",
+      "options": [
+        "Yox",
+        "Hə",
+        "Nəticələnə bilərdə, bilməzdə",
+        "Hadir hallarda nəticələnir",
+        "Çox az nəticələnir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "263. Qarın daxili ikincili qanaxmanın səbəbi nədir?",
+      "options": [
+        "Parenximatoz üzvün seroz örtüyünün bir neçə gün sonra cırılması və kapsulaaltına toplanmış qanın",
+        "Müsariqə damarlarından qanaxma",
+        "12 barmaq bağırsağın xorasından qanaxma",
+        "Böyrəyin əzilməsi nəticəsində qanaxma",
+        "Aşağı boş venanın cırılması ilə əlaqədar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "264. Qarındaxili qanaxmanın diaqnozunu qoymaq üçün hansı müayinə üsulu yararsızdır?",
+      "options": [
+        "Qastroskopiya",
+        "Qarının ultrasəslə müayinəsi",
+        "Laparosintez",
+        "Laparoskopiya",
+        "Arxa taqdan qarına punksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "265. Qarının küt zədələnməsində qarın daxili qanaxma haradan ola bilər?",
+      "options": [
+        "Bunların hər birindən ayrı-ayrılıqda",
+        "Qaraciyərdən",
+        "Dalaqdan",
+        "Bağırsağın müsariqəsindən",
+        "Aşağı boş venadan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "266. Qarındaxili boşluqlu üzvün cırılması nəyə səbəb ola bilər?",
+      "options": [
+        "Peritonitə",
+        "Perikarditə",
+        "Plevritə",
+        "Paranefritə",
+        "Mediastinitə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "267. Qarının küt zədələnmələrində hansı əlamətlər boşluqlu üzvlərin zədələnməsinə şübhə törədir?",
+      "options": [
+        "Bu əlamətlərin hamısı",
+        "Ağrı",
+        "Qaraciyər kütlüyün itməsi",
+        "Sağ qabırğaaltı və epiqastral nahiyyədə qazın toplanması",
+        "Beldə ağrılar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "268. Uzunmüddətli sixilma sindromu neçə müddətə inkişaf edir?",
+      "options": [
+        "4-8 saat",
+        "10 dəqiqə",
+        "30 dəqiqə",
+        "10-20 saat",
+        "24 saatdan çox"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "269. Uzunmüddətli sıxılma sindromunda sıxılmadan kaudala doğru toxumalarda nə baş verir?",
+      "options": [
+        "Bunların hamısı ardıcıllıqla davam edir",
+        "Kapilyar qan dövranı dayanır",
+        "Toxumalarda hipoksiya başlayır",
+        "Metabolik turşuluq artır",
+        "Toxuma nekrozu yaranır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "270. Uzunmüddətli sıxılma sindromu ortadan götürüldükdən sonra nefronların kapilyarları nə ilə qapanıb kəskin böyrək çatmamazlığına səbəb olur?",
+      "options": [
+        "Mioqlobulinlə",
+        "Eritrositlərlə",
+        "Hemoqlobulinlə",
+        "Leykositlərlə",
+        "Trombositlərlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "271. Uzunmüddətli sıxılmadan azad olmuşlar xəstəxanaya hansı vəziyyətdə çatdırılmalıdır?",
+      "options": [
+        "Xərəkdə uzanmış vəziyyətdə",
+        "Oturaq vəziyytdə",
+        "Özü yeriyib getməlidir",
+        "Ayaq üstə dayanmalıdır",
+        "Xəstəxanaya aparmağa lüzum yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "272. Uzunmüddətli sıxılmadan azad olduqdan sonra sağalma hansı əlamətlərlə təsdiqlənir?",
+      "options": [
+        "Bunların hamısı ilə",
+        "Xəstənin vəziyyəti yaxşılaşır",
+        "Qanda azot qalığının səviyyəsi enir",
+        "Sidik ifrazı artır",
+        "Toxuma ödemi və ağrı azalır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "273. Uzunmüddətli sıxılma sindromunda ciddi göstərişlərlə hansı erkən cərrahi əməliyyatlar aparılmalıdır?",
+      "options": [
+        "Bunların hamısı həyata keçirilməlidir",
+        "Sıxılmış ətrafa qoyulmuş turnadan kraniala amputasiya",
+        "Fassiotomiya",
+        "Nekrotomiya",
+        "Nekrektomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "274. Şok nədir?",
+      "options": [
+        "Bunların hamısının törətdiyi xəstənin ağır vəziyyətdir",
+        "Mikrosirkulyasiyanın kəskin pozulmasıdır",
+        "Üzv və sistemlərin fəaliyyət çatmazlığıdır",
+        "Toxuma hipoksiyasıdır",
+        "Metabolik pozuntudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "275. Şokun hansı növləri vardır?",
+      "options": [
+        "Bunların hamısı şokun növləridir",
+        "Kardiogen",
+        "Anafilaktik",
+        "Septik",
+        "Travmatik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "276. Şokun hansı mərhələləri var?",
+      "options": [
+        "Torpid",
+        "Erektil",
+        "Morbit, sorbit",
+        "Süst mərhələ",
+        "Polinevrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "277. Bu əlamətlərdən hansı şokun erektil fazası üçün səciyyəvidir?",
+      "options": [
+        "Bütün yuxarıda göstərilənlər",
+        "Nitq və hərəki oyanıqlıq",
+        "Kəskin ağrıdan şikayətlənmə",
+        "Dəri örtüklərinin avazıması",
+        "Nəbz sürətli olur, tənəffüs tezləşir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "278. Şokun torpid mərhələsinin neçə dərəcəsi var?",
+      "options": [
+        "Bu dərəcələrin hamısı",
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "279. Alqover indeksi nədir?",
+      "options": [
+        "Nəbzin sayı ilə sistolik təzyiq arasındakı mütənasiblikdir",
+        "Sistolik və diastollik təzyiq fərqidir",
+        "Venoz təzyiqlə-arterial təzyiq fərqidir",
+        "Venoz və limfatik təzyiq fərqidir",
+        "Aorta ilə ağciyər arteriyası arasında olan təzyiq fərqidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "280. Bu əlamətlər: dəri örtüyü kəskin avazıyıb, nəbz 120-130 vurğu; arterial təzyiq 90-70 mm.c.süt; venoz təzyiq 40 mm.c.süt, tənəffüs sayı 26-28 şokun tropid mərhələsinin neçənci dərəcəsi üçün səciyyəvidir?",
+      "options": [
+        "II",
+        "I",
+        "III",
+        "IV",
+        "Iva"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "281. Bu dəyişikliklərin hansı şokun patoloji anatomik mənzərəsini xatırladır?",
+      "options": [
+        "Bunların hamısı",
+        "Səthi toxumalarda qansızma",
+        "Daxili üzvlərdə çoxqanlılıq",
+        "Dərin toxumalarda ödem",
+        "Parenximatoz üzvlərdə degenerativ dəyişikliklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "282. Şokun müalicəsi necə aparılmalıdır?",
+      "options": [
+        "Bunların hamısı yerinə yetirilməlidir",
+        "Sinir sisteminin fəaliyyətini tənzimləyən dərmanlar təyin edilməlidir",
+        "Qan dövranı pozuntularına qarşı preparatlar verilməlidir",
+        "Təminedici xarici tənəffüsü bərpa etmək lazımdır",
+        "Hormonla preparatlar təyin edilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "283. Kliniki ölüm vəziyyəti nə qədər davam edir?",
+      "options": [
+        "5-6 dəqiqə",
+        "1-4 dəqiqə",
+        "7-10 dəqiqə",
+        "11-15 dəqiqə",
+        "16-30 dəqiqə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "284. Bayılma nədir?",
+      "options": [
+        "Beyinə qan axının zəifləməsi və huşun qısa müddətə itməsi",
+        "Ürəyə qan axının zəifləməsi",
+        "Ağciyərlərə qan axınının zəifləməsi",
+        "Qaraciyərə qan axınının zəifləməsi",
+        "Böyrəklərə qan axının zəifləməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "285. Bədən üfuqi vəziyyətindən şaquli vəziyyətə tez keçməsi zamanı törənən kollaps necə adlanır?",
+      "options": [
+        "Ortostatik",
+        "Hipostatik",
+        "Katostrofik",
+        "Hipertrofik",
+        "Atrofik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "286. Hansı vəziyyətə düşmüş xəstələrdə arterial qan təzyiqi düşür?",
+      "options": [
+        "Kollaps",
+        "Bayılma",
+        "Heç birində",
+        "Hər ikisində",
+        "Bayılmada düşə bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "287. Kollaps vəziyyətində xəstənin huşu aydın olurmu?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Olada bilər, olmayada bilər",
+        "Bəzən olur",
+        "Nadir hallarda olmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "288. Sınığı törədən səbəb mexaniki zərbədir yaxud sümük xəstəliyidir?",
+      "options": [
+        "Hər ikisidir",
+        "Heç biri deyil",
+        "Yalnız mexaniki zədədir",
+        "Yalnız sümük xəstəlikdir",
+        "Hər ikisi olada bilər, olmayada bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "289. Bədənin inkişaf dövrünə müvafiq hansı sınıqlar ola bilər?",
+      "options": [
+        "Qazanılma",
+        "İrsi",
+        "Anadangəlmə",
+        "Heç biri olmaz",
+        "Bəzən irsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "290. Travmatik sınıqlar yalnız mexaniki təsirindənmi törənir?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Törənədə bilər, törənməyədə",
+        "Nadir hallarda törənir",
+        "Nadir hallarda törənmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "291. Bu xəstəliklərdən hansı patoloji sınığa səbəb ola bilməz?",
+      "options": [
+        "Qastroenterit",
+        "Vərəm",
+        "Osteomielit",
+        "Şişlər",
+        "Parazitar xəstəliklər (exinokokk)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "292. Hansı sınığın infeksiyalaşması ehtimalı daha çoxdur?",
+      "options": [
+        "Açıq",
+        "Qapalı",
+        "Heç birinin",
+        "Hər ikisin",
+        "Bəzən qapalı sınıqların"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "293. Lüləli sümüklərdə hansı növ sınıq olmur?",
+      "options": [
+        "Tangensial",
+        "Epifizar",
+        "Diafizar",
+        "Metafizar",
+        "Oynaqdaxili"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "294. Bunlardan hansı natamam sınıq növüdür?",
+      "options": [
+        "Sümüküstlüyü altı",
+        "Kənarı",
+        "Çatşəkili",
+        "Bütün bunların hamısı",
+        "Heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "295. Bunlardan hansı sınıq xəttinə görə sınıq növüdür?",
+      "options": [
+        "Bunların hamısı",
+        "Köndələn",
+        "Pərçimlənmiş",
+        "Qəlpəli",
+        "Boylama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "296. Sayına görə hansı sınıq növləri mövcuddur?",
+      "options": [
+        "Bütün növlər",
+        "Tək",
+        "İkincili",
+        "Çoxsaylı",
+        "Heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "297. Sınmış ancaq yerdəyişməmiş sınıq ucları arasında diastaz neçə millimetr ola bilər?",
+      "options": [
+        "1-2 mm",
+        "3-5 mm",
+        "6-9 mm",
+        "10-11 mm",
+        "12-15 mm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "298. Sınmış sümük uclarının dərhal yerdəyişməsi birincili yerdəyişmədirmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Ikincilidir",
+        "Natamam yerdəyişmədir",
+        "Tamam yerdəyişmədir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "299. Sınmış sümük uclarının münasibətinə görə hansı yerdəyişmələr ola bilər?",
+      "options": [
+        "Bütün istiqamətlərdə",
+        "Bucaq altında",
+        "Yanlara doğru",
+        "Uclara doğru",
+        "Burulmuş vəziyyətdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "300. Bunlardan hansı mürəkkəb sınıqdır?",
+      "options": [
+        "Bütün bunların hamısı",
+        "İki və daha çox sınıq",
+        "Oynaq kisəsinin cırılması ilə sınıq",
+        "Oynaq bağlarının qopması ilə sınıq",
+        "Oynaq daxili sınıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "301. Bunlardan hansı sınığın təsdiqləyici yerli əlamətidir?",
+      "options": [
+        "Bütün bu əlamətlərin hamısı",
+        "Sınığın açıq olması",
+        "Sümük qəlpələrinin olması, krepitasiya",
+        "Ətrafda oynaqdan kənar patoloji hərəkətlilik",
+        "Ətrafın ölçülərinin gödəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "302. Sınıqlarda ilk yardım necə göstərilməlidir?",
+      "options": [
+        "Bütün bu tədbirlər göstərişlərlə yerinə yetirildikdən sonra xəstə travma mənfəzinə köçürülməlidir",
+        "Tənəffüs çatmazlığının qarşısı alınmalıdır",
+        "Qanaxma dayandırılmalıdır",
+        "Ağrı hissiyyatı götürülməlidir",
+        "Ətraf yaxud bədən bütövlükdə hərəkətsizləşdirilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "303. Aşağı ətrafın özəl təsbit etmək üçün sağlam ətrafı yaxşılaşdırıb zədələnmiş ətrafla bağlanması kifayətdirmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Kifayət edədə bilər, etməyədə",
+        "Nadir hallarda kifayət edir",
+        "Bəzən kifayət etmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "304. Yuxarı ətrafın sınıqlarında təsbitedici zədələnmiş yerə yaxın neçə oynağı əhatə etməlidir?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "Ətrafların bütün oynaqlarını",
+        "Bədənin bütün oynaqlarını"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "305. Başın və boyun fəqərələrinin zədələnmələrində hansı təsbitedici yararlıdır?",
+      "options": [
+        "Yelanski",
+        "Kramer",
+        "Diterixs",
+        "Havalı",
+        "Vakuum"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "306. Diterixs şinası olmadıqda aşağı ətraf 3 Kramer şinası ilə təsbit edilə bilərmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Edilədə bilər, edilməyədə bilər",
+        "Nadir hallarda edilə bilər",
+        "Bəzən edilməyədə bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "307. Fəqərələrin, çanağın, aşağı ətrafların çoxsaylı sınıqlarında xəsarət almış hansı təsbitedici ilə hərəkətsizləşdirilib köçürülə bilər?",
+      "options": [
+        "Xüsusi quruluşlu vakumlu xərəklərdə",
+        "Kramer şinası",
+        "Diterixs şinası",
+        "Yelanski şinası",
+        "Beler şinası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "308. Sınmış sümük ucları uyğunlaşdırıldıqdan sonra uclarını etibarlı fiksə etmək üçün hansı sarğıdan istifadə olunur?",
+      "options": [
+        "Gips sarğısı",
+        "Dezo sarğısı",
+        "Velpo sarğısı",
+        "Kramer şinası",
+        "Diterixs şinası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "309. Bunlardan hansı dartma ilə müalicə üsuludur?",
+      "options": [
+        "Skelet dartması",
+        "Gipslə dartma",
+        "Dəri üstü dartma",
+        "Bintlə dartma",
+        "Kramer şinası ilə dartma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "310. Skelet dartması hansı şinalarla həyata keçirilir?",
+      "options": [
+        "Beler",
+        "Kramer",
+        "Diterixs",
+        "Boqdano",
+        "Yelanski"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "311. Bud sümüyünün sınığında skelet dartması üçün Krişner mili haradan yeridilir?",
+      "options": [
+        "Bud sümüyünün epikondulusları səviyyəsində",
+        "Sınıqdan yuxarı bud sümüyündən",
+        "Sınıqdan aşağı bud sümüyündən",
+        "Baldır sümüyündən",
+        "Daban sümüyündən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "312. Bazu sümüyünün sınığında skelet dartması qoyarkən Krişner mili haradan yeridilməlidir?",
+      "options": [
+        "Mil-dirsək çıxıntı səviyyəsində",
+        "Dirsək sümüyündən",
+        "Mil sümüyündən",
+        "Saidin aşağı 1/3 nahiyyəsində",
+        "Daraq sümüklərindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "313. Bud sümüyünün sınığında yükün çəkisi bədən çəkisinin neçə faizini təşkil etməlidir?",
+      "options": [
+        "15%",
+        "3%",
+        "8%",
+        "20%",
+        "25%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "314. Sınıqların cərrahi müalicəsinə nisbi göstərişlər hansılardır?",
+      "options": [
+        "Bütün bunların hamısı",
+        "Sümük uclarının uyğunlaşdırılması qeyri-mümküm olduqda",
+        "Bitişmənin ləngiməsi və zəifliyi",
+        "Uyğunlaşdırılması çətin olan köndələn və ucların böyük yerdəyişməsi ilə sınıqlar",
+        "Ətrafın fəaliyyətini azda olsa pozan düzgün bitişməyən sınıqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "315. İntramedulyar osteosintezdə metal mil haraya yeridilir?",
+      "options": [
+        "Sümükiliyi kanalına",
+        "Sümüküstlüyü üstünə",
+        "Sümüküstlüyü altına",
+        "Sümüküstlüyü kanalına",
+        "Əzələ arası kanala"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "316. Bunlardan hansı intramedulyar osteosintezin çatmayan cəhətidir?",
+      "options": [
+        "Bunların hamısı",
+        "Sınmış sümüyə əlavə zədə",
+        "Sümük iliyinin kanal boyu dağılması",
+        "Metal milin təkrari əməliyyatla xaric edilməsi",
+        "İrinli fəsadların əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "317. Ekstramedulyar osteosintezdə metal və plastik lövhələr haraya qoyulur?",
+      "options": [
+        "Sümüküstlüyü üstünə",
+        "Sümük iliyi kanalına",
+        "Sümüküstlüyü altına",
+        "Oynaq kapsulasının üzərinə",
+        "Sinir-damar yatağına"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "318. İlk yardım zamanı sümüyü sınmış ətrafının kifayət qədər etibarlı təsbit edilməməsi hansı fəsadlara səbəb ola bilər?",
+      "options": [
+        "Bu fəsadlar hamısına səbəb ola bilər",
+        "Şokun güclənməsi",
+        "Sınmış sümük uclarının və qəlpələrin sinirləri, damarların daxili üzvlərin zədələnməsi",
+        "Qanaxma",
+        "İfliclərə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "319. Sınıq sağaldıqdan sonra gödəlmiş ətrafı sıxma dartma üsulu ilə uzatmaq mümkündürmü?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Mümkün olada bilər, olmayada bilər",
+        "Bəzi hallarda mümkün olmur",
+        "Çox nadir hallarda mümkün olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "320. Sınmış sümük birləşməsinin ikinci mərhələsi sümük döyənəyi neçə müddətə formalaşır?",
+      "options": [
+        "5 həftə",
+        "1-2 həftə",
+        "3-4 həftə",
+        "6-7 həftə",
+        "8-10 həftə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "321. Sümük döyənəyi hansı qatlardan ibarətdir?",
+      "options": [
+        "Bu qatların vəhdətindən ibarətdir",
+        "Sümük üstlüyü",
+        "Sümük toxuması",
+        "Havers kanallarından inkişaf edən aralıq qat",
+        "Ətraf toxumadan inkişaf edib sümük döyənəyini əhatə edən birləşdirici toxuma qatı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "322. Sınığın birləşməsində əsas rolu hansı toxuma oynayır?",
+      "options": [
+        "Sümük üstlüyü",
+        "Sümük iliyi",
+        "Sümük toxuması",
+        "Havers kanalı",
+        "Bunların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "323. Çıxıq oynaq səthlərinin yerdəyişməsidirmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Yerdəyişmə olada bilər, olmayada bilər",
+        "Nadir hallarda olmur",
+        "Bəzən yerdəyişmə olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "324. Bazu çıxığı neçə faiz müşahidə olunur?",
+      "options": [
+        "55%",
+        "10%",
+        "15%",
+        "45%",
+        "60%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "325. Bazu çıxığında oynaq başı hara yerini dəyişə bilər?",
+      "options": [
+        "Önə, aşağı",
+        "Yuxarı, arxaya",
+        "Dəyişməyədə bilər",
+        "Dəyişədə bilər",
+        "İçə tərəf"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "326. Adəti çıxıqlar daha çox hansı oynaqda olur?",
+      "options": [
+        "Bud-çanaq, çənə",
+        "Çənə, diz oynağı",
+        "Diz oynağı, dirsək oynağ",
+        "Bazu, aşıq daban",
+        "Aşıq daban, bud-çanaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "327. Törənmiş və müalicə olunmamış çıxıq neçə gündən sonra vaxtı ötmüş çıxıq adlanır?",
+      "options": [
+        "4 gündən 2-3 həftəyə qədər",
+        "1-2 gün",
+        "5 həftəyə qədər",
+        "6 həftəyə qədər",
+        "2 aya qədər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "328. Bu müayinə üsullarından hansı çıxıqların diaqnozunun qoyulmasında əhəmiyyət kəsb edir?",
+      "options": [
+        "Rentgen müayinəsi",
+        "Baxma",
+        "Perkusiya",
+        "Əlləmə",
+        "Auskultasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "329. Hansı fəsadın aşkarlanması üçün çıxmış oynağın rentgen şəkli mütləq lazımdır?",
+      "options": [
+        "Oynaq daxili sınığı aşkarlamaq üçün",
+        "Oynaq bağının çıxmasının təyin etmək üçün",
+        "Yanaşı iri damarların zədələnmələrini aşkarlamaq üçün",
+        "Yanaşı sinir kötüyünün zədələnməsini aşkarlamaq üçün",
+        "Oynağa yaxın sınığın olmasını aşkarlamaq üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "330. Bazu çıxığını yerinə salmaq üçün hansı üsul yoxdur?",
+      "options": [
+        "Piroqov",
+        "Hipokrat",
+        "Koxer",
+        "Mote",
+        "Canelidze"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "331. Dirsək oynağında hansı çıxıq növləri vardır?",
+      "options": [
+        "Ön, arxa",
+        "Yan, iç",
+        "Üst, alt",
+        "Alt, ön",
+        "Arxa, yan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "332. Bədəndə müşahidə olunan yaraların 96% hansı şəraitdə törənir?",
+      "options": [
+        "Bunların hamısında",
+        "Məişət",
+        "Idman",
+        "Nəqliyyat",
+        "Küçə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "333. Bunlardan hansı təzə yara əlamətidir?",
+      "options": [
+        "Qanaxma, ağrı, yara ağzının olması",
+        "Ağrı, qızartı, hərarət",
+        "Qızartı, ödem, qanaxma",
+        "Hematoma, ağrı, ödem",
+        "Yara ağzının olması, qızartı, ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "334. Törənmə səbəbinə görə hansı yaralar mövcuddur?",
+      "options": [
+        "Məqsədyönlü, təsadüfü",
+        "Açıq yara, qapalı yara",
+        "Təsadüfü, natamam",
+        "Spontan yara, patoloji yara",
+        "Qanaxan yara, limfaaxan yara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "335. Bunlardan hansı məqsədyönlü yara deyil?",
+      "options": [
+        "Təsadüfü",
+        "Tibbi",
+        "Qəsd",
+        "Intiqam",
+        "Intihar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "336. Bunlardan hansı yara növüdür?",
+      "options": [
+        "Bunların hamısı",
+        "Çapılmiş",
+        "Dişlənmiş",
+        "Zəhərlənmiş",
+        "Odlu silah"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "337. Kəsilmış yarada ağrı çox olur, yoxsa qanaxma?",
+      "options": [
+        "Qanaxma",
+        "Ağrı",
+        "Heç biri",
+        "Hər ikisi",
+        "Laxta çox olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "338. Didilmiş yaralarda toxumaların geniş sahədə dağılması düzdürmü?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Düz olada bilər,olmayada bilər",
+        "Nadir hallarda düz olur",
+        "Əksər hallarda düz olmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "339. Dişlənmiş yaralar necə törənir?",
+      "options": [
+        "Bunların hamısı dişlədikdə",
+        "İnsan",
+        "Ev heyvanları",
+        "Vəhşi heyvanlar",
+        "Gəmiricilər dişlədikdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "340. Dişlənmiş yara aqressiv itlər tərəfindən törədilərsə hansı infeksiyanın inkişafı labüddür?",
+      "options": [
+        "Quduzluq",
+        "Sifilis",
+        "Vərəm",
+        "Sepsis",
+        "Difteriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "341. Odlu silah yaralarında bu əşyalardan hansı yara kanalına keçə bilər?",
+      "options": [
+        "Bunların hamısı",
+        "Yağ çöküntüsü",
+        "Paltar parçası",
+        "Yad cisimlər",
+        "Bakteriyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "342. İnfeksiyalaşma ehtimalına görə yaranın hansı növləri mövcuddur?",
+      "options": [
+        "Bunların hamısı",
+        "Aseptik",
+        "Şərti aseptik",
+        "İfneksiyalaşmış",
+        "İrinli yara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "343. Yara səthində olan yad cisimlər xaric edildikdən və yuyulduqdan sonra yaranın sonrakı birincili işlənməsi hansı ardıcılıqla davam etdirilməlidir?",
+      "options": [
+        "Bunların hamısı göstərilən ardıcılıqla yerinə yetirilməlidir",
+        "Tüklərdən təmizləmiş yara ətrafına yod, spirt sürtməlidir",
+        "Yara ətrafı mikrobsuzlaşdırılmış mələfə ilə örtülməlidir",
+        "Yara kənarı ağrısızlaşdırılmalıdır",
+        "Yara səthinin kənarları dəridən başlayan 3-4 mm enində kəsilib götürülməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "344. Hansı yaralara tikiş qoymaq olmaz?",
+      "options": [
+        "Bu növ yaralarının heç birində",
+        "Təsədüffü yaranın yaramasından 24-48 saat ötdükdə",
+        "Dişlənmiş",
+        "Didilmiş",
+        "Nöyütlə çirklənmiş"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "345. İrinli yaraların müalicəsi necə aparılır? Hansı variant düzgün cavabdır? a) Yerli b) Ümumi c) Gecikmiş d) Erkən e) Təcili",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "a, d;",
+        "a, e;",
+        "d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "346. Termiki yanıqların neçə faizi qaynar mayelərlə törədilir?",
+      "options": [
+        "20%",
+        "5%",
+        "12%",
+        "18%",
+        "25%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "347. İkinci dərəcəli yanığın əlamətləri hansılardı?",
+      "options": [
+        "Bunların hamısı",
+        "Qızartı",
+        "Ödem",
+        "Suluq",
+        "Ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "348. Yanıq səthi hansı üsulla təyin edilir?",
+      "options": [
+        "Postnikov",
+        "Piroqov",
+        "Hipokrat",
+        "Burdenko",
+        "Mirqasımov"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "349. Doqquzlar qanununa görə kövdənin ön və arxa səthi neçə faizə bərabərdir?",
+      "options": [
+        "36%",
+        "15%",
+        "30%",
+        "40%",
+        "45%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "350. Yanıq xəstəliyin kliniki gedişi hansı dövrlərə bölünür?",
+      "options": [
+        "Bunların hamısı ardıcılıqla",
+        "Yanıq şoku",
+        "Kəskin yanıq toksemiyası",
+        "Septikotoksemiya",
+        "Rekovalesseniya (sağalma dövrü)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "351. Bədənin səthi və dərin yanıqlarının cəmi hansı əmsalla ifadə olunur?",
+      "options": [
+        "Frank",
+        "Piroqov",
+        "Topçubaşov",
+        "Canelidze",
+        "Koxer"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "352. Yanıq şokunun I-ci dərəcəsində hansı əlamətlər müşahidə olunur?",
+      "options": [
+        "Bu əlamətlərin hamısı müşahidə olunur",
+        "Yanıq səthində ağrı",
+        "Mərkəzi sinir sistemində oyanma",
+        "Nəbz 90 vurğu, arterial təzyiq normal",
+        "Sidik ifrazı azalır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "353. Yanıq şokunun III dərəcisində yanıqdan 1-3 saat keçdikdən sonra bədəndə hansı dəyişiklər yaranır?",
+      "options": [
+        "Mərkəzi sinir sistemdə ləngimə",
+        "Nəbz sapvari",
+        "Arterial təzyiq 80 mm civə sütüyündən aşağı düşür",
+        "Sidik ifrazı dayanır",
+        "Mədə bağırsaq sistemində parez yaranır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "354. Termiki yanıqlarda ilk yardım necə olmalıdır?",
+      "options": [
+        "Bütün bu tədbirlər ardıcılıqla yerinə yetirməlidir",
+        "Bədən termiki təsir göstərən amildən aralanmalıdır",
+        "Alov sahəsindən çıxarılmalı",
+        "Qaynar mayelərlə islatmış paltardan azad edilməlidir",
+        "Yanıq səthi soyudulmalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "355. II-ci dərəcəli yanıqların qapalı müalicəsində yanıq səthinə qoyulan sulu məlhəm sarğıları neçə gündən bir dəyişilir?",
+      "options": [
+        "2-3 gün",
+        "Gün aşırı",
+        "3-4 gün",
+        "6-7 gün",
+        "8 gündən sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "356. Yanıqların cərrahi müalicəsində nekrotomiyaya göstərişlər hansılardı? Hansı variant düzgün cavabdır? a) Nekroz toxuması ağır intoksikasiya törətdikdə və onun aralanması yubandıqda b) Qalın yanıq nekrozu aşağı ətrafın qan dövranın pozması c) Döş qəfəsini əhatə edən nekroz tənəfüsü məhdudlaşdıqda d) Səthi yanıqlar e) I dərəcəli yanıq",
+      "options": [
+        "a, b, c;",
+        "a, b, d;",
+        "a, b, e;",
+        "b, d, e;",
+        "c, d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "357. Qədimdə dəri ilə plastika üsulları harada aparılmışdı? Hansı variant düzgün cavabdır? a) İtaliya b) Hindistan c) Yunanıstan d) Afrika e) İran",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "a, d;",
+        "a, e;",
+        "b, d"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "358. Yanıq şokunun müalicəsində nə etmək lazım deyil?",
+      "options": [
+        "Təcili dəri plastikası aparılmalıdır",
+        "Ağrılar götürülməlidir",
+        "Hemodinamika tənzimlənməlidir",
+        "Plazma itkisin qarşısı alınmalıdır",
+        "Zədələnmiş üzv və sistemlərin fəaliyyəti bərpa olunmalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "359. Kimyəvi yanıqlarda ilk yardım necə olmalıdır? Hansı variant düzgün cavabdır? a) Kimyəvi maddə tökülən sahə 5-10 dəqiqə müddətində axar su ilə yuyulmalıdır b) Yanıq səthi neytrallaşdırıcı antidotlarların zəif məhlulu ilə yuyulmalıdır c) Boşluqlu üzvlərin mənfəzi yuyulmalıdır d) Yağlı qidalar yedizdirilməlidir e) Təmizləyici imalə olunmalıdır",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "a, d;",
+        "a, e;",
+        "d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "360. Bədənə daxil olmuş elektrik cərəyanın istilik təsiri necə təzahür edir?",
+      "options": [
+        "Bunların hamısı ilə",
+        "Cərəyanın giriş yerində dəridə nekrozla",
+        "Cərəyanın çıxış yerində dəri nekrozu ilə",
+        "Əzələlərin nekrozu",
+        "Sümük nekrozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "361. Elektrik cərəyanın mexaniki təsiri özünü necə birüzə verir? Hansı variant düzgün cavabdır? a) Dəri və toxumalar cırılır b) Ətraflar bədəndən qopub aralana bilər c) Anuriya yaranır d) Heç bir əlamət olmur e) Qara ciyərin fəaliyyəti pozulur",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "a, d;",
+        "a, e;",
+        "d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "362. Elektrik cərəyanın bədənə təsir etməkdə davam edərsə ilk yardım necə olmalıdır? Hansı variant düzgün cavabdır? a) Quru taxta cubuqla şəbəkədən dərhal aralanmalıdır b) Paltarından yapışıb cərəyan sahəsindən çıxarılmalıdır c) Reanimasiya tədbirləri görmək lazımdır d) Xəstəxanaya çatdırmaq lazımdır e) Yerində müalicə etmək lazımdır",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "a, d;",
+        "c, d;",
+        "d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "363. Donmanın gizli dövrü hansı əlamətlərlə təzahür edir? Düzgün olmayan cavab hansıdır?",
+      "options": [
+        "Dərin qaralması",
+        "Ağrı",
+        "Dərin qızarması",
+        "Hissiyatın itməsi",
+        "Dərin avazılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "364. Donmaların gecikmiş reaktiv dövrü neçə gündən sonra başlayır?",
+      "options": [
+        "5",
+        "2",
+        "3",
+        "4",
+        "6-7"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "365. Donmuş toxumaların arteriyalarında hansı dəyişikliklər inkişaf edir? Hansı variant düzgün cavabdır? a) İntima qatı qalınlaşır b) Damarın mənfəzi daralır c) Qan dövranı dayanır d) Arteriya ətrafı toxumalarda çoxqanlılıq yaranır e) Atereskleroz başlayır",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "b, c;",
+        "c, d;",
+        "d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "366. Donmaların yerli müalicəsində birincili işlənməsi necə aparılır? a) Donmuş nahiyyə spirtlə silinir b) Suluqlar əsasından kəsilib boşaldılır c) Sintomisin məlhəmi ilə aseptik sarğı qoyulur d) Donmuş nahiyyəyə antibiotik məhlulu yeridilir e) Gips sarğısı qoyulur",
+      "options": [
+        "a, b, c;",
+        "a, b, d;",
+        "a, b, e;",
+        "b, c, d;",
+        "c, d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "367. Sarğılar hansı qruplara bölünür? Hansı variant düzgün cavabdır? a) Yumşaq b) Bərk c) İsti d) Sıxıcı e) Qızdırıcı",
+      "options": [
+        "a, b;",
+        "a, c;",
+        "a, d;",
+        "a, e;",
+        "d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "368. Ləçək sarğısı ilə hansı nahiyyələrə qoyulan yara örtüyü təsbit edilir?",
+      "options": [
+        "Aralığa",
+        "Əl",
+        "Döşə",
+        "Pəncəyə",
+        "Barmağa"
+      ],
+      "correct": 0
+    }
+  ]
+}

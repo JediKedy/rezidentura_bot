@@ -1,0 +1,1412 @@
+{
+  "questions": [
+    {
+      "question": "1.Uşaq xəstəliklərinin yenidoğulan dövrünün fiziologiyası və patalogiyasını öyrənən bölməsi adlanır:",
+      "options": [
+        "Neonatologiya",
+        "embriologiya",
+        "perinatologiya",
+        "histoiogiya",
+        "prenatologiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Kimatogenezin dövrlərinin ardıcıllığı",
+      "options": [
+        "blastogenez, etbriogenez, erkən fetogenez, gec fetogenez",
+        "progenez, embriogenez, blastogenez,  fetogenez",
+        "embriogenez, blastogenez, fetogenez",
+        "blastogenez, embriogenez, gec fetogenez",
+        "fetogenez, blastogenez, embriogenez"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3.  Ebriopatiyanın klinik əlamətlərinə aiddir:",
+      "options": [
+        "Sindaktiliya",
+        "anadangəlmə hipotrofiya",
+        "hepatosplenomeqaliya",
+        "vaxtından əvvəl doğuş",
+        "Boru hamiləliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4.Embriopatiyanin klinik əlamətlərinə aid deyil:",
+      "options": [
+        "Fetal hepatit",
+        "üc kameralı ürək",
+        "polidaktiliya",
+        "iri damarların transpozisiyası",
+        "teratomalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Erkən fetopatiyaların kliniki əlamətlərinə aid deyil:",
+      "options": [
+        "Ağciyər  paylarının olmaması",
+        "traxeya-qida borusu  fistulası",
+        "bağırsaq burulmasının (dönməsinin ) başa catmaması",
+        "fibroelastoz",
+        "pilorostenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6.Erkən fetopatiyanın  klinik  əlamətlərinə  aiddir:",
+      "options": [
+        "endokordin fibroelastozu",
+        "12 barmaq bağırsağın atreziyası",
+        "diafraqmal yırtıq",
+        "anensefaliya",
+        "Omfalosele ( emdrional yırtıq)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Embriopatiyalara aiddir: 1) ückameralı ürək, ağciyərin ageneziyası, dovşandodaq: 2) uraxus, sindaktiliya, BDIL, hepatosplena 3) ückameralı ürək, ağciyərin ageneziyası, sindaktiliya 4) böyrəyin aplaziyası, uraxus, fetal hepatit 5) anadangəlmə bağırsaq atreziyası, sindaktiliya, Fallo-tetrada 6) iri damarların tromspoziyası, polidaktiliya, teratomalar",
+      "options": [
+        "3,5,6.",
+        "1,2,5.",
+        "1,3,4.",
+        "2,5,3.",
+        "2,3,6."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Embriopatiyalara aid deyil: 1) ağciyərin ageneziyası, sindaktiliya, fallo triadası 2) fetal hepatit, BDİL, vaxdından əvvəl doğuş 3) ückameralı ürək ,böyrəyin aplaziyası, mikroftalmiya 4) auınsefaliya, ikitərəfli katarakta, mədəciklər arası çəpərin qüsuru 5) oma, büzdüm və bel fəqərələrinin displaziyası, mikrosefaliya, anus və düz bağırsağın atreziyası 6) aya bənzər sifət, kardio-hepato -və splenomeqaliya , makrosomiya 7) Yenidoğulmuşun  hemorragik  xəstəliyi, hiperbilirubinemiya, doğuş vaxtı asfiksiya",
+      "options": [
+        "2, 6, 7,",
+        "1,3,6,",
+        "2,4,7,",
+        "2,3,5,",
+        "1,4,7:"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Gec fetopatiyanın klinik əlamətlərinə aiddir:",
+      "options": [
+        "Anadangəlmə hepatit",
+        "Şereşevski-Terner sindromu",
+        "hamiləliyin pozulması",
+        "ayrı-ayrı orqan və sistemlərin inkişaf qüsurları",
+        "boru hamiləliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Gec fetopatiyanın klinik əlamətlərinə aid deyil.",
+      "options": [
+        "Traxeya-qida borusu fistulası",
+        "anadangəlmə ensefalit",
+        "BDİL",
+        "fetal hepatit",
+        "bətndaxili pnevmoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Anadangəlmə ixtioza aiddir:",
+      "options": [
+        "İxdiozadənzər bullyar eritrodermiya . Vulqar ixtiox anadangəlmə ağır ftal ixtioz , ixtioza bənzər qeyri-bullyoz Brok eritrodermiyası",
+        "Vulqar ixtioz , sadə irsi bullyoz  epidermoliz, ixtiyozabənzər qeyri-bullyoz Brok eritrodermiyası,  Blox-Sultsberger sindromu",
+        "Anadangəlmə ağır fetal ixtioz-Arlekin dölü Sturge-Veber sindromu , deskvamativ  Leyner  eritrodermiyası",
+        "İxtiozabənzər bullyoz eritrodermiya, Vulqar  ixtiox, hiperplastik distrofik  bullyoz  epidermoliz, polidispastik distrofik bullyoz epidermoliz.",
+        "İchtiosis congenita tarda, sadə iris bullyoz epidermoliz, Sinir-dəri melanozu , anadangəlmə  piqment  ləkəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Anadangəlmə ixtioza aid deyil.",
+      "options": [
+        "Elers-Danlos sindromu , Cutis laksa sindromu, Blox-Sultsberger sindromu",
+        "İchtiosis congenita  tarda",
+        "Arlekin dölü",
+        "Lxtiozabənzər bullyoz eritrodermiya",
+        "Brok eritrodermiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14.Yenidoğulanlarda ABO sistemi üzrə konflikt  (YHX) baş verə bilər",
+      "options": [
+        "ananın qanı  0(I), uşaqda  A(II)   və ya B(III) olduqda",
+        "ananın qanı  A(II), uşaqda   A(II)  olduqda",
+        "ananın qanı  A(II), uşaqda  0(I)  olduqda",
+        "ananın qanı  B(III), uşaqda  0(I)  olduqda",
+        "ananın qanı  B(III), uşaqda  A(II)  olduqda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Nüvə sarılığının əlamətləri başlayırsa , hansı vacib tədbir görülməlidir:",
+      "options": [
+        "mübadilə qan köcürmələsi",
+        "fototerapiya",
+        "antibiotikoterapiya",
+        "albumin və plazmanın tətbiqi",
+        "5%-li qlükoza məhlulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16.Nüvə sarılığının əsas əlamətlərinin  inkişaf etdiyi  II fazaya uyğundur:",
+      "options": [
+        "“Qrefe” və ya” Batan günəş “ simptomu",
+        "parez və ifliclər",
+        "Diapeptik əlamətlər",
+        "Dispnoe",
+        "əksər fizioloji reflekslərin sönməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17.Perinatal dövr bölünür:",
+      "options": [
+        "antenatal , intranatal, postnatal",
+        "intranatal, neonatal , gec fetal",
+        "gec antenatal , neonatal, intranatal",
+        "erkən neonatal, gec neonatal",
+        "erkən fetal, gec fetal, neonatal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Anadangəlmə inkişaf qüsurlarının formaları:",
+      "options": [
+        "malformasiya, dizrupsiya, deformasiya, displaziya",
+        "malformasiya, dizrupsiya, hipoplazia ,displaziya",
+        "hipertrofiya, dizrupsiya, deformasiya, displaziya",
+        "metoplaziya, dizrupsiya, deformasiya, aplaziya",
+        "malformasiya , dizrupsiya, deformasiya. aplaziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Şəkərli diabeti olan analardan doğulan yenidoğulmuşlarda ən  çox rast gələn xəstəlik :",
+      "options": [
+        "hialin membran xəstəıiyi",
+        "ürək qüsuru",
+        "sarılıqlar",
+        "polisitemiya",
+        "hipermaqnemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Radiasion embriofetopatiya nəticəsində daha çox təsadüf edilən patologiya:",
+      "options": [
+        "leykoz, dölsüzlük",
+        "böyrəklərin inkişaf qüsurları",
+        "diş emalının hipoplaziyası",
+        "trombositopeniya",
+        "diafraqmal yırtıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. Anada endokrin funksiyaların çatışmamazlığı dölün endokrin funksiyasına təsir edir:",
+      "options": [
+        "həmin funksiyaların kompensator yüksəlməsi",
+        "həmin funksiyaların kompensator enməsi",
+        "heç bir dəyişiklik qeyd olunmur",
+        "həmin vəzin olmaması",
+        "həmin vəzin inkişafdan qalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Daun sindromu xromosomun trisomiyasıdır",
+      "options": [
+        "21-ci cüt",
+        "19 – cu cüt",
+        "12 – ci cüt",
+        "18– ci cüt",
+        "13 – cu cüt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Patau sindromu neçənci xromosomun patologiyasidir:",
+      "options": [
+        "13 –cü cüt",
+        "21– ci cüt",
+        "19– cu cüt",
+        "25-ci cüt",
+        "18– ci cüt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Edvards sindromu xromosomun trisomiyasıdır:",
+      "options": [
+        "18-ci cüt",
+        "21-ci cüt",
+        "19-cu cüt",
+        "12-ci cüt",
+        "13-cü cüt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25.Çənənin hipoplaziyası xaraterikdir:",
+      "options": [
+        "Pyer-Robin sindromu",
+        "Rubinsteyn-Taybi sindromu",
+        "Daun sindromu",
+        "Prader Villi sindromu",
+        "Vater sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26.Siklop əlaməti xarakterikdir:",
+      "options": [
+        "Patau sindromu",
+        "Pişik qışqırığı sindromu",
+        "Klaynfelter sindromu",
+        "Şereşevski-Terner sindromu",
+        "Edvars sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Hipoksik ensefalopatiyanın gedişinin dövrü ardıcıllığı",
+      "options": [
+        "kəskin dövr, bərpa dövr, qalıq əlamətləri dövrü",
+        "dizadaptasion  dövr, kəskin dövr, bərpa dövr",
+        "dismetabolik dövr, yarımkəskin, kəskin dövr",
+        "dismetabolik dövr, yarımkəskin, qalıq əlamətləri dövrü",
+        "yarımkəskin dövr, kəskin dövr, qalıq əlamətləri dövrü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Oral reflekslər  bu sinirlərlə tənzimlənir:",
+      "options": [
+        "V, VII, XII cüt",
+        "V, VII, VIII cüt",
+        "V, VIII, IX cüt",
+        "VII, X, XI cüt",
+        "XII, VI, V cüt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29.Oral və spinal reflekslər itir:",
+      "options": [
+        "3-4 ayinda",
+        "1 ayında",
+        "2 ayında",
+        "2-3 ayında",
+        "6 ayinda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30.Yenidoğulanlarda daha çox qıcolmalar qeyd olunur:",
+      "options": [
+        "hipoqlikemik və hipokalsemik",
+        "hiperqlikemik",
+        "hiperkalsemik",
+        "hipermaqnemik",
+        "hipomaqnemik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Vaxdından əvvəl doğulanlarda kəllədaxili qansızmaların lokalizasiyası daha çox olur:",
+      "options": [
+        "mədəcik daxili",
+        "subdural",
+        "epidural",
+        "beyincik daxili",
+        "beyin toxumasına qansizma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Doğuş maşalarından istifadə nəyə gətrib cıxara bilər:",
+      "options": [
+        "üz sinirinin periferik parezi",
+        "üz sinirinin mərkəzi parezi",
+        "körpücük sümüyünün sınığı",
+        "psevdobulbar iflic",
+        "onurğa beyinin boyun hissəsinin travması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Fetal dövrdə olan infeksion faktora işarədir:",
+      "options": [
+        "döün antenatal tələf  olması , vaxdından qabaq doğuş",
+        "anensefaliya",
+        "anadangəlmə ürək qüsuru",
+        "12 barmaq bağırsaq atreziyası",
+        "böyrəklrin ageneziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34. Embrional dövürdə olan infeksion faktora işarədir:",
+      "options": [
+        "hamiləliyin erkən dövründə düşük və anadangəlmə ürək qüsurları",
+        "endokardin fibroelastozu",
+        "dizembriogenetik stiqma",
+        "nefroz",
+        "miokardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35.Transplasentar  yolla anadan dölə keçir:",
+      "options": [
+        "İG G",
+        "İG M",
+        "İG A",
+        "İG E",
+        "İG D"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Miokarditin yaranmasına səbəb olur:",
+      "options": [
+        "Koksaki  virusu",
+        "stafilokok",
+        "streptokok",
+        "klebsiyella",
+        "mikoplazma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. İnfeksion diareyaların əlamətlərinə aiddir:",
+      "options": [
+        "kəskin başlanğıc, toksikoz, enterokolit  simpiomu",
+        "qidqlanmadan asılı olaraq",
+        "nəcisin sayına əsasən",
+        "nəcisin duruluğuna əsasən",
+        "həyatının sutkasından aslı olaraq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Anadangəlmə sitomeqalovirus infeksiyasının müalicəsində istifadə olunur:",
+      "options": [
+        "sitotek",
+        "asikiovir",
+        "rulid",
+        "makmiror",
+        "azitromisin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Anadangelmə herpes infeksiyası ücün xarakterikdir:",
+      "options": [
+        "meninqoensefalit",
+        "hemangioma",
+        "otit",
+        "konuyuktivit",
+        "hidrosefaliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Katarakta, mikroftalmiya ürək qüsuru və karlıq hansı anadangelmə infeksiyaya xarakterikdir:",
+      "options": [
+        "məxmərək",
+        "herpes virusu",
+        "xlamidiya",
+        "sitomeqaiovirus",
+        "listeriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. Anadangəlmə infeksiyalardan ən cox ürəyin zədələnməsinə səbəb olur:",
+      "options": [
+        "məxmərək virusu",
+        "toksoplazmos",
+        "sitomeqallovirus",
+        "herpes",
+        "liateriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42.TORCH infeksiyanın açlışı belədir:",
+      "options": [
+        "toksoplazma, other, rubella, citomeqalovirus, herpes",
+        "toksoplazma,  rubella, citomeqalovirus, herpes",
+        "toksoplazma, ornitoz, rubella, citomeqalovirus, herpes",
+        "tetanus, other, rubella, citomeqalovirus,herpes",
+        "toksoplazma, other, rubella, ciflis, herpes"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43.Anadangəlmə xlamidioza xarakterikdir:",
+      "options": [
+        "irinli konyuktivit",
+        "dəridə olan dəyişikliklər",
+        "qıcolma",
+        "eozinofiliya",
+        "sarılıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Anadandəlmə sitomeqalovirusa xarakterikdir:",
+      "options": [
+        "sarılıq, anemiya, trombositopeniya, hepatosplenomeqaliya",
+        "pəncə və ovuclarda qovuqlar",
+        "irinli koyuktivit, nefrit",
+        "karlıq",
+        "ürək qüsuru"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. I serotip sadə herpes ən cox zədələyir:",
+      "options": [
+        "ağız, dodaqların selikli qişaları, dəri",
+        "cinsi üzvlər",
+        "dodaq və cinsi üzvlər",
+        "yalnız dəridə",
+        "alt cənədə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Erkən anadangəlmə siflis ücün səciyyəvi hesab edilir:",
+      "options": [
+        "rinit, qovuqcuq,hepatosplenomeqaliya",
+        "ürək qüsuru, hepatosplenomeqaliya",
+        "karlıq, skleredema",
+        "sklerema, konyuktivit",
+        "rinit, trombositopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Toksoplazmozun  müalicəsində ən effektiv kombinasiyası secin:",
+      "options": [
+        "primetamin və sulfanilamid",
+        "makrolid və aminoqlikozid",
+        "primetamin və antifunqal",
+        "sulfanilamid və sefalosporinlər",
+        "tienam və levomisetin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Mikorplazmanın müalicəsində ən effektiv antibakterial terapiya",
+      "options": [
+        "makrolidlər",
+        "primetamin",
+        "aminoqlikozid",
+        "sulfanilamide",
+        "levomisetin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. HBS antigeni ötürücüsü olan anadan doğulan yenidoğulana profilaktika məqsədi  ilə spesifik immunoqlobulinlər hansı dövürdə təyin olunur:",
+      "options": [
+        "həyatının ilk saatları",
+        "2-3 sutkalar",
+        "evə yazılarkən",
+        "1 aylığında",
+        "5-ci sutkada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Yenidoğulanda sepsisin septikopiemik formasına xarakterik əlamətlər:",
+      "options": [
+        "qabarıq infeksion toksikoz, I və ya I neçə irinli ocaqlar",
+        "irinli ocaqların olması, infeksion toksikozun olmaması",
+        "qabarıq infeksion toksikoz, metastatik irinli ocaqların olmaması",
+        "bakteriyanın qeyd olunması",
+        "septisemiyanın qeyd olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Yenidoğulanda sepsisin septikoriemik ocaqlaına aiddir:",
+      "options": [
+        "menıngit , osteomielit, absesləşmiş  pnevmoniya",
+        "konyuktivit , otit",
+        "otit",
+        "miokardit, hepatit",
+        "nefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52.Yenidoğulanlarda sepsis zamanı infeksion toksikozun klinikası xarakterizə olunur:",
+      "options": [
+        "dərinin boz kaloriti, qabarıq hemodinamik pozğunluklar , kütlə artımının olmaması , qaracilərin böyüməsi",
+        "qabarıq hipotrofiya",
+        "qabarıq splenomeqaliya",
+        "tənəffüs pozğunluğu əlamətləri",
+        "uzun sürən sarılıq , MSS-i tərəfindən pozğunluqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53.Sepsis  zamanı dəridə hemorragik səpgilərin olması əlaqədardır:",
+      "options": [
+        "angiit və mikrotrombovaskulit",
+        "qulluq defisiti",
+        "orqanizmin sensibilizasiyası",
+        "qeyri-rasional anfibiotik terapiya",
+        "homeostaz pozğunluğu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54.Neonatal meningitlərə xarakterik deyil:",
+      "options": [
+        "ənsə rigidliyi",
+        "apnoe",
+        "süstlük",
+        "sianoz",
+        "qaytarma və qusma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Pnevmoniya  diaqnozu rentgenoloji olaraq qoyulur:",
+      "options": [
+        "ağ ciyərlərin infiltrasion dəyişikliklər",
+        "qabırğaların horizontal yerləşməsi",
+        "ürək sərhədlərinin genişlənməsi",
+        "hipoventilyasiya",
+        "diafraqmanın  yüksək uəziyyəti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Vaxdında doğulanlarda fizioloji sarılıq müşahidə olunur:",
+      "options": [
+        "2-3 sutkada əmələ gəlir, 7-10 sutkada itir.",
+        "1-2 sutkada əmələ gəlir, 5-7 sutkada itir.",
+        "4-5 sutkada əmələ gəlir , 7-14 sutkada itir .",
+        "1 sutkada əmələ gəlir , 20-25 sutkada itir.",
+        "doğulanda  qeyd olunur , 3-5 sytkada itir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Fizioloji sarılığın əsas səbəbi:",
+      "options": [
+        "qlukuroniltransferazanın çatışmamazlığı",
+        "hemoliz",
+        "qanın datılaşma sindromu",
+        "xolestaz",
+        "hipoqlikemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Yenidoğulanın fizioloji sarılığını xarakterizə edir:",
+      "options": [
+        "3-4 sutkadan maksimum olması, q\\düz bilirubinin 205 mk\\mol çox olmaması",
+        "1-2 sutkada maksimum olması , q\\düz blirubinin 205 mk\\mol çox olması",
+        "10 sutkada maksimum olması, düz blirubinin 10% çox olması",
+        "7 sutkada maksimum olması, düz blirubinin 10% çox olması",
+        "ilk 3 sutkada blirubinin konsentrasiyasının 3,4 mmol\\1-dən az olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Fototerapiyanın fəsadlarına aiddir:",
+      "options": [
+        "“bürünc  dəri” sindromu",
+        "bacterial xəstəliklər",
+        "“qaralmış dəri “ sindromu",
+        "hipertrombositoz",
+        "ölüm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. Q\\düz hiperbilirubinemiyalar qeyd olunur:",
+      "options": [
+        "hemolitik xəstəliklər , hipotireoz, Kriqler – Nayar sindromu",
+        "hemolitik xəstəlik , parenximatoz sarılıqlar",
+        "anemiyalar , Rotor sindromu",
+        "öd yollarının atreziyası , hipotireoz",
+        "Kriqler-Mayar sindromu , fetal hepatit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Düz hiperbilirubinemiyalar qeyd olunur:",
+      "options": [
+        "öd yollarının atreziyası",
+        "qalaktozemita",
+        "eritrozitar enzimoretiyalar",
+        "morfofunksional yetkinsizlik",
+        "qalaktozemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Vaxtından əvvəl doğulanlarda blirubin ensefalopatiyası riskini artır:",
+      "options": [
+        "kəllədaxili qansızma , hipoalbuminemiya, hestasiya yaşının az  olması",
+        "hestasiya yaşının artması, hipoalbuminemiya",
+        "hiperalbuminemiya, anemiya",
+        "bətndaxili infeksiya, hestasiya yaşının 35-36 həftə olması",
+        "hiperkaliemiya, hiperalbuminemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63. Qeyri-düz blirubinin azalmasına gətirib cıxarır:",
+      "options": [
+        "fenobarbital",
+        "Vit C",
+        "maqneziyum sulfat",
+        "prednizalon",
+        "riboksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Qlükuronitrasferazanın  çatışmamazlığı olan irsi xəstəlik letallıqla nəticələnir:",
+      "options": [
+        "Kriqler-Nayar sindromu",
+        "Jilber sindromu",
+        "Rotor sindromu",
+        "Vilson-Konovalov",
+        "Arias-Yütsey-Driskol  sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Xolestatik sarılıqlar zamanı müəyyən olunur:",
+      "options": [
+        "düz blirubin və qələvi fosfatazanın artması",
+        "qeyri düz blirubin artması",
+        "ümumi  zülalın artması",
+        "C reaktiv zülalın artması",
+        "turş fostfatazanın artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. TPS ağırlığı qiymətləndirilir:",
+      "options": [
+        "Silverman , Dovnes şkalası",
+        "Duboviç  şkalası",
+        "Apqar, Dementyeva  cədvəli",
+        "Apqar , Silverman  şkalası",
+        "Dovnes, Apqar  şkalası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. TPS-in prenatal müalicəsi aparılır:",
+      "options": [
+        "deksametazonla",
+        "riboksinlə",
+        "fenobarbitalla",
+        "eufillinlə",
+        "ziksorinlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Fibroelastoz zamanı ürəyin hansı şöbəsi daha  çox  zədələnir:",
+      "options": [
+        "sol mədəcik",
+        "sol qulaqcıq",
+        "sağ mədəcik",
+        "sağ qulaqcıq",
+        "mədəcik-qulaqcıq arası qapaqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Yenidoğulana polisitemik sindrom diaqnozu qoymaq ücün hemotokrit göstəricisi olmalıdır:",
+      "options": [
+        "0,65-dən cox",
+        "0,20-dən cox",
+        "0,35-dən cox",
+        "0,55-dən cox",
+        "0,70-dən cox"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Vaxdında doğulanlarda leykositar formulanın kəsişməsi qeyd olunur:",
+      "options": [
+        "5-6-cı sutkad",
+        "20-ci sutkada",
+        "10-cu sutkada",
+        "2-ci sutkada",
+        "3-cü sutkada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71.Sağlam yenidoğulanın 5 gündən sonra  leykositar formulasını əks etdirir:",
+      "options": [
+        "e-3,b-1,çn-3, s-43, 40 ,m-10",
+        "e-0,b-0,çn-3, s-60,  29,  m - 8",
+        "e-4,b-1,çn-4, s-34, 45, m-12",
+        "e-0, b-0,çn-1, s-30, 60, m - 9",
+        "e-0,b-2,çn-3, s-20, 70, m - 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Göbək yarası tam epitelizasiya olunur:",
+      "options": [
+        "II həftənin sonu",
+        "I həftənin sonu",
+        "I ayın sonu",
+        "III həftənin əvvəli",
+        "I ayın əvvəli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73.Sağlam yenidoğulanlarda 1 dəqiqədə tənəffüsün sayı:",
+      "options": [
+        "40-60",
+        "140-160",
+        "120-140",
+        "30-60",
+        "30-90"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Sağlam yenidoğlanlarda 1 dəqiqədə ürək vurğularının  sayı:",
+      "options": [
+        "120-160",
+        "100-120",
+        "40-60",
+        "90-100",
+        "30-60"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Dizbakteriozun medikamentoz müalicəsinin etaplar:",
+      "options": [
+        "şərti pathogen floranın artmasının qarşısın almaq, bağırsaq florasını normalaşdırmaq",
+        "müalicə yalnız təbbi qidalanma əsasında aparılır",
+        "immunokorreksiya , prebiotiklər",
+        "şərti patogen floranın artırmaq , hepatoprotektokların təyini",
+        "şərti patogen floranın artırmaq, bağırsaq florasını normallaşdırmaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Bağırsağın yanaşı florasına daxildir:",
+      "options": [
+        "enterobakteriyalar , laktobasillər",
+        "aeroblar",
+        "protey, serasiya",
+        "qram - və qram + bakteriyalar",
+        "kandidalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. İki günlük yenidoğulan ücün  xarakterik deyil:",
+      "options": [
+        "Ht 38%",
+        "metrorragiya",
+        "mastopatiya",
+        "ürək döyünmə 1401",
+        "Hb 200q\\1"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Hansı əlamət Apqar şkalasına daxil deyil:",
+      "options": [
+        "ağlamağın intensivliyi",
+        "dərinin rəngi",
+        "ürək vurğularının sayı",
+        "əzələ tonusu",
+        "tənəffüsün sayı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Vaxtında yenidoğulanın başının dairəsi hansı hüduddadır:",
+      "options": [
+        "32-34 sm",
+        "38-40 sm",
+        "40-42 sm",
+        "28-30 sm",
+        "28-29 sm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Ana südünün tərkibində olub körpəni infeksiyalardan qoruyur:",
+      "options": [
+        "lizosim",
+        "kalsium",
+        "alfa-lakto qlobulin",
+        "kazein",
+        "fosafat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Hüceyrələri viruslardan qoruyan protein hansıdır:",
+      "options": [
+        "interferon",
+        "albumin",
+        "lizosim",
+        "eykozonoidlər",
+        "prostoqlandin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. Kardiomiopatiyaların mühüm əlamətinə aiddir:",
+      "options": [
+        "kardiomeqaliya və ürək çatmamazlığı",
+        "ürək çatmamazlığı və dispnoe",
+        "ürək çatmamazlığı və hipotrofiya",
+        "kardiomeqaliya və apnoe",
+        "kardiomeqaliya və ağciyər hipertenziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. Albinizim ücün xarakterikdir:",
+      "options": [
+        "fotofabiya və nistaqm",
+        "ektropion və fotofobiya",
+        "dəri və  selikli qişaların quruması",
+        "akromeqaliya",
+        "piqment ləkələri və karlıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84. Leykositar  intoksikasiya  indeksinin təyin olunur:",
+      "options": [
+        "eoz+çub+seqm\\lim+mon",
+        "eoz+lim+seqm\\çub+mon",
+        "lim+çub+seqm\\eoz+mon",
+        "eoz+çub+mon\\lim+seqm",
+        "eoz+çub\\lim+mon+seqm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85.Leykositar intoksikasiya  indeksin1  neçədən çox olması septiki intoksikasiyanın olmasını göstərir:",
+      "options": [
+        "1-dən  böyük",
+        "5-dən  böyük",
+        "2-dən  böyük",
+        "2,5-dən  böyük",
+        "0,5-dən  böyük"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86.Yenidoğulan ücün sekretor immunoqiobulin A-nın mənbəyi:",
+      "options": [
+        "ana südü",
+        "əlavə qida",
+        "peyvəndlər",
+        "bağırsaqlar",
+        "cift"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Blirubin ensefalopatiyasının fazaslarının  zayı:",
+      "options": [
+        "4",
+        "5",
+        "2",
+        "3",
+        "6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Aşağıdakılardan hansı pnevmoniyanın  ağırlaşmasına daxil deyil:",
+      "options": [
+        "kardiomiopatiya",
+        "plevrit",
+        "ağciyər absesi",
+        "pnevmotoraks",
+        "piopnevmotoraks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Bətindaxili pnevmoniyanın əsas diaqnostik kriteriyasına daxil deyil:",
+      "options": [
+        "ciftin histoloji müayinəsi zamanı onda iltihabi  prosesin  təsdiqi",
+        "ana və xəstə uşaqda bakterioloji müayinələrin nəticələrinin eyni olması",
+        "3 günə qədər olan uşaqların patoloji-anatomik təşrihi zamanı pnevmoniyanın təsdiqi",
+        "aspirasion sindrom zamanı ilk 1-3 gündə inkişaf  edən pnevmoniyalar",
+        "rentgen müayinədə ocaqlı və ya infiltrative kölgələrin olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Anadangəlmə hipotireoza aid deyil :",
+      "options": [
+        "mekoniumun  tez-tez  ifrazı",
+        "tranzitor sarılıqların uzanması",
+        "qəbizlik",
+        "hipotermiya",
+        "erkən anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Anadangəlmə hipotireoz ücün daha informativdir:",
+      "options": [
+        "TTH yüksəlməsi",
+        "xarici görnüş",
+        "TTH enməsi",
+        "T3 yüksəlməsi",
+        "T4 yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92.Anadangəlmə şəkərli diabet zamanı insulinin təyin olunma dozası belədir:",
+      "options": [
+        "0,1v\\kq\\saat",
+        "0,005v\\kq\\saat",
+        "0,5v\\kq\\saat",
+        "0,01v\\kq\\saat",
+        "10v\\kq\\saat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93.İnsulin yeridilən körpəyə hansı göstəricilər nəzarətdə saxlanmalıdır:",
+      "options": [
+        "sidikdə keton cisim, qlukoza və qanda qlikemiya",
+        "qanda Na və K",
+        "Turşu-qələvi müvazinəti",
+        "asidoz",
+        "qlikoza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Aşağıdakılardan hansı səhfdir",
+      "options": [
+        "Streptokok pnenmoniya zamanı rentgenoloji olaraq dəyişikliklər qeyd olunmur.",
+        "Xalamidiya etiologiyalı pnevmaniyada konyuktivit və otit daha çox qeyd olunur.",
+        "Sitomeqaiovirus törədən pnevmoniyalar çox zaman ikincili olur",
+        "Sitomeqaiovirus törədən pnevmoniyalar çox zaman ikincili olur",
+        "Pnevmosist pnevmoniyası immuniteti aşağı olan uşaqlarda daha çox təsadüf edir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. Mexaniki sarılıqlara aiddir:",
+      "options": [
+        "Alacil sindromu",
+        "Arias sindromu",
+        "Jilber-Meylenqraxt sindromu",
+        "Kriqler- Nacar sindromu",
+        "Arias-Lusey- Driskol sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Dərman preparatı sarıliğın intensivliyinin artmasına səbəb olmur:",
+      "options": [
+        "Fenobarbital",
+        "Qentamisin",
+        "Vit K",
+        "Oksitosin",
+        "Sulfisaksazol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97.Sərbəst  bilirubinin plazmadan qaraciyərə keçməsi ücün nə ilə birləşir:",
+      "options": [
+        "albumin",
+        "qlobulin",
+        "qliserol",
+        "qiutamin",
+        "xolesterin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Uşaq doğulandan qusursa nə haqda düşünmək olar:",
+      "options": [
+        "ezofaqial atreziya",
+        "pilorisin stenozu",
+        "duodenumun atreziyası",
+        "divertikullar",
+        "infeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Parazitar infeksiyalara aiddir:",
+      "options": [
+        "Toksoplazmoz",
+        "klebsiellyoz infeksiyası",
+        "Piosenozlar",
+        "Listerioz",
+        "Sitomeqalovirus infeksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Hansı şkalaya əsasən yenidoğulanda kəskin ağrını qiymətləndirmək olar:",
+      "options": [
+        "DAN",
+        "Silverman",
+        "Dauns",
+        "Apqan",
+        "Duboviç"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Hipoksik ensefalopatiyanın gedişində dövrlər ardıcıllığı belədir:",
+      "options": [
+        "kəskin dövr, bərpa dövrü, qalıq əlamətlər",
+        "yarımkəskin ,  kəskin, qalıq əlamətləri dövrü",
+        "yarımkəakin, kəskin , bərpa dövrü",
+        "dismetabolik dövr , yrımkəskin , kəskin dövr",
+        "dizadaptasion dövr, kəskin dövr, bərpa dövrü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. Bilirubin intoksikasiyasının III fazası ücün xarakterikdir:",
+      "options": [
+        "yalançı yaxşılaşma",
+        "yuxarı ətrafların tremoru",
+        "hərarətin yüksəlməsi",
+        "uşaq srebral  iflici",
+        "“batan günəş” simptomu, Qrefe simptomu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. Yenidoğulmuşun hemolitik xəstəliyinin  hansı forması daha ağırdir:",
+      "options": [
+        "Dölün  hidrops",
+        "Anemik",
+        "Sarılıqlı",
+        "ödemli",
+        "Sarılıqlı-anemik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. Əsasən qanaxmalar zamanı hansı vitaminin yeridilməsi məqsədə uyğun hesab olunur:",
+      "options": [
+        "vit K",
+        "vit A",
+        "vit C",
+        "vit E",
+        "vit B qrupu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. Yenidoğulma dövründə  qanın xüsusiyyətinə aid deyil:",
+      "options": [
+        "eritrositlərin ölçücə kicik olması",
+        "həyatın ilk günlərində eritrositlərin coxlu miqdarda parcalanması",
+        "eritrositlərin ölcücə digər yaş qruplarına  nısbətən böyük olması",
+        "eritrositlərin periferik qanda yaşama müddətinin az olması",
+        "qanın nisbi qatılığlnın çox olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. Yenidoğulmuşun hemorragik xəstəliyi inkişaf edir:",
+      "options": [
+        "K vitamindən asılı faktorların (II,VII,IX,X) dərin difisiti",
+        "antitrombin  III defisiti",
+        "kinin – kalikrenin sisteminin aşağı səviyyədə olması",
+        "laxtalanmanın  V  faktorunun defisiti",
+        "laxtalanmanın  IX faktorunun defisiti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. Anadangəlmə ızoimmun trombositopenik purpuranın əlaməti deyil:",
+      "options": [
+        "trompositoz",
+        "kəllədaxili qansızma",
+        "həyatın ilk saatlarından dəridə kiçik ölcülü pitexial himorragiyalar",
+        "hepatosplenomeqaliya",
+        "melena"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108. Yenidoğulmuşlarda  poct hemorragik şok əmələ gəlir:",
+      "options": [
+        "dövr edən qanın   10-15%-i   itirilərsə",
+        "dövr edən qanın   30- 35% -i    itirilərsə",
+        "dövr edən qanın   20-25%-i  itirilərsə",
+        "dövr edən qanın   25-30%-i  itirilərsə",
+        "dövr edən qanın   15-20%-i  itirilərsə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. Yenidoğulmuşun hemorragik xəstəliyi ücün xarakterik deyil:",
+      "options": [
+        "hepatosplenomeqaliya",
+        "melena",
+        "periventrikulyar qansızma",
+        "daxili üzvlərə qansizma",
+        "hematomezis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. İkincili hemorragik pozğunluqlara aiddir:",
+      "options": [
+        "disseminasiya olunmuş  damardaxili  laxtalanma sindromu",
+        "anadangəlmə transimmun trombositopenik purpura",
+        "irsi koaqulopatiyalar",
+        "anadangəlmə izoimmun trombositopenik purpura",
+        "trombositopatiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. Q – 6 – FDH – fermentinin çatmamazlığ zamanı  yenidoğulanlarda sarılıq müşahidə olunur:",
+      "options": [
+        "hemolitik  sarılıq",
+        "anadangelmə qeyri –  hemolitik hiperblirubinemiya (Kriqler- Nacar sindromu)",
+        "parenximatoz  sarılıq",
+        "mexaniki  sarılıq",
+        "“ ana südündən olan sarılıqlar.”"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. Q – 6 – FDH – fermentinin defisiti zamanı anemiya inkişaf edə bilər:",
+      "options": [
+        "hemolitik  anemiya",
+        "aplastik  anemiya",
+        "Fe defisitli  anemiya",
+        "hemorragik  anemiya",
+        "autoimmun  anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113. Q -6 – FDH – fermentinin irsi defisiti nəsildən – nəsilə ötrülür:",
+      "options": [
+        "Dominant  yolla X xromosomla ilişkənli",
+        "autosom - resessiv",
+        "autosom – dominat",
+        "Dominant  yolla Y xromosomla ilişkənli",
+        "Resessin  yolla  X  xromosomla ilişkənli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Talasemmiya xəstəliyi zamanı qanda  hemoqlobinin artması müşahidə olunur:",
+      "options": [
+        "hemoqlobin   F",
+        "hemoqlobin   H",
+        "hemoqlobin   A",
+        "hemoqlobin   M",
+        "hemoqlobin   S"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115. Fetal hemoqlobinin “ A “ hemoqlobini ilə əvəz olunması baş verir:",
+      "options": [
+        "bətindaxili  inkişafın  12-ci  həftəsindən",
+        "bətindaxili  inkişafın  20-ci  həftəsindən",
+        "bətindaxili  inkişafın  2-ci  həftəsindən",
+        "bətindaxili  inkişafın  5-ci  həftəsindən",
+        "bətindaxili  inkişafın  24-ci  həftəsindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. Qara ciyər  tipli sarılıqlara xarakter deyil",
+      "options": [
+        "dərinin narıncı rəngi",
+        "danda düz bilirubinin artması",
+        "qanda qeyri – düz bilirubinin artması",
+        "hepatomeqaliya",
+        "axolik nəcis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. exaniki sarılığı törədən xəstəliklər:\t1.öd yollarının atreziyası 2. öd yollarının  kistası 3. mukovissidoz 4. hipotireoz 5. eritrositar enzimopatiyalar 6. Baş beynə qansızma zamanı 7. irsi mikrosferasitoz",
+      "options": [
+        "1,2,3,",
+        "1,4,7",
+        "2,5,6",
+        "3,6,7",
+        "2,4,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118. Bətindaxili pnevmoniyanın əsas diaqnostik kriteriyalarına daxildir: 1)Həyatının 1-3 günü ərzində digər  irinli-iltihabi ocaqların aşkar olunması: 2) Trombositopeniya ( 170·109/l-dən az) 3) Rentgen müayinəsində bronx-damar şəklinin güclənməsi 4) Ana və xəstə uşaqda bakterioloji müayinələrin nəticələrinin eyni olması (material 1-ci sutkada götrülməlidir) 5) Rentgen müayinədə ocaqlı və ya infiltrativ kölgələrin olması 6) Ciftin histoloji müayinəsi zamanı iltihabı prosesin təsdiq olunması 7) Aspirasion sindrom zamanı ilk 3 gündə inkişaf edən pnevmoniyalar 8) Yenidoğulmuşun hemolitik xəstəliyi əlamətləri müşahidə edilmədən, hətatının birinci sutkasında qaraciyərin böyüməsi , dalağin əllənməsi 9) 3 günə qədər ölən uşaqların patoloji-amatomik təşrihi zamanı pnevmoniyanın  mövcudluğunun təsdiqi 10) Yenidoğulmuşun ilk günlərində qanın ümumi müayinəsində leykositlərin 21·109/l-dən , çubuq nüvəlilərin 11% -dən çox olması",
+      "options": [
+        "4,5,7,9 ;",
+        "2,4,6,10;",
+        "1,3,5,8;",
+        "1,2,7,9;",
+        "3,4,8,10;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119. Pnevmoniyalı xəstələrin müayinə planını seçin: 1)Ağciyərlərin ultrasəs müayinəsi 2) Düş qəfəsinin iki dörünüşdə rentgen müayinəsi 3) Qeyri-düz immunofluorisensiya reaksiyası 4) Qanın ümumi kliniki müayinəsi 5) İeykositlərin intoksikasiya indeksinin təyini 6) İmmunoferment  analizi 7) Qanin qaz tərkibi 8) Hemotokrik (HT) göstəricisi 9) Onurğa beyni mayesinin müayinəsi 10) Sidiyin və nəcisin ümumi kliniki müayinəsi 11) Qanda  ALAT,  ASAT-in təyini 12) Zəncirvari polimeraz reaksiyası ( ZPR )",
+      "options": [
+        "2,4,7,8,10;",
+        "1,2,3,5,8;",
+        "3,4,5,9,11;",
+        "4,5,6,9,12;",
+        "2,6,7,10,11:"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120. Uşağın bədən kütləsi 2.300q, həyatının  20-ci sutkasıdır. Vena daxilinə sutka ərzində 100ml 10%-li qlükoza ,20ml 10%-li lipid məhlulu vurulub. Uşağın qəbul etdiyi ana südünün miqdarı nə qədər olmalıdır ki, sutkalıq enerjiyə təlabat tam edənilsn.",
+      "options": [
+        "300 ml",
+        "400 ml",
+        "500 ml",
+        "600 ml",
+        "100ml"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. Uşağın bədən kütləsi 2000 q, həyatının 8-ci sutkasındadır. Vena daxilinə sutka ərzində 150 ml 10%-li qlükoza vurulub. Sutkada enerjiyə olan təlabat tam ödənilirsə , uşağn qəbul etdiyi  ana südünün kalorisi ümumi enerjiyə olantəlatatın hansı hisəsini təşkil adir?",
+      "options": [
+        "53%",
+        "63%",
+        "85%",
+        "90%",
+        "100%."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122. Traxeyanın intubasiyası aparılarkən analgeziya aparılmalıdir :",
+      "options": [
+        "Prmedol  ilə",
+        "ibuprofenlə",
+        "Analgin  ilə",
+        "No-şpa ilə",
+        "Parasetamol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. Traxeyanın intubasiyası ilə aparılan köməkçi ventilyasiya tam effeksik olur:",
+      "options": [
+        "Yuxarıda sadalanan bütün hallarda",
+        "Endotraxeal boru qanla , mekoneumla və digər mühtəviyyatlarla blokada olundukda",
+        "Gərginlik pnevmoyoraksı inkişaf etdikdə",
+        "Ağciyərlərin süni ventilyasiya aparatından daxil olan hava axını dayandikda",
+        "Endotraxeal boru düzgün  yerləşməyəndə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. Traxeyanın intubası yaşı hansı müddətdə həyata keçirilməlıdir:",
+      "options": [
+        "15-20 san-dək",
+        "20-30 san-dək",
+        "30-40 san-dək",
+        "40-50 san-dək",
+        "50-60 san-dək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. Mekoneumun aspirasiyası sindromunun  klinik əlaməti deyil:",
+      "options": [
+        "Metabolik alkaloz",
+        "Slanoz",
+        "Taxipnoe",
+        "Hipoqlikemiya",
+        "Dəri və dırnaqların mekoneal rəngə boyanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126. Mekoneumun aspirasiyası sindromu daha çox təsadüf edir:",
+      "options": [
+        "vaxdindan gec doğulan uşaqlarda",
+        "Vaxdında doğulan uşaqlarda",
+        "Yarımcıq doğulan uşaqlarda",
+        "Dərin yarımçıq doğulan uşaqlarda",
+        "Ekstremal kiçik kütlə ilə doğulan uşaqlarda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127. Metabolik asidoza səbəb ola bilməz:",
+      "options": [
+        "Yenidoğulmuşun dəri örtüklərimdə yayılmlş teleangiektaziya",
+        "Kələdaxili qansızma",
+        "Neonatal şəkərli diabet",
+        "Hipotermiya",
+        "Sepsis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128. Doğum zalında yenidoğulmuşun  reanimasiyasındaistifadə oluna bilər:",
+      "options": [
+        "Nalokson",
+        "10%-li Kalsium qlükonat",
+        "4%-li Klium xlorit",
+        "7,55-li Klium xlorit",
+        "L karnitin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129. Yenidoğulmuşun kəskin kollapsı zamanı aşağıdakı müayinələrdən hansının aparılması lazımdır:",
+      "options": [
+        "Yuxarıda sadalananların hamısı",
+        "Baş beyin ultrasəs müayinəsi",
+        "Qanın laxdalanma sisteminin müayinəsi",
+        "Qanın laxdalanma sisteminin müayinəsi",
+        "Döş qəfəsi və qarın  boşluğunun radioqrafik müayinəsi"
+      ],
+      "correct": 0
+    }
+  ]
+}

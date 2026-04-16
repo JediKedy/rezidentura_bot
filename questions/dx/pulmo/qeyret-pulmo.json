@@ -1,0 +1,1147 @@
+{
+  "questions": [
+    {
+      "question": "1. Yaşlı xəstələrdə xəstəxana daxili pnevmoniyanın törədiciləri əksər hallarda hansıdır?",
+      "options": [
+        "Klebsiella",
+        "Protey",
+        "Pnevmokokk",
+        "Xlamidiya",
+        "Mikoplazma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Pnevmokokk pnevmoniyasına şübhə olduqda nə təyin olunmalıdır?",
+      "options": [
+        "Eritromisin",
+        "Streptomisin",
+        "Oletetrin",
+        "Aminopenisillin",
+        "Levomisetin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "3. Bronx keçiriciliyi pozulduqda təngənəfəslik:",
+      "options": [
+        "İnspirator",
+        "Ekspirator",
+        "Qarışıq",
+        "Ourduqda artr",
+        "Oturduqda azalır"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. Kəskin bronxit üçün xarakterikdir:",
+      "options": [
+        "Perkutor səsin kütləşməsi",
+        "Qutu səsi",
+        "Sərt tənəffüs",
+        "Bronxial tənəffüs",
+        "Vezikulyar tənəffüs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "5. Bronxial tənəffüsün əmələ gəlmə mexanizmi hansıdır:",
+      "options": [
+        "Səs yarığından hava keçdikdə burulğanlı axın",
+        "Traxeya və bronxda sekretin olması",
+        "Alveolun divarının rəqsi",
+        "Plevrann sürtünməsi",
+        "Bronxdan hava kecdikdə burulğanlı axın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Vezikulyar tənəffüsün əmələ gəlmə mexanizmi hansıdır:",
+      "options": [
+        "Səs yarığından hava keçdikdə burulğanlı axın",
+        "Traxeya və bronxda sekretin olması",
+        "Alveolun divarının düzlənməsi və ya yaprıxması zamanı rəqsi",
+        "Plevranın sürtünməsi",
+        "Bronxdan hava keçdikdə burulğanlı axın"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Sərt tənəffüsün əsas əlamətləri hansılardır: \n1) Bütün nəfəs almada və nəfəs vermənin yarısında, \n2) Bütün nəfəs almada və nəfəs vermədə, \n3) Tembri yumşaqdır, F hərfini xatırladır., \n4) Tembri gobuddur X hərfini xatırladır, \n5) Səs qırtlaq üzərində eşidilən səsə oxşayır, \n6)Səs qırtlaq üzərində eşidilən səsə oxşamır.",
+      "options": [
+        "2,3,6",
+        "1,4,5",
+        "1,3,5",
+        "2,4,5",
+        "1,4,6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Vezikulyar tənəffüsün əsas əlamətləri hansılardır? \n1) Bütün nəfəs almada və 1/3 nəfəs vermədə, \n2) Bütün nəfəs almada və nəfəs vermədə, \n3) Tembri yumşaqdır F hərfini xatırladır, \n4)Tembri gobuddur X hərfini xatırladır, \n5) Səs qırtlaq üzərində eşidilən səsə oxşayır, \n6) Səs qırtlaq üzərində eşidilən səsə oxşamır.",
+      "options": [
+        "2,3,6",
+        "1,4,5",
+        "1,3,5",
+        "2,4,5",
+        "1,3,6"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "9. Bronxial tənəffüsün əsas əlamətləri hansılardır: \n1) Bütün nəfəs almada və 1/3 nəfəs vermədə, \n2) Bütün nəfəs almada və nəfəs vermədə, \n3) Tembri yumşaqdır F hərfini xatırladır, \n4) Tembri gobuddur X hərfini xatırladır, \n5) Səs qırtlaq üzərində eşidilən səsə oxşayır, \n6) Səs qırtlaq üzərində eşidilən səsə oxşamır.",
+      "options": [
+        "2,3,6",
+        "1,4,5",
+        "1,3,5",
+        "2,4,5",
+        "1,3,6"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "10. Krupoz pnevmoniyanın hiperemiya mərhələsində hansı eşidilir:",
+      "options": [
+        "Zəifləmiş vezikulyar",
+        "Bronxial",
+        "Bronxovezikulyar",
+        "Amforik",
+        "Vezikulyar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Hansı xəstəlikdə amforik tənəffüs eşidilir:",
+      "options": [
+        "krupoz pnevmoniyada",
+        "bronxitdə",
+        "bronxial astmada",
+        "ağciyər absesi bronxa açıldıqda",
+        "Xamamen-Riç sindromunda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. Ağciyər auskultasiyası zamanı xəstəyə nəyə görə əlavə öskürək təklif olunur:",
+      "options": [
+        "patoloji bronxial tənəffüsü yaxşı eşitmək üçün",
+        "yaş xırıltını, krepitasiyanı və plevranın sürtünmə küyündən ayırmağa",
+        "gizli bronxial obstruksiyanı tapmağa",
+        "quru xırıltını yaş xırıltıdan ayırmağa",
+        "krepitasiyanı, plevranın sürtünmə küyündən ayırmağa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "13. Ağciyər auskultasiyasında güclənmiş nəfəs vermə nə məqsədlə olunur:",
+      "options": [
+        "Plevranın sürtünmə küyünü krepitasiya və xırıltıdan ayırmaq üçün",
+        "Gizli bronxial obstruksiyanı aşkar etmək üçün",
+        "Quru xırıltını yaş xırıltıdan ayırmaq üçün",
+        "Xırıltını krepitasiyadan və ya plevranın sürtünmə küyündən ayırmaq üçün",
+        "Patoloji bronxial tənəffüsü eşitmək üçün"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Xronik alkoholizmi olan xəstələrdə pnevmoniya zamanı rastgəlmə tezliyi daha çoxdur:",
+      "options": [
+        "Pnevmokok",
+        "Streptokok",
+        "Bağırsaq çöpləri",
+        "Klebsiella",
+        "Stafilokok"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "15. Bəlğəmin özlülüyü hansı dərmanları təyin etdikdə azalır: \n1)Bronxial selikdə zülalların peptid rabitəsini dağıdan \n2) Bronxial selikdə musinlərin sulfihidril qrupunu dağıdan \n3) Ağciyərin surfanktant sistemini stimulə edən \n4) Bronxial selikdə zülalların peptid rabitəsini gücləndirən",
+      "options": [
+        "1,2,3",
+        "1,3",
+        "2,4",
+        "4",
+        "1,2,3,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Xəstəxanadan kənar pnevmoniya diaqnozu olan xəstənin hospitalizasiyası üçün göstəriş deyil?",
+      "options": [
+        "Ağır gedişli pnevmoniyalar (CURB-65 üzrə hesablama)",
+        "Pis sosial mühit və tənha xəstələr",
+        "Ehtimal olunan aspirasiya",
+        "Cavan yaş",
+        "3 gün ərzində aparılan amnulator müalicənin təsirsiz olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "17. Quru vızıldayan xırıltı nə vaxt əmələ gəlir:",
+      "options": [
+        "Qatı bəlğəm kiçik bronxda olduqda",
+        "Qatı bəlğəm böyük bronxda olduqda",
+        "Duru bəlğəm kiçik bronxda olduqda",
+        "Duru bəlğəm böyük bronxda olduqda",
+        "Yuxaridakıların hamısı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. Quru fitverici xırıltı nə vaxt əmələ gəlir:",
+      "options": [
+        "Quru plevritdə",
+        "Qatı bəlğəm böyük bronxda olduqda",
+        "Duru bəlğəm kiçik bronxda olduqda",
+        "Duru bəlğəm böyük bronxda olduqda",
+        "Kiçik bronxda spazm olduqda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "19. Öskürək reseptorları yerləşmir:",
+      "options": [
+        "Qırtlağın selikli qişasında",
+        "Səs bağlarında",
+        "Traxeyanın bifurkasiyasında",
+        "Böyük bronxların bölündüyü yerdə",
+        "Distal bronxlarda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "20. Xronik obstruktiv bronxitdə arterial hipoksemiyanın səbəbi:",
+      "options": [
+        "Vurğu həcminin azalması",
+        "Ventilyasiya-perfuziyanin qeyri uyğunsuzluğu",
+        "Hiperventilyasiya nəticəsində \"ölü sahənin\" artması",
+        "Kolateral ventilyasiya",
+        "Yuxarıdakıların heç birində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "21. AXOX -lu xəstənin EKQ-sində olur: \n1) S-tip EKQ; \n2)rSR tip EKQ; \n3) P dişinin amplitudasının 2,5 mm-dən artıq olması; \n4) P dişinin genişlənməsi; \n5) V1 aparmasında R-in amplitudasının 7 sm-dən çox olması",
+      "options": [
+        "1,2,3",
+        "3,4,5",
+        "1,2,3,5",
+        "3,5",
+        "4,5"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "22. Xronik obstruktiv bronxitin əlamətinə aid deyil:",
+      "options": [
+        "Qutu səsi",
+        "Uzanmış nəfəs vermə",
+        "Nəfəs vermədə yayılmış quru xırıltı",
+        "Bronxial tənəffüs",
+        "Ekspirator təngnəfəslik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "23. İzah edin, nə üçün öskürdükdən sonra bas (vızıldayan) quru xırıltılar azalır:",
+      "options": [
+        "Bronxospazm azalır",
+        "Əvvəldən olan bronxun ekspirator tutulması açılır",
+        "Qatı bəlğəm çıxır",
+        "Toxumanın interstisial ödemi azalır",
+        "Yuxarıdakıların hamısına görə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "24. İzah edin, nə üçün öskürdükdən sonra diskant (fitverici) quru xırıltılar dəyişmir:",
+      "options": [
+        "Bronxospazm azalır",
+        "Əvvəldən olan bronxun ekspirator tutulması azalır",
+        "Qatı bəlğəm çıxır",
+        "Toxumanın interstisial ödemi azalır",
+        "Bronxospazm kiçik bronxlarda dəyişmir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "25. Bronxial obstruksiyanın diaqnostikasında hansı göstərici daha informativdir:",
+      "options": [
+        "Ağciyərin həyat tutumu",
+        "Güclənmiş nəfəs vermə həcmi",
+        "Qalıq hava",
+        "Ağciyərin maksimal ventilyasiya həcmu",
+        "Diffuziya qabiliyyəti"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "26. Böyük bronxların selikli qişasının zədələnməsində aparıcı simptom:",
+      "options": [
+        "Güclü öskürək",
+        "Bəlğəmli öskürək",
+        "Təngənəfəslik",
+        "Döş qəfəsində ağrı",
+        "Zəiflik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Xronik bronxit ikincili infeksiyanın iştirakı ilə, yaş xırıltılar və bəlğəmdə çoxlu miqdarda leykosit hansı üçün xarakterikdir:",
+      "options": [
+        "Xronik kataral bronxit",
+        "Xronik irinli bronxit",
+        "Xronik obstruktiv bronxit",
+        "Xronik sadə bronxit",
+        "Pnevmoniya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Hansı xəstəlikdə sərt tənəffüs eşidilmir:",
+      "options": [
+        "Bronxial astma",
+        "Xronik bronxit",
+        "Ocaqli pnevmoniya",
+        "Kəskin bronxit",
+        "Krupoz pnevmoniya qaraciyərləşmə mərhələsində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Şüşəvari bəlğəm olur:",
+      "options": [
+        "Krupoz pnevmoniyada",
+        "Bronxial astmada",
+        "Ağciyər xərçəngində",
+        "Ağciyər absesində",
+        "Bronxoektaziyada"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. Ağciyərin müqayisəli perkussiyasında hansında aydın ağciyər səsi saxlanır:",
+      "options": [
+        "Ağciyər emfizrması",
+        "Krupoz pnevmoniya",
+        "Kəskin bronxit",
+        "Eksudativ plevrit",
+        "Atelektaz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "31. Hansı etiologiyalı pnevmoniyada xəstənin rentgenoqramında nazik divarlı boşluq horizontal səviyyə ilə görünür:",
+      "options": [
+        "Mikoplazma",
+        "Stafilokokk",
+        "Legionella",
+        "Streptokok",
+        "Xlamidiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "32. Pnevmoniyanın inkişafına meyillilik yaradan faktor hansıdır:",
+      "options": [
+        "Piylənmə",
+        "Ayağın dərin venalarının tromboflebiti",
+        "Hipodinamiya",
+        "Tez-tez alkohol qəbulu",
+        "Hamiləlik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "33. AXOX zamanı  aşağıdakı  fəsadlardan hansı olmur?",
+      "options": [
+        "sağ mədəcik çatışmazlığı",
+        "Eritrositoz",
+        "Tənəffüs çatışmazlığı",
+        "Cor pulmonom",
+        "Anemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "34. Krupoz pnevmoniyanın qaraciyərləşmə fazasında səs titrəməsi necə dəyişir:",
+      "options": [
+        "Hər iki tərəfdə zəifləyir",
+        "Hər iki tərəfdə güclənir",
+        "Dəyişiklik olmur",
+        "Bir tərəfdə güclənir",
+        "Bir tərəfdə zəifləyir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "35. Spontan pnevmotoraksda səs titrəməsi hava olan tərəfdə necə dəyişir:",
+      "options": [
+        "Hər iki tərəfdə zəifləyir",
+        "Hər iki tərəfdə güclənir",
+        "Dəyişiklik olmur",
+        "Bir tərəfdə güclənir",
+        "Bir tərəfdə zəifləyir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Pnevmoniyanın qaraciyərləşmə mərhələsi üçün xarakterikdir:",
+      "options": [
+        "Krepitasiya indux",
+        "Krepitasiya redux",
+        "Səs titrəməsinin və bronxofoniyanın güclənməsi",
+        "Qutu səsi",
+        "Vezikulyar tənəffüs"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "37. AXOX-lu xəstənin müalicəsində uzun müddətli müalicəsi üçün seçim dərman hansıdır:",
+      "options": [
+        "Fenoterol",
+        "Terbutalin",
+        "Tiotropium bromid",
+        "Euphyllin",
+        "Salbutamol"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "38. Pnevmoniyanın daha çox rast gəlinən törədicisi:",
+      "options": [
+        "Stafilokokk",
+        "Yaşılı streptokokk",
+        "Streptokokk Pnevmoniya",
+        "Virus",
+        "Mikoplazma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "39. Mikoplazma pnevmoniyasında hansı təyin olunur:",
+      "options": [
+        "Eritromisin",
+        "Penisillin",
+        "Seftriakson",
+        "Biseptol",
+        "Qentamisin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Mehmanxanada işləyən xadimə kondisoner altında işlədikdən sonra, titrətmə ilə 40 dərəcə temperaturu qalxmışdır.  Xəstədə öskürək, qanlı bəlğəm, diareya, mialgiya olmuşdur. Xəstədə ehtimal olunan törədici hansıdır:",
+      "options": [
+        "Klebsiella",
+        "Legionella",
+        "Mikoplazma",
+        "Qızılı stafilokok",
+        "Streptokok pnevmoniya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "41. Hansı dərman mukolitik deyil:",
+      "options": [
+        "Asetilsistein",
+        "Kaliy yodit",
+        "Natrium bromid",
+        "Tripsin",
+        "Mukaltin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "42. Pnevmoniyanın abseslə fəsadlaşmasını əmələ gətirən faktor hansı deyil:",
+      "options": [
+        "Atelektazın inkişafı",
+        "Şəkərli diabet",
+        "Alfa 1 antitripsin defisiti",
+        "Alkoholizm",
+        "İmmundefisit vəziyyət"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "43. Hansı biri pnevmoniyanın əsas diaqnostik əlamətidir:",
+      "options": [
+        "Kütləşmə",
+        "Kütləşmə yerində bronxial tənəffüs",
+        "Hərarət",
+        "Krepitasiya",
+        "Zəifləmiş tənəffüs"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "44. Yaşlılarda nozokomial pnevmoniyanın ən çox təsadüf olunan səbəbi:",
+      "options": [
+        "Xlamidiya",
+        "Mikoplazma",
+        "Klebsiella",
+        "Sadə herpes virusu",
+        "Pnevmokokk"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "45. Pnevmoniyanın əsas rentgen əlaməti:",
+      "options": [
+        "Atelektaz",
+        "Ağciyər infiltiratı",
+        "Havalılığın artması",
+        "Peribronxial fibroz",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "46. AXOX-un klinik əaməti hansıdır:",
+      "options": [
+        "Səs titrəməsinin güclənməsi",
+        "Bronxofoniyanın güclənməsi",
+        "Müqayisəli perkusiyada timpanit",
+        "Vezikulyar tənəffüsün zəifləməsi uzanmış nəfəs vermə ilə",
+        "II tonun ağciyər arteriyası üzərində aksenti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "47. Emfizemanın klinik əlamətini göstərin:",
+      "options": [
+        "Tənəffüsdə ağciyərin aşağı payının ekskursiyasının azalması",
+        "Perkutor səsin kütləşməsi",
+        "Amforik tənəffüs",
+        "səs titrəməsinin artması",
+        "Bronxofoniyanın güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Xronik bronxitin kəskinləşməsi zamanı bəlğəm yoxlandıqda daha çox rast gəlinir:",
+      "options": [
+        "Çoxlu atipik hüceyrələr",
+        "Çoxlu neytofil leykosit",
+        "Çoxlu eozonofil",
+        "Çoxlu eritrosit",
+        "Çoxlu Kurşman spiralı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "49. Xronik bronxitin kəskinləşməsi zamanı  qan yoxlandıqda daha çox rast gəlinir:",
+      "options": [
+        "Eozinofiliya",
+        "Monosit",
+        "Yüksək olmayan neytrofil, leykosit, çöp nüvəli leykositlərin artması",
+        "Limfopeniya",
+        "Trombositopeniya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "50. AXOX arterial hipertoniya ilə müştərək olduqda müalicədə hansı dərmanlar istifadə etmək olar:",
+      "options": [
+        "Kalsium antaqonisti",
+        "AÇFİ",
+        "Angiotenzin II reseptorun antaqonisti",
+        "Selektiv B- blokatorlar",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. AXOX-un ən çox rast gəlinən törədicisi hansılardır: \n1) Streptococcus pneumoniae, \n2) Mycoplasma, \n3) Haemophilus influenza, \n4) Chlamidia, \n5) Moraxella catarhalis",
+      "options": [
+        "1,2",
+        "1,5",
+        "2,3,5",
+        "1,3,5",
+        "2,3,4"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "52. Kəskin bronxidə perkutor hansı səs alınır:",
+      "options": [
+        "Küt",
+        "Qutu səsi",
+        "Aydın ağciyər səsi",
+        "Timpanik",
+        "Kütləşmiş"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "53. Bronxial tənəffüs eşidilmir:",
+      "options": [
+        "Pay pnevmoniyası",
+        "Plevritdə",
+        "Ağciyər absesi",
+        "Açıq pnevmotoraksda",
+        "Yuxarıdakıların hamısında"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "54. Hansı bronxoobstruktiv simptoma aid deyil:",
+      "options": [
+        "Davamlı öskürək",
+        "Quru fitverici xırıltılar",
+        "Ekspirator təngənəfəslik",
+        "Bəlğəmin çətin ifrazı",
+        "İnspirator təngnəfəslik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "55. Hansı atipik pnevmoniyaya səbəb deyil:",
+      "options": [
+        "Xlamidiya",
+        "Mikoplazma",
+        "Legionella",
+        "Pnevmokokk",
+        "Hamısı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "56. Eksudativ plevritin əsas əlamətinə aid olmayan hansıdır?",
+      "options": [
+        "Bronxial tənəffüs",
+        "Diafraqmanın ekskursiyasının azalması",
+        "Mediastinumun yerini dəyişməsi",
+        "Perkutor səsin kütləşməsi",
+        "Plevranın sürtünmə küyünün eşidilməməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Eksudativ plevritə səbəb olmayan xəstəlik hansıdır?",
+      "options": [
+        "Xora xəstəliyi",
+        "Vərəm",
+        "Şiş xəstəliyi",
+        "Pnevmoniya",
+        "Xronik ürək çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Eufillinin təsir mexanizmi hansıdır:",
+      "options": [
+        "Bronxun dilatasiyası",
+        "Sekresiyanın azalması",
+        "Allergiya əleyhinə təsir",
+        "Adrenomimetik təsir",
+        "Antihistamin təsiri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Restriktiv tənəffüs çatışmazlığı aşağıdakılardam hansı birində olmur:",
+      "options": [
+        "Kifoskoloios",
+        "Fibrozlaşmış alveolit",
+        "Piylənmə",
+        "Qırtlağın stenozu",
+        "Eksudativ plevrit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Bronxial obstruksiyanın mexanizmi deyil:",
+      "options": [
+        "Bəlğəmin toplanması",
+        "Larinqospazm",
+        "Bronx divarının iltihabı",
+        "Bronxospazm",
+        "Selikli qişanın ödemi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "61.Bəlğəmin hansı elementi ağciyər destruksiyasını dəqiq göstərir:",
+      "options": [
+        "Şarko-Leyden kristalı",
+        "Leykosit",
+        "Kurşman spiralı",
+        "Elastik liflər",
+        "Erotrosit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "62.Xronik ağciyər ürəyinin dekompensasiyası zamanı əsas əlaməti göstərin:",
+      "options": [
+        "Təngənəfəslik müxtəlif dərəcəli",
+        "Sianoz",
+        "Taxikardiya",
+        "Boyun venasının şişməsi",
+        "Epiqastriyada pulsasiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "63. Asmatik statusda hansı dərman göstərişdir:",
+      "options": [
+        "Antibiotik",
+        "Prednizolon, B2 aqonist",
+        "İntal",
+        "Dimedrol",
+        "Mukolitin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "64. Xronik obstruktiv bronxitin vacib differensial-diaqnostik əlaməti hansıdır:",
+      "options": [
+        "Ekspirator dispnoe",
+        "Bəlğəmli öskürək",
+        "Ağciyərdə perkutor qutu səsi",
+        "Geri dönməyən və ya az geri dönən bronxial obstruksiya terapiya zamanı",
+        "Zəifləmiş vezikulyar  tənəffüs fonunda quru və yaş xırıltı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "65. Xronik obstruktiv bronxit üçün hansı simptom xarakterik deyil:",
+      "options": [
+        "Perkutor qutu səsi",
+        "Nəfəs vermənin uzanması",
+        "Nəfəs vermədə yayılmış quru xırıltılar",
+        "Bronxial tənəffüs",
+        "Ekspirator təngnəfəslik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "66. Bronxla birləşən ağciyər absesinin xarakteristikası:",
+      "options": [
+        "Bronxofoniyanın zəifləməsi, mediastinumun əks tərəfə yerini dəyişməsi",
+        "Mediastinumun eyni  tərəfə yerini dəyişməsi",
+        "Timpanit səs, böyükqabarcıqlı xırıltı ilə",
+        "Bronxial tənəffüs",
+        "İnspirator təngnəfəslik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "67. Salbutamolun təsir mexanizmi:",
+      "options": [
+        "Vaqusun tonusun zalması",
+        "Beta reseptorun stimulyasiyası",
+        "Alfa reseptorun blokadası",
+        "Histamin reseptorlarının blokadası",
+        "Bronxun saya əzələsinə birbaşa təsiri"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "68. Hansı təsir mexanizmi bronxial astmanın boğulma tutmasında iştirak etmir:",
+      "options": [
+        "Bronxun selikli qişasının ödemi",
+        "Bronxospazm",
+        "Selik sekresiyasının artması",
+        "Bəlğəm ifrazının pozulması",
+        "Alveolyar ödem"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. Hansı bronxoektatik xəstəliyin fəsadı deyil:",
+      "options": [
+        "Pnevmotoraks",
+        "Böyrək amiloidozu",
+        "Ağciyər arteriyası tromboemboliyası",
+        "Hemoftiz",
+        "Plevranın empieması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "70. Hansı bronxial astma üçün səhvdir:",
+      "options": [
+        "Salbutamol tutmanı götürür",
+        "Bəlğəmdə Şarko-Leyden kristalı olur",
+        "Xəstəlik istənilən yaşda olur",
+        "Uzun davam edən astmatik statusda yaş xırıltılar eşidilir",
+        "Spiroqrafiyada Tiffno indeksi azalır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "71. Legionella pnevmoniyasının müalicəsində hansı işlədilir:",
+      "options": [
+        "Penisillin",
+        "Kefzol",
+        "Eritromisin",
+        "Seftriakson",
+        "Gentamisin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "72. Bronxoektaziyanın müayinəsində ən informativ qeyri-invaziv instrumental müyinə hansıdır:",
+      "options": [
+        "Ağciyərin rentgenoskopiyası",
+        "Ağciyərin tomoqrafiyası",
+        "Bronxoskopiya",
+        "Bronxoqrafiya",
+        "Spiroqrafiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "73. Bronxoektaziyanın müayinəsində ən informativ invaziv instrumental müayinə hansıdır:",
+      "options": [
+        "Ağciyərin rentgenoskopiyası",
+        "Ağciyərin tomoqrafiyası",
+        "Bronxoskopiya",
+        "Bronxoqrafiya",
+        "Spiroqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "74. AXOX-da bronxoobstruktiv sindromun klinik əlaməti hansıdır:",
+      "options": [
+        "Bəlğəmli öskürək",
+        "Quru fitverici xırıltı",
+        "Krepitasiya",
+        "Bəlğəm ifrazının pisləşməsi",
+        "İnspirator təngənəfəslik"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "75. Ağciyər arteriyasının tromboemboliyasına şübhə olduqda təcili aparılan diaqnostik müayinə hansıdır:",
+      "options": [
+        "Bəlğəmin analizi",
+        "EKQ",
+        "Xarici tənəffüs funksiyasının yoxlanması",
+        "Döş qəfəsinin rentgenoqrafiyası",
+        "Angiopulmonoqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "76. Ağciyər arteriyasının tromboemboliyasına meyillik yaradan faktorlar hansıdır:",
+      "options": [
+        "Aşağı ətrafın dərin venalarının tromboflebiti",
+        "Cərrahi əməliyyatdan sonra gec dövr",
+        "Postinfarkt dövrdə xəstələrin gec mobilizasiyası",
+        "Mitral stenoz",
+        "Aortal stenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Ağciyər qanaxmasının xarakterik əlamətləri:",
+      "options": [
+        "Köpüklü, al-qırmızı, qələvi reaksiyalı",
+        "Köpüklü turş reaksiyalı",
+        "Tünd qan laxta şəklində",
+        "Qanın turş reaksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Birincili ağciyər emfizemasının inkişafında patogenetik hansının əhəmiyyəti var:",
+      "options": [
+        "Tənəffüs sisteminin funksional gərginliyi",
+        "Tənəffüs sisteminin kəskin xəstəliyi",
+        "Alfa-1 antitripsinin defisiti",
+        "Bronx- ağciyər sistemiin xronik xəstəliyi",
+        "Ağciyərin elastik toxumasının yaşla əlaqədar involyusiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "79. Xronik ağciyər ürəyinin inkişafına səbəb olmayan xəstəlik hansıdır:",
+      "options": [
+        "AXOX",
+        "Fibrozlaşan alveolit",
+        "Piylənmə",
+        "Pikvik sindromu",
+        "Krupoz pnevmoniya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Fibrozlaşan alveolit üçün hansı xarakterikdir:",
+      "options": [
+        "Bronxofoniyanın zəifləməsi, mediastinumun əks tərəfə yer dəyişməsi",
+        "Timpanik səs, amforik tənəffüs",
+        "İnspirator təngənəfəslik, ağciyər həcminin azalması, krepitasiya",
+        "Ekspirator təngənəfəslik, ağciyər həcminin artması",
+        "Sər tənəffüs fonunda quru xırıltılar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "81. Xəstəliyin kəskin başlanması, yaş xırıltılar, ağciyərin hər iki tərəfində aşağı payda kiçik ocaqlı kölgəlik və xəstəliyin sürətli müsbət dinamikası hansı üçün xarakterikdir:",
+      "options": [
+        "Miliar vərəm",
+        "Ocaqlı pnevmoniya",
+        "Sarkoidoz",
+        "Pnevmokonioz",
+        "Ağciyər şişi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "82. İkitərəfli limfa vəzilərinin böyüməsi hansında ola bilər:",
+      "options": [
+        "Pnevmoniya",
+        "Durğun ağciyər",
+        "Alveolit",
+        "Sarkoidoz",
+        "Aktinomikoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "83. Restriktiv tənəffüs çatışmazlığı hansında olmur:",
+      "options": [
+        "Kifoskolioz",
+        "Fibrozlaşan alveoit",
+        "AXOX",
+        "Eksudativ plevrit",
+        "Pikvik sindromu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "84. Hansı xəstəlikdə ümumilikdə krepitasiya eşidilir:",
+      "options": [
+        "Pnevmotoraks",
+        "Fibrozlaşan elveolit",
+        "Eksudativ Plevrit",
+        "Emfizema",
+        "AXOX"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "85. Pikvik sindromunda, Cor pulmonumun inkişafında əsas rol oynayan faktor hansıdır:",
+      "options": [
+        "Pnevmoskleroz",
+        "Ağciyər emfizeması",
+        "Atelektaz",
+        "Alveolyar hipoventilyasiya",
+        "Ağciyərin damarlarının zədələnməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Cor pulmonumun əlaməti hansıdır:",
+      "options": [
+        "Zirvə vurğusunun yayılmış olması",
+        "Ürək vurğusu",
+        "Mitral qapağın requrgitasiyası hesabına sistolik küy",
+        "Sağ His dəstəsi ayağının blokadası",
+        "Sol His dəstəsi ayağının blokadası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "87. Bronxial astma zamanı istifadə olunan, Fosfodiestarazanı inhibisiya etməklə siklik AMF – i artiran dərman hansıdır:",
+      "options": [
+        "İntal",
+        "Zaditen",
+        "Eufillin",
+        "Salbutamol",
+        "Qlükokortikoid"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "88. Hansı xəstəlik üçün hər iki tərəfdə əlavə tənəffüs küyləri olmayan, zəifləmiş vezikulyar tənəffüs xarakterikdir:",
+      "options": [
+        "Eksudativ plevrit",
+        "Bronxial astma",
+        "Ağciyər emfizeması",
+        "Xronik bronxit",
+        "Krupoz pnevmoniya 2- ci mərhələdə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "89. Hansı xəstəlikdə döş qəfəsinin aşağı hissəsində tənəffüs küyü eşidilmir:",
+      "options": [
+        "Krupoz pnevmoniya 2- ci mərhələdə",
+        "Eksudativ plevrit",
+        "Ağciyərin emfizeması",
+        "Bronxial astma",
+        "Ağciyərin absesi 1- ci mərhələdə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "90. Angiotenzin çevirici fermentin aktivliyi hansında artır?",
+      "options": [
+        "Kəskin histoplazmoz",
+        "Kəskin asbestoz",
+        "Kəskin brusellioz",
+        "Kəskin vərəm",
+        "Kəskin sarkoidoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "91. Sarkoidozun yekun diaqnozu  qoyulur:",
+      "options": [
+        "Kveym testi ilə",
+        "Biopsiya ilə",
+        "Wasserman testi ilə",
+        "Frey testi ilə",
+        "Veyenverq testi ilə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "92. Sarkoidozun aktivliyini təyin etdikdə istifadə olunmur:",
+      "options": [
+        "EÇS",
+        "Qlobulinlər",
+        "Kalsium səviyyəsi",
+        "Angiotenzin çevirici fermentin aktivliyi",
+        "Kveym testi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "93. Plevra mayesində qlükozanın səviyyəsinin aşağı olan xəstəliyi hansıdır?",
+      "options": [
+        "Hojkin xəstəliyi",
+        "Mezotelioma",
+        "Ürək çatışmazlığı",
+        "Qızılcada",
+        "Revmatoid artrit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "94. Absesin açılma mərhələsinə hansı aid deyil:",
+      "options": [
+        "Bəlğəmin miqdarının artması",
+        "İntoksikasiyanın azalması",
+        "Zədələnmə zonsında kütlük, zəifləmiş vezikulyar tənəffüs",
+        "Zədələnmə zonasında timpanit, amforik tənəffüs",
+        "Qızdırmanın azalması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "95. AXOX və emfizema zamanı hansı artır:",
+      "options": [
+        "Ağciyərin həyat tutumu",
+        "Tənəffüs həcmi",
+        "Dəqiqəlik tənəffüs həcmi",
+        "Qalıq hava",
+        "Oksigen alveolyar havada"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "96. Hansında təbil çubuğu barmağı olmur?",
+      "options": [
+        "Bronxoektaziya",
+        "Reyno sindromu",
+        "Ağciyər absesi",
+        "Xoralı kolit",
+        "Kron xəstəliyi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "97. Hansında qalıq hava artır?",
+      "options": [
+        "Pnevmotoraks",
+        "Pulmonar ödem",
+        "Emfizema",
+        "Empiema",
+        "Plevral mezotelioma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "98. Hansında hipoksemiya olmadan hipoksiya gözlənilir?",
+      "options": [
+        "Anemiya",
+        "Pnevmokok pnevmoniyası",
+        "Müalicə olunan BA",
+        "İnterstisial pnevmoniya",
+        "Massiv ağciyər tromboemboliyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Status astmatikusda ABG necə olur?",
+      "options": [
+        "PO2 azalır, PH azalır, PCO2 artır",
+        "PO2 azalır, PH azalır, PCO2 azalır",
+        "PO2 artır, PH azalır, PCO2 artır",
+        "PO2 artır, PH artır, PCO2 azalır",
+        "PO2 artır, PH artır, PCO2 artır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Restriktiv tipdə gedən ağciyər xəstəliklərində aşağıdakılardan hansı gözlənilmir?",
+      "options": [
+        "Qalıq həcmin artması",
+        "Nəfəsvermənin birinci saniyədəki həcminin azalması",
+        "Ağciyərin həyat tutumunun azalması",
+        "Nəfəsvermənin həcm sürətinin azalması",
+        "Qalıq həcmin azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Tənəffüs sistemi xəstəlikləri zamanı xəstənin əsas şikayətinə aiddir:",
+      "options": [
+        "Təngənəfəslik",
+        "Baş ağrıları",
+        "Yuxusuzluq",
+        "Yorğunluq",
+        "Ümumi halsızlıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Ağciyər emfizeması zamanı əsas rentgenoloji əlamət:",
+      "options": [
+        "Ağciyərlərdə şəffaflığın artması",
+        "Ağciyərlərdə nodulyar dəyişiklik",
+        "Ağciyərlərdə interstisial xarakterli dəyişikliklərin olması",
+        "Ağciyərlərdə lobar dəyişiklik",
+        "Köksdaxili limfoadenopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Pnevmoniyalar zamanı  törədici kimi göy- yaşıl irin çöplərinin aktuallığını artırır:",
+      "options": [
+        "Bronxoektaziya fonunda baş verən pnevmoniya",
+        "Xronik haymorit fonunda baş verən pnevmoniya",
+        "Adenovirus infeksiyası ilə əlaqəli pnevmoniya",
+        "Ağciyər vərəmi ilə yanaşı gedən pnevmoniya",
+        "Üzgüçülülərdə pnevmoniya inkişaf edərsə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Pnevmoniya zamanı hopitalizasiyaya əsas göstərişdir:",
+      "options": [
+        "Multilobar lokalizasiyalı pnevmoniya",
+        "Leykositoz",
+        "Hiperqammaqlobuliemiya",
+        "Hiperproteinemiya",
+        "Yüksək hərarət"
+      ],
+      "correct": 0
+    }
+  ]
+}

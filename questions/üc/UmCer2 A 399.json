@@ -1,0 +1,4393 @@
+{
+  "questions": [
+    {
+      "question": "1. Yanıqlar hansı şəraitdə (əmin – amanliq dovründə) daha çox müşahidə olunur?",
+      "options": [
+        "İstehsalatda və məişətdə",
+        "Təhsil müəssisələrində",
+        "Müdafiə şəraitində",
+        "Qar-buz üzərində",
+        "Dənizdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Elektrik yanıqları yanıqların neçə faizini təşkil edir?",
+      "options": [
+        "3%",
+        "1%",
+        "2%",
+        "4%",
+        "5%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Bunlardan hansı səthi yanıqdır? Hansı variant düzgün cavabdır? 1) I dərəcə 2) II dərəcə 3) III a dərəcə 4) III b dərəcə 5) IV dərəcə",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Frank əmsalı neçə vahid olduqda yanıq xəstəliyindən sağalma ehtimalı şübhəlidir?",
+      "options": [
+        "61-90",
+        "15-20",
+        "21-30",
+        "31-60",
+        "100"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Frank əmsalı neçə vahid olduqda yanıq xəstəliyindən sağalma ehtimalı çox olur?",
+      "options": [
+        "<30%",
+        "<60%",
+        "<71%",
+        ">80%",
+        ">50%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Bədən səthinin neçə faizi yanqında I dərəcəli yanıq şoku inkişaf edir?",
+      "options": [
+        "15-20%",
+        "5-10%",
+        "11-14%",
+        "5-15%",
+        "6-8%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Yanıq xəstəliyi zamanı toksemiya dövrü adətən neçə gün davam edir?",
+      "options": [
+        "15",
+        "5",
+        "7",
+        "10",
+        "20"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Yanıqların hansı müalicə üsulları vardır? Hansı variant düzgün cavabdır? 1) Yerli 2) Ümumi 3) Xüsusi 4) Təcili 5) Planlı",
+      "options": [
+        "1, 2;",
+        "1, 3;",
+        "2, 3;",
+        "1, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Yanıq səthini birincili işlənməsi necə aparılır?",
+      "options": [
+        "Bütün göstərilənlər ardıcılıqla icra edilir",
+        "Yanıq səthinin ətrafı antiseptiklə işlənir",
+        "Hidrogen peroksidlə yanıq səthi yuyulur",
+        "Nekrozlaşmış epidermis yığıntısı və yad cisimlər səthdən götürülür",
+        "Suluqların əsası kəsilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Yanıqların cərrahi müalicə üsulları hansılardı? Hansı variant düzgün cavabdır? 1) Nekrotomiya 2) Nekrektomiya 3) Dəri köçürmə 4) Laparotomiya 5) Fassiyatomiya",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Yanıq səthi təmizləndikdən sonra dəri ilə təxirəsalınmaz plastika yanıqdan neçə həftə keçdikdən sonra icra olunmalıdır?",
+      "options": [
+        "3-4",
+        "1-2",
+        "5-6",
+        "7-8",
+        "9-10"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. 0,4-0,5 mm qalınlıqında dəri parçası hansı qatlardan ibarətdir? Hansı variant düzgün cavabdır? 1) Epitel örtüyü 2) Xüsusi dəri 3) Kambial qat 4) Tük soğanağı 5) Tər vəzləri",
+      "options": [
+        "1, 2;",
+        "1, 3;",
+        "1, 4;",
+        "1, 5;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Yanıqı törədən kimyəvi maddələr hansılardı?",
+      "options": [
+        "Qatı qələvilər və Turşular",
+        "Zəif qələvilər",
+        "Zəif turşular",
+        "Fizioloji məhlul",
+        "Furasilin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Elektrik cərəyanın bədənə zədələyici təsiri nə ilə əlaqədardır?",
+      "options": [
+        "Əmələ gələn istiliklə",
+        "İşıq effekti ilə",
+        "Bədənin müqaviməti",
+        "Rütübətlə",
+        "Quru hava ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Bədənin ümumi soyuması zamanı hərarət neçə dərəcə olur?",
+      "options": [
+        "340",
+        "370",
+        "36,50",
+        "360",
+        "400"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Bədənin hansı sahələri donmaya daha çox məruz qalır? Hansı variant düzgün cavabdır? 1) Açıq sahələr (qulaq, burun) 2) Əl barmaqları 3) Ayaq barmaqları 4) Budun dərisi 5) Döşün və qarnın toxuması",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "2, 3, 4;",
+        "3, 4, 5;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Donmuş toxumalarla sağlam toxumalar bir birindən hansı xətlə ayrılır?",
+      "options": [
+        "Demarkasion",
+        "Paralel",
+        "Tangension",
+        "Hidratasion",
+        "Dehidratasion"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Bunlardan hansı hərəkətsiz sarğı növüdür? Hansı variant düzgün cavabdır? 1) Gips 2) Şinalarla sarğı 3) Bint sarğısı 4) Dezo 5) Velpo",
+      "options": [
+        "1,2",
+        "1,3",
+        "1,4",
+        "3,4",
+        "4,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Bunlardan hansı bintsiz sarğı növüdür?",
+      "options": [
+        "Leykoplastırla",
+        "Dairəvi",
+        "Sürüşən",
+        "Sümbül",
+        "Dezo"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Dövrələyici sarğı qöyularkən növbəti dövrə əvvəlki dövrənin neçə hissəsini örtməlidir?",
+      "options": [
+        "1/2",
+        "2/3",
+        "1/4",
+        "3/4",
+        "2/5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. İnfeksiya anlayışını təbabətə kim gətirmişdir?",
+      "options": [
+        "Qüfeland",
+        "Prinql",
+        "Piroqov",
+        "Hipokrat",
+        "Mirqasımov"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Bunlardan hansı yaradan axan irinin tərkib hissəsi deyil?",
+      "options": [
+        "Atipik hüceyrələr",
+        "Diri mikroblar",
+        "Toksinlər",
+        "Ölmüş mikroblar",
+        "Leykositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Kəskin spesifik infeksiyaya aiddir? 1) Dolama 2) Osteomielit 3) Tetanus 4) Qazlı qanqrena 5) Sibir yarası",
+      "options": [
+        "3, 5;",
+        "1, 2;",
+        "3, 4;",
+        "2, 5;",
+        "1, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Kəskin cərrahi infeksiyaya aiddir?",
+      "options": [
+        "Parotit",
+        "Aktinomikoz",
+        "Cüzəm",
+        "Sifilis",
+        "Vərəm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Xroniki cərrahi infeksiyanın hansı növləri vardır?",
+      "options": [
+        "Qeyri spesifik, spesifik",
+        "Göbələk törədiciləri, parazitar xəstəlik törədicilər",
+        "Şiş, parazitar xəstəlik törədicilər",
+        "Parazitar, şiş",
+        "Şiş, parazitar, göbələklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Xroniki spesifik infeksiyaya aid deyil? 1) Aktinomikoz 2) Sibir yarası 3) Furunkul 4) Qazlı qanqrena 5) Sifilis",
+      "options": [
+        "2, 3, 4;",
+        "1, 2, 4;",
+        "2, 3, 5;",
+        "1, 3, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Bu xəsləliklərdən hansı xroniki spesifik infeksiya törədiciləri ilə yaradılmır?",
+      "options": [
+        "Osteomielit",
+        "Vərəm",
+        "Sifilis",
+        "Aktinomikoz",
+        "Cüzəm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Bu mikroblardan hansı qrammüsbət kokdur?",
+      "options": [
+        "Staphylococcus",
+        "Neisseria",
+        "Aeromonas",
+        "Proteus",
+        "Candida"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Qrammüsbət anaerob çöplər hansılardır?",
+      "options": [
+        "Bifidobacterium",
+        "Serratia",
+        "Citrobacter",
+        "Klebsiella",
+        "Enterobacter"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Bunlardan hansı aerob qrammənfi çöp deyil?",
+      "options": [
+        "Cl. tetani",
+        "Enterobacter",
+        "Serratia",
+        "Proteus",
+        "Pseudomonas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Qrammüsbət anaerob koklar hansılardır?",
+      "options": [
+        "Peptococcus",
+        "Staphylococcus",
+        "Streptococcus",
+        "Pneumococcus",
+        "Pseudomonas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Qrammüsbət anaerob çöplər hansılardır?",
+      "options": [
+        "Eubacterium",
+        "Aeromonas",
+        "Citrobacter",
+        "Klebsiella",
+        "Enterobacter"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Bu mikroblardan hansı qrammənfi aerob çöplər deyil?",
+      "options": [
+        "Bacteroides",
+        "Alcaligenis",
+        "Aeromonas",
+        "Proteus",
+        "Serratia"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34. Qrammənfi aerob koklar hansılardır?",
+      "options": [
+        "Neisseria",
+        "Pneumococcus",
+        "Staphylococcus",
+        "Streptococcus",
+        "Veillonella"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. İrintörədici stafilokokkların növü hansıdır?",
+      "options": [
+        "Qızılı",
+        "Qanlı",
+        "Qırmızı",
+        "Yaşıl",
+        "Gümüşü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Bunlardan hansı spor əmələ gətirən qrammüsbət çöplərdir? 1) Cl. perfringens 2) Cl. tetani 3) Fusobacterium 4) Bifidobacterium 5) Veillonella",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "2, 5",
+        "1, 5",
+        "3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Tetanusun törədicisi hansıdır?",
+      "options": [
+        "Cl. tetani",
+        "Cl. perfringens",
+        "Cl. septicum",
+        "Cl. oedematiens",
+        "Cl. hystolitucum"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Tetanus çöpləri hansı toksinləri ifraz edir?",
+      "options": [
+        "Tetanospazmin",
+        "Fibrinolizin",
+        "Qidrolizin",
+        "Streptaza",
+        "Streptodekaza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Tetanus çöpləri hansı toksinləri ifraz edir?",
+      "options": [
+        "Tetanohemolizin",
+        "Tripsin",
+        "Ximotripsin",
+        "Ximopssin",
+        "Aminakrovin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Antibiotiklərin təyinindən sonra hansı mikroblar əmələ gələ bilər?",
+      "options": [
+        "Göbələklər",
+        "Stafilokoklar",
+        "Vərəm çöpləri",
+        "Streptokoklar",
+        "Qazlı qanqrena törədiciləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. Patogen mikrobların aseptik yaraya keçməsi necə adlanır?",
+      "options": [
+        "Kontaminasiya",
+        "Konqestivasiya",
+        "İntraduksiya",
+        "Asimilyasiya",
+        "Transduksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42. Bakterial çirklənmədən sonra cərrahi infeksiyanın inkişafı nədən asılıdır? Düzgün cavab hansı variandır? 1) Bakteriyaların virulentliyindən 2) Giriş qapısından bakteriyaların yaraya keçmə vaxtından 3) Bədənin yerli və ümumi müqavimətindən 4) İtirilmiş qanın miqdarından 5) Sınığın yaranmasından",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Qan dövranı zəngin olan nahiyyələrdə infeksiya tezmi inkişaf edir?",
+      "options": [
+        "Yox",
+        "Hə",
+        "Tez inkişaf edə bilər",
+        "Müəyyən olunmayıb",
+        "İnkişafı şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Bədənin daxil olmuş infeksiyaya qarşı reaksiyası necə olmaya bilər?",
+      "options": [
+        "Polierqik",
+        "Hipererqik",
+        "Anerqik",
+        "Hiperqik",
+        "Normerqik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. Sepsis yunanca nə deməkdir?",
+      "options": [
+        "Çürümə",
+        "Ərimə",
+        "Qıcqırma",
+        "Donma",
+        "Pıxtalaşma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Aktinomikozun hansı formaları var? 1) Üz-boyun 2) Agciyər 3) Bagırsaq 4) böyrək 5) Qaraciyər",
+      "options": [
+        "1, 2, 3",
+        "1, 2, 5",
+        "2, 3, 4",
+        "3, 4, 5",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Bədəndə yaşayan saprofit mikrobların patogen mikroblara qarşı mübarizəsi necə adlanır?",
+      "options": [
+        "Mikrobların antoqonizmi",
+        "Mikrobların simbiozu",
+        "Mikrobların virulentliyi",
+        "Mikrobların şərti patogenliliyi",
+        "Mikrob sinerqizmi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Dəridə yerləşən və dəri səthinə axan tər və piy vəzlərin şirələri hansı əhəmiyyətə malikdir?",
+      "options": [
+        "Bakteriosit",
+        "Patogen mikrobların inkişafını sürətləndirir",
+        "Hemolitik",
+        "Koaqulolitik",
+        "Plazmolitik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Dəri və selikli qişalarda açılmış giriş qapılarından dərin toxumalara keçən mikroblar bədənin hansı müqaviməti ilə rastlaşırlar? Hansı variant düzgün cavabdır? 1) Humoral müqavimətlə 2) Qan qrupları ilə 3) Rezus amillə 4) Hüceyrə müqaviməti ilə 5) Ödün piqmentlərinin müqaviməti ilə",
+      "options": [
+        "1, 4;",
+        "1, 2;",
+        "1, 3;",
+        "1, 5;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Toxumaya daxil olan mikroblar hansı hüceyrələrlə dərhal əhatə olunurlar?",
+      "options": [
+        "Leykositlər",
+        "Trombositlər",
+        "Eritrositlər",
+        "Sinir",
+        "Piy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Bu hüceyrələrdən hansı faqositar sistemə aid deyil?",
+      "options": [
+        "Trombositlər",
+        "Piroqov-Lanqans hüceyrələri",
+        "Makrofaqlar",
+        "Kupfer hüceyrələri",
+        "Histiositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. Bu hüceyrələrdən hansı faqositoz qabiliyyətinə malik deyil?",
+      "options": [
+        "Eritrositlər",
+        "Leykositlər",
+        "Makrofaqlar",
+        "Osteoklastlar",
+        "Monositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Bunların hansı humoral müdafiə amili deyil?",
+      "options": [
+        "T-limfosit",
+        "Leykinlər",
+        "Lizosim",
+        "Komplement sistemi",
+        "Plakin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. İnfeksiyaya qarşı humoral qeyri spesifik müdafiə reaksiyasına hansı hüceyrələr cavabdehdir?",
+      "options": [
+        "Leykinlər",
+        "Eritrositlər",
+        "Osteoklastlar",
+        "Monositlər",
+        "Histiositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. İnfeksiyaya qarşı hüceyrə tipli cavab reaksiyasına hansı hüceyrələr cavabdehdir?",
+      "options": [
+        "T-limfositlər",
+        "Eozinofillər",
+        "Bazofillər",
+        "Limfositlər",
+        "Eritrositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Toxuma arasına yığılmış irinin iki əllə nəyə əsasən təyin edilir?",
+      "options": [
+        "Fluktuasiya",
+        "Kombinasiya",
+        "Hidratasiya",
+        "Fenestrasiya",
+        "Sekvestrasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Bunlardan hansı irinli infeksiyanın yerli fəsadı deyil?",
+      "options": [
+        "Hepatit",
+        "Dəri nekrozu",
+        "Limfangit",
+        "Tromboflebit",
+        "Limfadenit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Bədənin kəskin irinli infeksiyaya qarşı ümumi reaksiyasına aid deyil?",
+      "options": [
+        "Şişkinlik",
+        "Bədən hərarəti 38-390 yüksəlməsi",
+        "Titrəmə",
+        "Taxikardiya",
+        "Tənginəfəslik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. İrinli intoksikasiya göstəriciləri hansılardır? Düzgün cavab hansı variantdır? 1) Alqover indeksi 2) Frank əmsalı 3) İntoksikasiyanın leykositar əmsalı 4) Qanın intoksikasiya əmsalı 5) Orta kütləli molekullar",
+      "options": [
+        "3, 4, 5;",
+        "1, 3, 5",
+        "1, 2, 5;",
+        "2, 3, 4;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. İrinli infeksiyanın hansı müalicə üsulları mövcuddur? Hansı variant düzgün cavabdır? 1) Yerli 2) Xüsusi 3) Ümumi 4) Növbədən kənar 5) Terapevtik",
+      "options": [
+        "1, 3;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Aşağı ətrafın irinliyində nə ilə müalicə aparılmır?",
+      "options": [
+        "İmmunosupressorlarla",
+        "İrinlik açılır",
+        "İrinli boşluğuna drenajlar yeridilir",
+        "Nekrektomiya aparılır",
+        "Ətraf hərəkətsizləşdirilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Cərrahi infeksiyanın ümumi müalicəsinə aid deyil?",
+      "options": [
+        "Antiblastika",
+        "Antibakterial",
+        "İntoksikasiya əleyhinə müalicə",
+        "Simptomatik",
+        "İmmunokorreksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63. Qan, plazma və limfada olan toksinlər hemosorbsiya zamanı nəyin köməyi ilə bədəndən xaric edilir?",
+      "options": [
+        "Aktivləşdirilmiş kömürlə",
+        "Limfa düyünü",
+        "Viskozimetrlə",
+        "Valdman qurğusu ilə",
+        "Sentrofuqa ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Döş limfatik axarın drenajlanması ilə hansı boşluqdan başlayan intoksikasiyanı azaltmaq olar?",
+      "options": [
+        "Qarın böşluğundan",
+        "Oynaq boşluğundan",
+        "Perikard boşluğundan",
+        "Kəllə boşluğundan",
+        "Plevra boşluğundan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Follikulit nəyin iltihabıdır?",
+      "options": [
+        "Tük kisəsinin",
+        "Piy vəzinin",
+        "Tər vəzin",
+        "Sidik kisəsi",
+        "Xaya örtüyünün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Bu mikroblardan hansı follikulitə səbəb olur?",
+      "options": [
+        "Qızılı stafilakoklar",
+        "Pnevmokok",
+        "Bağırsaq çöpləri",
+        "Streptokoklar",
+        "Proteylər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Furunkul nəyin iltihabıdır?",
+      "options": [
+        "Tək tük kisəsinin və yaxın piy vəzin",
+        "Dərialtı toxumanın",
+        "Piy vəzinin",
+        "Limfa düyünün",
+        "Limfa damarlarının"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Bu mikroblardan hansı furunkul törədir?",
+      "options": [
+        "Qızılı stafilokok",
+        "Streptokoklar",
+        "Ağ stafilokok",
+        "Sarı stafilokok",
+        "Bağırsaq çöpləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Furunkul daha çox harada inkişaf edir?",
+      "options": [
+        "Bədənin tüklə zəngin nahiyyələrində",
+        "Əlin ovuc səthində",
+        "Pəncənin alt səthində",
+        "Diz oynağı nahiyyəsində",
+        "Aşağı daban oynaq nahiyyəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Furunkulun inkişaf mərhələləri hansılardır? Hansı variant düzgün cavabdır? 1) İnfiltrat ocağının yaranması 2) İlkin reaksiya 3) İrinli gözün formalaşması və qopub düşməsi 4) Çapıqlanma 5) Reaktiv period",
+      "options": [
+        "1, 3, 4;",
+        "1, 3, 5;",
+        "2, 3, 4;",
+        "1, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Furunkulun infiltrat ocağının əmələ gəlməsi nə ilə əlaqədardır? Düzgün cavab hansı variantdır? 1) Qan dövranının pozulması 2) Mikrobların məhv olması 3) Mikrobların dərinin məməvari hüceyrələrinə yayılması 4) Damarların trombozu 5) Ağrının güclənməsi ilə",
+      "options": [
+        "1, 4;",
+        "3, 4;",
+        "2, 3;",
+        "3, 5;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Furunkulun infiltrat mərhələsinə aid deyil?",
+      "options": [
+        "Fluktuasiya",
+        "Dəri qızarır",
+        "Ağrı",
+        "Tük ətafında qabarçıq yaranır",
+        "Ödem"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Furunkulun irinli nekrotik mərhələsində tük kisəsi və piy vəzisinin əriməsi nəyin əmələ gəlməsinə səbəb olur?",
+      "options": [
+        "Mərkəzdə irin gözü",
+        "Hemorraqik maye ilə dolu",
+        "Qızartının azalmasına",
+        "İnfiltratın azalmasına",
+        "Ağrının azalmasına"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Bu iltihab əlamətlərindən hansı furunkulun nekrotik irinli mərhələsi üçün səciyyəvidir? Hansı variant düzgün cavabdır? 1) Endarteriit 2) Limfadenit 3) Limfangit 4) Sellülit 5) Flebotromboz",
+      "options": [
+        "2, 3;",
+        "1, 2;",
+        "1, 3;",
+        "4, 5",
+        "3, 5;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Furunkulun mərkəzində yaranan irinli göz xaric olduqdan sonra nə baş verir?",
+      "options": [
+        "Sağalma",
+        "Qanqrena",
+        "Nekroz",
+        "Süzgəc",
+        "Yataq yarası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Bu əlamətlərdən hansı furunkul üçün səciyyəvi deyil?",
+      "options": [
+        "Seroz maye ilə dolu suluqun yaranması",
+        "Məhəlli ağrı",
+        "Hərarətin 38-390 qədər yüksəlməsi",
+        "Titrəmə",
+        "Baş ağrısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Furunkul səthinə səpilmiş salisil turşusu tozunu hansı təsiri göstərir?",
+      "options": [
+        "Dərini əridir və irinli gözün xaric olmasını asanlaşdırır",
+        "İnfiltratın böyüməsini dayandırır",
+        "Fleqmona törədir",
+        "Limfanqitin qarşısını alır",
+        "Damardaxili trombu əridir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Furunkulun müalicəsində işlədilmir?",
+      "options": [
+        "İsidici kompres",
+        "Quru isti",
+        "Lazerlə müalicə",
+        "Salisil turşusu",
+        "5% yod məhlulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Sifətdə, dodaqda olan furunkulun müalicəsində işlədilmir?",
+      "options": [
+        "Furunkulun barmaqla sıxılması",
+        "Danışığın məhdudlaşdırılması",
+        "Köbud qida qəbulunun məhdudlaşdırılması",
+        "Quru isti",
+        "Antibiotiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Karbunkul nəyin iltihabıdır?",
+      "options": [
+        "Bir neçə tük kisəsinin və piy vəzisinin",
+        "Tək tük kisəsi",
+        "Tək tər vəzin",
+        "Tək tük kisəsinin və piy vəzisinin",
+        "Yalnız birləşdirici toxumanın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Karbunkul hansı mikrobla daha çox törədilir?",
+      "options": [
+        "Qızılı stafilokoklarla",
+        "Streptokoklarla",
+        "Pnevmokoklarla",
+        "Bağırsaq çöpləri ilə",
+        "Proteylərlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. Hansı yanaşı xəstəliyi olan xəstələrdə karbunkula meyillilik çoxdur?",
+      "options": [
+        "Diabet",
+        "Ürəyin işemik xəstəliyi",
+        "Bronxial astma",
+        "Vərəm",
+        "Hipertoniya xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. Bu əlamətlərdən hansı karbunkul üçün səciyyəvi deyil?",
+      "options": [
+        "Soyuq abses",
+        "Ağrılı infiltrat",
+        "Geniş sahədə qızartı",
+        "Gərgin ödem",
+        "Yüksək hərarət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84. Karbunkul üçün səciyyəvidir?",
+      "options": [
+        "“ələk” əlaməti",
+        "Şpatel əlaməti",
+        "Melnikov əlaməti",
+        "Aleksandrov əlaməti",
+        "“əriyən şəkər” əlaməti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Karbunkulun nadir yerləşməsidir?",
+      "options": [
+        "Qarnın ön divarı",
+        "Ənsə",
+        "Bel",
+        "Üz",
+        "Sağrı nahiyyəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86. Karbunkulun kliniki əlamətləri deyil?",
+      "options": [
+        "Qanla qarışıq qusma",
+        "Hərarətin yüksəlməsi",
+        "Titrəmə",
+        "İltihab ocağında ağrı və geniş qızartı",
+        "Ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Karbunkulun fəsadları deyil?",
+      "options": [
+        "Miokardın infarktı",
+        "Metastatik irinliklər",
+        "Sepsis",
+        "Geniş fleqmonanın inkişafı",
+        "Tromboflebit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Karbunkulun cərrahi müalicəsində kəsik hansı formada olmalıdır?",
+      "options": [
+        "H – şəkilli",
+        "U – şəkilli",
+        "T – şəkilli",
+        "V – şəkilli",
+        "S – şəkilli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Karbunkulun ağır intoksikasiya törədən formalarında hansı konservativ müalicə tətbiq edilmir?",
+      "options": [
+        "İmmunosupressorlar",
+        "Antibakterial",
+        "İntoksikasiya əleyhinə",
+        "İmmun sistemi tənzimləyənlər",
+        "Qanın ultrabənövşəyi şüalandırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Hidradenit nəyin iltihabıdır?",
+      "options": [
+        "Tər vəzisinin",
+        "Tük soğanağının",
+        "Piy vəzisinin",
+        "Süd vəzisinin",
+        "Qulaqaltı vəzisinin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Hidrodenit daha çox harada inkişaf edir?",
+      "options": [
+        "Qoltuqaltında",
+        "Əlin içində",
+        "Aralığda",
+        "Qasıqda",
+        "Sifətdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92. Əgər proses dərialtı toxumalara yayılarsa, hidrodenit hansı fəsadların əmələ gəlməsinə səbəb olur? 1) Fleqmona 2) Limfadenit 3) Endarteriit 4) Osteomielit 5) Qızıl yel",
+      "options": [
+        "1, 2;",
+        "1, 3;",
+        "1, 4;",
+        "2, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93. Absess nədir?",
+      "options": [
+        "Kapsula içərisində məhdud irinlik",
+        "Yayılmış iltihabi infiltrat",
+        "Əzələarası hematoma",
+        "Sümük iliyin iltihabı",
+        "Trombun iltihablaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Hansı mikroblar daha çox abses törədir? 1) Tetanus çöpləri 2) Stafilokoklar 3) Streptokoklar 4) Sporəmələgətirən aeroblar 5) Bağırsaq çöpləri",
+      "options": [
+        "2, 3, 5;",
+        "1, 4, 5;",
+        "1, 2, 3;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. Qaraciyər absesi hansı boşluqlara açıla bilər? Düzgün cavab hansı variantdır? 1) Plevra boşluğuna 2) Sidik kisəsinə 3) Qarın boşluğuna 4) Uşaqlıq boşluğuna 5) Öd yollarına",
+      "options": [
+        "1, 3;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Dərialtına yaxın yerləşmiş absesin hansı əlaməti mövcuddur?",
+      "options": [
+        "Fluktiasiya",
+        "Kultivasiya",
+        "Adsorbsiya",
+        "Miqrasiya",
+        "Asimilyasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Hidradenit hansı fəsadlar törədə bilər? Düzgün cavab hansı variantdır? 1) Fleqmona 2) Limfadenit 3) Endarteriit 4) Osteomielit 5) Qaraciyərin absesi",
+      "options": [
+        "1, 2;",
+        "1, 3;",
+        "1, 4;",
+        "2, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Abses nədir?",
+      "options": [
+        "Kapsula içərisində toxuma arası məhdud irinlikdir",
+        "Yayılmış iltihabi infiltrat",
+        "Əzələ arası qan yığıntısıdır",
+        "Sümük iliyinin iltihabıdır",
+        "İnfeksiyalaşmış trombudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Abseslərin neçə faizi stafilokoklarla törədilir?",
+      "options": [
+        "71%",
+        "30%",
+        "25%",
+        "16%",
+        "20%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Absesləri hansı xəstəliklərlə deferensasiya etmək lazımdır? 1) İrinləmiş hematoma 2) Flebotrombozla 3) İrinləmiş sistlə 4) Dağılan bədxassəli şişlə 5) Anevrizma",
+      "options": [
+        "1, 3, 4;",
+        "1,2,3.",
+        "2, 3, 4;",
+        "3, 4, 5;",
+        "1, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Bədən boşluğunda və parenximatoz üzvlərdə yerləşmiş abseslərin diaqnostikası hansı müayinə üsulu ilə mümkündür? 1) Elektrokardioqrafiya 2) Rentgenoqrafiya 3) Dopleroqrafiya 4) Ultrasəslə 5) Osilloqrafiya 6) Kompyuter tomoqrafiyası ilə",
+      "options": [
+        "2, 4, 6;",
+        "1, 2, 3;",
+        "2, 3, 4;",
+        "1, 4, 6;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. Abseslərin müalicəsində istifadə olunmur?",
+      "options": [
+        "Abses üzərinə isidici qoymaq",
+        "İynə ilə punksiya",
+        "Abses üzərində kəsik",
+        "Məhdud absesin sağlam toxuma hüduduna kəsilib, tikiş qoyulması",
+        "Antibakterial müalicə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. Fleqmona nədir?",
+      "options": [
+        "Dərialtı boş birləşdirici və piy toxumasının yayılmış iltihabıdır",
+        "Sümük toxumasının iltihabıdır",
+        "Sümük üstlüyünün iltihabı",
+        "Limfa düyününün iltihabıdır",
+        "Venanın iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. Fleqmona absesdən nə ilə fərqlənir?",
+      "options": [
+        "İltihabi infiltratın geniş yayılması ilə",
+        "İltihabi infiltratın məhdudluğu ilə",
+        "Heç bir fərqi yoxdur",
+        "Prosesin tədricən inkişafı ilə",
+        "Sorulma əlamətin olmaması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. Yerləşdiyi yerə və əhatə etdiyi toxumalara görə fleqmonaların hansı növü mövcuddur? Hansı variant düzgün cavabdır? 1) Səthi 2) Dərin 3) Ümumi 4) Bədən boşluğunda yerləşən 5) Sümükdə yerləşən",
+      "options": [
+        "1, 2;",
+        "1, 3;",
+        "1, 4;",
+        "1, 5;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. Bunlardan hansı dərin fleqmona növü deyil?",
+      "options": [
+        "Sellülit",
+        "Mediastenit",
+        "Paranefrit",
+        "Paraproktit",
+        "Parakolit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. Fleqmona üçün səciyyəvidir? 1) Prosesin məhdudluğu 2) Yüksək hərarət 3) Prosesin yayılması 4) Prosesin ləng inkişafı 5) Ağrı",
+      "options": [
+        "2, 3, 5;",
+        "1, 2, 5;",
+        "2, 4, 5;",
+        "1, 2, 4;",
+        "2, 3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108. Fleqmonanın cərrahi müalicəsi haçan aparılmalıdır?",
+      "options": [
+        "İnfiltrat mərkəzində yumşalma və irinlik formalaşdıqda",
+        "Hərarət yüksəldikdə",
+        "Dəri qızardıqda",
+        "Limfanqit başladıqda",
+        "Flebit əlamətləri törəndikdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. Fleqmonalarda hansı cərrahi əməliyyat aparılmalıdır?",
+      "options": [
+        "Fassiotomiya",
+        "Nekrotomiya",
+        "Nekrektomiya",
+        "Amputasiya",
+        "Ekzartikulyasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. Qızılyel nədir?",
+      "options": [
+        "Dərinin kəskin infeksion iltihabıdır",
+        "Yayılmlş fleqmonadır",
+        "Fassial yataqların iltihabıdır",
+        "Əzələlərin seroz iltihabıdır",
+        "Qığırdağın iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. Qızılyeli daha çox hansı mikroblar törədir?",
+      "options": [
+        "Hemolitik streptokoklar",
+        "Stafilokoklar",
+        "Proteylər",
+        "Bağırsaq çöpləri",
+        "Vərəm çöpləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. Qızılyelin törədici hansı yolla toxumalara nadir hallarda keçir?",
+      "options": [
+        "Hematogen",
+        "Təsadüfü sürtülmə səthindən",
+        "Sıyrıntı yerindən",
+        "Kiçik yaradan",
+        "Dəridə olan çatlardan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113. Yerli əlamətlərinə görə qızıyelin hansı formaları mövcud deyil?",
+      "options": [
+        "Seroz",
+        "Eritematoz",
+        "Eritematoz-bullez",
+        "Hemorraqik-fleqmonoz",
+        "Hemorraqik-qanqrenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Bunların hansı qızılyelin ağır formasıdır?",
+      "options": [
+        "Hemorraqik qanqrenoz",
+        "İnfiltrativ",
+        "Absesləşən",
+        "Eritematoz",
+        "Hemorraqik-fleqmonoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115. Gedişin ağırlıq dərəcəsinə görə qızılyelin növüdür: 1) Kəskin 2) Yüngül 3) Orta-ağırlıqlı 4) Ağır 5) İldırımsürətli",
+      "options": [
+        "2, 3, 4;",
+        "1, 2, 4;",
+        "2, 4, 5;",
+        "1, 4, 5;",
+        "1, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. Bunlardan hansı qızılyelin yayılma növüdür? 1) Məhəlli 2) Azan 3) Metastatik 4) Fleqmonoz 5) Eritematoz 6) İnfiltrativ",
+      "options": [
+        "1, 2, 3;",
+        "1, 3, 6;",
+        "4, 5, 6;",
+        "1, 4, 5;",
+        "2, 4, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. Qızılyelin gizli dövrü nə qədər davam edir? Düzgün cavab hansı variantdır? 1) Bir neçə saat 2) Bir neçə gün 3) Bir neçə həftə 4) Bir neçə ay 5) Bi neçə il",
+      "options": [
+        "1, 2;",
+        "2, 3;",
+        "2, 4;",
+        "4, 5;",
+        "3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118. Bunlardan hansı qızılyelin kliniki gedişinin növüdür? Düzgün cavab hansı variantdır? 1) Başlanğıc 2) Güclənmə 3) Soyuma 4) Təkrarlanma 5) Sağalma",
+      "options": [
+        "1, 2, 5;",
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119. Bu əlamətlərdən hansı qızılyelin başlanğıc dövrü üçün səciyyəvidir? 1) Hiperemiyanın hüdudu düzdür 2) Hərarətin xeyli yüksəlməsi 3) Dəridə hüdudları alov dilini xatırladan qızartı 4) Dəri ödemi 5) Dəridə ödemin olmaması 6) Hemorraqik eksudatla dolu suluq",
+      "options": [
+        "2, 3, 4;",
+        "1, 2, 6;",
+        "1, 4, 6;",
+        "1, 2, 5;",
+        "2, 3, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120. Bu əlamətlərdən hansı qızılyelin bullez forması üçün daha səciyyəvidir?",
+      "options": [
+        "Seroz maye ilə dolu suluqlar",
+        "Qızartı",
+        "Şişkinlik",
+        "Ağrı",
+        "Hərarət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. Qızılyelin eritromatoz hemorraqik fleqmonoz forması üçün hansı əlamətlər daha səciyyəvidir?",
+      "options": [
+        "Qızarmış dərinin mərkəzində göy rəngin yaranması",
+        "Alov dilini xatırladan qızartı",
+        "Yandırıcı ağrı",
+        "Seroz maye ilə dolu suluq",
+        "Coğrafiya xəritə şəklində qızartı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122. Qızılyelin sağalma dövründə dəridə hansı dəyişikliklər görünür? Düzgün cavab hansı variantdır? 1) Dəri ödemi 2) Piqmentasiya 3) Penetrasiya 4) Qurumuş epidermis qabığı 5) Açıq yara səthi",
+      "options": [
+        "1, 2, 4;",
+        "1, 2, 3;",
+        "1, 3, 4;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. Qızıl yel müalicəsində əks göstərişdir? 1) Kompres 2) Nəmləşdirimiş sarğı 3) Ultrabənövşəli şüalanma 4) Antibiotiklər 5) Vanna 6) Suluqların açılması və boşadılması",
+      "options": [
+        "1, 2, 5;",
+        "3, 4, 5;",
+        "1, 2, 6;",
+        "2, 4, 6",
+        "1, 2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. Qızılyelin erkən dövrünün fəsadları hansılardır?",
+      "options": [
+        "Bunların hamısı",
+        "Fleqmonaya keçir",
+        "Dərinin nekrozu",
+        "Tromboflebit",
+        "Linfadenit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. Qızılyelin gecikmiş fəsadı hansıdır?",
+      "options": [
+        "Filayağı",
+        "Tromboflebit",
+        "Limfanqit",
+        "Fleqmona",
+        "Limfadenit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126. Adenofleqmona nəyin iltihabıdır?",
+      "options": [
+        "Limfa düyünün ətraf piy toxumasına yayılan iltihabıdır",
+        "Vena damarının ətraf piy toxumasına yayılan iltihabıdır",
+        "Limfa damarının limfa düyünə yayılan iltihabıdır",
+        "Qulaqaltı vəzin beynin sərt qişasına yayılan iltihabıdır",
+        "Tümus vəzisinin divararalığına yayılan iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127. Bu əlamətlərdən hansı adenofleqmona əlaməti deyil?",
+      "options": [
+        "Dəridə suluq",
+        "Boyunda ağrı",
+        "Şişkinlik",
+        "Qızartı",
+        "İnfiltrat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128. Adenofleqmonanın konservativ müalicəsində nə tətbiq etmək düzgün deyil?",
+      "options": [
+        "İstiqac qoymaq",
+        "Yataq rejimi",
+        "Antibiotiklər",
+        "Buz kisəsi qoymaq",
+        "Duru qida vermək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129. Adenofleqmonanın səthi yerləşməsində cərrahi müalicəyə göstəriş nədir?",
+      "options": [
+        "Dərialtı fluktuasiya",
+        "Qızartı",
+        "Böyümüş və iltihabaşmış düyün",
+        "Ödem",
+        "Yüksək hərarət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130. Parotit nədir?",
+      "options": [
+        "Qulaqaltı vəzin iltihabı",
+        "Böyük limfa düyününün iltihabı",
+        "Boyunun səthi fleqmonası",
+        "Çənəaltı vəzin iltihabı",
+        "Qalxanabənzər vəzin iltihabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131. Bu əlamətlərdən hansı qulaqaltı vəzin kəskin iltihabında olmur?",
+      "options": [
+        "Süzgəc (fistula)",
+        "Qulaqaltı nahiyyədə ağrı",
+        "Şişkinlik",
+        "Yüksək hərarət",
+        "Qızartı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Parotitin cərrahi müalicəsinə göstəriş hansılardır?",
+      "options": [
+        "Vəzin parenximasının irinləməsi",
+        "Vəzin kataral iltihabı",
+        "Vəzin parenximasının hiperplaziyası",
+        "Qulaqaltı vəzin şişməsi",
+        "Vəzin normal quruluşu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133. Qulaqaltı vəzin irinləməsi zamanı kəsik necə aparılmalıdır?",
+      "options": [
+        "Sinir liflərinə paralel",
+        "Köndələn",
+        "H-vari",
+        "Xaçvari",
+        "Sinir liflərinə şaquli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134. İltihablaşan və irinləmiş qulaqaltı vəzin fəsadı deyil?",
+      "options": [
+        "Paranefrit",
+        "Aroziv qanaxma",
+        "Udlaqarxası abses",
+        "Mediastinit",
+        "Boyun fleqmonası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135. Mastit nədir?",
+      "options": [
+        "Süd vəzisinin iltihabı",
+        "Qalxanabənzər vəzin iltihabı",
+        "Qenikomastiya",
+        "Döş qəfəsinin divarının fleqmonası",
+        "Süd vəzisinin adenoması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136. Mastit daha çox hansı qadınlarda təsadüf olunur?",
+      "options": [
+        "İlk doğuşdan sonra süd verənlərdə",
+        "Hamilələrdə",
+        "Süd verməyən qadınlarda",
+        "Zahı olmayan qadınlarda",
+        "Qız uşaqlarında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137. Qalaktoforit nədir?",
+      "options": [
+        "Süd axarının iltihabı",
+        "Süd vəzin paycığın iltihabı",
+        "Bütövlükdə süd vəzin iltihabı",
+        "Məməətrafın həlqənin iltihabı",
+        "Süd vəzin arxası toxumanın iltihabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138. Areolit nədir?",
+      "options": [
+        "Məməətrafı həlqənin iltihabı",
+        "Süd axarının iltihabı",
+        "Gilənin iltihabı",
+        "Süd vəzin dərialtı toxumanın iltihabı",
+        "Süd durğunluğudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139. Bu mikroblardan hansı mastit törətmir?",
+      "options": [
+        "Tetanus çöpləri",
+        "Stafilokok",
+        "Bağırsaq çöpləri",
+        "Streptokoklar",
+        "Protey"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140. Bu əlamətlərdən hansı seroz mastitdə olmur? 1) Süd vəzidə ağrı 2) Vəzin böyüməsi 3) Məhəlli limfadenit 4) Vəzin üzərində fluktuasiya 5) Bədən hərarəti 40-410C",
+      "options": [
+        "3, 4, 5;",
+        "2, 4, 5;",
+        "1, 3, 4;",
+        "1, 4, 5;",
+        "2, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141. Hansı əlamət seroz mastitdə olmur?",
+      "options": [
+        "Vəzdə fluktuasiya",
+        "Üşütmə",
+        "Bədən hərarətinin yüksəlməsi",
+        "Vəzin parenximasının bərkiməsi",
+        "Vəzin dərisinin qızarması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142. Seroz mastit irinlədikdə hansı əlamətlər olmur?",
+      "options": [
+        "Bədən hərarəti normal",
+        "Vəzin dərisi qızarır",
+        "Vəz bərkiyir, ağrılı olur",
+        "Vəzin parenximasında irinli ocaq yaranır",
+        "Fluktuasiya təyin edilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Bu əlamətlərdən hansı qanqrenoz mastitdə olmur?",
+      "options": [
+        "Vəzin giləsindən fasiləsiz süd axını",
+        "Süd vəzisinin dərisində göy-qara rənglər",
+        "Qoltuqaltı limfa düyünlərin böyüməsi",
+        "Bədən hərarəti 400 qədər yüksəlməsi",
+        "Taxikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144. Seroz mastitlərin konservativ müalicəsində hansı tədbir əks göstərişdir?",
+      "options": [
+        "Vəz üzərinə isti qoyulmalıdır",
+        "Xəstə süd vəzi gövdəyə təsbit olunmalıdır",
+        "Süd sağılıb vəz axarları boşaldılır",
+        "Antibiotiklər verilməlidir",
+        "Yataq rejimi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145. İrinləmiş mastitlərdə əməliyyatın hansı anestezii növü ilə aparılması daha məqsədə uyğundur?",
+      "options": [
+        "Vena daxili ümumi ağrısızlaşdırma",
+        "Yerli ağrısızlaşdırma",
+        "Peridural ağrısızlaşdırma",
+        "Onurğa beyin anesteziyası",
+        "Nəqledici anesteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146. Vəz arxası irinli mastitlərdə cərrahi kəsik necə aparılır?",
+      "options": [
+        "Bardenqeyner kəsiyi",
+        "Koxer kəsiyi",
+        "Aerola ətrafı kəsiyi",
+        "Radial kəsik",
+        "Fedorov kəsiyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. Divararalığının iltihabı necə adlanır?",
+      "options": [
+        "Mediastinit",
+        "Paranefrit",
+        "Parakolit",
+        "Paraproktit",
+        "Parotit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148. Bu mikroblardan hansı divararalığına keçib mediastinit törədir?",
+      "options": [
+        "Stafilokoklar",
+        "Qara yara çöpləri",
+        "Bakterial viruslar",
+        "Vəba çöpləri",
+        "Amyöb törədiciləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. Kəskin mediastinitin əsas səbəbi hansıdır?",
+      "options": [
+        "Yemək borusunun deşilməsi",
+        "Pnevmoniya",
+        "Bronxoektaziya",
+        "Ağciyər vərəmi",
+        "Peritonit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. Mediastinitə səbəb olan yatrogen zədə hansıdır?",
+      "options": [
+        "Ezofaqoskopla köbut hərəkət və yemək borusunun deşilməsi",
+        "Yemək borusunun yad cismilə deşilməsi",
+        "Ağciyər absesinin deşilməsi",
+        "Boyunun səthi fleqmonasının dəriyə açılması",
+        "Odontogen infeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151. Bunlardan hansı mediastinitə səbəb olan yatrogen zədə deyil?",
+      "options": [
+        "Burxave sindromunda – yemək borusunun cırılması",
+        "Yemək borusunun bujlanması zamanı cırılması",
+        "Pnevmokardilatasiya vaxtı cırılma",
+        "Traxeyanın intubasiyası zamanı yemək borusunun deşilməsi",
+        "Ezofaqoskopiya zamanı cırılma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152. Ön mediastinitlərdə ağrı adətən harada peyda olur?",
+      "options": [
+        "Döş sümüyü arxası",
+        "Çiyinlərdə",
+        "Körpücükaltı sahələrdə",
+        "Qarınüstü nahiyyədə",
+        "Kürəkarasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153. Mediastinitə səbəb olan yemək borusunun deşilməsi hansı müayinə ilə təsdiq edilə bilər?",
+      "options": [
+        "Ezofaqoskopiya",
+        "Traxeoskopiya",
+        "Mediastinoskopiya",
+        "Torakoskopiya",
+        "Laparoskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154. Mediastinitin diaqnostikasında əsas müayinə üsulu hansıdır? Hansı variant düzgün cavabdır? 1) Döş qəfəsinin kompyuter tomoqrafiyası 2) Ezofaqoskopiya 3) Traxeoskopiya 4) Yemək borusunun rentgen kontrakt müayinəsi 5) Döş boşluğu üzvlərin ultrasəs müayinəsi",
+      "options": [
+        "1, 4;",
+        "1, 3;",
+        "1, 5;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Yemək borusunun cırılması ilə əlaqədar mediastinitdə döş qəfəsinin kompyuter tomoqrafiyasında mediastiniti təsdiqləyən əlamət hansıdır?",
+      "options": [
+        "Divararalıq toxumalarında sərbəst qaz",
+        "Damar hüdudların güclənməsi",
+        "Traxeyanın divarının bərkitməsi",
+        "Ürəyin yerdəyişməsi",
+        "Aortanın yerdəyişməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156. İrinli mediastinitlərdə hansı cərrahi kəsiklərdən istifadə olunmur? Düzgün cavab hansı variantdır? 1) Boyun kəsiyi 2) Torakotomiya 3) Lümbotomiya 4) Laparotomiya 5) Sternotomiya",
+      "options": [
+        "3, 5;",
+        "1, 2;",
+        "1, 4;",
+        "2, 4",
+        "hec birindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157. Boyunun dərin fleqmonası ilə əlaqədar yuxarı mediastinitlərdə hansı cərrahi kəsik aparılmalıdır?",
+      "options": [
+        "Döş körpüçük məməvari əzələrə paralel boyun kəsiyi",
+        "Yan torakotomiya",
+        "Stenotomiya",
+        "Laparotomiya",
+        "Lümbotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158. Plevranın empiyeması ilə fəsadlaşması yayılmış irinli mediastinitdə hansı cərrahi kəsik daha məqsədə uyğundur?",
+      "options": [
+        "Yan torakotomiya",
+        "Boylama stenotomiya",
+        "Laparotomiya",
+        "Boyun kəsiyi",
+        "Nasilov kəsiyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159. Yemək borusunun boyun hissəsinin deşilməsi ilə əlaqədar mediastinitlərdə xəstələr necə qidalandırılmalıdır?",
+      "options": [
+        "Nazoqastral zondla",
+        "Ağızdan qida qəbulu",
+        "Qastrostomiya",
+        "Yalnız parenteral yolla",
+        "Qidalandırıcı imalə ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160. Peritonarxası fleqmona nədir?",
+      "options": [
+        "Retroperitoneal sahənin iltihabı",
+        "Peritonun iltihabı",
+        "Böyrək ətrafı sahənin iltihabı",
+        "Qarnın yan divarının yayılmış iltihabı",
+        "Müsariqənin iltihabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161. Bunlardan hansı peritonarxası fleqmonanın səbəbi ola bilər?",
+      "options": [
+        "Peritonarxası yerləşmiş, qanrenaya uğramış və deşilmiş appendisit",
+        "Diafraqmaaltı abses",
+        "Qarın boşluğunun absesi",
+        "Mədə xorası",
+        "Hidronefroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162. Bunlardan hansı peritonarxası fleqmona törədir?",
+      "options": [
+        "Böyrənin irinli xəstəlikləri (pionefroz)",
+        "Rektosele",
+        "Müsariqə damarların trombozu",
+        "Qaraciyər sirrozu",
+        "Böyrəküstü vəzin adenoması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163. Peritonarxası fleqmonanın səbəbi hansı ola bilər?",
+      "options": [
+        "Pankreonekroz",
+        "Qaraciyərin exinokoku",
+        "Vərəm mezadeniti",
+        "Mekkel divertikulunun iltihabı",
+        "Bağırsağın tifoz yarası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164. Bunların hansı peritonarxası fleqmona forması deyil?",
+      "options": [
+        "Mediastinit",
+        "Paroproktit",
+        "Parakolit",
+        "Paranefrit",
+        "Qalça çuxurunun iltihabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165. Bu əlamətlərdən hansı peritonarxası fleqmona üçün daha səciyyəvidir?",
+      "options": [
+        "Psoas əlaməti",
+        "Şetkin-Blümberq",
+        "Otner əlaməti",
+        "Razdolski əlaməti",
+        "Sitkovski əlaməti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166. Peritonarxası fleqmonanın diaqnozu hansı müayinə üsulu ilə daha dəqiq qoyula bilər?",
+      "options": [
+        "Kompyuter tomoqrafiyası ilə",
+        "Sistoskopiya",
+        "İrriqoskopiya",
+        "Qastroskopiya",
+        "Kolonoskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167. Peritonarxası fleqmonanın cərrahi müalicəsində hansı kəsik seçilməlidir?",
+      "options": [
+        "Şevkunenko kəsiyi",
+        "Orta laparotomiya",
+        "Lenander kəsiyi",
+        "Koxer kəsiyi",
+        "Torakotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168. Paraproktit nədir?",
+      "options": [
+        "Düz bağırsaq ətrafı böş birləşdirici və piy toxuması iltihabı",
+        "Peritonarxası sahənin iltihabı",
+        "Qarnın ön divarının iltihabı",
+        "Budun fassial yatağının iltihabı",
+        "Qarnın düz əzələsinin yatağının iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169. Bu mikroblardan hansı paraproktit törətmir?",
+      "options": [
+        "Kox çöpləri",
+        "Stafilokoklar",
+        "Bağırsaq çöpləri",
+        "Anaerob spor əmələ gətirməyən bakteriyalar",
+        "Qızılı stafilokoklar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170. Düz bağırsaq ətrafı toxumaya irintörədici mikroblar hansı yolla keçə bilər?",
+      "options": [
+        "İnfeksilaşmış babasil düyünündən",
+        "Çanaq venalarından",
+        "Kör bağırsaq iltihablaşmış çıxıntısından",
+        "Nazik bağırsaqdan",
+        "Düqlas boşluğundan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171. Bunlardan hansı paraproktitin forması deyil?",
+      "options": [
+        "Puborektal",
+        "Dərialtı",
+        "Selikli qişaaltı",
+        "Pelviorektal",
+        "İşiorektal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "172. Bunlardan hansı paraproktit formasıdır?",
+      "options": [
+        "Düzbağırsaq arxası",
+        "Sidik kisəsi önü",
+        "Peritonaltı",
+        "Oynaqətrafı",
+        "Promantoriumönü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "173. Bunlardan hansı paraproktit formasıdır?",
+      "options": [
+        "Pelviorektal",
+        "Pelvioperitonit",
+        "Parakolit",
+        "Paraservikal",
+        "Paraanal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "174. Bunlardan hansı paraproktitin dərialtı formasının əlamətləri deyil? Hansı variant düzgün cavabdır? 1) Düz bağırsaq ətrafında vurğulu ağrı 2) Üşütmə 3) Normal hərarət 4) Defeksiya zamanı ağrı 5) Fluktuasiya",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 5;",
+        "3, 4, 5;",
+        "2, 4, 5;",
+        "1, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "175. Paraproktitin oturaq-düzbağırsaq arası formasının diaqnozu necə təyin edilə bilər?",
+      "options": [
+        "Düz bağırsağın barmaqla müayinəsi ilə",
+        "Anal dəliyə baxmaqla",
+        "Ultrasəs müayinəsi ilə",
+        "Təmizləyici imalə ilə",
+        "Rektoskopiya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "176. Paraproktitin pelviorektal formasında irinlik harada yerləşir?",
+      "options": [
+        "Çanaq dibindən yuxarıda",
+        "Ön duqlasda",
+        "Arxa duqlasda",
+        "Dərialtında",
+        "Sidik kisəsinin önündə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "177. Paraproktitin düzbağırsaqarxası formasında hansı ağırlaşma olur?",
+      "options": [
+        "Düz bağırsaq divarının fleqmonası",
+        "Defekasiyanın çətinləşməsi",
+        "Qanaxma",
+        "Babasil düyünləri boğulur",
+        "Sidik ifrazı ləngiyir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "178. Paraproktitin başlanğıcının konservativ müalicəsində hansı müalicə tədbirinə ehtiyac yoxdur? 1) İmmunosupresorlarla 2) Antibiotiklərlə 3) UB ultrabənövşəyi şüallar 4) İsti vanna 5) İstiqac qoymaq",
+      "options": [
+        "1, 2, 3;",
+        "1, 4, 5;",
+        "1, 2, 5;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179. Əlin fleqmonasının ağır formasının adı?",
+      "options": [
+        "U – şəklil (çarpaz)",
+        "T – şəkilli",
+        "O – şəkilli",
+        "Y – şəkilli",
+        "X – şəkilli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "180. Hansı barmağların vətər yataqları Piroqov-Paron sahəsində öz aralarında birləşir?",
+      "options": [
+        "I və V",
+        "IV və V",
+        "II və IV",
+        "I və III",
+        "II və V"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "181. Kanavelin qadağan zonasında nə yerləşir?",
+      "options": [
+        "Orta sinir",
+        "Oturaq sinir",
+        "Udlaq-dil sinir",
+        "Ayaqaltı sinir",
+        "Bud siniri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182. Kanavelin qadağan zonası harada yerləşir?",
+      "options": [
+        "Əldə",
+        "Boyunda",
+        "Məməmari çıxıntıda",
+        "Ayaqaltında",
+        "Budun daxili səthində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "183. Anaerob infeksiya törədiciləri hansı şəraitdə yaşayıb fəaliyyət göstərə bilirlər?",
+      "options": [
+        "Oksigenli şəraitdə",
+        "İrinli yarada",
+        "Hematoma nahiyyəsində",
+        "Sümük iliyi kanalında",
+        "İltihablaşmış toxumalarda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "184. Bu mikroblardan hansı anaerob infeksiya törədicisidir? 1) Bağırsaq çöpləri 2) Klostridlər 3) Bakteroidlər 4) Stafilokoklar 5) Aktiomisetlər",
+      "options": [
+        "2, 3, 5;",
+        "1, 2, 3;",
+        "2, 3, 4;",
+        "1, 4, 5;",
+        "1, 2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "185. Anaerob mikroblar saprofit halda insan bədənində daha çox harada yaşayır? 1) Mədə bağırsaq sistemində 2) Tənəffüs yollarında 3) Sidik yollarında 4) Limfa damarlarında 5) Dəridə",
+      "options": [
+        "1, 2, 5;",
+        "1, 3, 4;",
+        "2, 3, 4;",
+        "1, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "186. Anaerob mikroblar xarici mühitə necə keçir? 1) Sidiklə 2) Tərlə 3) Nəcislə 4) Ödlə 5) Bəlğəmlə",
+      "options": [
+        "3, 5;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "187. Anaerob infeksiya törədiciləri hansı mühitdə artıb çoxalıb toksin ifraz edirlər?",
+      "options": [
+        "Hava daxil olmayan dərin yara dibində",
+        "Təmiz cərrahi yarada",
+        "Dəri səthində",
+        "Açıq irinli yarada",
+        "Tənəffüs yollarında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "188. Bu yaralardan hansında anaerob mikroblar inkişaf edir?",
+      "options": [
+        "Kor qəlpə yarası",
+        "Dəri yarası",
+        "Bıçaq yarası",
+        "Trofik yara",
+        "Yataq yarası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189. Anaerob spor əmələ gətirən infeksiyanın inkubasion dövrü nə müddət davam edir?",
+      "options": [
+        "1-7 gün",
+        "6 saat",
+        "18 saat",
+        "8-15 gün",
+        "16 gündən çox"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. Anaerob spor əmələ gətirən çöplər hansı toksin ifraz edir? 1) Tripsin 2) Hemolizin 3) Miotoksin 4) Nevrotoksin 5) Kollaqenoza",
+      "options": [
+        "2, 3, 4;",
+        "3, 4, 5;",
+        "1, 3, 4;",
+        "2, 3, 5;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "191. Anaerob infeksiyada toxumaya hansı qaz toplanır?",
+      "options": [
+        "Hidrogen",
+        "Oksigen",
+        "Azot qazın",
+        "Orqon",
+        "Ksenon"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "192. Anaerob qanqrenanın emfizematoz formasında toxumalarda daha çox nə müşahidə olunur?",
+      "options": [
+        "Toxumalarda qazın toplanması",
+        "Dəridə geniş yara səthi",
+        "Yaradan aroziv qanaxma",
+        "İrinli süzgəclərin olması",
+        "Osteomielitin inkişafı ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "193. Anaerob qanqrenanın qarışıq forması nə ilə fərqlənir?",
+      "options": [
+        "Toxumalarda qazın və ödemin artması ilə",
+        "Yaradan irinli mayenin axması",
+        "Plazma itkisi",
+        "Qanda ümumi zülallın miqdarının azalması",
+        "Tənəffüs çatmazlığı ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194. Anaerob qanqrenanın nekrotik forması neçə faiz müşahidə olunur?",
+      "options": [
+        "10%",
+        "3%",
+        "5%",
+        "8%",
+        "15%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "195. Kliniki gedişinə görə qazlı qanqrenanın hansı inkişaf formaları məlumdur? 1) İldırımsürətli 2) Tez unkişaf edən 3) Süst inkişaf edən 4) Xroniki 5) Tədricən artan",
+      "options": [
+        "1, 2, 5;",
+        "1, 4, 5;",
+        "1, 3, 4;",
+        "2, 4, 5;",
+        "2, 3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "196. Anaerob qanqrenada əzələlər nəyi xatırladır?",
+      "options": [
+        "Bişmiş əti xatırladır",
+        "Qara bənzəyir",
+        "Kömürə oxşayır",
+        "Donmuş ətə oxşayır",
+        "Palçığa bənzəyir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "197. Qanqrenaya uğramış ətrafa bağlanan sapın ödem hesabına toxuma dərinliyində qalması əlaməti necə adlanır?",
+      "options": [
+        "Melnikov əlaməti",
+        "Hipokrat əlaməti",
+        "Piroqov əlaməti",
+        "Fedorov əlaməti",
+        "Krauze"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198. Anaerob qanqrenada barmaqla basdıqda xışıltı hiss edilməsi nə ilə əlaqədardır?",
+      "options": [
+        "Qazın toplanması",
+        "İrin toplanması",
+        "Ödemin artması",
+        "Hematomanın artması",
+        "Dərinin nekrozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199. Anaerob qanqrena üçün səciyyəvi əlamət hansıdır? Hansı variant düzgün cavabdır? 1) Toxumanın ödemi 2) Mayenin yara səthindən axması 3) Qanaxma 4) Yara kanalından qazın çıxması 5) Yaranın irinləməsi",
+      "options": [
+        "1, 4;",
+        "1, 2;",
+        "1, 3;",
+        "1, 5;",
+        "3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "200. Anaerob qanqrenalı xəstələrdə rentgen müayinəsində təyin edilən Krauze əlaməti nədir?",
+      "options": [
+        "Toxumada qazın olması",
+        "Toxuma ödemi",
+        "Hematoma",
+        "Sümük iliyinin iltihaba qoşulması",
+        "Periostit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "201. Anaerob qanqrena zamanı yaradan götürülmüş möhtəviyyatda hansı mikrob tapılmır?",
+      "options": [
+        "Cl. tetani",
+        "Cl. perfringens",
+        "Cl. oedematiens",
+        "Cl. septicum",
+        "Cl. hystoliticus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202. Aşağı ətrafın qazlı qanqrenada işlədilir? 1) Antiseptikum 2) Metropidazol 3) Amputasiya 4) Antirabik zərdab 5) AKDS",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 5;",
+        "1, 3, 4;",
+        "3, 4, 5;",
+        "2, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "203. Qazlı qanqrenanın daha radikal müalicə üsulu hansıdır?",
+      "options": [
+        "Yuxarı amputasiya",
+        "Nekrektomiya",
+        "Fassiotomiya",
+        "Osteotomiya",
+        "Artrotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "204. Qazlı qanqrenaya görə icra olunan amputasiya zamanı yara necə vəziyyətdə olmalıdır?",
+      "options": [
+        "Yara səthi açıq saxlanmalıdır, yalnız damarlar bağlanmalıdır",
+        "Drenaj yeridilib bütün toxumalara sıx tikişlər qoyulmalıdır",
+        "Dəriyə seyrək tikişlər qoyulmalıdır",
+        "Yalnız əzələlərə tikiş qoyulmalıdır",
+        "Oynaq boşluğuna drenaj yeritmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "205. Anaerob qazlı qanqrenanın daha əhəmiyyətli konservativ müalicə üsulu hansıdır?",
+      "options": [
+        "Hamısı",
+        "Çoxlu zülalların köçürülməsi",
+        "Kristalloid mayelərin köçürülməsi",
+        "Xəstənin hiperbarik oksigenasiya palatalarında saxlamaq",
+        "Eyni qrupdan olan eritrositar kütlə və plazma köçürmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "206. Qazlı qanqrenanın müalicəsində hansı zərdabların yeridilməsi daha əhəmiyyətlidir?",
+      "options": [
+        "Qanqrena əleyhinə polivalent zərdab",
+        "Tetanus əleyhinə zərdab",
+        "Qanqrena əleyhinə birvalent zərdab",
+        "Qammaqlobulinlər",
+        "Adsorbiya olunmuş kokluns, difteriya əleyhinə zərdab"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207. Bu mikroblardan hansı anaerob spor əmələ gətirməyən infeksiya qrupuna aid deyil?",
+      "options": [
+        "Streptococcus",
+        "Bacteroides",
+        "Propionibacterium",
+        "Peptococcus",
+        "Veillonella"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "208. Spor əmələ gətirməyən mikrobların törətdiyi iltihabın proses üçün səciyyəvidir: 1) Sellülit 2) Fassiit 3) Dermatit 4) Miozit 5) Perixondrit",
+      "options": [
+        "1, 2, 4;",
+        "2, 3, 5;",
+        "1, 3, 5;",
+        "1, 2, 5;",
+        "1, 2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "209. Anaerob spor əmələ gətirməyən infeksiyalarda ölüm neçə faizə qədərdir?",
+      "options": [
+        "60%",
+        "10%",
+        "20%",
+        "30%",
+        "40%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "210. Tetanus törədicisi hansı infeksiya qrupuna aiddir?",
+      "options": [
+        "Sporəmələgətirənlər",
+        "Kəskin irintörədicilər",
+        "Spor əmələ gətirməyənlər",
+        "Xroniki spesifik infeksiya",
+        "Çürüntüli infeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "211. Tetanus çöpləri saprofit halda insan bədənində harada yaşayır?",
+      "options": [
+        "İnsanın bağırsağında",
+        "Bədənin boşluqlarında",
+        "Sümük iliyində",
+        "Birləşdirici toxumada",
+        "Əzələlərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "212. Tetanus çöpləri hansı toksin ifraz edir?",
+      "options": [
+        "Tetanohemolizin",
+        "Fibrinolizin",
+        "Qidrolizin",
+        "Tripsin",
+        "Amilaza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "213. Tetanus çöpləri xarici mühitdə daha çox harada yaşayır?",
+      "options": [
+        "Torpaqda, oksigensiz şəraitdə",
+        "Su hövzəsində",
+        "Ağac yarpağı üzərində",
+        "Quru saman içində",
+        "Yaş ot üzərində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "214. Zədələnmə növünə görə tetanusun hansı növü mövcuddur? 1) Cərrahi yaradan başlayan 2) Kəskin 3) Xroniki 4) Əməliyyatdan sonrakı 5) Ümumi 6) Yanğından sonra",
+      "options": [
+        "1, 4, 6;",
+        "2, 3, 5;",
+        "1, 4, 5;",
+        "1, 2, 5;",
+        "4, 5, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "215. Tetanospazmin hansı üzvə təsir edir?",
+      "options": [
+        "Sinir sisteminə",
+        "Ürək qan damar sisteminə",
+        "Sidik ifrazat sistemi",
+        "Sümük oynaq aparatına",
+        "Mədə-bağırsaq sistemə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "216. Tetanohemolizin necə təsir edir?",
+      "options": [
+        "Eritrositləri əridir",
+        "Qanın plazmasını pıxtalaşdırır",
+        "Qanın laxtalanmasını pozur",
+        "Leykositləri parçalayır",
+        "Trombositlərin quruluşuna təsir edir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "217. Tetanospazmin mərkəzi sinir sisteminə təsiri necə təzahür edir?",
+      "options": [
+        "Tonik və klonik əzələ səyrimələri ilə",
+        "Dərinin avazıması",
+        "Bədən hərarətinin yüksəlməsi",
+        "Sümüklərdə kəskin ağrı",
+        "Oynaqlarda şişkinliklə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "218. Yayılmasına görə tetanusun hansı növü mövcuddur? 1) Ümumi 2) Kəskin 3) Enən 4) Qalxan 5) Məhdud",
+      "options": [
+        "1, 3, 4;",
+        "1, 2, 5;",
+        "2, 3, 4;",
+        "3, 4, 5;",
+        "1, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "219. Kliniki gedişinə görə tetanusun hansı növü mövcud deyil?",
+      "options": [
+        "Ümumi",
+        "Xroniki",
+        "Süst gedən",
+        "Kəskin",
+        "İldırım sürətli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "220. Yaraya düşən tetanus çöplərinin inkişafının inkubasion dövrü neçə müddət ola bilər?",
+      "options": [
+        "4-14 gün",
+        "24 saata qədər",
+        "6 ay",
+        "1 il",
+        "5 il"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "221. Enən tetanusda ilk növbədə hansı əzələlərdə səyrimə müşahidə olunur?",
+      "options": [
+        "Mimiki",
+        "Baldır",
+        "Bud",
+        "Qarın",
+        "Döş"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "222. Tetanusun yayılmış formasında bədən quruluşu hansı vəziyyət alır?",
+      "options": [
+        "Qövsvari körpü",
+        "Düz körpü",
+        "Açılan körpü",
+        "Enən körpü",
+        "Dağılan körpü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "223. Bunlardan hansı tetanusun fəsadı deyil?",
+      "options": [
+        "Mazutabənzər nəcis",
+        "Sümük sınığı",
+        "Vətərin qopması",
+        "Boşluqlu üzvlərin cırılması",
+        "Əzələlərin cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "224. Tetanusdan ölümün səbəbi nədir?",
+      "options": [
+        "Müştərək ağciyər-ürək fəaliyyətinin pozulması",
+        "Mərkəzi sinir sisteminin fəaliyyətin pozulması",
+        "Əzələ səyrimələri",
+        "Qaraciyər çatmazlığı",
+        "Kəskin böyrək çatmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225. Bunlardan hansı tetanusun yerli müalicə üsuluna aid deyil?",
+      "options": [
+        "Droperidol",
+        "Ətrafın amputasiyası",
+        "Tetanus çöpləri yaşayan şübhəli çapıqların kəsilib götürülməsi və yaranın açıq müalicəsi",
+        "Yaranın birincili işlənməsi",
+        "Tripsin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "226. Tetanik qıcolmaları söndürmək üçün hansı dərmanlar bədənə yeridilməlidir? Hansı variant düzgün cavabdır? 1) Neyroleptiklər 2) Trankvilizatorlar 3) Barbitulatlar 4) Xolinolitiklər 5) Relaksantlar",
+      "options": [
+        "1, 2, 3;",
+        "1, 3, 4;",
+        "1, 3, 5;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "227. Tetanusla xəstədə tənəffüs çatmazlığı yarandıqda necə kömək göstərilməlidir?",
+      "options": [
+        "Relaksant yeridilib, traxeyanın intasiya olunması və xəstə süni tənəffüs aparatına qoyulmalıdır",
+        "Sinir sistemini sakitləşdirən dərman verilməlidir",
+        "Ürəyin masajı icra olunmalıdır",
+        "Antiqistaminlər yeritməli",
+        "Diazepam vurulmalı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228. Tetanus əleyhinə zərdab hansı üsulla vurula bilər?",
+      "options": [
+        "Bezredko",
+        "İvanov",
+        "Piroqov",
+        "Xarçenko",
+        "Baqnenko"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229. Osteomielit nədir?",
+      "options": [
+        "Sümüyün bütün toxumalarının iltihabıdır",
+        "Sümük iliyinin iltihabıdır",
+        "Sərt sümük toxumasının iltihabıdır",
+        "Sümüküstlüyünün iltihabı",
+        "Oynağın iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "230. Periostit nədir?",
+      "options": [
+        "Sümüküstlüyünün iltihabı",
+        "Vətər yatağının iltihabı",
+        "Oynağın iltihabı",
+        "Dərinin iltihabı",
+        "Sümük iliyinin iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "231. Bunlardan hansı osteomielitin yerli fəsadına aid deyil?",
+      "options": [
+        "Amilondoz",
+        "Patoloji sınıq",
+        "Yalançı oynaq",
+        "Kontraktura",
+        "Ankiloz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232. Osteomielitlərin əmələ gəlməsi haqqında hansı nəzəriyyələr vardır? 1) Damar embol nəzəriyyəsi 2) Koaqulyasiya 3) Allerqik 4) Sinir reflektor 5) İmmunoloji",
+      "options": [
+        "1, 3, 4;",
+        "2, 4, 5;",
+        "2, 3, 4;",
+        "1, 2, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "233. Hematogen osteomielitlərin törədicisi hansıdır?",
+      "options": [
+        "Qızılı stafilokoklar",
+        "Pnevmokoklar",
+        "Streptokoklar",
+        "Yaşıl irin çöpləri",
+        "Bağırsaq çöpləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "234. Osteomielitlər (hemotogen) şafa başlayır?",
+      "options": [
+        "Sümük iliyindən",
+        "Sümüküstlüyü önü toxumalardan",
+        "Sümük üstlüyündən",
+        "Sərt sümük toxumasından",
+        "Əzələ yatağından"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "235. Osteomielit niyə hematogen adlanır?",
+      "options": [
+        "Mikroblar sümüyə qidalandırıcı qan damarları ilə gəldiyi üçün",
+        "Sınmış sümük ucları dəri səthi ilə əlaqədar olduğu üçün",
+        "Mikroblar sümüyə ətraf toxumadan keçdiyi üçün",
+        "Mikroblar sümüyə limfa damarları ilə gəldiyi üçün",
+        "Mikroblar havadan keçdiyi üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "236. Bu əlamətlərdən hansı kəskin yayılmış osteomielit əlaməti deyil?",
+      "options": [
+        "Melena",
+        "Yüksək hərarət",
+        "Titrəmə",
+        "Meningial əlamətlər",
+        "Qusma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "237. Hematogen osteomielitlərin konservativ müalicəsində hansı üsul məqsədə uyğun deyil?",
+      "options": [
+        "Bütün sümük iliyi kanalı boyunca osteotomiya aparmaq",
+        "Sümükdə iliyə işləyən məhdud pəncərə açmaq",
+        "Hərarət salıcılar",
+        "Antibiotiklər",
+        "İmmun preparatlar təyin etmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "238. Birincili sekvestr hansıdır?",
+      "options": [
+        "İlkin sınıq zamanı törənmiş və irinləmiş sümük qəlpəsi",
+        "Sümük toxumasının irinləməsi nəticəsində yaşama qabiliyyətini itirmiş və aralanmış sümük parçası",
+        "Sekvestr qutusu",
+        "Açıq sınıqdır",
+        "Qapalı sınıqdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "239. Hematogen osteomielitlərdə daha çox zədələnir:",
+      "options": [
+        "Uzun sümüklərin metafizində",
+        "Yastı sümüklərdə",
+        "Lüləli sümüyünün diafizində",
+        "Lüləli sümüyünün epifizində",
+        "Lüləli sümüyünün apofizində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "240. Bu mikroblardan hansı hematogen osteomielitin törədicisi deyil?",
+      "options": [
+        "Klostidlər",
+        "Pnevmokoklar",
+        "Kox çöpləri",
+        "Aktinomisetlər",
+        "Enterabakterlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "241. Odlu silah osteomielitində infeksiya necə yayılır?",
+      "options": [
+        "Yalnız sınıq yerində",
+        "Bütün sümük iliyi boyunca",
+        "Oynaqdan yayılır",
+        "Sümüküstlüyündən",
+        "Oynaq bağlarından"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "242. Tam müalicə olmayan kəskin osteomielit neçə müddətdən sonra xroniki osteomielitə çevrilir?",
+      "options": [
+        "6-8 həftə",
+        "3 həftə",
+        "4-5 həftə",
+        "19-22 həftə",
+        "1 il"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "243. Bunlardan hansı xroniki osteomielitin fəsadı deyil?",
+      "options": [
+        "Süzülən soyuq abseslər",
+        "İkincili osteomielit ocağının yaranması",
+        "Patoloji sınıq",
+        "Yalançı oynaq",
+        "Ankilozlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244. Osteomielitlərin diaqnozunun təsdiqində bu müayinələrdən hansı əhəmiyyətsizdir?",
+      "options": [
+        "Osilloqrafiya",
+        "Rentgen",
+        "Fistuloqrafiya",
+        "Radioizotop müayinəsi",
+        "Kompyuter tomoqrafiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "245. Xroniki osteomielitlərin cərrahi müalicəsində nə etmək olmaz?",
+      "options": [
+        "Ekstra medulyar osteosintez etmək",
+        "Sekvestri xaric etmək",
+        "İrinli boşluqları və süzgəcləri ləğv etmək",
+        "Sümük iliyi kanalının yumşaq toxumalarla qapamaq",
+        "İkincili cərrahi işləmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "246. Bunlardan hansı xroniki osteomielitin nadir forması deyil?",
+      "options": [
+        "Sümük sarkoması (Kapoşi)",
+        "Brodi absesi",
+        "Qarre osteomieliti",
+        "Olle osteomieliti",
+        "Antibiotik osteomieliti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247. Qığırdaq toxumasının iltihabı necə adlanır?",
+      "options": [
+        "Xondrit",
+        "Orxit",
+        "Parotit",
+        "Mielit",
+        "Periostit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248. Artrit nədir?",
+      "options": [
+        "Oynağın iltihabı",
+        "Sümük başının iltihabı",
+        "Sümük iliyinin iltihabı",
+        "Qığırdağın iltihabı",
+        "Epifizin iltihabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249. Bunlardan hansı artritlərin təsnifatına daxil deyil?",
+      "options": [
+        "İdiopatik",
+        "Distrofik",
+        "Travmatik",
+        "İnfeksion",
+        "Anafilaktik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "250. Artritləri hansı mikroblar törədir?",
+      "options": [
+        "Stafilokok, streptokok",
+        "Anaerob klostridlər",
+        "Qarayara çöpləri, cüzam törədiciləri",
+        "Kandidozlar",
+        "Tetanus çöpləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251. Oynaqda iltihabi proses haradan başlayır?",
+      "options": [
+        "Sinovial qişadan",
+        "Sümük toxumasından",
+        "Oynaq kisəsindən",
+        "Oynaq bağlarından",
+        "Oynaqətrafı bağlardan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "252. Bunlardan hansı artritin əlaməti deyil?",
+      "options": [
+        "Oynaqda aktiv hərəkət",
+        "Oynaqda ağrı",
+        "Şişkinlik",
+        "Hərarətin yüksəlməsi",
+        "Rentgenoloji – oynaq yarığının genişlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "253. Artritlərin konservativ müalicəsində nə etmək lazım deyil?",
+      "options": [
+        "Drenaj yeritmək",
+        "Ətrafın gips sarğısı ilə fiksə etmək",
+        "Antibiotiklər təyin etmək",
+        "Punksiya etmək",
+        "Fizioterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "254. Oynaq boşluğuna qanlı mayenin toplanması necə adlanır?",
+      "options": [
+        "Hemartroz",
+        "Qidrartroz",
+        "Osteoartroz",
+        "Pioartroz",
+        "Seroz artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255. Travmatik artritlərdə oynağın rentgen şəkilində nə görünür?",
+      "options": [
+        "Oynaq yarığının xeyli genişlənməsi",
+        "Oynaq daxili sınıq",
+        "Oynaq yarığının daralması",
+        "Oynağın ölçülərinin genişlənməsi",
+        "Oynaq səthlərinin yerdəyişməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256. Kəskin travmatik artritlərin müalicəsində tətbiq edilmir?",
+      "options": [
+        "Oynaq üzərinə istiqac qoyulmalıdır",
+        "Oynaq fiksə olunmalıdır",
+        "Oynaq üzərinə soyuq qoyulmalıdır",
+        "Bədənə rahatlıq verilməlidir",
+        "Ağrıkəsicilər verilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257. Bursit nədir?",
+      "options": [
+        "Oynaq ətrafı sinovial kisənin iltihabı",
+        "Oynaq kisəsinin iltihabı",
+        "Oynaq səthinin iltihabı",
+        "Oynaq bağlarının iltihabı",
+        "Sümüküstlüyünün iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "258. Bunlardan hansı seroz bursit əlaməti deyil?",
+      "options": [
+        "Süzgəcin olması",
+        "Sinovial kisə üzərində şişkinlik",
+        "Ağrının olması",
+        "Anamnezdə zədənin olması",
+        "Oynağın gərilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259. Bunlardan hansı irinli bursitin əlaməti deyil?",
+      "options": [
+        "Sümük sekvestrlərinin olması",
+        "Sinovial kisə üzərində qızartı",
+        "Fluktuasiya",
+        "Bədən hərarətinin yüksəlməsi",
+        "Sinovial kisə ətrafında şişkinlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "260. Seroz bursitlərdə hansı müalicə üsulunu tətbiq etmək lazım deyil?",
+      "options": [
+        "Kisə üzərində kəsik aparmaq",
+        "Rahatlıq",
+        "İsidici sarğı",
+        "Kisəyə punksiya",
+        "Kisə içərisinə antibiotik yeritmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "261. Dolama nədir?",
+      "options": [
+        "Əl barmaqlarının iltihabıdır",
+        "Ayaq barmaqlarının iltihabıdır",
+        "Əlin ovuc səthinin iltihabıdır",
+        "Əlin arxa səthinin iltihabıdır",
+        "Oynağın iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "262. Bunlardan hansı səthi dolama deyil?",
+      "options": [
+        "Oynaq forması",
+        "Dəri",
+        "Dərialtı",
+        "Sədəfətrafı",
+        "Sədəfaltı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "263. Bunlardan hansı dərin dolama deyil?",
+      "options": [
+        "Sədəfaltı",
+        "Oynaq",
+        "Vətər",
+        "Sümük",
+        "Pandaktilit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "264. Barmağın bütün toxumalarının iltihabı necə adlanır?",
+      "options": [
+        "Pandaktilit",
+        "Sindaktilit",
+        "Polidaktilit",
+        "Panostit",
+        "Periflebit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "265. Dolamaların törədicisi neçə faiz stafilokoklar və neçə faiz digər mikroblar olur?",
+      "options": [
+        "Stafilokok 77%, digər mikroblar 23%",
+        "Stafilokok 25%, digər mikroblar 75%",
+        "Stafilokok 42%, digər mikroblar 58%",
+        "Stafilokok 66%, digər mikroblar 34%",
+        "Stafilokok 81%, digər mikroblar 19%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "266. Dolamaların cərrahi müalicəsinə göstəriş hansıdır?",
+      "options": [
+        "İlk “yuxusuz gecə”",
+        "Barmaqda şişkinlik",
+        "Barmaqda qızartı",
+        "Barmaqda ödem",
+        "Saidin qızartı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "267. Dolamanın dəri formasının müalicəsində nə etmək lazım deyil?",
+      "options": [
+        "Dərin kəsiklə vətər yatağı açılmalı",
+        "Yalnız suluq kəsilib açılması",
+        "Antiseptiklərlə sarğı qoymalı",
+        "Fiziki müalicə üsulları aparılmalıdır",
+        "Antibiotiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "268. Barmağın arxa səthində olan dərialtı dolama necə yayılır?",
+      "options": [
+        "Boylama istiqamətdə",
+        "Şaquli dəri qatlara keçməklə",
+        "Limfatik damarlarla",
+        "Limfa düyünləri ilə",
+        "Sümük iliyin kanalı boyunca"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "269. Dolamanın dərialtı formasında ağrı necə olur?",
+      "options": [
+        "Vurğu kimi",
+        "Kəsici",
+        "Deşici",
+        "Küt",
+        "Xəncər ağrısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "270. Dolamanın dərialtı formasında cərrahi kəsik necə aparılmalıdır?",
+      "options": [
+        "Falanqaarası büküşə keçməyən paralel kəsik",
+        "Köndələn kəsik",
+        "Dərin şaquli kəsik",
+        "Oynağa qədər kəsik",
+        "Xaçabənzər kəsik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "271. Bunlardan hansı sədəfaltı dolama əlaməti deyil?",
+      "options": [
+        "Falanqada parçalanma yaranır",
+        "İltihab mayesi sədəfaltına toplanır",
+        "Sədəf yerində oynayır",
+        "Vurğulu ağrı olur",
+        "Dəri qızarır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "272. Dolamanın vətər forması necə adlanır?",
+      "options": [
+        "Tendovaginit",
+        "Artrit",
+        "Periostit",
+        "Ostit",
+        "Pandaktilit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "273. Dolamanın vətər formasında iltihabi proses nə müddətə inkişaf edir?",
+      "options": [
+        "24 saat",
+        "12 saat",
+        "48 saat",
+        "72 saat",
+        "96 saat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "274. Dolamanın vətər formasında kəsik apararkən vətərin müsariqəsi ilə necə rəftar aparılmalıdır?",
+      "options": [
+        "Müsariqə qorunmalıdır",
+        "Geniş kəsiklə müsariqə kəsilməlidi",
+        "Müsariqə rezeksiya olunmalıdır",
+        "Vətərlə birgə müsariqə çıxarılmalıdır",
+        "Müsariqəyə toxunmaq lazım deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "275. Dolanmanın vətər formasında hansı dəyişikliyə görə vətər rezeksiya olunub çıxarılmalıdır?",
+      "options": [
+        "Vətər nekroza uğradıqda",
+        "Fleqmonoz iltihabda",
+        "Ödem olduqda",
+        "İltihabi proses oynağa keçdikdə",
+        "İltihabi proses əzələyə keçdikdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "276. Oynaq dolaması nədir?",
+      "options": [
+        "Falanqararası oynağın iltihabıdır",
+        "Falanqa ilə daraq sümüyü arasında oynağın iltihabıdır",
+        "Vətər yatağının iltihabıdır",
+        "Falanqanın sümüküstlüyünün iltihabıdır",
+        "Yumşaq toxumanın iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "277. Sümük dolaması nədir?",
+      "options": [
+        "Barmaq falanqaları iltihabı",
+        "Sədəfaltı nahiyyənin iltihabı",
+        "Vətər yatağının iltihabı",
+        "Falanqaarası oynağın iltihabı",
+        "Əl-daraq sümüklərinin iltihabı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "278. Dolamanın sümük forması hansı formaların fəsadı kimi təzahür edir? Düzgün cavab hansı variantdır? 1) Dərialtı 2) Vətər 3) Oynaq 4) Bütün formaların 5) Sümük forması",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "279. Dolamanın oynaq formasında hansı dəyişiklik olmur?",
+      "options": [
+        "Oynaq boşluğuna qan toplanır",
+        "Oynaq boşluğuna seroz maye toplanır",
+        "Bağlar cırılır",
+        "Oynaq kisəsi və bağlar parçalanır",
+        "Osteomielit inkişaf edir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "280. Törənmə səbəbinə görə peritonitin təsnifatına bunlardan hansı aid deyil?",
+      "options": [
+        "Qarın boşluğu üzvlərinin xroniki xəstəliklərin fəsadsız gedişi ilə əlaqədar",
+        "Qanın böşluqlu üzvlərinin kəskin cərrahi xəstəlikləri ilə əlaqədar",
+        "Boşluqlu üzvlərin açıq və dərialtı zədələnməsi ilə əlaqədar",
+        "Boşluqlu üzvlərin dağılan şişləri ilə əlaqəlidir",
+        "Birincili kriptogen peritonitlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "281. Qarın böşluğundakı möhtəviyyatın xüsusiyyətinə görə peritonitin hansı növü mövcuddur?",
+      "options": [
+        "İrinli",
+        "Adheziv",
+        "Şəffaf",
+        "Ödemli",
+        "Köpüklü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "282. Yoğun bağırsaq deşidikdə peritonitin hansı növü inkişaf edir?",
+      "options": [
+        "Nəcisli",
+        "Seroz",
+        "Odlu",
+        "Sidikli",
+        "Qanlı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "283. Bədənin intoksikasiya dərəcəsinə görə peritonitin növüdür: 1) Terminal 2) Toksiki 3) Septik 4) Reaktiv 5) Yarımkəskin",
+      "options": [
+        "1, 2, 4;",
+        "1, 3, 5;",
+        "2, 4, 5;",
+        "1, 2, 3;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "284. Qarın boşluğu üzvlərindən hansının iltihabı 50% peritonitinə səbəb olur?",
+      "options": [
+        "Korbağırsağın iltihablaşmış çıxıntısının deşilməsi",
+        "Pankreonekroz",
+        "Nazik bağırsağın deşilməsi",
+        "Qanqrenaya uğramış və deşilmiş öd kisəsi",
+        "Pelvioperitonit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "285. Məhdud peritonitdə patoloji proses neçə anatomik nahiyyəni əhatə edir?",
+      "options": [
+        "1-2",
+        "3-5",
+        "6-8",
+        "9-11",
+        "13-15"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "286. Bu əlamətlərdən hansı 12-24 saat davam edən peritonit əlaməti deyil?",
+      "options": [
+        "Ağızdan selik ifrazı",
+        "Qarında ağrı",
+        "Bədən hərarətinin yüksəlməsi",
+        "Qusma",
+        "Qarın əzələlərinin gərilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "287. Bu əlamətlərdən hansı 24-48 saat davam edən peritonit üçün səciyyəvi deyil?",
+      "options": [
+        "Dilin nəmlənməsi",
+        "Qarında ağrının sönməsi",
+        "Qusma",
+        "Əzələ gərginliyinin zəifləməsi",
+        "Psixi oyanıqlıq sayıqlamalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "288. Bu əlamətlərdən hansı peritonit üçün daha səciyyəvidir?",
+      "options": [
+        "Şetkin-Blümberq əlaməti",
+        "Kerkrinç əlaməti",
+        "Melnikov əlaməti",
+        "Krauze əlaməti",
+        "Burxave əlaməti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "289. Bu əlamətlərdən hansı peritonitin əsas fərqləndirici əlamətidir? Düzgün cavab hansı variantdır? 1) Dilin quruması 2) Qarında ağrı 3) Qusma 4) Qarın əzələsinin gərginliyi 5) Əsnəmə 6) Heç biri",
+      "options": [
+        "1, 2, 3, 4;",
+        "1, 2, 3, 5;",
+        "1, 2, 4, 5;",
+        "2, 3, 4, 5;",
+        "2, 4, 5, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "290. Manqeym əmsalı hansı göstəricilərlə hesablanır? Düzgün olmayan cavab hansı variantdır? 1) Peritonit müddəti 2) Xəstənin yaşı 3) Yoğun bağırsaqla əlaqədar peritonit 4) Qarında mayenin xüsusiyyətinə görə 5) Fasiləsiz qusma 6) Peritonitin yayılmasına görə",
+      "options": [
+        "5, 6;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "1, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "291. Manqeym əmsalının 20 bala bərabər olduqda xəstənin vəziyyətini necə qiymətləndirilməlidir?",
+      "options": [
+        "Yüngül",
+        "Ağır",
+        "Çox ağır",
+        "Orta ağır",
+        "Ortabab"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "292. Manqeym əmsalı 30 baldan yuxarı olduqda xəstənin vəziyyəti necə qiymətləndirilməlidir?",
+      "options": [
+        "Ağır",
+        "Yüngül",
+        "Orta sinir",
+        "Dəyişkən",
+        "Yaxşı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "293. Kəskin peritonitdə əməliyyatönü hazırlıq nə qədər davam edə bilər?",
+      "options": [
+        "2 saata qədər",
+        "12 saata qədər",
+        "18 saata qədər",
+        "20 saata qədər",
+        "24 saata qədər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "294. Kəskin peritonitlərdə hansı cərrahi kəsik daha məqsədə uyğundur?",
+      "options": [
+        "Yuxarı-aşağı orta laparotomiya",
+        "Pfannenştil kəsiyi",
+        "Koxer kəsiyi",
+        "Mak-Burney kəsiyi",
+        "Transrektal kəsik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "295. Qaz və möhtəviyyatla dolu bağırsağı boşaltmaq üçün nazointensial intubasiya hansı zondla icra edilir?",
+      "options": [
+        "Müller-Ebbot zondu ilə",
+        "Nazo-qastral zondla",
+        "Zond Blekmora",
+        "Nazabliarnıy zond",
+        "Koxer zondu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "296. Peritonitlər zamanı qarın boşluğu təkrari açılması necə adlanır?",
+      "options": [
+        "Relaparatomiya",
+        "Torakolaparotomiya",
+        "Laparatomiya",
+        "Lyumbotomiya",
+        "Diafraqmatomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "297. Plevrit nədir?",
+      "options": [
+        "Parietal və vissiral plevranın birgə iltihabıdır",
+        "Bazal plevranın iltihabıdır",
+        "Mediastinal plevranın iltihabı",
+        "Ağciyərin iltihabıdır",
+        "Diafraqmanı örtən parietal plevranın iltihabıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "298. Bunlardan hansı hemorragik plevritin səbəbi deyil?",
+      "options": [
+        "Ağciyərin vərəmi",
+        "Ağciyərin şişi",
+        "Divararalığının şişi",
+        "Pankrenekroz",
+        "Plevranın şişi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "299. Məhdud irinli plevrit növü deyil?",
+      "options": [
+        "İntralabor",
+        "Divari",
+        "Bazal",
+        "Payarası",
+        "Zirvə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "300. İrin divararalığı ilə ağciyərin medial səthi arasında yerləşdikdə plevrit necə adlanır?",
+      "options": [
+        "Paramediastal",
+        "Payarası",
+        "Zirvə",
+        "Bazal",
+        "Divari"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "301. Piopnevmotoraks nədir?",
+      "options": [
+        "Havanın və irinin plevra boşluğuna yayılması",
+        "Seroz mayenin plevra boşluğuna yayılması",
+        "Havanın plevra boşluğuna yığılması",
+        "Qanın plevra boşluğuna yayılması",
+        "Hemorragik mayenin plevra boşluğuna yığılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "302. İrinli plevritin səbəbi hansıdır?",
+      "options": [
+        "İrintörədici mikrobların plevra boşluğuna keçməsi",
+        "Plevra boşluğuna seroz maye yayılması",
+        "Hemotoraks",
+        "Pnevmotoraks",
+        "Xilotoraks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "303. İrinli plevritin səbəbi hansıdır?",
+      "options": [
+        "Exinokok kistasının plevra boşluğuna yırtılması",
+        "Ocaqlı pnevmoniya",
+        "Döş sümüyünün sınığı",
+        "Ağciyər daxili hematoma",
+        "Diafraqmanın cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "304. Bunlardan hansı irinli plevrit törədə bilər?",
+      "options": [
+        "Yemək borusunun plevraya deşilməsi",
+        "Plevranın cırılması",
+        "Diafraqmanın cırılması",
+        "Yemək borusunun dəliyi yırtığı",
+        "Miokardın infarktı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "305. Pnevmoniya və qrip zamanı plevra boşluğuna yığılmış seroz maye necə adlanır?",
+      "options": [
+        "Parapnevmonik",
+        "Metapnevmonik plevrit",
+        "Yatrogen plevrit",
+        "Postpnevmonik",
+        "Kriptogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "306. İrinli plevrit ağciyərə yırtıldıqda nə formalaşır? Düzgün cavab hansıdır?",
+      "options": [
+        "Bronxo-plevral süzgəci",
+        "Plevra dəri süzgəci",
+        "Plevra-yemək borusu süzgəci",
+        "Plevra-diafraqma süzgəci",
+        "Plevra qaraciyər süzgəci"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "307. Bu əlamətlərdən hansı irinli plevrit üçün səciyyəvi deyil?",
+      "options": [
+        "Qanhayxırma",
+        "Döşdə ağrı",
+        "Tənginəfəslik",
+        "Hərarətin yüksəlməsi",
+        "Quru öskürək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "308. Hava olmadıqda plevra boşluğuna toplanan maye rentgendə hansı xəttə görə təyin edilir?",
+      "options": [
+        "Damuazo",
+        "Qarlenda",
+        "Qronxo-Rauxfus",
+        "Melnikov",
+        "Şevkunenko"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "309. Total seroz plevritlərdə plevra boşluğuna hansı qabırğa arasında punksiya etmək lazımdır?",
+      "options": [
+        "VIII-IX",
+        "IV-V",
+        "VI-VII",
+        "X-XI",
+        "XI-XII"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "310. İrinli plevritdə plevraya punksiya nə məqsədlə aparılır?",
+      "options": [
+        "Həm müalicəvi həm də diaqnostik",
+        "Diaqnostik",
+        "Müalicə",
+        "Əməliyyatönü hazırlıq məqsədilə",
+        "Heç bir məqsəd yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "311. Məhdud irinli plevritin hansı üsulla müalicə etmək daha məqsədə uyğundur?",
+      "options": [
+        "Təkrari punksiyalarla",
+        "Geniş torakotomiya",
+        "Torakosentez",
+        "Plevra boşluğuna antibiotik yeritməklə",
+        "Konservativ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "312. Ürək kisəsinin iltihabı necə adlanır?",
+      "options": [
+        "Perikardit",
+        "Mediastinit",
+        "Plevrit",
+        "Miokardit",
+        "Epikardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "313. Bu əlamətlərdən hansı irinli perikardit üçün səciyyəvi deyil?",
+      "options": [
+        "Qanhayxırma",
+        "Döşdə ağrı",
+        "Tənginəfəslik",
+        "Yüksək hərarət",
+        "Boyunun səthi venalarında durğunluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "314. Bunlardan hansı perikarditin müalicə üsuludur?",
+      "options": [
+        "Perikarda punksiya",
+        "Plevraya punksiya",
+        "Divararalığına punksiya",
+        "Döş sümüyünə punksiya",
+        "Ürəyə punksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "315. Sepsis nədir?",
+      "options": [
+        "Yayılmış ümumi infeksiyadır",
+        "Yerli infeksiyalar",
+        "Bakteremiyadır",
+        "İrinin qana keçməsidir",
+        "İrinin periton boşluğuna yığılmasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "316. 1991-ci ildə sepsisin yeni təsnifatını hazırlamaq üçün yaradılmış təşkilat necə adlanırdı?",
+      "options": [
+        "Razılaşma komisiyası",
+        "Barışıq komisiyası",
+        "Yeni fikir komisiyası",
+        "Qarışıq komisiyası",
+        "İnkar komisiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "317. Septik şok üçün səciyyəvi deyil?",
+      "options": [
+        "Çoxlu sidik ifraz olur",
+        "Qan təzyiqi davamlı enir",
+        "Bütün üzvlərin və sistemlərin fəaliyyəti pozulur",
+        "Oliquriya",
+        "Funksiyaların kəskin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "318. İnfeksiya mənbəyinə görə sepsisin hansı növü nadir təsadüf olunur?",
+      "options": [
+        "Kriptogen sepsis",
+        "Təsadüfü irinli yara sepsisi",
+        "Abdominal sepsis",
+        "Cərrahi əməliyyatdan sonrakı sepsis",
+        "Kateterlə törənildən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "319. Bunlardan hansı sepsisin təsnifatına uyğun deyil?",
+      "options": [
+        "Osteogen",
+        "Otogen",
+        "Odontogen",
+        "Uroloji",
+        "Abdominal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "320. Sepsis haqqında nəzəriyyə deyil?",
+      "options": [
+        "Virus",
+        "Sitokin",
+        "Toksiki",
+        "Bakterioloji",
+        "Neyrotrofik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "321. Sepsis haqqında hansı nəzəriyə mövcuddur? Hansı variant düzgün cavabdır? 1) Toksiki 2) Allergiya 3) Sitokin 4) Koaqulyasiya 5) Damar",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 3, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "322. Bunlardan hansı sepsisin mahiyyətini izah edən nəzəriyyədir?",
+      "options": [
+        "Allergiya",
+        "Anafilaktik",
+        "Pirogen",
+        "Piogen",
+        "Autogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "323. Stafilokok sepsisində neçə faiz irin metastazları müşahidə olunur?",
+      "options": [
+        "90-95",
+        "40-45",
+        "55-60",
+        "75-80",
+        "100"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "324. Hansı mikroblarla törədilən sepsisdə irin metastazı daha çox olur?",
+      "options": [
+        "Stafilokok",
+        "Streptokok",
+        "Meninqokok",
+        "Pnevmokok",
+        "Bağırsaq çöpləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "325. Sepsisdə limfogen yolla mikrobların bədənə yayılmasının az olması nə ilə əlaqədardır?",
+      "options": [
+        "Limfatik damarların açıldığı limfa düyünlərində mikrobların ilişib qalması ilə",
+        "Limfanın mikroblara öldürücü təsiri ilə",
+        "Limfanın axının sürətinin zəifliyi ilə",
+        "Limfa damarlarının mənfəzinin iltihabi ilə əlaqədar qapanması ilə",
+        "Mikrobların limfa damarlarına çətin keçməsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "326. Sepsisin varlığını təsdiq etməyən əlamət hansıdır?",
+      "options": [
+        "İrin metastazın olmaması",
+        "İlkin irinli ocaq",
+        "İltihaba cavab reaksiyası sindromu",
+        "İrinli metastazların olması",
+        "Septik şokun olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "327. Bu əlamətlərdən hansı sepsis üçün səciyyəvi deyil?",
+      "options": [
+        "Bədənin normal hərarəti",
+        "Bədənin yüksək hərarəti",
+        "Titrəmə",
+        "Güclü tərləmə",
+        "Ruhi pozuntu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "328. Sepsisli xəstədə səhər-axşam hərarətləri arasında 2-30 fərq nə əlamətidir?",
+      "options": [
+        "İrinli metastazın olması",
+        "Sepsisin şiddətlənməsi",
+        "Sağalmaya meyillilik",
+        "İntensiv müalicənin yararsızlığı",
+        "Bədənin adi cavab reaksiyası əlamətidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "329. Sepsis zamanı dalğavari hərarətin olması nəyi göstərir?",
+      "options": [
+        "İrin metastazın boşalması və yenisinin əmələ gəlməsi",
+        "Sepsisin zəifliyini",
+        "Xəstənin sağalmasını",
+        "Müalicənin yüksək efektliyini",
+        "Xroniki sepsisin başlanmasını göstərir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "330. Sepsisli xəstənin ağciyərində hansı dəyişikliyi olur?",
+      "options": [
+        "Pnevmoniya",
+        "Abseslər əmələ gəlir",
+        "Ağciyər arteriyasının tromb-emboliyası",
+        "Bronxial arteriyalar tromblaşır",
+        "Ağciyər qanqrenası inkişaf edir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "331. Sepsisli xəstənin sinir sistemdə hansı dəyişikliyi olmur?",
+      "options": [
+        "Hemorragik insult olur",
+        "Depresiya",
+        "Oyanıqlılıq",
+        "Huşun alaqaranlıq olması",
+        "Toksiki psixoz yaranır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "332. Sepsis zamanı qaraciyərdə hansı dəyişiklik olmur?",
+      "options": [
+        "Abses yaranır",
+        "Böyümə",
+        "Sarılıq",
+        "Sirroz başlayır",
+        "Fizioloji fəaliyyəti pozulur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "333. Sepsisli xəstənin sidik ifrazat üzvlərində hansı dəyişiklik olmur?",
+      "options": [
+        "Hematuriya olur",
+        "Böyrək parenximasında ödem",
+        "Diurez azalır",
+        "Sidikdə bakteriyalar peyda olur",
+        "Sidikdə zülal üzləri olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "334. Bu mikroblardan hansı spesifik cərrahi infeksiya törədiciləri deyil?",
+      "options": [
+        "Anaerob spor əmələ gətirməyən mikroblar",
+        "Vərəm çöpləri",
+        "Sifilis törədiciləri",
+        "Qarayara çöpləri",
+        "Aktinomikoz törədicisi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "335. Ağciyər vərəmində hansı cərrahi əməliyyat aparıla bilməz?",
+      "options": [
+        "Kavernanın kapitonaj edilməsi",
+        "Pnevmoektomiya",
+        "Bilobektomiya",
+        "Lobektomiya",
+        "Seqmotektomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "336. Böyrənin spesifik iltihabının təsdiqləyən əlamət hansıdır? Hansı cavab düzgün deyil?",
+      "options": [
+        "Hematuriya",
+        "Beldə ağrı",
+        "Ləyəndə dаşın olması",
+        "Sidikdə vərəm çöplərinin toplanması",
+        "Sidikdə çoxsaylı leykositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "337. Sümük oynaq aparatında spesifik vərəm infeksiyanın neçə faizdə müşahidə olunur?",
+      "options": [
+        "10",
+        "5",
+        "8",
+        "15",
+        "18"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "338. Bu əlamətlərdən hansı xroniki hematogen osteomielitdə olmur?",
+      "options": [
+        "Soyuq abseslər",
+        "Ətrafın atrofiyası nadir olur",
+        "Ətraf inkisafdan qalmır",
+        "Aleksandrov əlaməti olmur",
+        "Soyuq abses törətmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "339. Bu əlamətlərdən hansı sümük oynq vərəmində olmur?",
+      "options": [
+        "Əzələ atrofiyası nadir müşahidə olunur",
+        "Soyuq abses törənir",
+        "Aleksandrov əlaməti olur",
+        "Soyuq abseslər törənir",
+        "Ətrafda əzələ atrofiyası daim olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "340. Arterial qan dövranın kəskin pozulması hansı səbəblə əlaqədar ola bilər? Düzgün olmayan cavab hansıdır?",
+      "options": [
+        "Obliterə edici endarteriit",
+        "Cərrahi əməliyyatla",
+        "Arteriyaların yaralanması və məcburi turna qoyulması",
+        "Trombozla əlaqədar",
+        "Emboliya ilə əlaqədar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "341. Arterial qan dövranının kəskin pozulması hansı mərhələləri vardır? Düzgün cavab hansı variantdır? 1) Funksional pozuntu 2) Üzvü dəyişikliklər 3) Toxumanın ölümü 4) İşemiya 5) Trofik xora",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "2, 3, 4;",
+        "1, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "342. Ətrafların arterial qan dövranın xroniki pozulmasının səbəbi göstərilənlərdən hansı deyil?",
+      "options": [
+        "Tromboflebit",
+        "Endarternit",
+        "Atereskleroz",
+        "Burker xəstəliyi",
+        "Reno xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "343. Xroniki arterial çatmazlığın əlaməti hansıdır?",
+      "options": [
+        "Fasiləli axsama",
+        "Nekroz",
+        "Qanqrena",
+        "Süzgəc",
+        "Trofiki xora"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "344. Xroniki arterial çatmazlığı neçə dərəcəli olur?",
+      "options": [
+        "4",
+        "3",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "345. Bunlardan hansı xroniki arterial catmazlığın müalicə üsulu deyil?",
+      "options": [
+        "Adrenalektomiya",
+        "Simpatektomiya",
+        "Endarterektomiya",
+        "Damarların şutlanması",
+        "Damarların protezlə əvəz olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "346. Nədir ağ fleqmaziya?",
+      "options": [
+        "Çanağın və budun dərin venasının trombozudur",
+        "Budun dərin venasının trombozudur",
+        "Baldırın dərin venasının trombozudur",
+        "Böyük dərialtı venasının trombozudur",
+        "Kiçik dərialtı venasının trombozudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "347. Nədir göy fleqmaziya?",
+      "options": [
+        "Çanağın və budun dərin və səthi venaların trombozudur",
+        "Çanağın dərin venasının trombozu",
+        "Budun dərin venasının trombozu",
+        "Böyük dərialtı venasının trombozu",
+        "Baldır venalarının trombozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "348. Budun böyük dərialtı venasının varikoz genəlməsi cərrahi əməliyyata göstərişdirmi?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Göstəriş ola bilər",
+        "Göstəriş olmayada bilər",
+        "Göstəriş şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "349. Ətraflarda limfa dövranın pozulması birincili yaxud ikincili prosesdir?",
+      "options": [
+        "Birincili və ikincilidir",
+        "Birincilidir",
+        "İkincilidir",
+        "Heç biri deyil",
+        "Birincili və ikincili olması şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "350. Bu xəstəliklərdən hansı ətrafda limfostaza səbəb olur?",
+      "options": [
+        "Qızıl yel",
+        "Abses",
+        "Furunkul",
+        "Karbunkul",
+        "Fleqmona"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "351. Nekrozun hansı növü olur? Hansı variant düzgün cavabdır? 1) Qırmızı 2) Quru 3) Qara 4) Yaş 5) Sarı",
+      "options": [
+        "2, 4;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "352. Hansı qanqrenanın növüdür? Hansı variant düzgün cavabdır? 1) Sarı 2) Yaş 3) Məhdud qanqrena 4) Quru 5) Göy qanqrena",
+      "options": [
+        "1, 4;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "353. Bunlardan hansı trofik xoranın səbəbi deyil?",
+      "options": [
+        "Çanağın dərin venaların trombozu",
+        "Aşağı ətraf arteriyaların ateresklerozu",
+        "Aşağı ətraf venalarının varikozu",
+        "Posflebetik sindromu",
+        "Şüalanma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "354. Nədir süzgəc? Hansı variant düzgün cavabdır? 1) Bədən boşluğunu dəri ilə birləşdirən kanal 2) Yemək borusunun diafraqma dəliyin yırtığı 3) Boşluqlu üzvün mənfəzin dəri ilə birləşdiyi kanal 4) Göbək yırtığı 5) Boşluqlu üzvlər arasında yaranan patoloji kanal",
+      "options": [
+        "1, 3, 5;",
+        "1, 2, 3;",
+        "2, 3, 4;",
+        "3, 4, 5;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "355. Bunlardan hansı qazanılma süzgəc deyil?",
+      "options": [
+        "Yemək borusu atreziyası – yemək borusu traxeya süzgəci",
+        "Travmatik süzgəclər",
+        "Patoloji süzgəclər",
+        "Spontan süzgəclər",
+        "Süni yaradılan süzgəclər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "356. Süzgəc kanalın quruluşuna görə hansı süzgəclər mövcuddur? Hansı variant düzgün cavabdır? 1) Dil vari 2) Dodaq vari 3) Sümük vari 4) Börülü 5) Yastı",
+      "options": [
+        "2, 4;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "357. Exinokokun törədicisi hansıdır?",
+      "options": [
+        "Echinococcus granulocus",
+        "Askaridlər",
+        "Amöb törədiciləri",
+        "Paraqonimoz",
+        "Aktinolisetlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "358. Exinokokun kliniki gedişi hansı mərhələlərlə gedir? hansı variant düzgün cavabdır? 1) Əlamətsiz 2) Geridönməz 3) Kliniki əlamətlərin təzahürü 4) Geridönən 5) Fəsadlar mərhələsi",
+      "options": [
+        "1, 3, 5;",
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "359. Exinokokk daha çox hansı üzvdə inkişaf edir?",
+      "options": [
+        "Qaraciyər",
+        "Ağciyər",
+        "Dalaq",
+        "Beyin",
+        "Mədəaltı vəz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "360. Qaraciyər exinokokunun diaqnostikasında hansı üsullar daha dəqiq məlumat verir? Düzgün cavab hansı variantdır? 1) Kasoni reaksiyası 2) Ultrasəs müayinəsi 3) Qanda eozinofillərin artması 4) Kompyuter tomoqrafiyası 5) Fistuloqrafiya",
+      "options": [
+        "2, 4;",
+        "1, 2;",
+        "2, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "361. Ağciyər exinokokunun diaqnostikasında hansı müayinələr daha dəyərlidir?",
+      "options": [
+        "Rentgen müayinəsi",
+        "Ultrasəs müayinəsi",
+        "Qanın ümumi analizi",
+        "Kasoni reaksiyası",
+        "Lateks-aqqlütinasiya reaksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "362. Qaraciyərdə alveokok olurmu?",
+      "options": [
+        "Hə",
+        "Yox",
+        "Olada bilər",
+        "Olmayada bilər",
+        "Olması şübhəlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "363. Exinokokun kimyəvi müalicəsində hansı preparat daha əhəmiyyətlidir?",
+      "options": [
+        "Albendozol",
+        "Streptomisin",
+        "Qanqrena əleyhinə zərdab",
+        "İmmunnostimulyatorlar",
+        "Fermentlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "364. Askaridozun cərrahi müalicə tələb edən fəsadı hansıdır?",
+      "options": [
+        "Bağırsaq keçməzliyi",
+        "Boğulmuş yırtıq",
+        "Bağırsaq divarında xora",
+        "Sidik ləngiməsi",
+        "Bağırsaq sancması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "365. Qaraciyərin amebiaz absesi neçə faiz müşahidə olunur?",
+      "options": [
+        "2-10%",
+        "11-15%",
+        "16-20%",
+        "21-25%",
+        "26-30%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "366. Amyöbiazın törədici nədir?",
+      "options": [
+        "Entamioba histolitica",
+        "Stafilokoklar",
+        "Bağırsaq çöpləri",
+        "Tetanus çöpləri",
+        "Qarışıq mikroblar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "367. Bunlardan hansı amyöbiazın fəsadı deyil? Düzgün cavab hansı variandır? 1) Kəskin appendisit 2) Qaraciyər absesi 3) Ağciyər absesi 4) Beyin absesi 5) Bağırsaqarası absesi",
+      "options": [
+        "2, 3, 4;",
+        "a, 2, 3;",
+        "1, 2, 4;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "368. Şiş nədir? Hansı variant düzgün cavabdır? 1) İltihabi prosesdir 2) Avtonom böyümə xüsiyyətə malik hüceyrələrdir 3) Atipizmi ilə fərqlənir 4) Bədənin ümumi qanunauyğunluğuna tabe olmayan toxuma inkişafıdır 5) Sulu törəmədir",
+      "options": [
+        "2, 3, 4;",
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "2, 3, 5;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "369. Şişlərin əmələ gəlməsi haqda hansı nəzəriyələr vardır? Düzgün cavab hansı variantdır? 1) Piroqov 2) Virxov 3) Konqeym 4) Zilber 5) Hipokrat",
+      "options": [
+        "2, 3, 4;",
+        "1, 2, 4;",
+        "1, 4, 5;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "370. Bunlardan hansı şişlər haqda nəzəriyədir?",
+      "options": [
+        "İmmun",
+        "Allergik",
+        "Anafilaktik",
+        "Antitoksik",
+        "Hipertonik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "371. Bədxassəli şişlər hansı xüsusiyyətə malik deyil?",
+      "options": [
+        "İltihab mənşəlidir",
+        "Tez böyüyür",
+        "Metastaz verir",
+        "Təkrarı inkişaf edir",
+        "Bədənə ümumi toksiki təsir göstərir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "372. Bunlardan hansı bədxassəli şişlərin təsnifatına aid deyil?",
+      "options": [
+        "S –sist",
+        "T – şiş",
+        "N – düyün",
+        "M – metastaz",
+        "C – inkişaf dərəcəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "373. Bunlardan hansı xoşxassəli şişlərin xüsusiyəti deyil?",
+      "options": [
+        "Metastaz verir",
+        "Qurluşça inkişaf etdiyi toxumadan fərqlənmir",
+        "Kapsula içərisində böyüyür",
+        "Təkrari əmələ gəlmir",
+        "Ümumi intoksikasiya vermir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "374. Xərçəng şişi hansı toxumadan inkişaf edir?",
+      "options": [
+        "Epitel",
+        "Əzələ",
+        "Piy",
+        "Pautin qişadan",
+        "Endotel qışadan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "375. Sarkoma hansı toxumadan inkişaf edir?",
+      "options": [
+        "Birləşdirici",
+        "Əzələ",
+        "Epitel",
+        "Pautin",
+        "Endotel"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "376. Bunlardan hansı bədxassəli şişin əlaməti deyil?",
+      "options": [
+        "Kapsula içərisində böyümə",
+        "Əlavə toxuma inkişafı",
+        "Patoloji ifrazata səbəb olur",
+        "İnkişaf etdiyi üzvün fəaliyyətini pozur",
+        "İkincili əlamətlər törədir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "377. Şişlərin diaqnostikasında hansı müayinə üsulu daha informativdir?",
+      "options": [
+        "Nüvə maqnit rezonans müayinəsi",
+        "Ultrasəs",
+        "Rentgen",
+        "Kompyuter tomoqrafiyası",
+        "Endoskopik müayinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "378. Şişlər hansı üsulla müalicə edilir? Hansı variant düzgün cavabdır? 1) Cərrahi 2) Şüa 3) Kimyəvi preparatlarla 4) İmmun preparatlarla 5) Zərdablarla",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "379. İnkişaf qüsurları hansı səbəbdən törənir? Hansı variant düzgün cavabdır? 1) Daxili zərərli amilərlə 2) Təbii fəlakətlə 3) Qorxu ilə 4) Xarici zərərli amilərlə 5) Təbii qüvvələrlə",
+      "options": [
+        "1, 4;",
+        "1, 2;",
+        "1, 3;",
+        "3, 4;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "380. İnkişaf qüsuru hansı xarici amilərlə törənir? Düzgün olmayan cavab hansıdır?",
+      "options": [
+        "Cinsi hüceyrələrin yararsızlığı",
+        "Fiziki",
+        "Mexaniki",
+        "Kimyəvi",
+        "İltihabi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "381. Göstərilənlərdən hansı inkişaf qüsurunun təsnifatına aid deyil?",
+      "options": [
+        "Təkrarlanan qüsurlar",
+        "Üzvün ölçüsünə görə qüsur",
+        "Üzvün sayına görə qüsur",
+        "Üzvün inkişafdan qalmasına görə qüsur",
+        "Üzvün yerdəyişməsinə görə qüsurlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "382. Əkizlərdə hansı inkişaf qüsuru müşahidə olunur? Hansı variant düzgün cavabdır? 1) Ayrı-ayrılıqda tək bir üzvün qüsuru ilə 2) Autozit 3) Omfolozit 4) Parazit 5) Antoqonist",
+      "options": [
+        "2, 3, 4;",
+        "1, 2, 3;",
+        "1, 3, 4;",
+        "2, 3, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "383. Bunlardan hansı kəllənin və baş beynin inkişaf qüsurudur?",
+      "options": [
+        "Beyin yırtıqları",
+        "Beyin absesi",
+        "Beyin exinokoku",
+        "Paraqonemoz",
+        "Askaridoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "384. Bunlardan hansı beyin yırtığın forması deyil?",
+      "options": [
+        "Meninqoma",
+        "Meninqosele",
+        "Meninqosistosele",
+        "Meninqoensfalosistosele",
+        "Meninqoensefalosele"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "385. Sifətdə hansı inkişaf qüsuru olmur?",
+      "options": [
+        "Yırtıq",
+        "Dovşan dodaq",
+        "Qurdağız",
+        "Qulağın atreziyası",
+        "Xoanaların atreziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "386. Boyunda hansı inkişaf qüsuru olmur?",
+      "options": [
+        "Anadangəlmə fleqmona",
+        "Boynun orta sisti və süzgəci",
+        "Boynun yan sisti və süzgəci",
+        "Əyriboyunluq",
+        "Hemangioma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "387. Ürəkdə hansı inkişaf qüsuru olmur?",
+      "options": [
+        "Mitral qapağın revmatik mənşəli stenozu",
+        "Qulaqçıqlar arası çəpərin qüsuru",
+        "Mədəciklər arası çəpərin qüsuru",
+        "Fallo triadası",
+        "Fallo teradası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "388. Bunlardan hansı ağciyərin inkişaf qüsuru deyil?",
+      "options": [
+        "Abses",
+        "Ağciyərin sekvestrasiya",
+        "Lobar əmfizema",
+        "Kistoz hipoplaziya",
+        "Traxeal bronx"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "389. Yemək borusunda hansı inkişaf qüsuru olmur?",
+      "options": [
+        "Yemək borusunun divertikulu",
+        "Yemək borusunun atreziyası",
+        "Yemək borusunun anadangəlmə daralması",
+        "Yemək borusunun traxeya süzgəci",
+        "Anadangəlmə qısa yemək borusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "390. Bunlardan hansı dəriköçürmə üsulu deyil?",
+      "options": [
+        "Piroqovun sümük plastik əməliyyat üsulu",
+        "Reverden",
+        "Tirş",
+        "Yanoviç-Çaynski-Devis",
+        "Louson-Krauze"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "391. Köçürülən toxuma və üzvlərin qurluşundan asılı olaraq hansı köçürmə növü yoxdur?",
+      "options": [
+        "Alloplastika",
+        "İzogen köçürmə",
+        "Singen köçürmə",
+        "Allogen köçürmə",
+        "Ksenogen köçürmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "392. Üzvlərin köçürüldüyü yerə görə hansı üzvköçürmə növü vardır? Hansı variant düzgün cavabdır? 1) Ortotopik 2) Ortostatik 3) Heterotopik 4) Hipertrofik 5) İdiopatik",
+      "options": [
+        "1, 3;",
+        "1, 2;",
+        "1, 4;",
+        "1, 5;",
+        "4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "393. Nədir alloplastika?",
+      "options": [
+        "Metal və sintetik materialdan hazırlanmış üzvün köçürülməsi",
+        "Dəri köçürmə",
+        "Əzələ köçürmə",
+        "Damar köçürmə",
+        "Sinir köçürmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "394. Meyitdən üzvlər hansı şəraitdə götürülməlidir?",
+      "options": [
+        "Aseptik şəraitdə",
+        "Ev şəraitdə",
+        "Təcili yardım maşında",
+        "Təşrih otağında",
+        "Qəbul şöbəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "395. Meyitdən üzv nə zaman götürülə bilər?",
+      "options": [
+        "Beyin olümü təsdiq edildikdən sonra 6 saat ərzində",
+        "Qan dövranın dayandıqdan 2 saat sonra",
+        "Qan dövranın dayandıqdan 4 saat sonra",
+        "Qan dövranın dayandıqdan 12 saat sonra",
+        "Qan dövranın dayandıqdan 24 saat sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "396. Üzvlərin köçürülməsində donorla resipiyentin hansı göstəriciləri uyğun olmalıdır? Hansı variant düzgün cavabdır? 1) ABO qan qrupu 2) Rh amili 3) HLA leykositar antigen 4) Eritrositar antigenləri 5) Plazma antigenlər",
+      "options": [
+        "1, 2, 3;",
+        "1, 2, 4;",
+        "1, 2, 5;",
+        "2, 3, 4;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "397. Köçürülmüş üzvün resipiyent tərəfindən qəbul olunmaması necə adlanır?",
+      "options": [
+        "İnkar böhranı",
+        "Qüsurlu dövran",
+        "Qurluş böhranı",
+        "Qəbul böhranı",
+        "Uzun böhran"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "398. Köçürülmüş üzvün inkarı böhranı necə təzahür etmir?",
+      "options": [
+        "Mülayim inkar",
+        "Çox kəskin (əməliyyat stolu üzərində)",
+        "Erkən kəskin (1 həftə ərzində)",
+        "Kəskin (3 ay ərzində)",
+        "Xroniki (gecikmiş olur)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "399. Köçürülmüş üzvün resipent tərəfindən qəbul edilməməsinin qarşısını almaq üçün hansı müalicə tətbiq edilir?",
+      "options": [
+        "İmmun sistemi zəiflədən dərmanlar",
+        "Antibiotiklər",
+        "Fermentlər",
+        "Plazma antigenləri köçürülməlidir",
+        "İmmun zərdablar köçürülməlidir"
+      ],
+      "correct": 0
+    }
+  ]
+}

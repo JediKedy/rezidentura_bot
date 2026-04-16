@@ -1,0 +1,1115 @@
+{
+  "questions": [
+    {
+      "question": "1. Verilənlərdən hansı xora xəstəliyinin patogenezində aqressiv faktor deyil?",
+      "options": [
+        "prostoqlandinlər",
+        "xlor turşusu",
+        "Mədə şirəsində sərbəst radikalların artması",
+        "Qastroduodenal reflüks",
+        "H. Pylori"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Mədənin hansı amilləri xora xəstəliyi əmələ gətirir və aqressiv faktor adlanır?",
+      "options": [
+        "Bikarbonatlar",
+        "Surfaktantabənzər maddələr",
+        "Qastromukoproteidlər",
+        "Prostoqlandinlər",
+        "HCl turşusu və pepsin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "3. Xəstənin antral qastriti vardır. Xəstəliyin etiologiyasını müəyyən etmək üçün hansı müayinə aparılmalıdır:",
+      "options": [
+        "qanda parietal hüceyrəyə qarşı antitelin yoxlanması",
+        "qanda qastritin səviyyəsi",
+        "mədənin yığılmasının öyrənilməsi",
+        "rentgen müayinəsi",
+        "nişanlanmış C 13 sidik cövhəri izotopu ilə tənəffüs testi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "4. Gənc 22 yaşlı xəstədə həddən artıq alkohol qəbulundan sonra dayanmayan qanlı qusmalar yaranmışdır. Xəstə üçün daha uyğun diaqnoz hansıdır:",
+      "options": [
+        "eroziv qastrit",
+        "qida borusu xərçəngi",
+        "Mellori – Veys sindromu",
+        "qida borusu axalaziyası",
+        "pilorostenoz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "5. Hansı xəstəlikdə diareya, sifətin hiperemiyası, taxikardiya və ödemlə müşayiət olunur:",
+      "options": [
+        "Zollinger – Ellinson sindromu",
+        "Kron xəstəliyi",
+        "Qeyri – Spesifik xoralı kolit",
+        "Karsinoid sindrom",
+        "Xronik enterit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "6. Axalaziyanın müalicəsində səhvdir:",
+      "options": [
+        "qida borusunun rezeksiyası",
+        "nitratlarla müalicə",
+        "qida borusunun balon dilatasiyası",
+        "kalsium antaqonisti",
+        "endoskopik kardiomiotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Xronik qastrit üçün sübutedici əlamət hansıdır:",
+      "options": [
+        "Kompleks klinik əlamətlər",
+        "Rentgenoloji əlamətlər",
+        "Selikli qişanın bioptatının histoloji müayinəsi",
+        "Mədənin sekretor funksiyasının müayinəsi",
+        "PH – metriya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "8. Menetrie xəstəliyi dedikdə nə nəzərdə tutulur?",
+      "options": [
+        "Kimyəvi qastrit",
+        "Mədənin selikli nəhəng kobud büküşlərin inkişafı",
+        "Autoimmun qastrit",
+        "Qranulematoz qastrit",
+        "Mədə polipi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9. Mədə - bağırsaq sisteminin zədələnməsi zamanı artrit hansı üçün xarakterik deyil:",
+      "options": [
+        "Kron xəstəliyi",
+        "Uippl xəstəliyi",
+        "İersinoz",
+        "Zollinger – Ellinson xəstəliyi",
+        "Qlüten enteropatiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "10. Başlanmış mədə xorası qanaxması olan xəstənin, ağırlıq dərəcəsini müəyyən etməyə imkan verən əlamətlər: \n1) hemoqlabinin səviyyəsi; \n2) Qreqersen reaksiyasının müsbət olması; \n3) AT – nin azalması, taxikardiyanın artması; \n4) melenanın olması; \n5) hemotakrit",
+      "options": [
+        "1, 3, 5",
+        "3, 4",
+        "2, 4, 5",
+        "2, 5",
+        "2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Xronik qastrit A tip hansı əlamətlə assosiasiya olunmur:",
+      "options": [
+        "Bürüyücü hüceyrəyə qarşı antitel",
+        "Antrumda olması",
+        "Axlorhidriya",
+        "Pernisioz anemiya",
+        "Fundal hissədə olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "12. Xronik B tip qastriti ilə assosiasiya olunur:",
+      "options": [
+        "Helikobaktriya pilori",
+        "Antral hissənin zədələnməsi",
+        "Mədə turşuluğunun saxlanması",
+        "Sadalananların hamısı",
+        "Helikobaktriya pilorinin eradikasiyasının effektiv olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "13. Verilən xəstəliklərdən hansı həzm traktı qanaxması ilə fəsadlaşmaz:",
+      "options": [
+        "Mellori – Veys xəstəliyi",
+        "Mədə xorası",
+        "Zollinger – Ellison sindromu",
+        "Qida borusu venalarının varikoz genişlənməsi",
+        "Axalaziya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Hansı xəstəlikdə mədənin sekretor – turşu əmələgətirmə funksiyası pozulur:",
+      "options": [
+        "Xronik antrum qastriti",
+        "Xronik atrofik qastrit",
+        "Xronik hipertrofik qastrit",
+        "Zollinger – Ellinson qastriti",
+        "Mədənin xora xəstəliyində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "15. Hansı əlamət 12 barmaq bağırsaq xorası üçün xarakterik deyil:",
+      "options": [
+        "Acqarına ağrılar",
+        "Qida qəbulundan 30 dəq sonra ağrılar",
+        "Qida qəbulundan 2, 5 saat sonra ağrılar",
+        "Epiqastriumun sağ hissəində ağrı",
+        "Mədə qıcqırması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. Qastroezofaqial reflüksün müalicəsində istifadə olunur: \n1) proton pompası blokatoru; \n2) trankvilizator; \n3) antasid; \n4) prokinetik; \n5) nitratlar",
+      "options": [
+        "1, 3, 4",
+        "3, 4",
+        "2, 4",
+        "3, 4, 5",
+        "2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Normada mədə pH – ı:",
+      "options": [
+        "1,6- 2,0",
+        "1. 5 – dən aşağı",
+        "2,1 – 4,0",
+        "6,0 və yuxarı",
+        "4,0 – 5,9"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Hiperasid vəziyyətdə mədə pH-ı:",
+      "options": [
+        "1,5 – dən aşağı",
+        "1,6 – 2,0",
+        "2,1 – 4,0",
+        "6,0 və yuxarı",
+        "4,0 – 5,9"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Stresin yaratdığı xora hansı əlamətlə özünü göstərir:",
+      "options": [
+        "perforasiya",
+        "profuz qanaxma",
+        "malignizasiya",
+        "penetrasiya",
+        "heç birisi ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "20. Qeyri-spesifik xoralı kolitin klinik əlaməti hansı deyil:",
+      "options": [
+        "anemiya",
+        "ishal",
+        "nəcisdə qan",
+        "hematuriya",
+        "hematoxeziya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "21. Mədə qanaxmasında hansı simptom olmur:",
+      "options": [
+        "Qanlı qusma",
+        "Melena",
+        "Arterial hipotenziya",
+        "Taxikardiya",
+        "Peritonun qıcıqlanması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Acqarına yüksək xlor turşusu ifrazı qanda hansı peptid artdıqda olur:",
+      "options": [
+        "Xolesistokinin",
+        "Qastrin",
+        "İnsulin",
+        "Sekretin",
+        "Somatostatin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23. Mədə perforasiyası üçün xarakterikdir:",
+      "options": [
+        "qəhvə xıltlı qusma",
+        "peritonun qıcıqlanma simptomu",
+        "melena",
+        "mədə qıcqırmasının olması",
+        "aclıq ağrıları"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "24. Onikibarmaq bağırsaq xorasının fəsadı:",
+      "options": [
+        "Sarılıq",
+        "Assit",
+        "Qanaxma",
+        "Portal hipertenziya",
+        "Axiliya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "25. Mədə xorasının diaqnozunun “Qızıl standartı” hansıdır:",
+      "options": [
+        "Mədənin braiumla rentgenoqrafiyası",
+        "Xəstəliyin klinik gedişi",
+        "Qarın üzvlərinin KT-si",
+        "Endoskopik müayinə",
+        "Qarın üzvlərinin USM-i"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "26. H, Pylori ilə yoluxma hansı yolla baş verir:",
+      "options": [
+        "Cinsi",
+        "Hava-damcı",
+        "Fekal-oral",
+        "Hematogen",
+        "Limfogen"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "27. Kurlinq xorasına hansı xəstəlik zamanı əmələ gələn xora aiddir?",
+      "options": [
+        "Qaraciyər sirrozu",
+        "Miokard infarktı",
+        "Dərin və geniş əhatəli yanıq xəstəliyi",
+        "Sepsis",
+        "Travma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "28. Aşağıda sadalananlardan hansı Zollinger – Ellison sindromu zamanı əmələ gələn xora üçün səciyyəvi deyil?",
+      "options": [
+        "Hiperqastrinemiya ilə müçayiət olunması",
+        "Qıcqırmanın davamlı və çox xarakter olması",
+        "Xoranın diareya ilə müşayiət olması",
+        "Xoranın üçlü terapiya yaxşı tabe olması",
+        "Xoranın çoxsaylı və ümumi qəbul olunmuş müalicəyə rezistent olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "29. 18 yaşında gənc qadında emosional stresdən sonra duru qidalara qarşı disfagiya əmələ gəlmiş, bərk qidalar isə yaxşı keçmişdir. Fizikal müayinədə patologiya aşkar olunmamışdır. Disfagiyanın daha çox ehtimal olunan səbəbi:",
+      "options": [
+        "Ezofaqospazm",
+        "Qida borusunun peptik xorası",
+        "Qida borusunun xərçəngi",
+        "Qida borusunun aşağı sfinkterinin hipokineziyası",
+        "Qida borusunun diafraqmal dəliyinin sürüşkın yırtığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Qastroezofagial reflüksü artırır: \n1) spazmolitik, \n2) trankvilizator, \n3) antasid, \n4) prokinetik, \n5) nitratlar",
+      "options": [
+        "1,2,5",
+        "3,4",
+        "2,4",
+        "3,4,5",
+        "2,3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Qlüten enteropatiyasında diareyanın səbəbidir: \n1) qağıdalı, \n2) buğda, \n3) düyü, \n4) ət, \n5) çovdar",
+      "options": [
+        "2,5",
+        "3,4",
+        "1,3,4",
+        "1,4",
+        "1,2,3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Kreatoriya nəcisdə mikroskopik müayinədə nəyin olmasıdır:",
+      "options": [
+        "Əzələ lifi",
+        "Nişastanın olması",
+        "Yağın olması",
+        "Həzm olmamış qidanın olması",
+        "Nəcisdə qanın olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Xronik pankreatitin mümkün səbəbləri hansıdır:",
+      "options": [
+        "Alkohol qəbulu",
+        "Xronik virus infeksiyası",
+        "Öd daşı xəstəliyi",
+        "Artıq çəki və hiperlipidemiya",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "34. Safari Miller klassifikasiyası ilə reflüks ezofagitin II mərhələsinə aiddir:",
+      "options": [
+        "eroziya qida borusu dairəsinin 20%-ni tutur",
+        "qida borusunun distal hissəsinin eritrması, tək-tək eroziya",
+        "eroziya və ya xora qida borusu dairəsinin 50%-ni tutur",
+        "çoxsaylı birləşmiş xoralar qida borusu dairəsinin 100%-ni tutur",
+        "fəsad qida borusu xorası, striktura, Barret qida borusu var"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Xoralı kolitdə diareyanın mexanizmi:",
+      "options": [
+        "Sekretor",
+        "Hiperosmolyar",
+        "Eksudativ",
+        "Hiperkinetik",
+        "İnfeksiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "36. Karsinoid sindromda diareyanın mexanizmi:",
+      "options": [
+        "Sekretor",
+        "Hiperosmolyar",
+        "Eksudativ",
+        "Hiperkinetik",
+        "İnfeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Nəcisdə birləşdirici toxumanın olması hansı üçün xarakterikdir:",
+      "options": [
+        "Hipoasid qastrit",
+        "Hiperasid qastrit",
+        "Xolesistit",
+        "Öd daşı xəstəliyi",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Qıcıqlanan bağırsaq sindromuna aiddir: \n1) Defekasiyadan sonra ağrının azalması, \n2) Gün ərzində 3 dəfədən artıq defekasiya aktı, \n3) Arıqlama, \n4) Qanlı ishal, \n5) Qəbizlik",
+      "options": [
+        "1,2,5",
+        "2,4",
+        "3,4,5",
+        "2,3",
+        "1,3,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Uipl xəstəliyinə hansı aid deyil:",
+      "options": [
+        "Törədicisi qram mənfi aktinomiset Tropherymi whippeli",
+        "Klinikasında artrit əlaməti",
+        "Qanda antiqliadin titrinin artması",
+        "Morfoloji müayinədə PAS pozitiv köpüklü makrofaq tapılır",
+        "Diareyanın olması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "40. Qeyri-spesifik xoralı kolitin yüngül ağırlıq dərəcəsini göstərir:",
+      "options": [
+        "gün ərzində defekasiya sayının 4 dəfə olması",
+        "gün ərzində defekasiya sayının 8 olması",
+        "EÇS-in 30 mm/saat olması",
+        "bədən temperaturunun 38° olması",
+        "gün ərzində defekasiya sayının 10 dəfədən artıq olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. Kron xəstəliyinin bazis müalicəsinə aid deyil:",
+      "options": [
+        "Miotrop spazmolitik",
+        "Sulfasalazin",
+        "Qlükokortikoid",
+        "Azotiopirin",
+        "Siklosporin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42. Orta ağırlıqda qeyri-spesifik xoralı kolit üçün xarakterikdir:",
+      "options": [
+        "Defekasiyanın 8 dəfə olması",
+        "Bağırsaqdan kənar ağırlaşma",
+        "Yoğun bağırsaqda ağırlaşma",
+        "Ağırlaşmanın olmaması",
+        "Ürək döyünmənin sayının 80 olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Toksik dilatasiyanın xarakterik əlaməti deyil:",
+      "options": [
+        "Defekasiyanın tezləşməsi",
+        "Defekasiyanın seyrəlməsi",
+        "Meteorizm",
+        "İntoksikasiyanın artması",
+        "Lekositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Qeyri-spesifik xoralı kolitin təcili cərrahi müalicəsinə göstəriş hansı deyil:",
+      "options": [
+        "48 saat müddətinə dayanmayan qanaxma",
+        "Bağırsağın perforasiyası",
+        "Toksik dilatasiya",
+        "Malignizasiya",
+        "Bağırsaq krçməzliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "45. Pepsinin əsas təsir xüsusiyyəti:",
+      "options": [
+        "Zülalları parçalamaq",
+        "Yağları parçalamaq",
+        "Karbohidratları parçalamaq",
+        "Bakterial yoluxmanın qarşısını almaq",
+        "Mədənin hərəki funksiyasını tənximləmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Qeyri-spesifik xoralı kolit zamanl loperamid hansının yaranmasına görə təyin olunmur:",
+      "options": [
+        "Qəbizlik",
+        "Ürəkbulanma",
+        "Meteorizm",
+        "Paralitik bağırsaq keçməzliyi",
+        "Qanaxmanın artması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "47. Malobsorbsiya sindromuna hansılar aiddir: \n1) Bərk nəcis, \n2) Polifekaliya, \n3) Steatoriya, \n4) Kreatoreya, \n5) Melena",
+      "options": [
+        "1,2,5",
+        "2,3,4",
+        "1,5",
+        "2,4",
+        "3,4"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "48. Adsorbsiya və bürücü effekti yoxdur:",
+      "options": [
+        "loperamid",
+        "kalsium karbonat",
+        "smekta",
+        "de - nol",
+        "maaloks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Terminal ileit zamanı orqanizmdə hansı əsas vitamin çatışmazlığı baş verir?",
+      "options": [
+        "B 12",
+        "B 15",
+        "C",
+        "B1",
+        "B 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. H. Pylori ilə assosiasiya olunmuş qastritlərdə mədə turşuluğu:",
+      "options": [
+        "Çoxalır",
+        "HCl ifrazı olunmur",
+        "Dalğavari tərəddüd edir",
+        "Dəyişmir",
+        "Azalır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Kron xəstəliyinin aktivliyi ilə əlaqəsi olmayan əlamətlər: \n1) Ankilozlaşan spondiloartrit, \n2) Uveit, \n3) Birincili sklerozlaşan xolangit, \n4) Qanqrenoz piodermiya, \n5) Sakroileit",
+      "options": [
+        "1,3,5",
+        "3,4",
+        "2,4,5",
+        "2,5",
+        "1,2,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. Sayılanlardan hansı Kron xəstəliyinin sinonimi deyil?",
+      "options": [
+        "Terminal ileit",
+        "Regionar enterit",
+        "Xoralı enterit",
+        "Xronik eyunoileit",
+        "Qranulematoz kolit"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "53. Qranulematoz qastritin səbəbi:",
+      "options": [
+        "mədədə yad cisimlər",
+        "12- bramaq bağırsağın polipi",
+        "Mədə polipozu",
+        "Vaskulit",
+        "Şüa xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. Kron xəstəliyi üçün qeyd olunanlardan hansına klinik forma xas deyill?",
+      "options": [
+        "Qanqrenoz apendisit",
+        "Kəskin ileit",
+        "Qranulomatoz apendisit",
+        "Kəskin yeyunit",
+        "Qranulematoz kolit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Qeyri-spesifik xoralı kolitin müalicəsində istifadə olunan salofalkın müalicə dozası:",
+      "options": [
+        "3-4 q",
+        "1-2 q",
+        "5-6 q",
+        "6-8 q",
+        "0,5-1 q"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Kron xəstəliyi zamanı xolesterinli öd daşlarının əmələ gəlmə mexanizmi hansıdır?",
+      "options": [
+        "Hipoxolesterinemiya",
+        "Hiperxolesterinemiya",
+        "Öd turşularının absorbssiyasının pozulması",
+        "Öddə lesitinin konsentrasiyasının azalması",
+        "Xolestaz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "57. Sulfasalazin hansı ağırlaşmanı vermir?",
+      "options": [
+        "Aqranulositoz",
+        "Hepatit",
+        "Dəri səpgiləri",
+        "Koronar işemiya",
+        "Anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Ulserogenezin əsas nəzəriyyəsinə aid deyil:",
+      "options": [
+        "Şok",
+        "Damar",
+        "Mexanik",
+        "Kortikovisseral",
+        "İmmun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Xronik hepatitin sirroza keçməsini göstərmir:",
+      "options": [
+        "Anasarka",
+        "Qida borusu venasının genişlənməsi",
+        "Meduza başı",
+        "assit",
+        "Hemorroidal düyünlərin peyda olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. Xronik qeyri-spesifik xoralı kolit üçün endoskopik müayinənin hansı nəticəsi tipik deyil:",
+      "options": [
+        "Selikli qişanın hiperemiyası",
+        "Selikli qişanın ödemi",
+        "Tək-tək səthi eroziya",
+        "Psevdopolipoz",
+        "Damar şəklinin güclənməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "61. Qıcıqlanmış bağırsaq sindromu, diareya ilə getdikdə hansı dərman göstərişdir:",
+      "options": [
+        "Mukofalk",
+        "İmodium",
+        "Forlaks",
+        "Sorbitol",
+        "Buğda kəpəyi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "62. Qeyri-spesifik xoralı kolitdə müalicəni nə ilə başlamaq lazımdır:",
+      "options": [
+        "İmuranla",
+        "Sulfasalazinlə",
+        "Neomisinlə",
+        "Ampisillinlə",
+        "Levomisetinlə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "63. Bağırsağın qıcıqlanma sindromunda əsas simptomlar hansılardır:",
+      "options": [
+        "Qəbizlik və ya qanlı ishal",
+        "Nəcisin rənginin dəyişməsi",
+        "Ağrı, qəbizik və ya ishal",
+        "Ağrı, qızdırma, titrətmə",
+        "Ağrı, çəkinin azalması və ya iştahasızlıq"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "64. Konovalov-Vilson xəstəliyi üçün xarakterik deyil:",
+      "options": [
+        "Xronik hepatit",
+        "Qaraciyərin sirrozu",
+        "Misin qanda azalması",
+        "Qabıqaltı nüvənin zədələnməsi",
+        "Hemolitik kriz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "65. Xronik hepatit C virusunun replikasiya markeri:",
+      "options": [
+        "RNT HCV",
+        "HCV İg M",
+        "HCV İg G",
+        "HCV İg M, HCV İg G",
+        "kN34 qarşı anticisim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Vanden Berqin qeyri-düz reaksiyası xarakterikdir:",
+      "options": [
+        "Qaraciyərüstü sarılıq",
+        "Qaraciyəraltı sarılıq",
+        "Qaraciyərdaxili sarılıq",
+        "Yuxarıdakıların hamısı",
+        "Mexaniki sarılıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Xora xəstəliyinin klassik simptomu Kürvelye triadası hansılardır: \n1) epiqastral ağrı, \n2) rahatlama verən qusma, \n3) mədə qanaxması, \n4) Kuvazye simptomu, \n5) döş sümüyü arxasında ağrı",
+      "options": [
+        "1,2,4",
+        "2,3,4",
+        "1,4,5",
+        "1,3,5",
+        "1,2,3"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. B virus markerindən hansı biri heç vaxt qanda tapılmır:",
+      "options": [
+        "HbsAg",
+        "HbcAg",
+        "HbeAb-İgG",
+        "HbcAb-İgM",
+        "HBeAg"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "69. Qanda antimitoxondral antigen hansı üçün xarakterikdir:",
+      "options": [
+        "kəskin hepatit",
+        "birincili biliar sirroz",
+        "alkohol sirozu",
+        "Konovalov vilson xəstəliyi",
+        "hemoxromatoz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "70. Hansı şəraitdə öd yollarında piqment daşları əmələ gəlir:",
+      "options": [
+        "Öddə çoxlu xolestrin olduqda",
+        "Öddə öd turşuları az olduqda",
+        "Öd uzun müddət öd kisəsi və öd yollarında qaldıqda",
+        "Şəkərli diabetdə",
+        "Residivləşən hemolizdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "71. Konovalov-Vilson xəstəliyində misi bədəndən hansı çıxartmır:",
+      "options": [
+        "Unitol",
+        "BAL( Britan antilyuziti)",
+        "D-penisilamin",
+        "Aminalon",
+        "Trientin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "72. Xronik xolestit üçün hansı simptom xarakterik deyil:",
+      "options": [
+        "Ortner simptomu",
+        "Kera simptomu",
+        "Vasilenko-Lepen simptomu",
+        "Myüssi simptomu",
+        "Mendel simptomu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. Qaraciyərin sirrozu xronik hepatitdən hansı ilə fərqlənir:",
+      "options": [
+        "xolestatik sindrom",
+        "sitolitik sindromun olması ilə",
+        "portakaval və kava-kaval anostomozun olması ilə",
+        "xolemiyanın olması ilə",
+        "parenximatoz sarılığın olması ilə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "74. Hansı forma sarılıq, konyuqasiya olmuş hiperbilirbinemiya ilə gedir:",
+      "options": [
+        "Parenximatoz",
+        "Hemolitik",
+        "Jilber sindromu",
+        "Kriqler-Nayar",
+        "İrsi sferositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Qanda hansı biokimyəvi dəyişikliklər mexaniki sarılıq üçün xarakterikdir:",
+      "options": [
+        "Konyuqasiya olmamış hiperbilirubinemiya, ALT və AST-nin artması",
+        "Konyuqasiya olmuş hiperbilirubinemiya, ALT və AST-nin daha çox artması",
+        "Konyuqasiya olmuş hiperbilirubinemiya, qələvi fosfatazanın artması",
+        "Konyuqasiya olmamış hiperbilirubinemiya",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "76. Parenximatoz sarılıq olmur:",
+      "options": [
+        "Virus hepatitində",
+        "Konovalov- Vilson xəstəliyində",
+        "Sirrozda",
+        "Minkovski-Şofar xəstəliyində",
+        "Medikamentoz hepatitdə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "77. Kurvazye simptomu hansı tip sarılıqda olur:",
+      "options": [
+        "Qaraciyər üstü",
+        "Qaraciyər altı",
+        "Qaraciyər daxili",
+        "Hemolitik",
+        "Parenximatoz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "78. Autoimmun hepatit üçün xarakterikdir:",
+      "options": [
+        "Barret qida borusu",
+        "Konyuqasiya olmamış hiperbilirubinemiya",
+        "Kayzer Fleyşer həlqəsi",
+        "Şeqren sindromu",
+        "Mexanik sarılıq"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "79. Xolestaz üçün hansı xarakterik deyil:",
+      "options": [
+        "ALT və AST-nin qanda artması",
+        "Qələvi fosfatazanın artması",
+        "Hiperxolesterinemiya",
+        "Düz bilirubinin artması",
+        "5-nukleotidaza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Qaraciyər koması təhlükəsi olduqda qidada hansı azaldılmalıdır:",
+      "options": [
+        "Zülal",
+        "Yağ",
+        "Maye",
+        "Mineral duz",
+        "Karbohidrat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Qaraciyər sirrozu diaqnozunda həlledici biokimyəvi test hansıdır:",
+      "options": [
+        "Bromsulfalen testi",
+        "Bilirubinin təyini",
+        "ALT",
+        "AST",
+        "Yuxarıdakıların heç birisi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "82. Makronodulyar sirrozda əsas önə çıxan simptom hansıdır:",
+      "options": [
+        "Qaraciyər hüceyrə çatışmazlığı",
+        "Portal hipertenziya",
+        "Xolestaz",
+        "Sarılıq",
+        "Assit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. Mikronodulyar sirrozda əsas önə çıxan simptom hansıdır:",
+      "options": [
+        "Qaraciyər hüceyrə çatışmazlığı",
+        "Portal hipertenziya",
+        "Xolestaz",
+        "Sarılıq",
+        "Assit"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "84. Jilber sindromunun uyğun xarakterikasını seçin:",
+      "options": [
+        "Dəri qaşınması",
+        "Ağır olmayan sarılıq, sidiyin normal rəngi ilə",
+        "Qızdırma, sidiyin tünd rəngi ilə",
+        "Ağır sitoliz sindromu, sidiyin tünd rəngi ilə",
+        "Mikrosferositoz, eritrositin osmotik rezistenliyinin azalması ilə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "85. Hansı biri obturasion sarılıq üçün xarakterik deyil:",
+      "options": [
+        "Dəri qaşınması",
+        "Tünd rəngli sidik",
+        "Axoliya",
+        "Qanda qeyri-düz bilirubinin artması",
+        "Sidikdə bilirubin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Kəskin qaraciyər çatışmazlığı sindromunda hansı fermentin aktivliyi azalır",
+      "options": [
+        "ALT",
+        "AST",
+        "Qələvi fosfataza",
+        "LDH5",
+        "Plazmada xolinestaraza"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Sadalanan əlamətlərdən hansı qaraciyər çatışmazlığında olmur?",
+      "options": [
+        "Eyforiya, depressiya ilə əvəz olunur",
+        "Qaraciyərin ölçüsünün azalması",
+        "Hemorragik sindrom",
+        "Hiperxolesterinemiya",
+        "Astereksis"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "88. Xəstədə öd kolikasından sonra sarılıq və hektik qızdırma başlamışdır. Qan analizində EÇS 50 mm/saat, Leykositoz-16 min. Daha çox ehtimal olunan səbəb.",
+      "options": [
+        "Xolangit",
+        "Badda-Kiari sindromu",
+        "Jilber sindromu",
+        "Hemoxromatoz",
+        "Vilson xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Kəskin pankreatit diaqnozu üçün hansl informativdir:",
+      "options": [
+        "Lekositoz",
+        "Qanda şəkər",
+        "Qələvi fosfataza",
+        "Turş fosfataza",
+        "Qanda və ya sidikdə amilaza"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "90. Ağır qaraciyər ensefalopatiyası zamanı hansı terapiya səhvdir:",
+      "options": [
+        "Laktuloza",
+        "Neomisin",
+        "Albumin infuziyası",
+        "Hemosorbsiya",
+        "Amonyakın qanda azalması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "91. Xronik xolesistitlə ən çox xəstələnir:",
+      "options": [
+        "Orta yaşda kişilər",
+        "Orta yaşda qadınlar",
+        "Hər ikisi",
+        "Qoca yaşlarda",
+        "Uşaqlar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "92. Peroral xolesistoqrafiyaya əks göstərişdir:",
+      "options": [
+        "Xronik xolesistitin kəskinləşmə mərhələsində",
+        "Öd daşı xəstəliyinin kəskinləşmə mərhələsində",
+        "Hepatit B və C zamanı",
+        "Yoda idiosinkraziya olduqda",
+        "Yağlı qidalar pis keçirildikdə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "93. Xolekinetik hansıdır:",
+      "options": [
+        "Xolesterin sintezini artıran maddələr",
+        "Bağırsaqdan xolesterin sorulmasını artıran dərmanlar",
+        "Öddə fosfolipidləri azaldan dərmanlar",
+        "Öddə pd turşularını azaldan dərmanlar",
+        "Öd ifrazını artıran dərmanlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "94. Xronik xolesistitin kəskinləşməsində seçim dərman:",
+      "options": [
+        "Analgetiklər",
+        "Xoleretiklər",
+        "Hipolipidemik dərmanlar",
+        "Antibiotiklər",
+        "Spazmolitiklər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "95. Xronik pankreatit zamanl daxili inkerator funksiyasının pozulması:",
+      "options": [
+        "İshal",
+        "Qusma",
+        "Ağrı",
+        "Hiperqlikemiya",
+        "Çəkinin itməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "96. Verilən sindromlardan hansında dəri qaşınması, konyuqasiya olmuş hiperbilirubininemiya, qələvi fosfatazanın və xolesterinin artması olur:",
+      "options": [
+        "Qaraciyər hüceyrəli sarılıqda",
+        "Qaraciyər daxili xolestazda",
+        "Jilber sindromunda",
+        "Kriqler-Nayar sindromunda",
+        "Hemolitik sarılıqda"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "97. Hansı sindrom xronik hepatitdə olmur:",
+      "options": [
+        "Mezenximal-iltihabi",
+        "Asteno-vegetativ",
+        "Portal hipertenziya",
+        "Dispepsik",
+        "Sitolitik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "98. Alkohol xəstəliyinin xarakterik əlamətləri:",
+      "options": [
+        "Sarılıq, petexiya, periferik ödem",
+        "Hepatomeqaliya, splenomeqaliya, ginekomastiya",
+        "Palmar eritema, meduza başı, assit",
+        "Dyüptirin kontrakturası, qulaqyanı tüpürcək vəzin hipertrofiyası. Əzələ atrofiyası, polinevrit",
+        "Burun qanaxması, splenomeqaliya, ginekomastiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "99. Öd kisəsinin diskineziyası zamanı istifadə olunan müayinələr: \n1) Duodenal zondlama, \n2) Qanın klinik analizi, \n3) USM, \n4) Dinamik xolesinsitoqrafiya, \n5) Qaraciyərin funksional probası.",
+      "options": [
+        "2,3,4",
+        "1,4,5",
+        "1,3,5",
+        "2,4,5",
+        "1,3,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "100. Öd kisəsinin disfunksiyasının birincili etioloji səbəbi hansılardır: \n1) Öd kisəsinin saya əzələlərinin patologiyası, \n2) Hormonal pozğunluq, \n3) Xolesistektomiya, \n4) Öd kisəsinin reseptorlarının neyrohormonal stimulyasiyaya həssaslığının azalması, \n5) Qaraciyərin patologiyası",
+      "options": [
+        "2,3,4",
+        "1,4",
+        "1,3,5",
+        "2,4",
+        "1,3,4"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "101. Mədəaltı vəzin ekzokrin çatışmazlığının simptomu deyil:",
+      "options": [
+        "Steatoreya",
+        "Meterorizm",
+        "Diareya",
+        "Çəkinin itməsi",
+        "Hiperqlikemiya"
+      ],
+      "correct": 4
+    }
+  ]
+}

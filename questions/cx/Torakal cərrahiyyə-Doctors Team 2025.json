@@ -1,0 +1,1335 @@
+{
+  "questions": [
+    {
+      "question": "1. Döş qəfəsinin əmələ gəlməsində nə iştirak etmir?",
+      "options": [
+        "qabırğaarası əzələlər",
+        "fəqərələr",
+        "qabırğalar",
+        "döş sümüyü",
+        "boyun əzələləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2. Sağ ağciyər neçə seqmentdən ibarətdir?",
+      "options": [
+        "7",
+        "3",
+        "9",
+        "10",
+        "11"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "3. Bronx şaxələnməsinə əsaslanan arxitektonikaya görə ağciyərlərin struktur vahidləri hansılardır?",
+      "options": [
+        "asinus → pay → seqment → ağciyər",
+        "ağciyər → asinus → pay → seqment",
+        "ağciyər → pay → seqment → asinus",
+        "ağciyər → asinus → seqment → pay",
+        "ağciyər → pay → asinus → seqment"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "4. Cümlələrin hansı düzgündür?",
+      "options": [
+        "Bronxial ağac traxeyadan ayrılan iki baş bronxdan, baş bronxlardan çıxan seqmentar bronxlardan, bunlardan çıxan pay bronxlarından və son olaraq terminal bronxiollardan ibarətdir.",
+        "Bronxial ağac traxeyadan ayrılan üç baş bronxdan, baş bronxlardan çıxan seqmentar bronxlardan, bunlardan çıxan pay bronxlarından və son olaraq terminal bronxiollardan ibarətdir.",
+        "Bronxial ağac traxeyadan ayrılan iki baş bronxdan, baş bronxlardan çıxan bronxiollardan, bunlardan çıxan pay bronxlarından, və son olaraq onlardan ayrılan seqmentar bronxlardan ibarətdir.",
+        "Bronxial ağac traxeyadan ayrılan iki baş bronxdan, baş bronxlardan çıxan pay bronxlarından, bunlardan çıxan seqmentar bronxlardan və son olaraq terminal bronxiollardan ibarətdir.",
+        "Bronxial ağac traxeyadan ayrılan üç baş bronxdan, baş bronxlardan ayrılan pay bronxlarından, bunlardan çıxan seqmentar bronxlardan və son olaraq terminal bronxiollardan ibarətdir."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "5. “Alveollar – divarı ----- alveolyar epitellə örtülü kiçik hava qabarcıqlarıdır, ağciyərin ən kiçik struktur vahididir.” cümləsində buraxılmış söz birləşməsi hansıdır?",
+      "options": [
+        "çoxqat silindrik",
+        "təkqat yastı",
+        "kiçik hüceyrəli",
+        "ikiqat kubik",
+        "bir silindrli"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "6. Travmalarda döş qəfəsi ən çox zədələnmə bölgələrindən biridir və travmalara bağlı ölümlərin təxminən yarısı döş qəfəsi zədələnmələri ilə əlaqədar baş verir. Hansı bu ağırlaşmaya aid deyil?",
+      "options": [
+        "hava yollarının tıxanması",
+        "ürək tamponadası",
+        "ekssudativ plevrit",
+        "massiv hemotoraks",
+        "gərgin pnevmotoraks"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Ağciyəri geniş əhatə edən böyük əzilmələr klinik olaraq hansı əlamətlər ilə özünü büruzə verir?",
+      "options": [
+        "hipovolemiya",
+        "hipoaldosteronizm",
+        "hipokapniya",
+        "hipoksiya",
+        "hipoxlorgidriya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "8. Hansı cümlədə yazılmış məlumat düzgün verilmişdir?",
+      "options": [
+        "Ağciyər yaralanmalarında hemotoraksda drenaj edilən anda ilkin olaraq 0,5 litrdən çox qan gəlməsi və ya 6 saatlıq müşahidədə saatda 200 ml-dən çox qan gəlməsi torakotomiyaya göstəriş sayılır",
+        "Ağciyər yaralanmalarında hemotoraksda drenaj edilən anda ilkin olaraq 1,5 litrdən çox qan gəlməsi və ya 6 saatlıq müşahidədə saatda 100 ml-dən çox qan gəlməsi torakotomiyaya göstəriş sayılır",
+        "Ağciyər yaralanmalarında hemotoraksda drenaj edilən anda ilkin olaraq 1 litrdən çox qan gəlməsi və ya 2 saatlıq müşahidədə saatda 200 ml-dən çox qan gəlməsi torakotomiyaya göstəriş sayılır",
+        "Ağciyər yaralanmalarında hemotoraksda drenaj edilən anda ilkin olaraq 0,5 litrdən çox qan gəlməsi və ya 2 saatlıq müşahidədə saatda 100 ml-dən çox qan gəlməsi torakotomiyaya göstəriş sayılır",
+        "Ağciyər yaralanmalarında hemotoraksda drenaj edilən anda ilkin olaraq 1,5 litrdən çox qan gəlməsi və ya 6 saatlıq müşahidədə saatda 200 ml-dən çox qan gəlməsi torakotomiyaya göstəriş sayılır."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "9. Ağciyərlərdə bronx mənfəzinin qapanmasına nə mane olur?",
+      "options": [
+        "sümük halqaları",
+        "elastik sütunlar",
+        "elastik toxuma",
+        "birləşdirici toxuma",
+        "qığırdaq halqaları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "10. Diffuziyanın göstəricisi olan alveolyar havadakı oksigenin parsial təzyiqi ilə arterial qandakı parsial təzyiqlər arasındakı fərq nə qədərdir?",
+      "options": [
+        "30 mm Hg st.-dan azdır",
+        "25 mm Hg st.-dan azdır",
+        "20 mm Hg st.-dan azdır",
+        "10 mm Hg st.-dan azdır",
+        "15 mm Hg st.-dan azdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "11. Hansı cümlə düzgündür?",
+      "options": [
+        "seqment – baş bronxun havalandırdığı hissədir, asinuslara ayrılır",
+        "seqment – baş bronxun şaxəsinin havalandırdığı hissədir, paylara ayrılır",
+        "seqment – pay bronxun şaxəsinin havalandırdığı hissədir, paylara ayrılır",
+        "seqment – pay bronxun şaxəsinin havalandırdığı hissədir, asinuslara ayrılır",
+        "seqment – pay bronxun şaxəsinin havalandırdığı hissədir, paylara ayrılır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. CO2-nin diffuziya qabiliyyəti oksigendən neçə dəfə çoxdur?",
+      "options": [
+        "2",
+        "5",
+        "10",
+        "50",
+        "20"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "13. Ağciyər xəstəliklərində ən çox rast gəlinən əlamət hansıdır?",
+      "options": [
+        "qanhayxırma",
+        "bəlğəm ifrazı",
+        "təngnəfəslik",
+        "öskürək",
+        "ağrı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "14. Ağciyərin funksional vəziyyətini qiymətləndirmək üçün ən uyğun kilinik müayinə hansıdır?",
+      "options": [
+        "perkussiya",
+        "laborator müayinə",
+        "baxış",
+        "hərəkət testi",
+        "palpasiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "15. Ağciyər ventilyasiyasını qiymətləndirmək üçün ən vacib müayinə hansıdır?",
+      "options": [
+        "baxış",
+        "hərəkət testi",
+        "palpasiya",
+        "perkussiya",
+        "auskultasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "16. Ağciyərin standart ilkin müayinəsi hansıdır?",
+      "options": [
+        "KT",
+        "Rentgenoqrafiya",
+        "Endobronxial ultrasəs müayinəsi",
+        "MRT",
+        "USM"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "17. Bronx patologiyalarının bronx divarında və ətrafına yayılma dərəcəsini, bronxətrafı törəmələri, o cümlədən divararalığı törəmələrinin və limfa düyünlərini dəyərləndirmədə tətbiq edilən müayinə üsulu hansıdır?",
+      "options": [
+        "KT",
+        "Rentgenoqrafiya",
+        "USM",
+        "EBUS",
+        "MRT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "18. Qanda oksihemoqlobinin fotometrik üsulla təyini necə adlanır?",
+      "options": [
+        "mediastinoskopiya",
+        "saturasiya",
+        "spirometriya",
+        "arterial qan qazları",
+        "EBUS"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. Ağciyərdə lokal və ya diffuz üzvi dəyişikliyin olub-olmamasını, xarakterini, ölçüsünü, sayını, ətraf orqanlara yayılmasını göstərən dəqiqləşdirici müayinə üsulu hansıdır?",
+      "options": [
+        "Rentgenoqrafiya",
+        "EBUS",
+        "KT",
+        "USM",
+        "MRT"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "20. Hansı arterial sistem massiv hemoptizə daha çox səbəb olur?",
+      "options": [
+        "qabırğaarası arteriyalar",
+        "pulmonar arteriyalar",
+        "traxeal arteriyalar",
+        "bronxial arteriyalar",
+        "plevral arteriyalar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "21. Ağciyər zədələnmələrinin ağırlıq dərəcələrinin Amerika Travma Cərrahiyyəsi Cəmiyyətininin və AIS-90 təsnifatlarında III dərəcə əzilmədə travmanın həcmi nə qədər olur?",
+      "options": [
+        "təktərəfli, 1 paydan az sahədə",
+        "təktərəfli, bir payı əhətə edən",
+        "təktərəfli, bir paydan çox",
+        "ikitərəfli, bir paydan çox",
+        "ikitərəfli, bir payı əhətə edən"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "22. Ağciyər zədələnmələrinin ağırlıq dərəcələrinin Amerika Travma Cərrahiyyəsi Cəmiyyətininin və AIS-90 təsnifatlarında II dərəcə əzilmədə travmanın həcmi nə qədər olur?",
+      "options": [
+        "ikitərəfli, bir paydan çox",
+        "təktərəfli, bir paydan çox",
+        "təktərəfli, 1 paydan az sahədə",
+        "ikitərəfli, bir payı əhətə edən",
+        "təktərəfli, bir payı əhətə edən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "23. Ağciyər yaralanması zamanı pnevmotoraksda ilkin müalicə nədən ibarətdir?",
+      "options": [
+        "bronxun bərpası",
+        "stendlənmə",
+        "pulmonektomiya",
+        "lobektomiya",
+        "plevral drenaj"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "24. Ağciyər yaralanması zamanı hemotoraksda ilk seçim nədir?",
+      "options": [
+        "lobektomiya",
+        "stendlənmə",
+        "plevral drenaj",
+        "damarın tikilib bağlanması",
+        "pulmonektomiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "25. Traxeya və böyük bronxların zədələnmələri özünü necə biruzə verir?",
+      "options": [
+        "xroniki mediastinit",
+        "pnevmotoraks",
+        "massiv dərialtı qanaxma",
+        "kəskin plevrit",
+        "massiv dərialtı emfizema"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "26. Traxeyanın travmalarında zədələnmənin xarakterini və yerini hansı müayinə üsulları ilə dəqiqləşdirmək olar?",
+      "options": [
+        "Rentgenoskopiya",
+        "USM",
+        "bronxoskopiya",
+        "FEQDS",
+        "kontrastlı Rentgenoqrafiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "27. Traxeyanın zədələnmələrində ən çox hansı kəsikdən istifadə olunur?",
+      "options": [
+        "boyunda sağtərəfli kəsik",
+        "yuxarı orta laporotomiya",
+        "soltərəfli torakotomiya",
+        "sağtərəfli torakotomiya",
+        "sternotomiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "28. Traxeyanın birincili stenozları daha çox nədən sonra əmələ gəlir?",
+      "options": [
+        "traxeyanın intubasiyasından",
+        "traxeostomiya əməliyyatından",
+        "bronxoskopiyadan",
+        "boyun nahiyyəsinin açıq travmasından",
+        "boyun nahiyyəsinin qapalı travmasından"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "29. Traxeyanın zədələnmələri daha çox nə ilə əlaqədar olur?",
+      "options": [
+        "aspirasiya",
+        "requrqitasiya",
+        "nəqliyyat travması",
+        "iltihabi xəstəliklər",
+        "turşu içilməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "30. Traxeyanın böyük həcmli zədələnmələrində hansı əlamətlər daha az inkişaf edir?",
+      "options": [
+        "öskürək",
+        "təngnəfəslik",
+        "mediastinal emfizema",
+        "sianoz",
+        "ağrı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Traxeya vəya böyük bronxların zədələnmələrində stabilizasiya üçün nə lazım gəlir?",
+      "options": [
+        "lobektomiya",
+        "pulmonektomiya",
+        "stendlənmə",
+        "bronxoskopiya",
+        "intubasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "32. Traxeya zədələnmələrində cərrahi əməliyyatı hansı kəsikdən icra edirlər?",
+      "options": [
+        "II qarırğaarası sahədən soltərəfli torakotomiya",
+        "II qarırğaarası sahədən sağtərəfli torakotomiya",
+        "V qarırğaarası sahədən sağtərəfli torakotomiya",
+        "V qarırğaarası sahədən soltərəfli torakotomiya",
+        "sternotomiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. Ağciyərdə hüdudlanmış irinli-nekrotik ocaq necə adlanır?",
+      "options": [
+        "plevrit",
+        "qanqrena",
+        "pnevmoniya",
+        "bronxektaziya",
+        "abses"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "34. Ağciyər absesinin gedişində kəskin mərhələ adətən neçə həftəyə qədərki müddəti əhatə edir?",
+      "options": [
+        "5",
+        "2",
+        "6",
+        "4",
+        "3"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "35. Ağciyər absesində letallıq neçə % təşkil edir?",
+      "options": [
+        "30-50",
+        "20-40",
+        "10-25",
+        "5-10",
+        "5-20"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Ağciyər absesinin müalicəsində digər irinli-nekrotik xəstəliklərdəki kimi üzərində qurulan “klassik 4 prinsip”-ə daxil deyil",
+      "options": [
+        "irinli-nekrotik toxumaların kənarlaşdırılması",
+        "sepsisə görə dəstək müalicələri",
+        "mənbənin aradan qaldırılması",
+        "antibiotikoterapiya",
+        "massiv infuzion terapiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "37. Ağciyər absesinin laborator əlamətləri hansılardır?",
+      "options": [
+        "eozinofillərin sayının yüksəlməsi",
+        "limfositlərin sayının yüksəlməsi",
+        "monositlərin sayının yüksəlməsi",
+        "eritrositlərin sayının yüksəlməsi",
+        "çubuqnüvəli neytrofillərin sayının yüksəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "38. Ağciyərin birincili qanqrenası nəyin nəticəsində baş verə bilər?",
+      "options": [
+        "ağciyər payının atelektazı",
+        "aspirasion pnevmoniya",
+        "ağciyər absesinin yayılması",
+        "bronxoektotik xəstəliyin ağırlaşması",
+        "ağciyər arteriyasının şaxələrinin trombozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "39. Hansı səbəbə görə ağciyər absesi təsnifatına aid deyil?",
+      "options": [
+        "postpnevmonik",
+        "postişemik-nekrotik",
+        "parabronxik",
+        "parapnevmonik",
+        "bronxogen-aspirasion"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "40. Kəskin ağcoyər absesi nə qədər müddətdən sonra xroniki ağciyər absesinə keçir?",
+      "options": [
+        "2 həftə",
+        "5 həftə",
+        "4 həftə",
+        "6 həftə",
+        "3 həftə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "41. Ağciyər absesinin insanlarda rastgəlmə tezliyinin son yüzillikdə azalmasına təsir göstərən ən önəmli səbəb hansıdır?",
+      "options": [
+        "sosial-məişət şəraitinin yaxşılaşması",
+        "müayinə üsullarının təkmilləşməsi",
+        "immunitetin güclənməsi",
+        "antibiotikoterapiyanın inkişafı",
+        "havanın təmizlənməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "42. Ağciyər absesinin insanlarda rastgəlmə tezliyi son yüzillikdə azalmışdır. Hal hazırda ağciyər absesinə əsasən hansı xəstələrdə rast gəlinir?",
+      "options": [
+        "siqaret çəkən",
+        "antibiotikoterapiya alan",
+        "düzgün qidalanmayan",
+        "immunosupressiv",
+        "spirtli içkilərdən müntəzəm istifadə edən"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "43. Ağciyər absesinin əksər hallarda əmələ gəlmə mexanizmi hansı bənddə düzgün göstərilmişdir?",
+      "options": [
+        "infeksiya → iltihab → hüdudlanma → nekroz",
+        "iltihab → nekroz → infeksiya → hüdudlanma",
+        "iltihab → infeksiya → nekroz → hüdudlanma",
+        "nekroz → hüdudlanma → infeksiya → iltihab",
+        "nekroz → iltihab → infeksiya → hüdudlanma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "44. Hansı ağciyər absesinə gətirib çıxara bilən xəstəliklərin abses törətmə mexanizminə görə bronxogen-aspirasion səbəblərə aid deyil?",
+      "options": [
+        "qanaxmalar",
+        "yad cisimlər",
+        "aspirasiyalar",
+        "bronx şişləri",
+        "ağciyər əzilmələri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "45. Hansı ağciyər absesinə gətirib çıxara bilən xəstəliklərin abses törətmə mexanizminə görə postişemik-nekrotik səbəblərə aid deyil?",
+      "options": [
+        "ağciyər xərçəngi",
+        "ağciyər infarktı",
+        "septik embollar",
+        "ağciyər əzilməsi",
+        "nekrotik pnevmoniyalar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "46. Ağciyər absesində əmələ gələn irinli ocağın aqibəti necə ola bilər? \n1) antibiotikoterapiya ilə sorula bilər \n2) bronxa açıla bilər \n3) bronxektoziya əmələ gələ bilər \n4) plevraya açıla bilər \n5) ətrafında fibroz kapsula əmələ gələ bilər",
+      "options": [
+        "1, 2, 3, 4",
+        "2, 3, 4, 5",
+        "1, 2, 3, 4, 5",
+        "1, 2, 3, 5",
+        "1, 2, 4, 5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "47. Hansı ağciyər absesinin ağırlaşmaları deyil?",
+      "options": [
+        "aspirasion pnevmoniya",
+        "sepsis",
+        "irinli mediastinit",
+        "ağciyər yetməzliyi",
+        "irinli plevrit"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "48. Ağciyər absesi mərhələ və fazasından asılı olaraq bir neçə klinik formada ortaya çıxa bilər. Aşağıda qeyd olunanlardan hansı bu formaya aid deyil?",
+      "options": [
+        "xroniki abses",
+        "pnevmoniya",
+        "plevraya açılma",
+        "bronxa açılma",
+        "maliqnizasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "49. Hansı xəstəliklərdə öskürək, təngnəfəslik, döş qəfəsində ağrı və SİRS əlamətləri ortaya çıxarsa ağciyər absesindən şübhələnmək lazımdır? \n1) ağciyər infarktı \n2) bronxektoziya xəstəliyi \n3) ağciyər xərçəngi \n4) bronxogen törəmələr \n5) ağciyər əzilməsi",
+      "options": [
+        "2, 3, 4, 5",
+        "1, 2, 4, 5",
+        "1, 2, 5",
+        "1, 2, 3, 4",
+        "1, 3, 4, 5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "50. Ağciyər absesində hansı hallar cərrahi əməliyyata göstəriş sayılmır?",
+      "options": [
+        "irinli plevrit",
+        "rezektabel xərçəngin absesləşməsi",
+        "piopnevmotoraks",
+        "massiv qanaxma",
+        "bronxa açılma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "51. Ağciyər absesində antibiotikoterapiyaya neçə saat ərzində cavab alınmırsa absesin drenajı lazım gəlir?",
+      "options": [
+        "6-12",
+        "24-48",
+        "12-24",
+        "72-96",
+        "48-72"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "52. Hansı ağciyərin xroniki abseslərinin ağırlaşması deyil?",
+      "options": [
+        "təkrarlanan kəskinləşmələr",
+        "malnutrisiya",
+        "kaxeskiya",
+        "amiloidoz",
+        "bronxa açılma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "53. Hansı ağciyər qanqrenasının ağırlaşması deyil?",
+      "options": [
+        "sepsis",
+        "amiloidoz",
+        "hemorragik plevrit",
+        "bronxektaziya",
+        "ağciyər çatmazlığı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Hansı ağciyər qanqrenasının kliniki əlamətlərinə aid deyil?",
+      "options": [
+        "tənəffüs çatmazlığı",
+        "çoxlu miqdarda, çətin ifraz olunan üfunətli irinli bəlğəmli öskürək",
+        "sepsis",
+        "anemiya",
+        "döş qəfəsində ağrılar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "55. Bronxektoziya hansı mexanizmlə əmələ gəlir?",
+      "options": [
+        "fibroz → infeksiya → dilatasiya",
+        "dilatasiya → infeksiya → fibroz",
+        "infeksiya → dilatasiya → fibroz",
+        "infeksiya → fibroz → dilatasiya",
+        "dilatasiya → fibroz → infeksiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "56. Hansılar bronxlarda obstruksiya törədən səbələrə aiddir? \n1) yad cisimlər \n2) neoplaziyalar \n3) peribronxial limfadenopatiyalar \n4) bronx daşları \n5) aşağı pay sindromu",
+      "options": [
+        "1, 2, 3, 5",
+        "2, 3, 4, 5",
+        "1, 2, 4, 5",
+        "1, 2, 3, 4",
+        "1, 3, 4, 5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "57. Bronxoektaziya xəstəliyində ən az rast gəlinən mirkoblar hansılardır?",
+      "options": [
+        "K.pneumoniae",
+        "E.coli",
+        "H.influenzae",
+        "S. pyogenes",
+        "S.aureus"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "58. Bronxoektaziya xəstəliyinin diaqnozunu dəqiqləşdirmək üçün hansı müayinədən istifadə olunur?",
+      "options": [
+        "MRT",
+        "Bronxoskopiya",
+        "Bronxoqrafiya",
+        "KT",
+        "Rentgen"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "59. Bronxun genişlənməsi ilə yanaşı təkrarlayan infeksiya varsa nə adlanır?",
+      "options": [
+        "bronxektoziya",
+        "bronxit",
+        "Mondor xəstəliyi",
+        "bronxektoziya xəstəliyi",
+        "pnevmoniya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Bronxektoziya hansı mexanizmlə əmələ gəlir?",
+      "options": [
+        "obstruksiya → infeksiya → dilatasiya → fibroz",
+        "obstruksiya → infeksiya → fibroz → dilatasiya",
+        "fibroz → obstruksiya → infeksiya → dilatasiya",
+        "obstruksiya → dilatasiya → fibroz → infeksiya",
+        "dilatasiya → obstruksiya → infeksiya → fibroz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "61. Bronxektaziya xəstəliyinin əmələ gəlməsində hansı mikroflora iştirak etmir?",
+      "options": [
+        "S. aureus",
+        "Pseudumanas",
+        "H.influenzae",
+        "St. pyogenes",
+        "K.pneumoniae"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "62. Müasir konservativ müalicələrlə bronxektoziyası olan xəstələrin neçə %-ında infeksiyanı nəzarət altına almaq olur?",
+      "options": [
+        "85",
+        "80",
+        "75",
+        "70",
+        "60"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "63. Bronxektoziyalı xəstəliyinin ağırlaşmaları neçə % təşkill edir?",
+      "options": [
+        "2-4",
+        "13-16",
+        "3-5",
+        "9-11",
+        "6-8"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "64. Ağciyərin bədxassəli törəmələrinin ən aqressiv forması hansıdır?",
+      "options": [
+        "yastı epitel hüceyrəli xərçəng",
+        "sarkoma",
+        "adenokarsinoma",
+        "böyük hüceyrəli xərçəng",
+        "kiçik hüceyrəli xərçəng"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "65. Ağciyərin xərçəng riskini artıra bilən faktorlara aid deyil?",
+      "options": [
+        "azbestoz",
+        "vərəm",
+        "ağciyər çapığı",
+        "xroniki pnevmoniya",
+        "ağciyər sistləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. Hansı cümlə ağciyər adenokarsinomasını düzgün xarakterizə edir?",
+      "options": [
+        "Adenokarsinomalar çapıq toxuma ilə əlaqəli olub, periferik yerləşirlər, tez yayılmağa və hematogen metastaza meyillidir",
+        "Adenokarsinomalar çapıq toxuma ilə əlaqəli olub, mərkəzi yerləşirlər, tez yayılmağa və limfogen metastaza meyillidir",
+        "Adenokarsinomalar siqaretlə sıx əlaqəli olub, periferik yerləşirlər, tez yayılmağa və limfogen metastaza meyillidir",
+        "Adenokarsinomalar çapıq toxuma ilə əlaqəli olub, mərkəzi yerləşirlər, gec yayılmağa və hematogen metastaza meyillidir",
+        "Adenokarsinomalar siqaretlə sıx əlaqəli olub, periferik yerləşirlər, gec yayılmağa və hematogen metastaza meyillidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Hansı cümlə ağciyər yastı hüceyrəli xərçəngini düzgün xarakterizə edir?",
+      "options": [
+        "Yastı hüceyrəli xərçəng siqaretlə sıx əlaqəlidir, əksəriyyəti mərkəzi yerləşir, sürətlə inkişaf edir və tez metastaz verir",
+        "Yastı hüceyrəli xərçəng çapıq toxuma ilə sıx əlaqəlidir, əksəriyyəti mərkəzi yerləşir, yavaş inkişaf edir və gec metastaz verir",
+        "Yastı hüceyrəli xərçəng siqaretlə sıx əlaqəlidir, əksəriyyəti periferik yerləşir, yavaş inkişaf edir və tez metastaz verir",
+        "Yastı hüceyrəli xərçəng siqaretlə sıx əlaqəlidir, əksəriyyəti mərkəzi yerləşir, yavaş inkişaf edir və gec metastaz verir",
+        "Yastı hüceyrəli xərçəng siqaretlə sıx əlaqəlidir, əksəriyyəti periferik yerləşir, yavaş inkişaf edir və gec metastaz verir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "68. Ağciyər xərçənginin IIB mərhələsinə TNM təsnifatının hansı mərhələsi uyğun gəlir?",
+      "options": [
+        "T3N2M0",
+        "T2N2M0",
+        "T3N1M0",
+        "T1N2M0",
+        "T2N1M0"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. TNM təsnifatına görə ağciyər xərçənginin neçə mərhələsi ayırd edilir?",
+      "options": [
+        "6",
+        "5",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Klinik təsnifatda ağciyər xərçəngi neçə mərhələyə bölünür?",
+      "options": [
+        "6",
+        "4",
+        "2",
+        "5",
+        "3"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "71. Hansı ağciyər xərçəngində bronxopulmonar əlamətlərə aid deyil?",
+      "options": [
+        "təngnəfəslik",
+        "öskürək",
+        "döş qəfəsi ağrısı",
+        "qanhayxırma",
+        "bəlğəm ifrazının artmas"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "72. Hansı ağciyər xərçəngində ekstrapulmonar əlamətlərə aid deyil?",
+      "options": [
+        "döş qəfəsi ağrısı",
+        "təngnəfəslik",
+        "Horner simptomu",
+        "səsin dəyişməsi",
+        "yuxarı boş vena sindromu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "73. Ağciyərin kiçik-hüceyrəli karsinomasında əsas müalicə nədir?",
+      "options": [
+        "hormonal terapiya",
+        "cərrahi əməliyyat",
+        "lazer ablasiyası",
+        "kimyaterapiya",
+        "şua terapiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "74. Kiçik-hüceyrəli xərçəng ağciyər xərçənginin neçə %-ni təşkil edir?",
+      "options": [
+        "80",
+        "60",
+        "40",
+        "10",
+        "20"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "75. Qeyd olunanlardan hansı parietal plevranın hissəsi deyil?",
+      "options": [
+        "mediastinal",
+        "servikal",
+        "kostal",
+        "sternal",
+        "diafraqmal"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "76. Normada plevra boşluğunda nə qədər maye olur?",
+      "options": [
+        "100-150 ml",
+        "50-100 ml",
+        "5-10 ml",
+        "1-3 ml",
+        "10-50 ml"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. Nəfəsalma zamanı döş qəfəsinin genişlənməsi plevra boşluğunda hansı təzyiqi yaradır?",
+      "options": [
+        "-25 sm su st.",
+        "-30 sm su st.",
+        "-20 sm su st.",
+        "-15 sm su st.",
+        "-10 sm su st."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "78. Dərin nəfəsalma zamanı döş qəfəsinin genişlənməsi plevra boşluğunda yaratdığı təzyiq hansı rəqəmə qədər çata bilir?",
+      "options": [
+        "-50 sm su st.",
+        "-40 sm su st.",
+        "-70 sm su st.",
+        "-30 sm su st.",
+        "-60 sm su st."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Dərin nəfəsvermə zamanı plevra boşluğunda hansı təzyiq yaranır?",
+      "options": [
+        "70 sm su st.",
+        "50 sm su st.",
+        "60 sm su st.",
+        "40 sm su st.",
+        "30 sm su st."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Qabırğa-diafraqma xəttinin düzləşməsi plevrada ən azı nə qədər mayenin olduğunu göstərir?",
+      "options": [
+        "1000 ml",
+        "500 ml",
+        "50 ml",
+        "100 ml",
+        "250 ml"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "81. Plevra boşluğunda mayeni görmək üçün ən həssas müayinə üsulu hansıdır?",
+      "options": [
+        "Rentgenoskopiya",
+        "Rentgenoqrafiya",
+        "EBUS",
+        "USM",
+        "PET-KT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "82. Plevral mayedə pH-ın neçə olması irinli iltihaba xarakterikdir?",
+      "options": [
+        "> 8,2",
+        "< 6,2",
+        "< 8,2",
+        "> 7,2",
+        "< 7,2"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "83. Hansı səbəbinə görə plevral maye təsnifatına aid deyil?",
+      "options": [
+        "orqan yetməzliyi",
+        "iltihabi",
+        "travmatik",
+        "neoplastik",
+        "infiltrativ"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "84. Aşağıda qeyd olunanlardan hansıları plevral mayenin xarakterinə görə növləridir? \n1) Hidrotoraks \n2) Biliotoraks \n3) Piotoraks \n4) Urotoraks \n5) Xilotoraks \n6) Hemotoraks",
+      "options": [
+        "1, 2, 4, 6",
+        "1, 2, 3, 4, 6",
+        "1, 3, 4, 5, 6",
+        "1, 3, 5, 6",
+        "1, 2, 3, 5, 6"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "85. Ürək çatmazlığı hansı mexanizmlə plevra boşluğunda maye toplanmasına gətirib çıxarır?",
+      "options": [
+        "plevradaxili təzyiqin azalması",
+        "qan və limfa damarları zədələnmələri",
+        "kapilyar keçiriciliyinin artması",
+        "hidrostatik təzyiqin artması",
+        "onkotik təzyiqin azalması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Hidrostatik təzyiqin artması mexanizmi ilə hansı xəstəlik zamanı plevra boşluğunda maye toplanması baş verir?",
+      "options": [
+        "qaraciyər çatmazlığı",
+        "ağciyər absesi",
+        "ağciyərin törəmələri",
+        "böyrək çatmazlığı",
+        "ürək çatmazlığı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Plevra boşluğunda transsudatın toplandığı zaman punktatın müayinəsində proteinin miqdarı nə qədər olur?",
+      "options": [
+        ">3 q/dl",
+        ">5 q/dl",
+        "<7 q/dl",
+        ">7 q/dl",
+        "<3 q/dl"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "88. İrinli plevritin ən çox rast gəlinən səbəbi nədir?",
+      "options": [
+        "ağciyər absesi",
+        "döş qəfəsində keçirilmiş əməliyyat",
+        "döş qəfəsi travmaları",
+        "pnevmoniya",
+        "ağciyər qanqrenası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "89. İrinli plevritin gedişini düzgün təsvir edən cümlə hansıdır?",
+      "options": [
+        "seroz faza ilk 24-72 saatı əhatə edir, transudat seroz xarakterlidir, drenajla təmizlənə bilir",
+        "seroz faza ilk 24-48 saatı əhatə edir, eksudat seroz xarakterlidir, drenajla təmizlənə bilir",
+        "seroz faza ilk 24-72 saatı əhatə edir, eksudat seroz xarakterlidir, drenajla təmizlənə bilir",
+        "seroz faza ilk 3-7-ci günləri əhatə edir, eksudat seroz xarakterlidir, drenajla təmizlənə bilir",
+        "seroz faza ilk 3-7-ci günləri əhatə edir, transudat seroz xarakterlidir, drenajla təmizlənə bilir"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "90. İrinli plevritin gedişini düzgün təsvir edən cümləni seçin.",
+      "options": [
+        "fibrinoz-irinli faza 3-7-ci günləri əhatə edir, transudasiya ilə xarakterizə olunur, irinin tam təmizlənməsi üçün fibrinolitiklər lazım gəlir",
+        "fibrinoz-irinli faza 24-48 saatı əhatə edir, irinli eksudasiya ilə xarakterizə olunur, irinin tam təmizlənməsi üçün fibrinolitiklər də lazım gəlir",
+        "fibrinoz-irinli faza 24-48 saatı əhatə edir, transudasiya ilə xarakterizə olunur, drenajla təmizlənə bilir",
+        "fibrinoz-irinli faza 3-7-ci günləri əhatə edir, irinli eksudasiya ilə xarakterizə olunur, irinin tam təmizlənməsi üçün fibrinolitiklər lazım gəlir",
+        "fibrinoz-irinli faza 3-7-ci günləri əhatə edir, transudasiya ilə xarakterizə olunur, drenajla təmizlənə bilir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "91. Hansı irinli plevritin ağırlaşması deyil?",
+      "options": [
+        "plevral fistul",
+        "ağciyər yetməzliyi",
+        "amiloidoz",
+        "sepsis",
+        "plevranın xərçəngi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "92. İrinli plevritin ümumi itihab əlamətlərinə aid olmayan bəndi göstərin",
+      "options": [
+        "hərarətin yüksəlməsi",
+        "taxikardiya",
+        "leykositoz",
+        "taxipnoe",
+        "döş qəfəsində ağrı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "93. Hansı əlamətlər irinli plevritdən şübhə yaratmalı olanlara aid deyildir?",
+      "options": [
+        "döş qəfəsi travmaları olanlarda sepsis əlamətləri",
+        "plevrada maye olan xəstədə sepsis əlamətləri",
+        "anamnezdə pnevmoniya olanlarda sepsis əlamətləri",
+        "döş qafəsində ağrı, təngnəfəslik və sepsis əlamətləri",
+        "plevral punktatda transudat tapılanlarda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "94. Plevra boşluğu punktatının müayinəsində qlükozanın miqdarının hansı göstəriciləri irinli plevritin diaqnostik əlamətidir?",
+      "options": [
+        ">10 mq/dl",
+        "<70 mq/dl",
+        "<40 mq/dl",
+        ">50 mq/dl",
+        "<60 mq/dl"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "95. Diafraqmanın haraya birləşən qalınlaşmış hissələri ayaqcıqlar adlanır?",
+      "options": [
+        "döş fəqərələrinə",
+        "döş sümüyünə",
+        "xəncərvari çıxıntıya",
+        "qabırğa qövsünə",
+        "bel fəqərələrinə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. Tənəffüs aktı zamanı diafraqmanın 1sm-lik yerdəyişməsi döş boşluğunun həcmini təxminən neçə ml artırır?",
+      "options": [
+        "300-320",
+        "150-170",
+        "50-70",
+        "250-270",
+        "100-120"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "97. Diafraqmanın yırtıqlarının tərifi hansı bənddə daha düzgün göstərilmişdir?",
+      "options": [
+        "Döş boşluğu orqanların diafraqmanın təbii dəliklərindən qarın boşluğuna keçməsi diafraqmal yırtıqlar adlanır",
+        "Qarındaxili orqanların diafraqmanın təbii və ya qazanılmış dəliklərindən dərialtına keçməsi diafraqmal yırtıqlar adlanır",
+        "Qarındaxili orqanların diafraqmanın təbii dəliklərindən döş boşluğuna keçməsi diafraqmal yırtıqlar adlanır",
+        "Qarındaxili orqanların diafraqmanın təbii və ya qazanılmış dəliklərindən döş boşluğuna keçməsi diafraqmal yırtıqlar adlanır",
+        "Döş boşluğu orqanların diafraqmanın təbii və ya qazanılmış dəliklərindən qarın boşluğuna keçməsi diafraqmal yırtıqlar adlanır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "98. Yerinə görə diafraqmal yırtıqlar növü olmayan hansıdır?",
+      "options": [
+        "parasternal",
+        "kosto-vertebral",
+        "hiatal",
+        "postravmatik",
+        "paravertebral"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "99. Bokdalek dəliklərindən keçən yırtıqlar necə adlanır?",
+      "options": [
+        "postravmatik",
+        "hiatal",
+        "kosto-vertebral",
+        "parasternal",
+        "paravertebral"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "100. Morgan dəliyindən keçən yırtıq necə adlanır?",
+      "options": [
+        "postravmatik",
+        "hiatal",
+        "paravertebral",
+        "kosto-vertebral",
+        "parasternal"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "101. Hansı diafraqmal yırtıqlar boğulma törətməzlər?",
+      "options": [
+        "parasternal",
+        "postravmatik",
+        "paravertebral",
+        "paraezofageal",
+        "sürüşgən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "102. Divararalığının sərhədlərini sağ və sol tərəfdən nə təşkil edir?",
+      "options": [
+        "ağciyərlər",
+        "1-11-ci qabırğalar",
+        "1-11-ci döş fəqərələri",
+        "perikard",
+        "parietal plevralar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "103. Divararalığının yuxarı sərhədlərini nə təşkil edir?",
+      "options": [
+        "parietal plevra",
+        "boyun fəqərələri",
+        "diafraqma",
+        "aorta qövsü",
+        "boyun sahələri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "104. Kəskin mediastinitin ən çox rast gəlinən səbəbi nədir?",
+      "options": [
+        "retroperitoneal fleqmona",
+        "döş sümüyünün osteomieliti",
+        "irinli plevrit",
+        "ağciyər absesi",
+        "qida borusunun perforasiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "105. Kəskin mediastinitdə letallıq neçə % təşkil edir?",
+      "options": [
+        "40-70",
+        "10-40",
+        "50-80",
+        "30-60",
+        "20-50"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "106. Kəskin mediastinit zamanı ağrını azaltmaq üçün xəstələr hansı məcburi vəziyyət alırlar?",
+      "options": [
+        "sağ yanı üstə uzanma",
+        "qarnı üstdə uzanma",
+        "başı arxaya əyilmiş oturaq",
+        "başı önə əyilmiş yarımoturaq",
+        "arxası üstdə uzanma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "107. Kəskin mediastinitin diaqnozunu dəqiqləşdirmək üçün ən vacib müayinə hansıdır?",
+      "options": [
+        "FEQDS",
+        "USM",
+        "MRT",
+        "Rentgen",
+        "KT"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "108. Xroniki mediastinitin ən çox rast gəlinən səbəbi hansı xəstəlik hesab edilir?",
+      "options": [
+        "sarkoidoz",
+        "amiloidoz",
+        "vərəm",
+        "histoplazmoz",
+        "limfoqranulomatoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "109. Proqressiv gedişli xroniki mediastinitdə müşahidə edilən letallıq nə ilə bağlı olur?",
+      "options": [
+        "ensefalopatiya",
+        "qaraciyər çatmazlığı",
+        "ağciyər çatmazlığı",
+        "böyrək çatmazlığı",
+        "ürək çatmazlığı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "110. Hansı ön mediastinumda ən çox rast gələn törəmələrə aid deyil?",
+      "options": [
+        "teratoma",
+        "timoma",
+        "seminoma",
+        "limfoma",
+        "miksoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "111. Hansı arxa mediastinumda ən çox rast gələn törəmələrə aiddir?",
+      "options": [
+        "lipoma",
+        "tiroid törəmələr",
+        "Germ-hüceyrə törəmələr",
+        "bronxogen sistlər",
+        "neyrogen törəmələr"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "112. Divararalığı törəmələri bütün döş qəfəsi törəmələri arasında neçə % təşkil edir?",
+      "options": [
+        "50",
+        "40",
+        "30",
+        "10",
+        "20"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "113. Divararalığı törəmələrinin neçə % bədxassəli törəmələr təşkil edir?",
+      "options": [
+        "75",
+        "35",
+        "50",
+        "65",
+        "25"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "114. Hansı orta mediastinumda ən çox rast gələn törəmələrə aid deyil?",
+      "options": [
+        "ezofageal törəmələr",
+        "bronxogen sistlər",
+        "perikardial sistlər",
+        "limfoma",
+        "feoxromasitoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "115. Qabırğaarası sinirlərin örtüyündən əmələ gələn divararalığının xoşxassəli neyrogen törəmələri hansılardır?",
+      "options": [
+        "neyroblastoma",
+        "neyrosarkoma",
+        "qanqlioneyroma",
+        "neyrofibroma",
+        "şvannoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "116. Simpatik kələfdən əmələ gələn divararalığının bədxassəli neyrogen törəmələri hansılardır?",
+      "options": [
+        "neyrosarkoma",
+        "neyrofibroma",
+        "qanqlioneyroma",
+        "şvannoma",
+        "neyroblastoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "117. Timus vəzinin ən çox rast gələn törəməsi hansıdır?",
+      "options": [
+        "adenokarsinoma",
+        "Hodjkin qranuloması",
+        "timus karsinoması",
+        "limfoma",
+        "timoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "118. Timomaların inkişafı zamanı əmələ gələn yerli əlamətlərə aid olmayanı qeyd edin.",
+      "options": [
+        "öskürək",
+        "ağrı",
+        "disfagiya",
+        "yuxarı boş vena sindromu",
+        "hərarətin yüksəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "119. Timomaların diaqnostikasında istifadə olunan paraneoplastik əlamətlərə aid olanları qeyd edin. \n1) təngnəfəslik \n2) əzələ zəifliyi \n3) təkrarlanan infeksiyalar \n4) anemiya \n5) diareya",
+      "options": [
+        "1, 2, 3, 5",
+        "1, 2, 3, 4, 5",
+        "1, 2, 3, 4",
+        "1, 2, 4, 5",
+        "2, 3, 4, 5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "120. Miasteniya gravis xəstəliyi özünü biruzə verdiyi əlamətlərə aid olmayanı qeyd edin.",
+      "options": [
+        "diplopiya",
+        "yorğunluq",
+        "ptoz",
+        "disfagiya",
+        "parez"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "121. Miasteniya gravis xəstəliyinin patogenezində hansı reseptorlarının azalması durur?",
+      "options": [
+        "noradrenalin",
+        "histamin",
+        "asetilxolin",
+        "enteroleykin",
+        "prostoqlandin"
+      ],
+      "correct": 2
+    }
+  ]
+}

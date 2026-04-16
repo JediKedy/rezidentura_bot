@@ -1,0 +1,290 @@
+{
+  "questions": [
+    {
+      "question": "Böyrəklərin xroniki xəstəliklərinin aradan qaldırmayan risk faktorlarına hansılar aiddir?",
+      "options": [
+        "Bütün sadalananlar",
+        "Anadan gəlmə oliqofreniya",
+        "Ahıl yaş",
+        "Aşağı sosial-ekonomik status",
+        "Qohumlarda böyrəklərin xroniki xəstəlikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Böyrək xəstəliklərinin başlanğıcı necə nəzərə çarpır?",
+      "options": [
+        "Xəstəliyin növündən asılı olaraq nəzərə çarpıcı olur",
+        "Heç zaman nəzərə çarpmır",
+        "Nəzərə çarpıcı olur",
+        "Yaşlılarda nəzərə çarpıcı olur",
+        "Cavanlarda nəzərə çarpıcı olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Uşаqlаrdа аğciyər ödеmi zаmаnı hansı klinik simptоmlаr müşahidə edilir?",
+      "options": [
+        "Bütün yuхаrıdа sаdаlаnаnlаr",
+        "Köpüklü, çəhrаyı bəlğəmli öskürək",
+        "Ağciyərlərdə çохlu yаş хırıltılаr",
+        "Tахikаrdiyа",
+        "Qəfləti nаrаhаtlıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Uşаqlаrdа hеmоlitik-urеmik sindrоm zаmаnı nə müşаhidə оlunur?",
+      "options": [
+        "Bütün sаdаlаnаnlаr",
+        "Trоmbоsitоpеniyа",
+        "Oliquriyа",
+        "Sаrılıq",
+        "Sarılıq və trobositopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Südəmər uşаqlаrdа piеlоnеfritn əsаs əlаmətləri hаnsıdır?",
+      "options": [
+        "Orqаnizmin ümumi intоksikаsiyаsı",
+        "Dispеptik pоzğunluqlаr",
+        "Dizuriyа",
+        "Artеriаl təzyiqin qаlхmаsı",
+        "Hərаrətin qаlхmаsı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hоrmоnаl tеrаpiyаnın əlаvə təsirləri hansılardır?",
+      "options": [
+        "Bütün qeyd olunanlar",
+        "Ostеоpаrоz",
+        "Stеrоidli diаbеt",
+        "Xоlеоstаz",
+        "Mədə-bаğırsаq sistеmində хоrаnın əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dizеmbriоgеnеzin nişаnələrinə аşаğıdаkı hansı хəstəliklər аiddir?",
+      "options": [
+        "İrsi nеfrit",
+        "Qlоmеrulоnеfrit",
+        "Piеlоnеfrit",
+        "Qırmızı-qurd еşənəyi",
+        "Böyrəklərin pоlikistоzu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Uşаqlаrdа  хrоniki böyrək çаtışmаzlığının əsаs kliniki əlаmətləri hansılardır?",
+      "options": [
+        "Bütün yuхаrıdа sаdаlаnаnlаr",
+        "Anеmiyа",
+        "Qаndа sidik cövhərinin аrtmаsı",
+        "Ostеоpоrоz",
+        "Qusmа"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hemodializə göstəriş hansılardır?",
+      "options": [
+        "Hiperkaliemiya 7 mmol/l-dən çox",
+        "Hipokaliemiya",
+        "Hipernatriemiya",
+        "Hipoxloremiya",
+        "Hipermaqniemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "XBÇ –da sidikqovucular qrupundan hansı preparatı təyin etmək olar?",
+      "options": [
+        "Furosemidi",
+        "Hipotiazidi",
+        "Hidroxlortiazidi",
+        "Veroşpironu",
+        "Triamtereni"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kəskin böyrək çatışmazlığı zamanı hemodializin təcili keçirilməsinə mütləq göstərişlər hansılardır?",
+      "options": [
+        "Plazmada K səviyyəsinin 7 mekv/l artması",
+        "Yüksək hipertoniya",
+        "Anemiya",
+        "Plazmada kreatininin 80 mkmol/l artması",
+        "Perikarditin inkişafı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Müstəqil ultrafiltrasiyanın keçirilməsinə göstərişlər hansılardır?",
+      "options": [
+        "Hipotonik hiperhidrasiya və beyin ödemi",
+        "Asidoz (qələvilərin çatmamazlığı, 15 mekv/l qədər)",
+        "Konstriktiv perikatrdit",
+        "Hipoproteinemiya 45q/L Qədər",
+        "Hiperkaliemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Hemodializ zamanı aşağıdakı fəsadların yaranması nə zaman mümkündür?",
+      "options": [
+        "Bütün göstərilənlər",
+        "Dizekvilibrium-sindromu",
+        "Kəskin qanaxma,komplementin aktivləşməsi",
+        "Texniki çətinliklər",
+        "Hipotoniya yaxud aritmiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığı zamanı sümük destruksiyasının erkən xüsusi rentgenoloji əlamətlərinin lokalizasiyası harada yerləşir?",
+      "options": [
+        "Biləklərdə və pəncələrdə",
+        "Körpücük sümüyünün akromial ucunda",
+        "Döş-körpücük birləşməsində",
+        "Bud sümüyünün proksimal hissəsində",
+        "Bütün göstərilənlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığının erkən kliniki əlamətləri?",
+      "options": [
+        "Nikturiya",
+        "Ürəkbulanma,qusma",
+        "A/T artması",
+        "Hiperkaliemiya",
+        "Hipokaliemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığı zamanı orqanizmdə K miqdarı necə dəyişir?",
+      "options": [
+        "Artır",
+        "Azalır",
+        "Dəyişmir",
+        "Arterial təzyiqindən asılı olaraq dəyişir",
+        "Bir qaydada olmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığı olan xəstələrin pəhrizində öncə nə azaldılmalıdır?",
+      "options": [
+        "Zülallar",
+        "Yağlar",
+        "Mayenin miqdarı",
+        "Karbohidratlar",
+        "Xörək duzu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığının etioloji faktorlarına nə xarakter deyil?",
+      "options": [
+        "Xlamidioz",
+        "Polikistoz",
+        "Amioloidoz",
+        "Oksaloz",
+        "Sistinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığına xarakter sümük dəyişiklikləri hansılardır?",
+      "options": [
+        "Sadalananların hamısı",
+        "Osteoporoz",
+        "Osteomalyasiya",
+        "Patoloji sınıqlar",
+        "Fibroz osteit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Xroniki böyrək çatışmazlığı  zamanı ürək-damar fəsadlarının inkişafı nə ilə əlaqədardır?",
+      "options": [
+        "Bütün göstərilənlər ilə",
+        "Plazma lipidlərinin yüksək səviyyəsi ilə",
+        "Hipokalsiemiya ilə",
+        "Hipofosfatemiya ilə",
+        "Əsas xəstəliklə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Prerenal kəskin böyrək çatmamazlığının səbəbləri hansılardır?",
+      "options": [
+        "Kardiogen şok",
+        "Retroperitoneal fibroz",
+        "Böyrəklərin şişi",
+        "Prostat vəzinin adenoması",
+        "Nefrotoksiki antibiotik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Renal kəskin böyrək çatmamazlığının səbəbləri hansılardır?",
+      "options": [
+        "Sadalananların hamısı",
+        "Nefrotoksiki zəhərlər – civə, fosfor",
+        "Zəhərli göbələklər",
+        "İnfeksiyalar",
+        "Sulfanilamidlər, barbituratlar və s. dərman preparatları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kəskin böyrək çatışmazlığının risk faktorları hansıdır?",
+      "options": [
+        "Sadalananların hamısı",
+        "Hamiləlik, doğuş",
+        "Cərrahi əməliyyatlar",
+        "Sepsis",
+        "Qanaxmalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Qeyri steroid iltihab əleyhinə preparatların(QSİP) qəbulundan sonra yaranan kəskin böyrək çatışmazlığının risk faktorlarına hansılar aid deyil?",
+      "options": [
+        "Bütün sadalananlar düzdür",
+        "Yaşlı xəstələr",
+        "Bu qrupdan bir və ya iki preparatın qəbulu",
+        "Qeyri steroid iltihab əleyhinə preparatların(QSİP) β-blokatorlarla əlaqələnməsi",
+        "Düzdür bu qrupdan bir və ya iki preparatın qəbulu, qeyri steroid iltihab əleyhinə preparatların(QSİP) β-blokatorlarla əlaqələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Şоk zаmаnı (KBÇ) kəskin böyrək çаtışmаmаzlığının səbəbi hansıdır?",
+      "options": [
+        "Artеriаl təzyiqin (А/T) düşməsi",
+        "Zədələnmiş tохumаdаn tоksiki mаddələrin təsiri",
+        "Vеqеtаtiv pоzğunluqlаr",
+        "Yаnаşı infеksiyаlаr",
+        "Аntigen-antitelo  kоmplеkslərinin yаrаnmаsı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Аşаğıdаkı hansı dərmаnlаrın qəbulu zаmаnı (KBÇ) kəskin böyrək çаtışmаzlığı dаhа tеz inkişаf еdir?",
+      "options": [
+        "Aminоqlikоzidlər",
+        "Mаkrоlidlər",
+        "Tеtrаsiklinlər",
+        "Pеnisilinlər",
+        "Sеfаlоspоrinlər"
+      ],
+      "correct": 0
+    }
+  ]
+}

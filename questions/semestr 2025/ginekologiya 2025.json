@@ -1,0 +1,2358 @@
+{
+  "questions": [
+    {
+      "question": "1. Postmenopauzal dövrdə qanaxmanı saxlamaq üçün uşaqlığın selikli qişasının diaqnostik qaşınması vacibdir, çünki:",
+      "options": [
+        "bu yaş dövründə endometriumda atrofik proseslər çox rast gəlinmir",
+        "bu yaş dövründə endometriumda tsiklik proseslər davam edir",
+        "bu yaş dövründə endometriumda sekretor transformasiya çox rast gəlinir",
+        "bu yaş dövründə uşaqlığın atipik patologiyaları çox rast gəlinir",
+        "bu yaş dövründə hormonal hemostaz effektli olmur"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2. Adrenogenital sindromun patogenetik əsasıdır:",
+      "options": [
+        "hipofizdə AKTH ifrazının azalması",
+        "hipofizdə prolaktin ifrazının artması",
+        "hipofizin kortikotroflarının şişi",
+        "böyrəküstü vəzi toxumasının AKTH-na həssaslığının azalması",
+        "fermentlərin defisiti sayəsində kortizol sintezinin azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "3. Hiperandrogeniyanın mənşəyini aydınlaşdırmaq üçün hansı sınaqdan istifadə olunur?",
+      "options": [
+        "qanda androstendionun təyini",
+        "yod sınağı",
+        "qanda dehidroepiandrosteronun təyini",
+        "deksametazon sınağı",
+        "qanda 17-hidroksiprogesteronun təyini"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "4. Hiperprolaktinemiyanın müalicəsində hansı preparatdan istifadə olunur?",
+      "options": [
+        "qonadotropin-rilizinq hormon",
+        "dostineks və ya bromokriptin (dofaminergik preparatlar)",
+        "xorionik qonadotropin",
+        "prohestagenlər",
+        "kombinə olunmuş oral kontraseptivlər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "5. Yumurtalıqların polikistoz sindromu üçün xarakterik deyil:",
+      "options": [
+        "piylənmə",
+        "hirsutizm",
+        "menstrual tsiklin pozulması",
+        "boy artımının patoloji sürətlənməsi",
+        "yumurtalıqların ölçüsünün böyüməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "6. Adrenogenital sindrom üçün əsas xarakterik əlamət hesab edilmir:",
+      "options": [
+        "hirsutizm",
+        "sümüklərdə böyümə zonasının tez bağlanması",
+        "izolə olunmuş vaxtından əvvəl pubarxe",
+        "qalaktoreya",
+        "aybaşın gec başlaması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "7. Fizioloji amenoreya müşahidə olunmur:",
+      "options": [
+        "laktasiya dövründə",
+        "hamiləlik zamanı",
+        "postmenopauza dövründə",
+        "cinsi yetişkənliyə qədərki dövrdə",
+        "reproduktiv dövrdə (hamiləlik və laktasiya istisna edilməklə)"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "8. Prolaktin harada sintez olunur?",
+      "options": [
+        "qalxanabənzər vəzidə",
+        "beyin qabığında",
+        "hipofizin laktotrof hüceyrələrində",
+        "böyrəküstü vəzidə",
+        "yumurtalıqlarda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "9. Orqanizmdə prolaktinin sintezini əsasən tənzimləyir:",
+      "options": [
+        "progesteron",
+        "dofamin",
+        "adrenalin",
+        "qonadotrop hormonlar",
+        "qlükokortikosteroidlər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. Hansı infeksiyalar kiçik çanaqda bitişmə prosesinə səbəb olur:",
+      "options": [
+        "kandidozda",
+        "genital herpesdə",
+        "ureaplazmozda",
+        "qardnerelyozda",
+        "süzənək və xlamidiozda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "11. Daxili cinsiyyət orqanlarının iltihabi xəstəlikləri nə üçün çox vaxt qadın sonsuzluğunun yaranmasına səbəb olur?",
+      "options": [
+        "şəkərli diabetə səbəb olur",
+        "uşaqlıq boynunda eroziya yaradır",
+        "hipertenziv sindromu inkişaf etdirir",
+        "uşaqlıq borularının keçiriciliyini pozur",
+        "eyakulyata qarsı sensibilizasiya formalaşdırır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. Xroniki endometrit:",
+      "options": [
+        "hiperprolaktinemiya yaradır",
+        "xroniki intoksikasiya yaradır",
+        "hipertenziya yaradır",
+        "hiperandrogeniya ilə müşahidə olunur",
+        "residiv verir və uşaqlıq mənşəli sonsuzluğa gətirib çıxarır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "13. Daxili genital endometriozun diaqnostikasında ən informativ usuldur:",
+      "options": [
+        "laparoskopiya",
+        "histeroskopiya",
+        "kolonoskopiya",
+        "kolposkopiya",
+        "kiçik çanaq orqanlarının obzor rentgenoqrafiyası"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Uşaqlıq və uşaqlıq yolunun tam ikiləşməsində anatomik törəmələrə aid deyil:",
+      "options": [
+        "iki uşaqlıq yolu",
+        "iki uşaqlıq",
+        "iki uşaqlıq boynu",
+        "iki uşaqlıq borusu",
+        "dörd uşaqlıq borusu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "15. Normal aybaşı tsiklinin davamiyyəti:",
+      "options": [
+        "14-28 gündür",
+        "28-29 gündür",
+        "28-40 gündür",
+        "3-7 gündür",
+        "21-35 gündür"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "16. Normal aybaşının davamiyyəti:",
+      "options": [
+        "8-9 gündür",
+        "11 gündür",
+        "1 gündür",
+        "3-7 gündür",
+        "1-2 gündür"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "17. İkifazalı aybaşı tsiklinin əsas göstəricisidir:",
+      "options": [
+        "bazal bədən hərarətinin stabil olması",
+        "aybaşı zamanı itirilən qanın miqdarı",
+        "ilk aybaşının yaranma vaxtı",
+        "ovulyasiya",
+        "cinsi yetişkənlik dövründə aybaşı funksiyasının formalaşması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "18. Hansı müayinə ovulyasiyanın baş verməsini qiymətləndirməyə əsas vermir?",
+      "options": [
+        "laparoskopiya (yumutalığın səthində stiqmanın olması)",
+        "bazal temperaturun ölçülməsi",
+        "dominant follikulun inkişafına ultrasəs monitorinq",
+        "aybaşının 17-18-ci günləri qanda hormonların təyin edilməsi",
+        "endometriumun qaşıntısının histoloji müayinəsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "19. Menorragiya:",
+      "options": [
+        "aybaşı tsiklinin davamiyyətinin azalmasıdır",
+        "postmenopauzal qanaxmadır",
+        "atsiklik uşaqlıq qanaxmalarıdır",
+        "tsiklik uşaqlıq qanaxmalarıdır",
+        "aybaşıların ağrılı olmasıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "20. Metrorragiya:",
+      "options": [
+        "aybaşının davamiyyətinin uzanmasıdır",
+        "ağrılı aybaşının olması",
+        "aybaşının azalmasıdır",
+        "atsiklik uşaqlıq qanaxmalarıdır",
+        "aybaşı vaxtı qanitirmənin çoxalmasıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "21. Alqodismenoreyaya səbəb olmur:",
+      "options": [
+        "uşaqlığın retrodeviasiyası",
+        "genital endometrioz",
+        "genital infantilizm",
+        "cinsiyyət orqanlarının inkişaf anomaliyaları",
+        "uşaqlıq boynunun displaziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Fizioloji gedən pubertat dövr üçün xarakterik deyil:",
+      "options": [
+        "boy artımının sürətlənməsi",
+        "qasıq və qoltuqaltı tüklənmənin olması",
+        "ilk aybaşının olması",
+        "süd vəzilərinin böyüməsi",
+        "sümük kütləsinin azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "23. Vaxtından əvvəl cinsi inkişafın yaranma səbəbi deyil:",
+      "options": [
+        "baş beyinin şişləri (astrositoma, kraniofaringioma)",
+        "adrenogenital sindrom",
+        "yumurtalıqların qranulyoz hüceyrəvi şişləri",
+        "yumurtalıqların disgeneziyası",
+        "yumurtalığın follikulyar kistası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Pubertat dövrdə anovulyasiya ilə müşahidə olunan disfunksional uşaqlıq qanaxmalarının ən çox yaranma səbəbidir:",
+      "options": [
+        "hipolüteinizm",
+        "qanlaxtalanma sistemində pozulma",
+        "persistensiya edən sarı cisim",
+        "follikulların atreziya olunması",
+        "persistensiya edən follikul"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "25. Kontrasepsiya məqsədilə estrogen-hestagen preparatlar əsasən təyin edilir :",
+      "options": [
+        "aybaşının 14-cü günündən başlayaraq",
+        "aybaşıdan əvvəl",
+        "ovulyasiya vaxtı",
+        "aybaşı tsiklinin günündən asılı olmayaraq",
+        "aybaşının 1-ci günündən başlayaraq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "26. Yalançı amenoreya müşahidə olunur:",
+      "options": [
+        "itsenko-Kuşinq xəstəliyində",
+        "nevrogen anoreksiyada",
+        "uşaqlıq cisminin aplaziyasında",
+        "qonadların disgeneziyasında",
+        "uşaqlıq boynu kanalının atreziyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "27. Fizioloji amenoreya müşahidə olunmur:",
+      "options": [
+        "hamiləlikdə",
+        "uşaqlıq dövründə",
+        "laktasiya dövründə",
+        "postmenopauzada",
+        "nevrogen anoreksiyada"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "28. Endokrin sonsuzluq hansı xəstəliyin nəticəsi deyil?",
+      "options": [
+        "hipotalamo-hipofizar disfunksiyanın",
+        "yumurtalığın tekomasının",
+        "hipofizin prolaktin ifraz edən şişinin",
+        "adrenogenital sindromun",
+        "disherminomanın"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Amenoreya ilə müşahidə olunan hansı patologiyada yeniyetmələrə təcili yardım göstərilə bilər?",
+      "options": [
+        "testikulyar feminizasiya sindromunda",
+        "Şereşevski-Terner sindromunda",
+        "qızlıq pərdəsinin tam atreziyasında",
+        "hiperprolaktinemiyada",
+        "Rokitanski-Kyüstner-Mayer sindromunda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "30. Oksitosini əsasən hansı hüceyrələr sintez edir?",
+      "options": [
+        "yumurtalıqların qranulyoz hüceyrələri",
+        "sarı cisim",
+        "yumurtalıqların interstisial hüceyrələri",
+        "adenohipofiz",
+        "hipotalamus nüvələri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Cinsi yetişkənliyin ləngiməsi üçün xarakterik deyil:",
+      "options": [
+        "ikincili cinsi əlamətlərin zəif inkişaf etməsi",
+        "sümük yaşının təqvim yaşından geri qalması",
+        "yevnuxoid bədən quruluşunun olması",
+        "süd vəzilərinin hipoplaziyası",
+        "sümük yaşının təqvim yaşını nəzərəçarpacaq dərəcədə qabaqlaması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "32. Hormonal hemostaz hansı hallarda effektli deyil?",
+      "options": [
+        "mürəkkəb endometrial hiperplaziyada",
+        "sadə endometrial hiperplasiyada",
+        "pubertat dövrün disfunksional uşaqlıq qanaxmasında",
+        "endometriumun qeyri-tam sekretor transformasiyası zamanı",
+        "uşaqlıq boşluğunda döl yumurtasının qalıqları qalarsa"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. Kombinə olunmuş oral kontraseptivlərlə hormon əvəzedici müalicəyə əks göstərişdir:",
+      "options": [
+        "endometrioz",
+        "menometrorragiya",
+        "süd vəziləri və cinsiyyət orqanlarının hormondan asılı bədxassəli şişləri",
+        "arterial təzyiqin normal olması",
+        "dəmir defisitli anemiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "34. Sonsuzluq zamanı polikistoz yumurtalaqlar sindromunda icra olunan cərrahi əməliyyata aid deyil:",
+      "options": [
+        "yumurtalıqlarin termovaporizasiyası",
+        "yumurtalıqların pazvari rezeksiyası",
+        "ikitərəfli ovariektomiya",
+        "yumurtalıqlarin dekapsulyasiyası",
+        "yumurtalıqların termokauterizasiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "35. Aspermiya:",
+      "options": [
+        "normal morfologiyalı spermatozoidlərin <14% olmasıdır",
+        "spermatozoidlərin hərəkətliyinin azalmasıdır",
+        "spermatozoidlərin <20·106/ml olmasıdır",
+        "eyakulyatda spermatozoidlərin olmamasıdır",
+        "eyakulyatın olmamasıdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Sonsuzluq zamanı diaqnostik laparoskopiyaya göstəriş:",
+      "options": [
+        "hiperprolaktinemiya",
+        "lütein fazasının çatışmazlığı",
+        "hipotireoz",
+        "davamlı anovulyasiya",
+        "səbəbi bilinməyən uzunmüddətli sonsuzluq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "37. Yumurtalıqların şişəbənzər törəmələrinə aiddir:",
+      "options": [
+        "papilyar sistadenoma",
+        "sadə seroz sistadenoma",
+        "dermoid sist",
+        "follikulyarl kista",
+        "disherminoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "38. Yumurtalıqların şişəbənzər törəmələrinə aiddir:",
+      "options": [
+        "sadə seroz sistadenoma",
+        "papilyar sistadenoma",
+        "sarı cismin kistası",
+        "dermoid sist",
+        "disherminoma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "39. Yumurtalıqların şişəbənzər törəmələrinə aiddir:",
+      "options": [
+        "papilyar sistadenoma",
+        "sadə seroz sistadenoma",
+        "dermoid sist",
+        "disherminoma",
+        "paroovarial kista"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "40. 18 yaşlı qızda sadə seroz sistadenoma zamanı əməliyyatın həcmi:",
+      "options": [
+        "uşaqlığın artımlarla birlikdə uşaqlıq yoluüstü amputasiyası",
+        "zədələnmiş tərəfdə adneksektomiya",
+        "piyliyin biopsiyası ilə adneksektomiya",
+        "ikinci yumurtalığın biopsiyası ilə adneksektomiya",
+        "yumurtalığın normal toxuma səviyyəsində rezeksiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "41. Yumurtalığın qranulyoz hüceyrəli şişinin müalicəsi hansıdır?",
+      "options": [
+        "fizioterapiya",
+        "sorucu terapiyanın təyini",
+        "nəzarət",
+        "immunomodulyatorların təyini",
+        "cərrahi müdaxilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Yumurtalığın papilyar sistadenomasının müalicəsi hansıdır?",
+      "options": [
+        "sorucu terapiyanın təyini",
+        "nəzarət",
+        "fizioterapiya",
+        "cərrahi müdaxilə",
+        "immunomodulyatorların təyini"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "43. Yumurtalığın tekomasının müalicəsi hansıdır?",
+      "options": [
+        "fizioterapiya",
+        "sorucu terapiyanın təyini",
+        "nəzarət",
+        "immunomodulyatorların təyini",
+        "cərrahi müdaxilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "44. Yumurtalığın psevdomusinoz sistadenomasının müalicəsi hansıdır?",
+      "options": [
+        "fizioterapiya",
+        "immunomodulyatorların təyini",
+        "cərrahi müdaxilə",
+        "sorucu terapiyanın təyini",
+        "nəzarət"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "45. Dermoid sistlərin müalicəsi hansıdır?",
+      "options": [
+        "sorucu terapiyanın təyini",
+        "fizioterapiya",
+        "cərrahi müdaxilə",
+        "nəzarət",
+        "immunomodulyatorların təyini"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "46. Yumurtalıq şişinin cərrahi ayaqcığına aid deyil:",
+      "options": [
+        "mezovarium (yumurtalığın çözü, müsariqəsi)",
+        "qif-çanaq bağı",
+        "uşaqlığın girdə bağı",
+        "uşaqlıq borusu",
+        "yumurtalığın xüsusi bağı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "47. Yumurtalıqların xoşxassəli şişlərinin ən çox istifadə olunan diaqnostika üsuludur:",
+      "options": [
+        "maqnit-rezonans tomoqrafiya",
+        "kompyuter tomoqrafiya",
+        "transabdominal exoqrafiya",
+        "laparoskopiya",
+        "transvaginal exoqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "48. Endometriumun müayinəsi üçün tətbiq olunmur:",
+      "options": [
+        "hidrosonoqrafiya",
+        "endometriumun biopsiya",
+        "histeroskopiya",
+        "histerosalpinqoqrafiya",
+        "laparoskopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "49. Uşaqlıq yolunun arxa tağından punksiya ilə qanın alınması əsasən hansı patoloji halda rast gəlinmir:",
+      "options": [
+        "ektopik hamiləlikdə borunun cırılması zamanı",
+        "pozulmuş boru hamiləliyində",
+        "parenximatoz orqanların travmatik zədələnməsi zamanı",
+        "yumurtalığın apopleksiyasinda",
+        "irinli tuboovarial törəmənin perforasiyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "50. Aybaşı tsiklinin I fazasının sonunda baş verir:",
+      "options": [
+        "endometriumda sekretor dəyişikliklərin maksimum həddə çatması",
+        "progesteronun qanda konsentrasiyasının maksimal həddə qədər yüksəlməsi",
+        "endometrium hüceyrələrinin mitotik aktivliyinin azalması",
+        "estradiolun qanda konsentrasiyasının azalması",
+        "dominant follikulun partlaması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "51. Cinsi yetişkənlik dövründə disfunksional uşaqlıq qanaxmasının müalicəsində hansı dərman preparatları tətbiq olunmur:",
+      "options": [
+        "vitaminlər",
+        "uterotonik preparatlar",
+        "androgenlər",
+        "estrogen-hestagenlər",
+        "qansaxlayıcı preparatlar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "52. Aybaşının baş verməsi əsasən asılı deyil:",
+      "options": [
+        "steroid hormonların səviyyəsindən",
+        "endometriumun cinsi hormonlara həssaslığından",
+        "qonadotrop hormonların səviyyəsindən",
+        "qonadoliberinin səviyyəsindən",
+        "fallop borularının keçiriciliyindən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "53. Uşaqlıq yolunun arxa tağının punksiyası zamanı qanın gəlməsi müşahidə olunur: 1) Uşaqlıq borusunun cırılmasında 2) Boru abortunda 3) Uşaqlığın subseroz miomasının qidalanmasının pozulmasında 4) Tuboovarial törəmənin deşilməsində 5) Yumurtalığın apopleksiyasında",
+      "options": [
+        "3,4,5",
+        "2,3,4",
+        "1,4,5",
+        "1,2,5",
+        "1,2,3"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Uşaqlığın rudimentar buynuzunda olan hamiləlik zamanı icra edilən cərrahi əməliyyat:",
+      "options": [
+        "uşaqlığın artımlarla ekstirpasiyası",
+        "rudimentar buynuzun xaric edilməsi",
+        "uşaqlığın artımlarsız ekstirpasiyası",
+        "usaqlığın uşaqlıqyoluüstü amputasiyası",
+        "rudimentar buynuzun ona bitişik boru ilə birlikdə xaric edilməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "55. Uşaqlığın rudimentar buynuzunda olan hamiləlik zamanı müşahidə olunan klinik əlamətlərə aid deyil:",
+      "options": [
+        "8-ci həftədən sonra uşaqlığın ölçüsünün hestasiya müddətinə uyğun gəlməməsi",
+        "böyümüş, ağrılı törəmənin uşaqlıqla qalın ayaqcıq vasitəsilə birləşməsi",
+        "uşaqlığın yan tərəfində yumşaq və ağrılı törəmənin olması",
+        "böyümüş uşaqlığın əks tərəfə yerini dəyişməsi",
+        "hamiləliyin 40-cı həftəyə inkişaf etməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "56. Endometriumun hormondanasılı xərçənginin risk amili deyil:",
+      "options": [
+        "hepatobiliar sistemin xəstəlikləri",
+        "yumurtalığda hormonal aktiv strukturlarının olması",
+        "endometriumda atrofik dəyişikliklərin olması",
+        "III-IV dərəcəli visseral piylənmə",
+        "şəkərli diabet"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "57. Uşaqlıq yolunun və uşaqlıq boynunun aplaziyasında müşahidə olunur:",
+      "options": [
+        "yatrogen amenoreya",
+        "metrorragiya",
+        "hematokolpos",
+        "menorragiya",
+        "hematometra"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Normal aybaşı zamanı itirilən qanın miqdarı:",
+      "options": [
+        "150-200 ml",
+        "20-30 ml",
+        "100-150 ml",
+        "50-70 ml",
+        "200-250 ml"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "59. Endometriumun funksional qatının deskvamasiyasının səbəbidir:",
+      "options": [
+        "qanda prolaktinin səviyyəsinin enməsi",
+        "qanda estradiolun səviyyəsinin yüksəlməsi",
+        "follitropinin «pik» səviyyədə ifrazı",
+        "qanda estrogenlərin və progesteronun səviyyəsinin enməsi",
+        "lyutrotropinin «pik» səviyyədə ifrazı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Funksional diaqnostika sınaqlarından hansı daha çox ikifazalı aybaşı tsiklinin olmasını göstərir?",
+      "options": [
+        "servikal seliyin gərilməsi simptomu",
+        "«Qıjı» simptomu",
+        "kariopiknotik indeks",
+        "«Bəbək» simptomu",
+        "bazal bədən termometriyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "61. Bazal termometriya zamanı hipertermik reaksiya hansı hormonun təsiri ilə əlaqədardır?",
+      "options": [
+        "follikulstimuləedici hormonun",
+        "lüteinləşdirici hormonun",
+        "adrenokortikotrop hormonun",
+        "estradiolun",
+        "progesteronun"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "62. Aybaşı tsiklinin ortasında luteinləşdirici hormonun «pik» səviyyəyə qalxması əlaqədardır:",
+      "options": [
+        "qonadotropin rilizinq hormonun azalması ilə",
+        "follitropinin azalması ilə",
+        "estrogen və progesteronun səviyyəsinin enməsi ilə",
+        "estradiolun səviyyəsinin xeyli yüksəlməsi ilə",
+        "qanda prolaktinin səviyyəsinin xeyli qalxması ilə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "63. Qonadoliberinin sintezi baş verir:",
+      "options": [
+        "hipofizin arxa payında",
+        "hipofizin ön payında",
+        "onurğa beyninin neyronlarında",
+        "baş beyin qabığının neyronlarında",
+        "hipotalamusun nüvələrində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "64. Hipomenoreya:",
+      "options": [
+        "aybaşı sikli ilə əlaqədar olan qanaxmalardır",
+        "aybaşılararası intervalın artmasıdır",
+        "aybaşılararası az qanlı ifrazatın gəlməsidir",
+        "nadir və ağrılı aybaşılardır",
+        "aybaşı vaxtı itirilən qanın miqdarının azalmasıdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "65. Həqiqi amenoreyanın səbəbidir:",
+      "options": [
+        "uşaqlıq yolunun atreziyası",
+        "uşaqlıq boynu kanalının atreziyası",
+        "uşaqlığın aplaziyası",
+        "qızlıq pərdəsinin atreziyası",
+        "hipofizin mikro- və ya makroadenoması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. Amenoreyanın səbəbini aşkar etmək üçün əsasən istifadə edilmir:",
+      "options": [
+        "funksional hormonal sınaqlar",
+        "daxili cinsiyyət üzvlərinin ultrasəs müayinəsi",
+        "funksional diaqnostika sınaqları",
+        "kranioqrafiya",
+        "histerosalpinqoqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Kombinə edilmiş estrogen-hestagen preparatlarla aparılan funksional sınağın nəticəsinin mənfi olması amenoreyanın hansı formasında müşahidə edilir?",
+      "options": [
+        "hipotalamik",
+        "yumurtalıq",
+        "hipofizar",
+        "böyrəküstü vəzi mənşəli",
+        "uşaqlıq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. Polikistoz yumurtalıqlar sindromunda göstərilən simptomlardan hansı olmur?",
+      "options": [
+        "hər iki yumurtalığın böyüməsi",
+        "sümük kütləsinin azalması",
+        "I-li və II-li sonsuzluq",
+        "hirsutizm, yağlı seboreya",
+        "LH-ın FSH-a nisbətinin yüksəlməsi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "69. Postmenopauzal dövrdə cinsiyyət yollarından qanlı ifrazatın gəlməsinin əsas səbəblərindən biridir:",
+      "options": [
+        "uşaqlığın submukoz mioması",
+        "yumurtalıqların xərçəngi",
+        "adenomioz",
+        "endometrial polip",
+        "endometriumun xərçəngi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Yumurtalığın həqiqi şişlərinə aiddir:",
+      "options": [
+        "paraovarial sist",
+        "sarı cismin sisti",
+        "piovar",
+        "disherminoma",
+        "follikulyar sist"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "71. Yumurtalığın həqiqi şişlərinə aiddir:",
+      "options": [
+        "sarı cismin sisti",
+        "piovar",
+        "follikulyar sist",
+        "yetkin teratoma",
+        "paraovarial sist"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "72. Yumurtalığın həqiqi şişlərinə aiddir:",
+      "options": [
+        "follikulyar sist",
+        "sarı cismin sisti",
+        "paraovarial sist",
+        "piovar",
+        "sadə seroz sistadenoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. Yumurtalığın həqiqi şişlərinə aiddir:",
+      "options": [
+        "tekalütein sist",
+        "sarı cismin sisti",
+        "paraovarial sist",
+        "follikulyar sist",
+        "papilyar sistadenoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "74. «I-li sonsuzluq» termini göstərir:",
+      "options": [
+        "qadında aybaşı tsiklinin pozulmaları var",
+        "bütün hamiləliklər tibbi göstərişlərə görə pozulmuşdur",
+        "diri uşaqlar doğulmamışdır",
+        "qadında daxili cinsiyyət üzvləri inkişaf etməmişdir",
+        "anamnezdə heç bir dəfə də olsun hamiləlik olmamışdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "75. Uşaqlıq borularının anatomik keçməməzliyinə səbəb olur:",
+      "options": [
+        "hiperandrogeniya",
+        "hiperprostaqlandinemiya",
+        "psixoemosional stress",
+        "yumurtalıqların hipofunksiyası",
+        "uşaqlıq artımlarında keçırılmış iltihabi proseslər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "76. Uşaqlığın subseroz miomasının diaqnostikasında informativ müayinə metodudur:",
+      "options": [
+        "uşaqlıq boşluğunun zondlanması",
+        "histeroskopiya",
+        "hidrosonoqrafiya",
+        "laparoskopiya",
+        "histerosalpinqoqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "77. Xarici genital endometriozun diaqnostikasında hansı instrumental müayinə metodu daha informativdir?",
+      "options": [
+        "kompyuter tomoqrafiya",
+        "histerosalpinqoqrafiya",
+        "transvaginal exoqrafiya",
+        "histeroskopiya və endometrium qaşıntısının patomorfoloji müayinəsi",
+        "laparoskopiya və bioptatın patomorfoloji müayinəsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "78. Endometriumun xərçənginin əsas kliniki əlamətləri:",
+      "options": [
+        "sonsuzluq",
+        "qonşu orqanların funksiyasının pozulması",
+        "kontakt qanaxmalar",
+        "xroniki çanaq ağrıları",
+        "atsiklik qanaxmalar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Endometriumun xərçəngönü xəstəliyidir:",
+      "options": [
+        "adenomioz",
+        "endometriumun vəzili hiperplaziyası",
+        "endometriumun atrofiyası",
+        "endometriumun vəzili-kistoz hiperplaziyası",
+        "endometriumun adenomatoz hiperplaziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Endometriumun xərçəngönü xəstəliyidir:",
+      "options": [
+        "endometriumun atrofiyası",
+        "adenomioz",
+        "endometriumun vəzili-kistoz hiperplaziyası",
+        "endometriumun vəzili hiperplaziyası",
+        "endometriumun adenomatoz polipləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "81. Endometriumun xərçəngönü xəstəliyidir:",
+      "options": [
+        "endometriumun vəzili hiperplaziyası",
+        "adenomioz",
+        "endometriumun atrofiyası",
+        "endometriumun atipik hiperplaziyası",
+        "endometriumun vəzili-kistoz hiperplaziyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "82. Yumurtalığın şişəbənzər törəmələrinin xarakter xüsusiyyətləri:",
+      "options": [
+        "maliqnizasiyaya uğraya bilər",
+        "peritona disseminiasiya oluna bilər",
+        "kapsulası yoxdur",
+        "bu retension törəmələr olub maye hesabına böyüyür",
+        "hüceyrələrin proliferaiyası səbəbindən böyüyür"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "83. Yumurtalığın epitelial şişlərinə aid deyil:",
+      "options": [
+        "sistadenokarsinoma",
+        "musinoz sistadenoma",
+        "brenner şişi",
+        "yumurtalığın fibroması",
+        "seroz sistadenoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "84. Yumurtalığın epitelial şişlərinə aid deyil:",
+      "options": [
+        "sistadenokarsinoma",
+        "musinoz sistadenoma",
+        "brenner şişi",
+        "qranulyoz hüceyrəli şiş",
+        "seroz sistadenoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "85. Yumurtalığın epitelial şişlərinə aid deyil:",
+      "options": [
+        "sistadenokarsinoma",
+        "brenner şişi",
+        "musinoz sistadenoma",
+        "seroz sistadenoma",
+        "disherminoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "86. Yumurtalığın herminogen şişlərinə aiddir:",
+      "options": [
+        "brenner şişi",
+        "sistadenokarsinoma",
+        "musinoz sistadenoma",
+        "seroz sistadenoma",
+        "yetkin teratoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Yumurtalığın herminogen şişlərinə aiddir:",
+      "options": [
+        "brenner şişi",
+        "sistadenokarsinoma",
+        "musinoz sistadenoma",
+        "qeyri-yetkin taratoma",
+        "seroz sistadenoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "88. Yumurtalığın herminogen şişlərinə aiddir:",
+      "options": [
+        "brenner şişi",
+        "sistadenokarsinoma",
+        "seroz sistadenoma",
+        "musinoz sistadenoma",
+        "disherminoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "89. Yumurtalığın epitelial şişlərinə aid deyil:",
+      "options": [
+        "sistadenokarsinoma",
+        "brenner şişi",
+        "musinoz sistadenoma",
+        "seroz sistadenoma",
+        "tekoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "90. Yumurtalığın hormonalaktiv şişlərinə aid deyil:",
+      "options": [
+        "androblastoma",
+        "arrenoblastoma",
+        "teka-hüceyrəli şiş",
+        "disherminoma",
+        "qranulyoz hüceyrəli sis"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "91. Hansı fəsad yumurtalığın hərəkətli xoşxassəli şişlərində ən çox rast gəlinir?",
+      "options": [
+        "qonşu orqanların sıxılması",
+        "möhtəviyyatın irinləməsi",
+        "sişin öz ayaqcığı ətrafında burulması",
+        "şişin daxilinə qansızma",
+        "kapsulanın partlaması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "92. Xoriokarsinoma – hansı toxumanın bədxassəli törəməsidir?",
+      "options": [
+        "endometriumun",
+        "teka-toxumanın",
+        "miometriumun",
+        "desidual qişanın",
+        "trofoblastın"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "93. Xoriokarsinoma ən çox inkişaf edir:",
+      "options": [
+        "hamiləliyin süni pozulmasından sonra",
+        "gec düşüklərdən sonra",
+        "beçəxordan sonra",
+        "doğuşdan sonra",
+        "uşaqlıqdankənar hamiləlikdən sonra"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "94. Hansı patoloji vəziyyətlərdə daxili qanaxma olmur?",
+      "options": [
+        "yumurtalıqların apopleksiyasında",
+        "tibbi abort zamanı uşaqlığın perforasiyasında",
+        "dalağın və ya qaraciyərin travmatik zədələnməsində",
+        "yumurtalıq şişlərinin öz ayaqcığı ətrafında burulmasında",
+        "uşaqlıqdankənar boru hamiləliyinin abortiv pozulmasında"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "95. Paramezonefral axarların natamam birləşməsindən yaranır:",
+      "options": [
+        "qonadların disgeneziyası",
+        "Rokitanski-Kyüstner-Mayer sindromu",
+        "qızlıq pərdəsinin atreziyası",
+        "ikibuynuzlu uşaqlıq",
+        "uşaqlıq yolunun atreziyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "96. Progesteronun əsas funksiyasına aid deyil:",
+      "options": [
+        "antiestrogen təsiri var",
+        "uşaqlıq borularının peristaltikasını azaldır",
+        "miometriumun tonusunu azaldır",
+        "döl yumurtasının implantasiyası üçün endometriumu hazırlayır",
+        "qanda birləşdirici zulalların miqdarını artırır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "97. Ovulyasiya zamanı baş vermir:",
+      "options": [
+        "prostaqlandinlərin sekresiyası",
+        "progesteronun sintezi",
+        "LH səviyyəsinin artması",
+        "yumurta hüceyrəsinin reduksion bölünməsi",
+        "FSH sekresiyasının tormozlanması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "98. Sarı cismin funksiyasının qiymətləndirilməsi üçün endometriumun diaqnostik qaşınması aparılır:",
+      "options": [
+        "aybaşı tsiklinin 18-19-cü günlərində",
+        "aybaşı tsiklinin 11-14-cü günlərində",
+        "aybaşı tsiklinin 14-15-ci günlərində",
+        "menstrual tsiklin fazasından asılı olmayaraq",
+        "aybaşı tsiklinin 25-27-ci günlərində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "99. Sarı cisim tərəfindən ifraz olunan progesteron nə vaxt maksimum həddə çatır:",
+      "options": [
+        "aybaşı 2-3 gün qalmış",
+        "ovulyasiyadan 6-8 gün sonra",
+        "aybaşı vaxtı",
+        "ovulyasiya vaxtı",
+        "follikulyar fazada"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "100. Funksional boru sonsuzluğunun müalicəsində istifadə olunmur:",
+      "options": [
+        "spazmolitiklər",
+        "fizio- və balneoterapiya",
+        "qeyri steroid iltihab əleyhinə preparatlar",
+        "sedativ preparatlar",
+        "müalicəvi hidrotubasiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "101. Yumurtalığın şişəbənzər törəmələrinə aid deyil:",
+      "options": [
+        "paroovarial sist",
+        "sarı cismin sisti",
+        "tekalütein sist",
+        "folikullyar sist",
+        "dermoid sist"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "102. Diaqnostik histeroskopiyaya göstəriş deyil:",
+      "options": [
+        "uşaqlığın inkişaf anomaliyası",
+        "plasentar polip",
+        "postmenopauzada qanaxma",
+        "reproduktiv dövrdə resedivləşən uşaqlıq qanaxması",
+        "uşaqlığın subseroz mioması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "103. Planlı laparoskopiya aparılmır:",
+      "options": [
+        "uşaqlığın subseroz miomasında",
+        "polikistoz yumurtalıqlar sindromunda",
+        "boru – peritoneal sonsuzluqda",
+        "yumurtalığın fəsadlaşmamış şişəbənzər törəmələrində",
+        "boru hamiləliyin boru abortu tipində pozulması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "104. Planlı laparoskopiya aparılmır:",
+      "options": [
+        "polikistoz yumurtalıqlar sindromunda",
+        "uşaqlığın subseroz miomasında",
+        "boru – peritoneal sonsuzluqda",
+        "yumurtalığın fəsadlaşmamış şişəbənzər törəmələrində",
+        "subseroz miomatoz düyünün ayaqcının burulmasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "105. Planlı laparoskopiya aparılmır:",
+      "options": [
+        "polikistoz yumurtalıqlar sindromunda",
+        "boru – peritoneal sonsuzluqda",
+        "uşaqlığın subseroz miomasında",
+        "yumurtalığın apopleksiyasının orta ağır hemorragik formasında",
+        "yumurtalığın fəsadlaşmamış şişəbənzər törəmələrində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "106. Planlı laparoskopiya aparılmır:",
+      "options": [
+        "yumurtalığın fəsadlaşmamış şişəbənzər törəmələrində",
+        "boru hamiləliyində borunun cırılması zamanı",
+        "boru – peritoneal sonsuzluqda",
+        "uşaqlığın subseroz miomasında",
+        "polikistoz yumurtalıqlar sindromunda"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "107. Planlı laparoskopiya aparılmır:",
+      "options": [
+        "uşaqlığın subseroz miomasında",
+        "polikistoz yumurtalıqlar sindromunda",
+        "boru – peritoneal sonsuzluqda",
+        "yumurtalığın fəsadlaşmamış şişəbənzər törəmələrində",
+        "yumurtalığın şişəbənzər törəmələri və şişlərinin ayaqcığının burulmasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "108. 9 yaşına kimi qız uşaqlarında cinsiyyət yollardan gələn qanlı ifrazat zamanı vacibdir:",
+      "options": [
+        "cərrahi hemostaz",
+        "müşahidə etmək",
+        "qansaxlayıcı və uterotonik preparatların təyini",
+        "hormonal hemostaz aparmaq",
+        "qanaxmanın yerli üzvü səbəbini inkar etmək"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "109. İki fazalı aybaşı tsiklinin olmasını ən çox hansı funksional diaqnostik sınaq göstərir ?",
+      "options": [
+        "servikal seliyin gərilməsi fenomeni",
+        "rektal termometriya",
+        "kariopiknotik indeks",
+        "bəbək simptomu",
+        "qiji fenomeni"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "110. Prohestagenlərin təyininə əks göstəriş:",
+      "options": [
+        "kistoz mastopatiya",
+        "uşaqlığın mioması",
+        "endometriumun hiperplastik xəstəlikləri",
+        "ağır ürək-damar, qaraciyər xəstəlikləri",
+        "alqodismenoreya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "111. Embriogenez prosesində paramezonefral axacaqlardan inkişaf etmir:",
+      "options": [
+        "uşaqlıq boynu",
+        "uşaqlıq yolunun yuxarı üçdə bir hissəsi",
+        "uşaqlıq",
+        "xarici cinsiyyət orqanları",
+        "uşaqlıq boruları"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "112. Süd vəzilərindən patoloji ifrazatın gəlməsinin əsas səbəbi deyil:",
+      "options": [
+        "birincili hipotireoz",
+        "süd vəzisində axardaxili papilloma",
+        "fenotiazin sırası preparatlarından uzun müddət istifadə",
+        "adrenogenital sindrom",
+        "hipofizin mikroadenoması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "113. Boru-peritoneal sonsuzluğun diaqnostikasında hansı müayinə metodu daha informativdir?",
+      "options": [
+        "bikontrast pelviometriya",
+        "transvaginal exoqrafiya",
+        "histerosalpinqoqrafiya",
+        "xromosalpinqoskopiya ilə laparoskopiya",
+        "kimoqrafik pertubasiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "114. Boru keçməməzliyi hansı xəstəliklərin nəticəsi kimi yaranmır:",
+      "options": [
+        "kiçik çanaqda və qarın boşluğu orqanlarından cərrahi müdaxilə",
+        "xarici genital endometrioz",
+        "süzənək salpingiti.",
+        "genital xlamidioz",
+        "Mak-Kyün-Olbrayt-Braysev sindromunun"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "115. Uşaqlıq cismi xərçənginin əsas diaqnostik metodudur:",
+      "options": [
+        "histeroskopiya",
+        "transvaginal exoqrafiya",
+        "rentgenotelevizion histerosalpinqoqrafiya",
+        "uşaqlığın selikli qişasının qaşıntısının histoloji analizi",
+        "uşaqlıq boşluğu aspiratının sitoloji müayinəsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "116. Endometriumun xərçəngönü xəstəlikləri və xərçənginin risk amili deyil:",
+      "options": [
+        "endokrin mənşəli sonsuzlur",
+        "piylənmə və arterial hipertenziya",
+        "davamlı anovulyasiya",
+        "şəkərli diabet",
+        "uşaqlıqdaxili kontraseptiv vasitələrdən istifadə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "117. Yalançı amenoreya baş verir:",
+      "options": [
+        "hipofizin mikro- və makroadenomasında",
+        "neyrogen anoreksiyada",
+        "testikulyar feminizasiya sindromunda",
+        "uşaqlıq yolunun total aplaziyasında",
+        "hipotireozda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "118. Yalançı amenoreya baş verir:",
+      "options": [
+        "testikulyar feminizasiya sindromunda",
+        "hipofizin mikro- və makroadenomasında",
+        "uşaqlıq yolunun aşağı 1/3 hissəsinin aplaziyasında",
+        "hipotireozda",
+        "neyrogen anoreksiyada"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "119. Yalançı amenoreya baş verir:",
+      "options": [
+        "testikulyar feminizasiya sindromunda",
+        "hipotireozda",
+        "neyrogen anoreksiyada",
+        "hipofizin mikro- və makroadenomasında",
+        "uşaqlıq yolunun orta 1/3 hissəsinin aplaziyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "120. Yalançı amenoreya baş verir:",
+      "options": [
+        "hipofizin mikro- və makroadenomasında",
+        "İtsenko-Kuşinq sindromunda",
+        "uşaqlıq yolunun yuxarı 1/3 hissəsinin aplaziyasında",
+        "hiperprolaktinemiyada",
+        "neyrogen anoreksiyada"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "121. 49 yaşlı qadında disfunksional uşaqlıq qanaxmasının profilaktikası üçün sintetik hestagenlər verilir:",
+      "options": [
+        "aybaşının 18-ci günündən 28-ci gününədək",
+        "aybaşının 5-ci günündən 26-ci gününədək",
+        "aybaşınin 16-ci günündən 26-ci gününədək",
+        "sintetik hestagenlərin verilməsi məsləhət görülmür",
+        "fasiləsiz rejimdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "122. Müller axacaqlarının natamam bırləşməsi zamanı yaranır:",
+      "options": [
+        "qonadların disgeneziyası",
+        "uşaqlıq yolunun atreziyası",
+        "Rokitanski-Küstner-Mayer sindromu",
+        "ikibuynuzlu uşaqlıq",
+        "qızlıq pərdəsinin atreziyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "123. Qızlıq pərdəsinin atreziyası zamanı müşahidə edilmir:",
+      "options": [
+        "defekasiya aktının çətinləşməsi",
+        "qarnın aşağı nahiyyəsində siklik ağrılar",
+        "hematokalpos",
+        "sıdık ifrazının çətinləşməsi",
+        "arterial təzyiqin düşməsi və nəbzin tezləşməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "124. . Reproduktiv yaşda olan qadında yumurtalığın xoşxassəli şişi zamanı müalicə taktikası:",
+      "options": [
+        "2-3 ay müddətində hormonal müalicə, effekt olmazsa laparotomiya və adneksektomiya",
+        "təcili laparotomiya və ya laparoskopiya, adneksektomiya",
+        "planlı qaydada laparoskopiya, yumurtalığın rezeksiyası",
+        "gözləmə taktikası, fəsadlaşma baş verərsə, laparotomiya, adneksektomiya",
+        "1-2 aybaşı sikli iltihabəleyhinə müalicə, effekt olmazsa, laparotomiya və yumurtalığın"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "125. Erkən reproduktiv yaşda olan qadında yumurtalığın sadə seroz sistadenoması zamanı müalicə taktikası:",
+      "options": [
+        "2-3 ay müddətində hormonal müalicə, effekt olmazsa laparotomiya və adneksektomiya",
+        "təcili laparotomiya və ya laparoskopiya, adneksektomiya",
+        "1-2 aybaşı sikli iltihabəleyi müalicə, effekt olmazsa, laparotomiya və yumurtalığın rezeksiyası",
+        "gözləmə taktikası, fəsadlaşma baş verərsə, laparotomiya, adneksektomiya",
+        "planlı qaydada laparoskopiya, yumurtalığın rezeksiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "126. Yumurtalığın həqiqi şışlərinə aiddir:",
+      "options": [
+        "sarı cismin kistası",
+        "follikulyar kistalar",
+        "tekalütein sistlər",
+        "Brenner şişi (yumurtalığın fibroepitelioması)",
+        "paraovarial kistalar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "127. Kontrasepsiya məqsədilə kombinə olunmuş estrogen-hestagen plastlar təyin edilir:",
+      "options": [
+        "aybaşı günündən asılı olmayaraq",
+        "aybaşı tsiklinin 18-ci günündən",
+        "aybaşı ərəfəsində",
+        "ovulyasiya günündən",
+        "aybaşı tsiklinin I günündən etibarən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "128. Kombinə olunmuş oral kontraseptivlərin təyini məsləhət deyil:",
+      "options": [
+        "alqodismenoreyalı qadınlara",
+        "abortdan dərhal sonar hamiləlikdən qorunmaq istəyənlərə",
+        "anamnezində uşaqlıqdankənar hamiləliyi və ya kesar kəsiyi əməliyyatı olanlara",
+        "yumurtalığın xərçənginə irsi meylliyi olan qadınlara",
+        "ağır arterial hipertenziyalı qadınlara"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "129. Endokrin sonsuzluq baş vermir:",
+      "options": [
+        "hipotalamo-hipofizar disfunksiyada",
+        "yumurtalığın qranulyozhüceyrəli şişlərində",
+        "adrenogenital sindromda",
+        "hipofizin prolaktin sintez edən şişlərində",
+        "qeyri-yetkin teratoma zamanı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "130. Uşaqlıq borularının keçiriciliyinin pozulmasının əsas səbəbi deyil:",
+      "options": [
+        "xarici genital endometrioz",
+        "qarin boşluği və kiçik çanaq orqanlarinda aparılan cərrahi əməliyyatlar",
+        "süzənək və vərəm mənşəli salpingit",
+        "genital xlamidioz",
+        "uşaqlığın kiçik ölçülü subseroz mioması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "131. Mərkəzi mənşəli cinsi yetişkənliyin ləngiməsinin əsas səbəbi deyil:",
+      "options": [
+        "infeksion-toksik xəstəliklər",
+        "stress",
+        "yumurtalığın qranulyoz hüceyrəli şişlərin",
+        "irsi hipotalamo-hipofizar çatışmazlıq",
+        "hipotalamusun tənzimləyici funksiyasının pozulması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "132. Mərkəzi mənşəli cinsi yetişkənliyin ləngiməsinin əsas səbəbi deyil:",
+      "options": [
+        "irsi hipotalamo-hipofizar çatışmazlıq",
+        "yumurtalıqların disgeneziyası",
+        "hipotalamusun tənzimləyici funksiyasının pozulması",
+        "stress",
+        "infeksion-toksik xəstəliklər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "133. Cinsi yetişkənliyin ləngiməsi üçün xarakterik əlamət deyil:",
+      "options": [
+        "cinsi yetişkənlik dövründə süd vəzilərinin inkişafdan qalması",
+        "yevnuxoid bədən quruluşunun olması",
+        "sümük yaşı təqvim yaşına uyğun deyil",
+        "cinsi yetişkənlik dövründə ikincili cinsi əlamətləri inkişafdan qalır",
+        "8 yaşlı qızda süd vəziləri inkişaf etmış olur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "134. Prolaktin ifrazının əsas ingibitorudur:",
+      "options": [
+        "tireoliberin",
+        "opioid peptidlər",
+        "noradrenalin",
+        "serotonin",
+        "dofamin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "135. Meyqs üçlüyü yumurtalığın hansı şişində müşahidə olunur:",
+      "options": [
+        "sarı cismin sistində",
+        "follikulyar sistlərdə",
+        "sadə seroz sistadenomada",
+        "papilyar sistadenomada",
+        "fibromada"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "136. Yumurtalığın fibromasında müşahidə olunan Meyqs üçlüyünə aiddir : 1) Hidrotoraks 2) Polisitemiya 3) Anemiya 4) Kaxeksiya 5) Assit",
+      "options": [
+        "3,4,5",
+        "1,2,4",
+        "1,4,5",
+        "1,3,5",
+        "2,3,4"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "137. Follikulstimuləedici hormonun funksiyasına aiddir: 1) Tekahüceyrələrdə androgen hormonlarının sintezini təmin edir 2) Yumurtalıqlarda follikulların böyüməsini və yumurta hüceyrənin yetişməsini təmin edir 3) Qranulyoz hüceyrələrin proliferasiyasını təmin edir 4) Ovulyasiyanın baş verməsini və progesteron sintezini təmin edir 5) Yetişən follikulda aromatazanı aktivləşdirərək androgenlərin estrogenlərə konversiyasını artırır",
+      "options": [
+        "1,2,3",
+        "3,4,5",
+        "2,3,5",
+        "1,3,5",
+        "1,4,5"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "138. Lüteinləşdirici hormonun funksiyasına aiddir: 1) Tekahüceyrələrdə androgen hormonların sintezini təmin edir 2) Yumurtalıqlarda follikulların böyüməsini və yumurta hüceyrənin yetişməsini təmin edir 3) FSH ilə birgə ovulyasiyasının baş verməsini təmin edir 4) Qranulyoz hüceyrələrin proliferasiyasını təmin edir 5) Ovulyasiyadan sonra sarı cisimdə lüteinləşmiş qranulyoz hüceyrələr tərəfindən progesteron sintezini təmin edir",
+      "options": [
+        "1,4,5",
+        "2,4,5",
+        "3,4,5",
+        "1,2,3",
+        "1,3,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "139. Yatrogen amenoreya yaranmır:",
+      "options": [
+        "antiestrogen preparatların qəbulundan sonra",
+        "qonadotropinlərin aqonistlərini qəbul edərkən",
+        "histerektomiyadan sonra",
+        "qızlıq pərdəsinin atreziyasında",
+        "total ovariektomiyadan sonra"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "140. Yatrogen amenoreya müşahidə olunur :",
+      "options": [
+        "qızlıq pərdəsinin atreziyasında",
+        "uşaqlıq yolunun tam aplaziyasında",
+        "Rokitanski-Küster-Mayer sindomunda",
+        "servikal kanalın atreziyasında",
+        "total ovariektomiyadan sonra"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "141. Pubertat dövrün uşaqlıq qanaxması zamanı hormonal hemostaz əsasən aparılır:",
+      "options": [
+        "androgenlərlə",
+        "uşaqlığın selikli qişasının diaqnostik qaşınması ilə",
+        "qlükokortikosteroidlərlə",
+        "hestagenlərlə",
+        "estrogen-hestagenlərlə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "142. Hiperandrogeniyanın yumurtalıq və ya böyrəküstü vəzi mənşəli olmasını aydınlaşdırmaq üçün əsasən hansı sınaqdan istifadə olunur?",
+      "options": [
+        "qanda dehidroepiandrosteronun təyini",
+        "qanda androstendionun təyini",
+        "yod sınağı",
+        "qanda 17-hidroksiprogesteronun təyini",
+        "deksametazon sınağı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "143. Adrenogenital sindrom üçün xarakterik deyil:",
+      "options": [
+        "sümüklərdə böyümə zonasının tez bağlanması",
+        "hirsutizm",
+        "izolə olunmuş vaxtından əvvəl pubarxe",
+        "aybaşın gec başlaması",
+        "qalaktoreya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "144. Daxili cinsiyyət orqanlarının iltihabi xəstəlikləri nə üçün çox vaxt qadın sonsuzluğunun yaranmasına səbəb olur?",
+      "options": [
+        "yumurtalıqların rezervini artırır",
+        "endokrin sistem xəstəliklərinin yaranmasına səbəb olur",
+        "eyakulyata qarsı sensibilizasiya formalaşdırır",
+        "uşaqlıq borularının keçiriciliyini pozmaqla kiçik çanaqda və qarın boşluğunda bitişmə prosesinin yaranmasına səbəb olur",
+        "uşaqlıq boynunda eroziya yaradır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "145. Xroniki endometrit:",
+      "options": [
+        "kiçik çanaqda bitişmələr yaradır",
+        "hiperprolaktinemiya verir",
+        "hiperandrogeniya ilə müşahidə olunur",
+        "xroniki intoksikasiya verir",
+        "endometriumu nazikləşdirir sonsuzluğa səbəb olur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "146. Kiçik çanaq peritonunun endometriozunun diaqnostikasında ən informativ üsuldur:",
+      "options": [
+        "kolposkopiya",
+        "ultrasəs müayinə",
+        "histeroskopiya",
+        "histerosalpinqoqrafiya",
+        "laparoskopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "147. Cinsi yetişkənlik dövründə baş vermir:",
+      "options": [
+        "boyatmanın sürətlənməsi",
+        "süd vəzilərinin böyüməsi",
+        "qasıq və qoltuqaltı tüklənmənin olması",
+        "ilk aybaşının olması",
+        "xarici cinsiyyət orqanlarının inkişafdan qalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "148.  Uşaqlıqdankənar hamiləlik zamanı endometriumda xarakterik dəyişikliklər:",
+      "options": [
+        "endometrial polip",
+        "proliferasiya",
+        "vəzili-kistoz hiperplaziya",
+        "atrofiya",
+        "desidual transformasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "149. Yalançı amenoreya müşahidə olunur:",
+      "options": [
+        "Terner sindromu",
+        "İtsenko-Kuşinq xəstəliyində",
+        "qonadların disgeneziyasında",
+        "uşaqlıq boynu kanalının atreziyasında",
+        "Rokitanski-Küstner-Mayer sindromunda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "150. Fizioloji amenoreya müşahidə olunmur:",
+      "options": [
+        "uşaqlıq dövründə",
+        "hamiləlikdə",
+        "laktasiya dövründə",
+        "postmenopauzada",
+        "qonadların diskineziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "151. Boru hamiləliyinin diaqnostikasında çətinlik yaranarsa, diferensasiya üçün ən informativ üsul hesab olunur:",
+      "options": [
+        "uşaqlıq yolunun arxa tağının punksiyası",
+        "histerosalpinqoqrafiya",
+        "transvaginal exoqrafiya",
+        "dinamikada qanda xorionik qonadotropinin təyini",
+        "laparoskopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "152. Kombinə olunmuş oral kontraseptivlərlərin təyininə əks göstərişdir:",
+      "options": [
+        "arterial təzyiqin normal olması",
+        "dəmir defisitli anemiya",
+        "menometrorragiya",
+        "endometrioz",
+        "süd vəzilərinin hormondanasılı bədxassəli şişləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "153. Kombinə olunmuş oral kontraseptivlərlərin təyininə əks göstərişdir:",
+      "options": [
+        "dəmir defisitli anemiya",
+        "yuvenil qanaxmalar",
+        "cinsiyyət üzvlərinin hormondanasılı bədxassəli şişləri",
+        "menometrorragiya",
+        "endometrioz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "154. Kombinə olunmuş oral kontraseptivlərlərin təyininə əks göstərişdir:",
+      "options": [
+        "yuvenil qanaxmalar",
+        "dəmir defisitli anemiya",
+        "menometrorragiya",
+        "endometrioz",
+        "müalicəyə tabe olmayan yüksək arterial təzyiq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "155. Kombinə olunmuş oral kontraseptivlərlərin təyininə əks göstərişdir:",
+      "options": [
+        "yuvenil qanaxmalar",
+        "dəmir defisitli anemiya",
+        "menometrorragiya",
+        "anamnezdə trombofilik fəsadlaşmaların olması",
+        "endometrioz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "156. Boru hamiləliyində hansı hallarda laparoskopik əməliyyatdan çox laparotomik əməliyyata üstünlük verilir?",
+      "options": [
+        "proqressivləşən boru hamiləliyi",
+        "qarın boşluğunda qanın <150 ml olması və daxili qanaxma əlamətlərinin artmaması",
+        "xəstənin hemodinamik göstəricilərinin stabil olması",
+        "xəstənin ümumi vəziyyətinin qənaətbəxş olması",
+        "hemorragik şok və qarın boşluğunda çoxsaylı bitişmələrin olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "157. Boru hamiləliyində uşaqlıq borusunun cırılması zamanı yaranan əsas simptomlara aid deyil:",
+      "options": [
+        "ağrı sindromu",
+        "peritonun qıcıqlanma simptomu",
+        "“Duqlasın qışqırığı”",
+        "uşaqlıq yolundan irinli ifrazatın gəlməsi",
+        "hemorrаgik şok"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "158. Yumurtalığın dermoid sistlərinin müalicəsi hansıdır?",
+      "options": [
+        "sorucu terapiyanın təyini",
+        "nəzarət",
+        "fizioterapiya",
+        "cərrahi müdaxilə",
+        "immunomodulyatorların təyini"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "159. Boru hamiləliyində aşaqlıq borusunun cırılması zamanı vaginal-abdominal müayinədə aşkar olunur: 1) “Üzən uşaqlıq” simptomu 2) “Duqlasın qışqırığı” 3) Uşaqlığın ön divarında bərk, hərəkətli törəmənin olması 4) Uşaqlıq boynunun traksiyası zamanı ağrının olması 5) Uşaqlığın yan tərəfində elastik konsistensiyalı ağrısız törəmənin olması",
+      "options": [
+        "2,3,5",
+        "1,2,3",
+        "2,4,5",
+        "1,2,4",
+        "3,4,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "160. Boru hamiləliyində uşaqlıq borusunun cırılması zamanı yaranan əsas simptomlara aid deyil:",
+      "options": [
+        "huşun qəflətən itməsi",
+        "peritonun qıcıqlanma simptomu",
+        "ürəkbulanma, qusma",
+        "arterial təzyiqin yüksəlmasi",
+        "ağrı sindromunun qəflətən başlaması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "161. ”Duqlasın qışqırığı” simptomu hansı klinik halda müşahidə oluna bilər?",
+      "options": [
+        "uşaqlıqdaxili kontraseptivin uşaqlıq divarını natamam perforasiya etməsi zamanı",
+        "yumurtalığın follikulyar sistində",
+        "başlanmış və təhlükəli düşüklərdə",
+        "boru hamiləliyində uşaqlıq borusunun cırılması zamanı",
+        "uşaqlıq artımlarının xroniki iltihabi xəstəliklərində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "162. Uşaqlıq boynu hamiləliyi diaqnozu qoyulan kimi nə üçün dərhal cərrahi əməliyyata başlamaq lazımdır?",
+      "options": [
+        "ağciyər arteriyasının tromboemboliyası baş verə bilər",
+        "xorionepitelioma yarana bilər",
+        "usaqlığın cırılması baş verə bilər",
+        "usaqlıq boynunun iltihablaşması baş verə bilər",
+        "gec başlamış əməliyyat profuz qanaxmaya səbəb ola bilər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "163. Uşaqlıq boynu hamiləliyində əsasən icra olunan əməliyyat:",
+      "options": [
+        "uşaqlıq boynunun hündürdən amputasiyası",
+        "uşaqlıq boynunun konizasiyası",
+        "usaqlığın artımlarla amputasiyası",
+        "usaqlığın artımlarsız amputasiyası",
+        "usaqlığın artımlarsız ekstirpasiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "164. Qonadotropin-rilizinq hormonun sintezi:",
+      "options": [
+        "hipofizin ön payında",
+        "baş beyin qabığının neyronlarında",
+        "hipofizin arxa payında",
+        "onurğa beyninin neyronlarında",
+        "hipotalamusun nüvələrində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "165. 33 yaşlı qadın növbəti aybaşının 7 həftə ləngiməsi, hamiləliyin əvvəlindən uşaqlıq yolundan vaxtaşırı qanlı ifrazatın gəlməsi və hamiləlik müddəti artdıqca qanaxmanın da artması şikayəti ilə müraciət edib. Qanaxma ağrı ilə müşayiət olunmur. Daxili müayinədə uşaqlıq boynu böyüyüb, yumşaqdır, kürəvari formalıdır, xarici dəlik bir qədər açıqdır, ekssentrik yerləşib. Uşaqlıq boşluğunu qaşıyarkən qanaxmanın güclənməsi və döl yumurtasının xaric olunmasından sonra da dayanmaması aşkar edilir. Ehtimal olunan diaqnoz:",
+      "options": [
+        "baş tutmamış hamiləlik",
+        "düşük təhlükəsi",
+        "uşaqlıq boynu hamiləliyi",
+        "hazır abort",
+        "başlanmış düşük"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "166. Uşaqlığın ayaqcıq üzərində olan subseroz miomasında icra olunur:",
+      "options": [
+        "histeroskopiya",
+        "uşaqlıq boşluğunun zondlanması",
+        "laparoskopiya",
+        "hidrosonoqrafiya",
+        "histerosalpinqoqrafiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "167. Uşaqlıq boynu hamiləliyinin yaranma səbəblərinə aid deyil:",
+      "options": [
+        "çoxsaylı abortların olması",
+        "zahılıq dövründə ağırlaşmaların olması",
+        "uşaqlıqda miomanın olması",
+        "yumurtalıqda şişəbənzər törəmənin olması",
+        "əvvəlki doğuşlarda ağırlaşmaların olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "168. Yumurtalığın epitelial şişlərinə aiddir:",
+      "options": [
+        "yetkin teratoma",
+        "disherminoma",
+        "yumurtalığın qranulyoz hüceyrəli şişi",
+        "psevdomusinoz sistadenoma",
+        "yumurtalığın tekoması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "169. Yumurtalığın hormonal aktiv şişlərinə aiddir:",
+      "options": [
+        "Brenner şişi",
+        "psevdomusiniz sisadenoma",
+        "fibroma",
+        "disherminoma",
+        "qranulyoz hüceyrəli şiş"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "170. Yumurtalığın xoşxassəli şişlərində rast gəlinən fəsadlara aiddir? 1) şişin öz ayaqcığı ətrafında burulması 2) şişin daxilinə qansızma 3) kapsulanın partlaması 4) şiş möhtəviyyatının irinləməsi 5) şişin maliqnizasiyası",
+      "options": [
+        "2,3,5",
+        "1,4,5",
+        "2,4,5",
+        "3,4,5",
+        "1,2,3"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "171. Progesteron harada sintez olunur:",
+      "options": [
+        "qaraciyərdə",
+        "follikullarda",
+        "hipofizdə",
+        "hipotalamusda",
+        "sarı cisimdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "172. Təxirəsalınmaz laparoskopiya aparılır:",
+      "options": [
+        "boru – peritoneal sonsuzluqda",
+        "polikistoz yumurtalıqlar sindromunda",
+        "uşaqlığın subseroz miomasında",
+        "yumurtalıq şişlərinin ayaqcığının burulmasında",
+        "yumurtalığın fəsadlaşmamış şişəbənzər törəmələrində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "173. Postmenopauzal dövrdə risk qrupuna aid olan qadınlar profilaktik müayinə olunmalıdırlar:",
+      "options": [
+        "1,5 ildə 1 dəfə",
+        "5 ildə 1 dəfə",
+        "3 ildə 1 dəfə",
+        "2 ildə 1 dəfə",
+        "1 ildə 2 dəfə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "174. Qızlıq pərdəsinin tam atreziyası zamanı əsasən müşahidə edilmir: 1) Arterial təzyiqin düşməsi və bayılma 2) Sidik ifrazının çətinləşməsi 3) Hematokolpos 4) Hematometra 5) Nəcisdə gizli qanın olması",
+      "options": [
+        "3,5",
+        "2,3",
+        "2,4",
+        "1,5",
+        "3,4"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "175. Kombinə olunmuş oral kontraseptivlərin təyini məsləhət deyil:",
+      "options": [
+        "anamnezində uşaqlıqdankənar hamiləliyi və ya kesar kəsiyi əməliyyatı olanlara",
+        "yumurtalığın xərçənginə irsi meylliyi olan qadınlara",
+        "hamiləlikdən qorunmaq istəyənlərə abortdan dərhal sonra",
+        "alqodismenoreyalı qadınlara",
+        "qaraciyər sirrozu olan qadınlara"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "176. Menarxe zamanı yumurtalıqlarda təxminən nə qədər primordial follikul olur?",
+      "options": [
+        "8 mln",
+        "7 mln",
+        "10 mln",
+        "200 000 – 400 000",
+        "50 000-70 000"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "177. Ovulyasiyaönü dövrdə follikul necə adlanır?",
+      "options": [
+        "primordial follikul",
+        "antral follikul",
+        "preantral follikul",
+        "sarı cisim",
+        "dominant follikul"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "178. Birincili follikul necə adlanır?",
+      "options": [
+        "antral follikul",
+        "dominant follikul",
+        "sarı cism",
+        "primordial follikul",
+        "preantral follikul"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "179. İkincili follikul necə adlanır?",
+      "options": [
+        "dominant follikul",
+        "preantral follikul",
+        "primordial follikul",
+        "sarı cisim",
+        "antral follikul"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "180. Dominant follikul bilavasitə yaranır:",
+      "options": [
+        "sarı cisimdən",
+        "primordial follikuldan",
+        "primordial hüceyrələrdən",
+        "antral follikuldan",
+        "preantral follikuldan"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "181. Sarı cisimdə əsasən sintez olunur:",
+      "options": [
+        "dehidroepiandrosteron",
+        "estron",
+        "androstendion",
+        "progesteron",
+        "17-hidroksiprogesteron"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "182. Hipotalamusun termorequlyasiya mərkəzinə bilavasitə təsir edən steroid hormon:",
+      "options": [
+        "17-hidroksiprogesteron",
+        "estron",
+        "estradiol",
+        "estriol",
+        "progesteron"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "183. Ovulyasiya:",
+      "options": [
+        "yumurtalıqda follikulogenez prosesində estrogenlərin səviyyəsinin tədricən artmasıdır",
+        "endometriumda progesteron ifrazı ilə əlaqədar sekretor dəyişikliklərin yaranmasıdır",
+        "estradiol və progesteronun səviyyəsinin kəskin azalmasının nəticəsidir",
+        "estradiolun pik səviyyəsindən sonra baş verir",
+        "progestron ifrazının pik səviyyəsindən sonra baş verir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "184. Hamiləlik baş verməyibsə sarı cisim neçə gün mövcüd olur?",
+      "options": [
+        "28",
+        "3",
+        "5",
+        "10",
+        "14"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "185. Aybaşı tsiklində endometriumda baş verən proliferasiya prosesi əsasən hansı hormonun təsiri ilə yaranır?",
+      "options": [
+        "progesteronun",
+        "adrenokortikotrop hormonun",
+        "estrogenlərin",
+        "somatotrop hormonun",
+        "androgenlərin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "186. Aybaşı tsiklində endometriumda baş verən sekresiya prosesi əsasən hansı hormonun təsiri ilə yaranır?",
+      "options": [
+        "adrenokortikotrop hormonun",
+        "androstendionun",
+        "somatotrop hormonun",
+        "progesteronun",
+        "testosteronun"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "187. Aybaşı zamanı soyulur:",
+      "options": [
+        "parametral toxuma",
+        "perimetrium",
+        "miometrium",
+        "endometriumun bazal qatı",
+        "endometriumun funksional qatı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "188. Aybaşı tsiklində endometriumda baş verən sekretor dəyişikliklər təxminən neçə gün davam edir?",
+      "options": [
+        "1-2",
+        "8-9",
+        "28-29",
+        "12-14",
+        "10-11"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "189. Aybaşı zamanı endometriumun funksional qatının soyulması hansı hormonların kəskin azalması hesabına yaranır?",
+      "options": [
+        "xorionik qonadotropinin",
+        "antimüller hormonun",
+        "ingibin və relaksinin",
+        "androgenlərin",
+        "estrogen və progesteronun"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "190. Reproduktiv sistemin tənziminin ikinci səviyyəsinə aiddir:",
+      "options": [
+        "yumurtalıqlar",
+        "hipofiz",
+        "beyin qabığı",
+        "hippokamp",
+        "hipotalamus"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "191. Reproduktiv sistemin tənziminin üçüncü səviyyəsinə aiddir:",
+      "options": [
+        "beyin qabığı",
+        "yumurtalıqlar",
+        "adenohipofiz",
+        "hipotalamus",
+        "hippokamp"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "192. Reproduktiv sistemin təmziminin dördüncü səviyyəsinə aiddir:",
+      "options": [
+        "beyin qabığı",
+        "hipotalamus",
+        "hədəf orqanları",
+        "hipofiz",
+        "yumurtalıqlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "193. Lüteinləşdirici hormon sintez olunur:",
+      "options": [
+        "yumurtalıqda",
+        "hipotalamusda",
+        "endometriumda",
+        "adenohipofizdə",
+        "böyrəküstü vəzidə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "194. Follikulstimuləedici hormon sintez olunur:",
+      "options": [
+        "yumurtalıqda",
+        "adenohipofizdə",
+        "endometriumda",
+        "hipotalamusda",
+        "böyrəküstü vəzidə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "195. Boru hamiləliyinin yaranma səbəbi deyil:",
+      "options": [
+        "kiçik çanaqda aparılan cərrəhi əməliyyatlar",
+        "kombinə olunmuş oral kontraseptivlərdən istifadə",
+        "ekstrakorporal mayalanmada hestagenlərin istifadəsi",
+        "xarici genital endometrioz",
+        "qadın cinsiyyət orqanlarının iltihabi xəstəlikləri"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "196. Uşaqlıqdankənar hamiləliyin az təsadüf olunan formalarıdır: 1) Boru hamiləliyi 2) Yumurtalıq hamiləliyi 3) Uşaqlıq boynu hamiləliyi 4) Rudimentar buynuzda olan hamiləlik 5) Qarın boşluğu hamiləliyi",
+      "options": [
+        "1,3,5",
+        "1,4,5",
+        "1,2,4",
+        "3,4,5",
+        "1,2,3"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "197. Proqressivləşən boru hamiləliyi ən çox nə ilə nəticələnə bilər?",
+      "options": [
+        "kiçik çanaqda bitişmələrin yaranması ilə",
+        "hamiləliyin normal başa çatması ilə",
+        "boruda döl yumurtasının inkişafdan qalması ilə",
+        "döl yumurtasının uşaqlıq boşluğuna düşməsi ilə",
+        "uşaqlıq borusunun cırılması ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "198. Ektopik hamiləlik ən çox harada inkişaf edir?",
+      "options": [
+        "rudimentar buynuzda",
+        "uşaqlıq boynunda",
+        "qarın boşluğunda",
+        "yumurtalıqlarda",
+        "uşaqlıq bоrularında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "199. Boru hamiləliyinin formalarına aid deyil:",
+      "options": [
+        "fimbrial",
+        "ampulyar",
+        "istmik",
+        "interstisial (intramural)",
+        "intraliqamentar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "200. Boru hamiləliyində ən çox icra olunan əməliyyat:",
+      "options": [
+        "laparoskopik drilinq",
+        "borunun rezeksiyası",
+        "tubotomiya",
+        "milkinq",
+        "tubektomiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "201. Boru abortu ən çox döl yumurtası borunun hansı hissəsinə implantasiya olunduqda baş verir?",
+      "options": [
+        "borunun xarici səthinə",
+        "fimbriyalara",
+        "istmik hissəyə",
+        "intramural hissəyə",
+        "ampulyar hissəyə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "202. Ekstrakorporal mayalanmada istifadə olunan hansı preparat ektopik hamiləliyə səbəb ola bilər?",
+      "options": [
+        "follikulstimuləedici hormonun analoqu",
+        "spazmolitiklər",
+        "xorionik qonadotropin",
+        "estrogen-hestagenlər",
+        "yüksək dozada hestagenlər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "203. Ekstrakorporal mayalanmada istifadə olunan yüksək dozada hestagen preparatlar nə üçün ektopik hamiləliyə səbəb ola bilər?",
+      "options": [
+        "borularda divertikul yaradaraq döl yumurtasının oraya düşməsinə səbəb olur",
+        "boruda qan dövranını artıraraq döl yümürtasının inkişafı üçün əlverişli şərait yaradır",
+        "döl yumurtasını boruda inkişafdan saxlayır",
+        "uşaqlıq borularında bitişmə prosesinin yaranmasına səbəb olur",
+        "usaqlıq borularının peristaltikasını azaldaraq döl yumurtasını boruda ləngidir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "204. Salpinqooforit keçirmiş qadınlarda baş verən hansı dəyişikliklər ən çox boru hamiləliyin yaranmasına səbəb olmur?",
+      "options": [
+        "yumurtalıqlarda steroidogenezin pozulması",
+        "boruların yığılma funksiyasının pozulması",
+        "neyro-endokrin statusun dəyişməsi",
+        "boruların keçiriciliyinin pozulması",
+        "endometriumda sinexiyaların yaranması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "205. Yetişmiş yumurta hüceyrənin mayalanması baş verir:",
+      "options": [
+        "uşaqlığın aşağı seqmentində",
+        "uşaqlığın dibində",
+        "borunun istmik hissəsində",
+        "borunun intramural hissəsində",
+        "borunun ampulyar hissəsində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "206. 4 həftəlik aybaşı tsiklində döl yumurtasının usaqlığa implantasiyası nə vaxt baş verir?",
+      "options": [
+        "tsiklin 1-2-ci günü",
+        "tsiklin 26-27-ci günü",
+        "tsiklin 15-16-cı günü",
+        "tsiklin 12-13-cü günü",
+        "tsiklin 21-22-ci günü"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "207. Uşaqlıqdaxili kontraseptivlərdən uzun müddət istifadə ektopik hamiləliyin yaranmasına səbəb ola bilər, çünki:",
+      "options": [
+        "uşaqlıqda kalsinatlar yaranır",
+        "qalxan infeksiya nəticəsində boru keçiriciliyi pozulur",
+        "usaqlıqda sinexiyalar yaranır",
+        "uşaqlığın perforasiyası baş verir",
+        "usaqlıqda qan dövranı pozulur"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "208. 26 yaşlı müntəzəm aybaşı tsikli olan qadın aybaşının 6 həftə ləngiməsi, qarının aşağı hissəsində ağrılarla qadın məsləhətxanasına müraciət etmişdir. Qanda β-XQ 3500 BV/l, USM-də uşaqlıqda döl yumurtası təyin edilmir. Ehtimal edilən diaqnoz:",
+      "options": [
+        "sarı cismin sisti",
+        "aybaşı funksiyasının pozulması",
+        "tam düşük",
+        "ektopik hamiləlik",
+        "natamam düşük"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "209. Hansı əməliyyatlardan sonra əsasən ektopik hamiləlik müşahidə olunmur?",
+      "options": [
+        "bağırsağın rezeksiyasından sonra",
+        "neosalpinqostomiyadan sonra",
+        "fimbrioplastikadan sonra",
+        "endometriumun diaqnostik qaşınmasından sonra",
+        "salpinqoovariolizisdən sonra"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "210. Təmiz hestagen tərkibli oral hormonal kontraseptivlər (mini-pili) ektopik hamiləliyə səbəb ola bilər, çünki onlar:",
+      "options": [
+        "uşaqlığn tonusunu artırır və döl yumurtasını boruda ləngidirlər",
+        "trofoblastın fermentlərini aktivləşdirərək endosalpinqsi əridirlər",
+        "boruların selikli qişasını qalınlaşdırır və implantasiyanı yaxşılaşdırırlar",
+        "ovulyasiyanı 50% halda saxlayır və boruların peristaltikasını zəiflədirlər",
+        "boruların qan dövranını yaxşılaşdırırlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "211. Boru hamiləliyi (ampulyar və istmik hissədə implantasiya zamanı) adətən hamiləliyin neçənci həftəsinə qədər inkişaf edir?",
+      "options": [
+        "20-22",
+        "2-3",
+        "17-18",
+        "6-8",
+        "4-5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "212. Boru abortunun əsas simptomuna aid deyil:",
+      "options": [
+        "hamiləlik testinin müsbət olması",
+        "uşaqlıq yolundan qanlı ifrazat",
+        "qıcolma tutmasının olması",
+        "aybaşının gecikməsi",
+        "qarında ağrılar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "213. Boru abortu əsasən diferensasiya olunmur:",
+      "options": [
+        "artımların kəskin iltihabı ilə",
+        "yumurtalıq şişinin öz ayaqcığı ətrafında burulması ilə",
+        "yumurtalığın apopleksiyası ilə",
+        "yumurtalığın follikulyar sisti ilə",
+        "hamiləliyin erkən müddətlərdə pozulması ilə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "214. Ektopik hamiləlik zamanı endometriumun diaqnostik qaşınması hansı məqsədlə aparılır?",
+      "options": [
+        "endometriumun hiperplastik prosesləri və adneksiti diferensasiya etmək üçün",
+        "submukoz mioma və natamam düşüyü diferensasiya etmək üçün",
+        "boru hamiləliyi və adneksiti diferensasiya etmək üçün",
+        "adneksit və tam düşüyü diferensasiya etmək üçün",
+        "natamam düşük və disfunksional uşaqlıq qanaxmasını diferensasiya etmək üçün"
+      ],
+      "correct": 4
+    }
+  ]
+}

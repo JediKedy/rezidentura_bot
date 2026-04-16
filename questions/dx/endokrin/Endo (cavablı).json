@@ -1,0 +1,2204 @@
+{
+  "questions": [
+    {
+      "question": "1. Hipotireozun müalicəsində hansı preparatlar istifadə olunur?",
+      "options": [
+        "Merkazolil, Tiroksin, Triyodtironin",
+        "Propiltiourasil, Tiroksin",
+        "Tiroksin, Triyodtironin",
+        "Kortizol, Dostineks, Tiroksin",
+        "Metiltiourasil"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2. Tireotrop hormon hansı hormonun sintezini stimulyasiya edir?",
+      "options": [
+        "Kortizol",
+        "Adrenalin",
+        "Kalsitonin",
+        "Tiroksin",
+        "Testosteron"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "3. Qanda qlükozanın normal bazal səviyyəsi (təmiz qlükozaya görə) nə qədərdir?",
+      "options": [
+        "8,3 – 10,1 mmol/l",
+        "3,8 – 6,7 mmol/l",
+        "2,7 – 5,5 mmol/l",
+        "3,3 – 5,5 mmol/l",
+        "6,2 – 9,3 mmol/l"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "4. İtsenko-Kuşınq xəstəliyi zamanı yaranan şəkərli diabet hansı xüsusiyətlərə malikdir?",
+      "options": [
+        "Hipoqlikemiyalara meyillik",
+        "Mütləq insulinoterapiyaya qöstəriş",
+        "Ketoasidoza meyillik",
+        "Peroral şəkərsalici preparatların effektivliyi",
+        "Kaxeksiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "5. Şəkərsiz diabetin müalicəsində istifadə olunan preparat hansıdır?",
+      "options": [
+        "Tiroksin",
+        "Diabeton",
+        "Merkazolil",
+        "Hipotiazid",
+        "Desmopressin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "6. Diabetik retinopatiyanın ağırlığını xarakterizə edən əlamət:",
+      "options": [
+        "çəpqözlülük",
+        "kapilyar divarlarının genişlənməsi",
+        "proliferasiya, yeni yaranmış damarlar",
+        "mikroanevrizmalar",
+        "uzaqgörmənin pozulması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Piylənmə zamanı həzm sistemi tərəfindən hansı ağırlaşmalar yarana bilməz?",
+      "options": [
+        "Qara ciyərin ölçülərinin böyüməsi, qara ciyərin piy infiltrasiyası",
+        "Xroniki pankreatit",
+        "Mədənin dartılması",
+        "Öd daşı xəstəliyi",
+        "Disfaqiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "8. Adrenalin sintez olunur:",
+      "options": [
+        "böyrəküstü vəzlərin qabıq maddəsində",
+        "mədəaltı vəzdə",
+        "böyrəküstü vəzlərin beyin maddəsində",
+        "hipotalamusda",
+        "hipofizdə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "9. Tip 1 diabetdə β hüceyrələrin zədələnməsinin səbəbi:",
+      "options": [
+        "ifrat qida qəbulu",
+        "mədəaltı vəzin travması",
+        "mədəaltı vəz axacağının tutulması",
+        "autoimmun zədələnmə",
+        "psixi travma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "10. 2 tip şəkərli diabet üçün nə xarakterikdir?",
+      "options": [
+        "İnterkurrent xəstəliklər fonunda insulin tələbatının azalması",
+        "Xəstəliyin kəskin başlanması",
+        "Qanda insulin miqdarının artması, insulinrezistentlik",
+        "Qanda insulin miqdarının azalması, insulinrezistentlik",
+        "Qanda insulin miqdarının azalması, kəskin arıqlama"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "11. Diabetik “pəncənin” müalicə prinsipləri hansılardır?",
+      "options": [
+        "Diabetin ciddi kompensasiyası, angioprotektorların təyini, antibiotiklərin təyini, antiaqreqantların təyini, immunomodulyatorların təyini",
+        "Diabetin ciddi kompensasiyası, aminturşularının təyini, tireoid hormonların təyini, biquanidlərin təyini",
+        "Diabetin ciddi kompensasiyası, bronxolitiklərin təyini, polivitaminlərin təyini, tiazolidinlərin təyini",
+        "Diabetin ciddi kompensasiyası, antiaritmik preparatların təyini, qlyukokortikoidlərin təyini",
+        "Diabetin ciddi kompensasiyası, antihipertenziv preparatların təyini, immunodepressantların təyini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Üçüncülü hipotireozun patogenezinin əsasını nə təşkil edir?",
+      "options": [
+        "TSH sekresiyasının artması",
+        "Qalxanvari vəzidə autoimmun prosess",
+        "Tireoliberinin sintezinin azalması",
+        "Tireoliberinin sintezinin artması",
+        "Biolojı qeyri-aktiv TSH sekresiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "13. Proinsulini nə kimi tanıyırsınız:",
+      "options": [
+        "insulinin metabolik məhsuludur",
+        "insulinin uzun təsirli preparatıdır",
+        "şəkərsalıçı həbdir",
+        "insulinin qısatəsirli preparatıdır",
+        "insulinin biosintezi prosesində sələfidir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Şəkərsiz diabetin yaranma səbəblərinə aid deyil?",
+      "options": [
+        "Prepro-ADH-ın sintezinin genetik defektləri",
+        "Plasentar fermentlər təsirindən ADH-ın parçalanması;",
+        "AKTH-ın defisiti",
+        "ADH defisiti, ADH qarşı rezistentliyi",
+        "ADH gen reseptorun mutasiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "15. 10 İldir ki, şəkərli diabet tip 2 diaqnozu ilə müalıcə alan 60 yaşlı kişi sahə endokrinoloquna ayaqlarında olan və hərəkət zamanı artan ağrı şikayəti ilə müraciət edib. Müayinə zamanı ayaqlarin dəri örtüyü soyq və avazımışdir. Diaqnozu göstərin:",
+      "options": [
+        "revmatik artropatiya",
+        "aşağı ətrafların travmatik zədələnməsi",
+        "neyropatik pəncə",
+        "piodermik zədələnmə",
+        "aşağı ətrafların makroanqiopatiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "16. heç bir əsaslı şikayəti olmayan 45 yaşlı qadinda bir –necə ardıcıl müyinədə qan şəkərinin yüksək olduğu (130-140 mq%) aşkar olunub. Hansı müayinənın aparılması vacibdir:",
+      "options": [
+        "aç qarnına qan şəkəri",
+        "HbA1c",
+        "sidikdə şəkər",
+        "qanda xolesterolun təyini",
+        "qlükozaya tolerantlıq testi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "17. Hipotireozun kütləvi müayinəsi məqsədilə aparılan ən optimal metod hansıdır?",
+      "options": [
+        "T4 sərbəst təyini",
+        "T3 sərbəst təyini",
+        "Hamısı düzdür",
+        "Sidikdə yodun səviyyəsi",
+        "Qan plazmasında TSH-ın səviyyəsinin təyini"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "18. Parathormon sintez olunur:",
+      "options": [
+        "qalxanabənzərətraf vəzilərdə",
+        "böyrəküstü vəzlərin qabıq maddəsində",
+        "adenohipofizdə",
+        "cinsiyyət vəzilərində",
+        "epifizdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Sulfanilamid törəməlirinin qəbuluna göstəriş hansılardır?",
+      "options": [
+        "Qlyukozaya tolerantlığın pozulması",
+        "Şəkərli diabet tip 1",
+        "Kaxeksiya",
+        "Şəkərli diabet 2 tip, orta ağırlıqda",
+        "İnsulinrezistentlik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "20. Bunlardan hansı hiperprolaktinemiyanın müalicəsində istifadə olunur?",
+      "options": [
+        "Perqolid",
+        "Lizurid",
+        "Parlodel",
+        "Vitamin B6",
+        "Teqretol"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "21. Somatotrop hormonu sekresiya edən şiş harada lokalizasiya edə bilər?",
+      "options": [
+        "Yumurtalıglarda",
+        "Böyrəkdə",
+        "Hipofizdə, hipotalamusda",
+        "Dəridə",
+        "Mədəaltı vəzində və dalaqda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "22. Kəskin tireoidit nə ilə nəticələnir?",
+      "options": [
+        "Qalxanvarı vəzidə düyünlərin əmələ gəlməsi ilə",
+        "Hipotireoz ilə",
+        "Yarımkəskin tireoidit ilə",
+        "Sağalma ilə",
+        "Xroniki formaya keçid ilə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "23. Glyukozalaşmış hemoglobinin təyini həkimə nə imkanı yaradır?",
+      "options": [
+        "Qestasiyon şəkərli diabetin aşkarlanması",
+        "2-3 qün ərzində glyukozanın miqdarının qiymətləndirilməsi",
+        "1-3 həftə ərzində glikemiyanın orta səviyyəsinin qiymətləndirilməsi",
+        "2-3 ay ərzində aparılmış şəkərsalıcı terapiyanın qiymətləndirilməsi",
+        "6-9 ay ərzində aparılmış şəkərsalıcı terapiyanın qiymətləndirilməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Boyun inkişafı və sümük toxumasının differensiyası hansı hormondan asılı deyil?",
+      "options": [
+        "Andrognlərdən",
+        "Boy hormonundan",
+        "Prolaktindən",
+        "Estrogenlərdən",
+        "Tireoid hormonlardan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "25. Tip 2 şəkərli diabetin başlanğıcı üçün xarakter deyil:",
+      "options": [
+        "əlamətsiz",
+        "kəskin",
+        "qeyri-kəskin",
+        "tədrici",
+        "xroniki"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "26. Hansı preparatın qəbulundan hiperprolaktinemiya yarana bilməz?",
+      "options": [
+        "Metoklopramidin qəbulundan",
+        "Narkotiklərin qəbulundan",
+        "Rezerpinin qəbulundan",
+        "Qeyri-steroid preparatlardan",
+        "Antibiotiklərdən"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "27. 2 tip şəkərli diabet xəstələrinə insulin terapiyası hansı hallarda göstəriş deyil?",
+      "options": [
+        "Peroral şəkərsalıcı preparatlara rezistentlik",
+        "Kiçik cərrahi əməliyyatlar",
+        "Kaxeksiya",
+        "Diabetik pəncə",
+        "Hamiləlik"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Piylənmə fonunda şəkərli diabet meydana çıxarsa ən münasib preparat?",
+      "options": [
+        "Qlipizid",
+        "Metformin",
+        "Bukarban",
+        "Qlikvidon",
+        "Rastinon"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "29. İnsulin reseptorların sayı hansı hallarda azalır?",
+      "options": [
+        "Anemiya zamanı",
+        "Tip 2 şəkərli diabet",
+        "İtsenko-Kuşınq xəstəliyi",
+        "Uzun müddət qlyukokortikoidlərlə müalicə zamanı",
+        "Piylənmə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. Xəstənin hipoqlikemik komadan çıxarmaq üçün təyin edilən vasitələr?",
+      "options": [
+        "Qlukozanın 5% məhlulu d/a",
+        "Qlükozanın 5% məhlulu ə/d yeridilməsi",
+        "Qlükozanın 40% məhlulunun ə/d yeridilməsi",
+        "2 – 3 parça qənd per os",
+        "Qlukozanın 40% məhlulunun v/d yeridilməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. 50 yaşında kök qadın ,tibbi müayinədə ganda şəkərin migdarı 10,1 mmol\\l , sidikdə şəkər 2% olmuş, sidikdə aseton mənfi olmuşdur. Anası şəkərli diabetlə xəstə olmuşdur.Diagnozu dəgigləşdirin:",
+      "options": [
+        "insulindən asılı şəkərli diabet",
+        "ikincili şəkərli diabet",
+        "şəkərli diabet MODY tip",
+        "insulintəlabatlı 2- ci tip",
+        "insulindən asılı olmayan şəkərli diabet"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "32. Sentral genezli şəkərsiz diabetin müalicəsində istifadə olunan preparat hansıdır?",
+      "options": [
+        "Teqretol",
+        "Hipotiazid",
+        "Veroşpiron",
+        "Minirin",
+        "Xlorpropamid"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "33. Avtonom diabetik neyropatiyanın kliniki formaları hansılardır?",
+      "options": [
+        "Tənəffüs, qara ciyər, böyrək-üstü",
+        "Böyrək",
+        "Ürək-damar, mədə-bağırsaq, sidik-cinsiyyət",
+        "Beyin",
+        "Hipofizar. hipotalamik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "34. Birincili hipoqonadizm üçün hansı simptomlar xarakterikdir?",
+      "options": [
+        "Bədən proporsiyalarının xədim tipli olması",
+        "Qonadotrop hormonların səviyyəsinin artması",
+        "Sonsuzluq",
+        "Kişilərdə qinekomastiya",
+        "Cinsi hormonların səviyyəsinin azalması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "35. Antidiuretik hormon harada sekresiya olunur?",
+      "options": [
+        "Böyrəküstü vəzin qabıq maddəsində",
+        "Beyincikdə",
+        "Adenohipofizdə",
+        "Neyrohipofizdə",
+        "Hipotalamusda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. AKTH harada sintez olunur?",
+      "options": [
+        "Hipotalamusda",
+        "Hipofizin ön payında",
+        "Hipofizin arxa payında",
+        "Limbik sistemdə",
+        "Böyrəküstü vəzin qabıq maddəsində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Tireotrop hormon (TTH) harada sintez olunur?",
+      "options": [
+        "Mədəaltı vəzidə",
+        "Qalxanabənzər vəzidə",
+        "Hipofizin arxa payında",
+        "Hipotalamusda",
+        "Hipofizin ön payında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "38. Yarımkəskin tireoidit üçün xarakterik deyil?",
+      "options": [
+        "EÇS – in yüksəlməsi",
+        "Tireoid hormonlara qarşı olan antitellərin titrinin yüksəlməsi",
+        "Aydın təzahür olunan ağrı sindromu",
+        "Bədən hərarətinin yüksəlməsi",
+        "Ekzoftalm"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "39. Sadalanan simptomlardan hansılar diffuz toksiki ur üçün xarakterik deyil?",
+      "options": [
+        "Ətrafların titrəməsi, əzələ zəifliyi",
+        "Ekzoftalm",
+        "Arıqlama",
+        "Daimi ürək döyünmə",
+        "Bradikardiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "40. Hansı hallarda piylənmə müşahidə olmur?",
+      "options": [
+        "Hipotireoz xəstəliyi zamanı",
+        "Hipoqonadizm zamanı",
+        "Adipozogenital distrofiya zamanı",
+        "İtsenko-Kuşınq xəstəliyi zamanı",
+        "Addison xəstəliyi zamanı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "41. Autoimmun tireoidit üçün xarakterikdir?",
+      "options": [
+        "Qalxanabənzər vəzi hüceyrələrinin mikrosomal fraksiyalarına qarşı olan antitellərin titrinin azalması, bədən hərarətinin aşağı düşməsi",
+        "Bədən hərarətinin yüksəlməsi",
+        "Boyun limfa düyünlərinin böyüməsi",
+        "Qalxanabənzər vəzi hüceyrələrinin mikrosomal fraksiyalarına qarşı olan antitellərin titrinin yüksəlməsi, radiofarmpreparatın qalxanabənzər vəzi toxumasında qeyri-bərabər yayılması",
+        "Radiofarmpreparatın qalxanabənzər vəzi toxumasında bərabər yayılması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "42. Şəkərli diabet xəstəliyinin ağır forma olmasını müəyyənləşdirən kriteriya:",
+      "options": [
+        "dehidratasiyanin nəzərə çarpması",
+        "şəkərsalıcı həblərin tətbigi",
+        "çəkının normadan yüksək olması",
+        "glikemik profilin səviyyəsi",
+        "nəzərə çarpan ağırlaşmaların olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "43. Antiaterogen pəhrizə daxil deyil:",
+      "options": [
+        "dəniz kələmi",
+        "pendir",
+        "dəniz yosunları",
+        "kəsmik",
+        "siyənək"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "44. Miksedematoz komanın klinik əlaməti nədir?",
+      "options": [
+        "Hipoventilyasiya, taxikardiya",
+        "Hipotermiya, bradikardiya, hipotoniya, hipoventilyasiya",
+        "Hipokapniya, bradikardiya",
+        "Hipoventilyasiya, ödem",
+        "Taxikardiya, hipoventilyasiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "45. Şəkərli diabet zamanı periferik sinir sisteminin zədələnmə növləri hansılardır?",
+      "options": [
+        "Polineyropatiya",
+        "Amiotrofiya",
+        "Radikulopatiya",
+        "Mononeyropatiya",
+        "Bütün sadalananlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "46. Fibroz tireoidit zamanı cərrahi müdaxiləyə göstərişlər hansıdır?",
+      "options": [
+        "Traxeyanın və qan damarlarının sıxılması",
+        "Hipotireoz",
+        "Kaxeksiya",
+        "Tireotoksikoz",
+        "Eutireoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Üçüncülü hipotireozun yaranma səbəbi hansıdır?",
+      "options": [
+        "Qalxanvari vəznin radiasiya ilə zədələnməsi",
+        "Simmonds-Şıyen sindromu",
+        "Yod çatmamazlığı",
+        "Hipofizin adenoması",
+        "Tireoliberin sekresiya edən hipotalamik mərkəzlərinin birincili zədələnməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "48. Birincili hipotireozun patogenezinin əsasını nə təşkil edir?",
+      "options": [
+        "Tireoliberinin sekresiyasının azalması",
+        "Tireoliberinin sintezinin azalması",
+        "Tireoid hormonlarının sintezinin azalması",
+        "Qalxanvari vəzin toxumasının hiperplaziyası",
+        "TSH sekresiyasının azalması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "49. Qanda tiroksinin miqdarı artanda",
+      "options": [
+        "TSH sekresiyası azalır",
+        "Tireoliberinin miqdarı dəyişmir",
+        "TSH sekresiyasının artır",
+        "Tireoliberinin miqdarı artır",
+        "TSH səviyyəsi dəyişmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. İtsenko-Kuşinq xəstəliyinin müalicəsinə nə daxil deyil?",
+      "options": [
+        "Kombinə terapiya (cərrahi əməliyyat və şüalanma)",
+        "Kortikotropin sekresiya edən şişin cərrahi yolla çıxarılması",
+        "Hipofizar nahiyyənin şüalanması",
+        "Böyrəküstü vəzilərdə kortizolun sekresiyasını blokada edən preparatlar",
+        "AKTH blokada edən preparatların istifadəsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "51. İtsenko-Kuşınq xəstəliyinin ağır forması zamanı nə baş verir?",
+      "options": [
+        "Ay başının dəyişilməməsi",
+        "Hiperpiqmentasiya",
+        "Dərialtı piy qatının düzqün paylanması",
+        "Tranzitor arterial hipotenziya",
+        "Sümüklərin patolojı sınıqları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "52. İtsenko-Kuşınq xəstəliyinin yaranma səbəbi nə ola bilər?",
+      "options": [
+        "Hipofizin bazofil adenoması",
+        "Yumurtalıqların şişləri",
+        "Prolaktinoma",
+        "Qalxanabənzər vəzin şişləri",
+        "Tireotropinoma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Uşaqlarda şəkərli diabet zamanı boy artımından qalma, cinsi inkişafın lənqiməsi, hepotameqaliya ilə xarakterizə olunan sindrom necə adlanır:",
+      "options": [
+        "Konn",
+        "metabolik",
+        "Şteyn- Levental",
+        "Moriaka",
+        "Kuşinq"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Yarımkəskin tireoiditin etioloji faktoru?",
+      "options": [
+        "Stafilokokklar və streptokokklar",
+        "Viruslar",
+        "Qöbələklər",
+        "Rikketsiyalar",
+        "İbtidailər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "55. Hormonlardan hansı hipotalamusda sintez olunur:",
+      "options": [
+        "antidiuretik hormon",
+        "LH",
+        "FSH",
+        "AKTH",
+        "TTH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Autoimmun tireoiditi zamanı stıntiqrafiya nə aşkar edir?",
+      "options": [
+        "Radiofarmpreparatın udulmaması",
+        "Radiofarmpreparatın normadan artıq udulması",
+        "“Soyuq” düyün\"",
+        "Radiofarmpreparatın qeyri-bərabər udulması",
+        "“İsti” düyün\""
+      ],
+      "correct": 3
+    },
+    {
+      "question": "57. Tip 2 şəkərli diabetin müalicəsi üçün hansı preparatlardan istifadə edilmir?",
+      "options": [
+        "Tiazolidindionlar",
+        "Qlikemiyanın prandial requlyatorları",
+        "Qlyukokortikoidlər",
+        "A-qlikozidazanın inhibitorları",
+        "Sulfonilamid törəmələri, biquanidlər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "58. İnsanın sutkalıq yod ehtiyacı nə qədərdir?",
+      "options": [
+        "300 mkq",
+        "150 mkq",
+        "200 mkq",
+        "50 mkq",
+        "100 mkq"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "59. Tireotoksik adenoma aşağıdakılarla xarakterizə olunur?",
+      "options": [
+        "T 4 səviyyəsinin artması ilə, diffuz urun olması ilə",
+        "TTH yüksək səviyyəsi ilə",
+        "Düyünlü urun olması ilə, T 3 səviyyəsinin artması ilə",
+        "Endokrin mənşəli oftalmopatiya ilə",
+        "Miasteniya ilə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "60. Fibroz tireidit başqa cür necə adlanır?",
+      "options": [
+        "Ridel tireoidit",
+        "De Kerven tireoiditi",
+        "Spesifik tireoidit",
+        "Xaşımoto tireoiditi",
+        "Kəskin tireoid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Serebral – hipofizar çatışmamazlıq zamanı hansı azalmır?",
+      "options": [
+        "Prolaktin",
+        "Glyukaqon, insulin",
+        "Adrenokortikotrop hormon (AKTH)",
+        "Follikulstimuləedici hormon (FSH)",
+        "Tireotrop hormon (TTH)"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "62. Glukokortikoidlərin hipersekresiyasının nəticəsi nə ola bilər?",
+      "options": [
+        "Arıqlama",
+        "Qanda şəkərin miqdarının azalması",
+        "Dəridə striyalar",
+        "Dərinin nəmliyi",
+        "Arterial hipotoniya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "63. 6 İldir şəkərli diabet tip1 diaqnozu ilə müalicə alan 22 yaşlı kişi sahə endokrinoloquna müraciət edib. Xəstə ayaqlarında olan keyləşmədən və ağrılardan şikayətlənir. Ağrılar sakit vəziyyətdə daha kəskin xarakter daşıyır. Müayinə zamanı ayaqların dəri örtüyünün hərarəti və rənginin normal olması, lakin taktil hissiyyatının azalması aşkar olunub. Diaqnozu dəqiqləşdirin:",
+      "options": [
+        "neyropatik pəncə",
+        "revmatik anqiopatiya",
+        "Şarko pəncəsi",
+        "revmatik poliartrit",
+        "işemik pəncə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Klimakterik sindromun gecikmiş ağırlaşmalarına aiddir:",
+      "options": [
+        "Dəri və onun törəmələrində dəyişikliklər,ateroskleroz",
+        "Ürək-damar xəstəılikləri, osteoporoz",
+        "Vazomotor dəyişikliklər,ürək-damar xəstəlikləri",
+        "Urogenital pozğunluqlar, vasomotor dəyişikliklər",
+        "Osteoporoz, emosional-psixi dəyişikliklər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "65. Diabetik neyropatiyanın müalicə prinsiplərinə hansılar aid deyil?",
+      "options": [
+        "B-qrup vitaminlərinin təyini",
+        "Antioksidantların təyini (A və E vitamini)",
+        "Tiokt turşusunun törəmələrinin təyini, nikotin turşusunun təyini",
+        "Qlikemiyanın ciddi kompensasiyası",
+        "Həzm fermentlərinin təyini"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. Hansı hormon hipotalamusda sintez olunur:",
+      "options": [
+        "estradiol",
+        "prolaktin",
+        "kortizol",
+        "tiroksin",
+        "oksitosin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Mədəaltı vəzin Langerqans adacıqlarında hansı hormon ifraz olunmur?",
+      "options": [
+        "Pankreatik polipeptid",
+        "İnsulin",
+        "Qlyukaqon",
+        "Somatostatin",
+        "Kortizol"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. Mogensen təsnifatına görə diabetik nefropatiya neçə mərhələyə bölünür?",
+      "options": [
+        "Üç",
+        "Altı",
+        "Dörd",
+        "İki",
+        "Beş"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. Essensial piylənmə üçün nə xarakterikdir?",
+      "options": [
+        "Hiperprolaktinemiya",
+        "Hiperinsilinizm",
+        "Hipoinsulinizm",
+        "STH-ın sintezinin azalması",
+        "Hipokortisizm"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "70. Yeniyetmələrdə şəkərli diabet aşağıdakı hansı səbəblərdən yaranır?",
+      "options": [
+        "İrsi meyillik, piylənmə",
+        "Anomal quruluşlu insulin sintezi, piylənmə",
+        "Mədəaltı vəzinin virusla zədələnməsi, insulin biosintezinin pozulması, mədəaltı vəzinin autoimmun zədələnməsi",
+        "İnsulinə qarşı reseptorların həssaslığının pozulması",
+        "Hipodinamik həyat tərzi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "71. Şəkərli diabetli xəstələrdə qara ciyərin ölçülərinin böyüməsinin səbəbi nədir?",
+      "options": [
+        "Hepatit",
+        "Diabetik nefropatiya",
+        "Ürək çatışmamazlığı",
+        "Sirroz",
+        "Piy hepatozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "72. Ağırlaşmalardan hansı tip1 şəkərli diabetdə daha çox rast gəlinir:",
+      "options": [
+        "miokard infarktı",
+        "diabetik pəncə sindromu",
+        "aşağı ətrafların qanqrenası",
+        "retinopatiya, nefropatiya",
+        "hiperqlikemik hiperosmolyar koma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "73. Sağlam şəxslərdə qlükoza ilə (peroral) yüklənmədən 2 saat sonra qanda qlükozanın maksimal səviyyəsi nə qədər ola bilər?",
+      "options": [
+        "7,8 mmol/l",
+        "9,6 mmol/l",
+        "8,43 mmol/l",
+        "10,1 mmol/l",
+        "7,22 mmol/l"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Şəkərli diabet xəstələrinə fiziki aktivlik üçün göstərişlər hansılardır?",
+      "options": [
+        "Proliferativ diabetik retinopatiya",
+        "Diabeyik pəncə",
+        "Hiperqlikemiya < 15 mmol/l",
+        "Ketoasidoz",
+        "Hipoqlikemiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "75. Bu insulin preparatlarından hansı qeyri-zirvəsiz təsirə malikdir?",
+      "options": [
+        "Aktrafan HM",
+        "Ultratard HM",
+        "Lantus",
+        "Ultralente",
+        "İnsulatard HM"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "76. 2 tip şəkərli diabet zamanı müvəqqəti insulinoterapiyaya göstərişlər?",
+      "options": [
+        "LADA tip Şəkərli diabet",
+        "C-peptidin miqdarının kəskin azalması",
+        "Peroral şəkərsalıcı preparatlara mütləq əks qöstərişlər",
+        "Qeyri-proliferativ diabetik retinopatiya, kiçik cərrahi əməliyatlar, piylənmə",
+        "Peroral şəkərsalıcı preparatlara müvəqqəti əks qöstərişlər, uzun müddət sürən iltihabi proseslər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. Şəkərsiz diabetin laborator markerləri hansılardır?",
+      "options": [
+        "Sidiyin ümümi migdarının azalması",
+        "Bakteriyuriya",
+        "Sidiyin xüsusi çəkisinin artması",
+        "Sidiyin ümümi miqdarının azalması, sidiyin xüsusi çəkisinin azalması",
+        "Sidiyin ümümi miqdarının artması, sidiyin xüsusi çəkisinin azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "78. STH defisitinin orqanik variantının mümkün səbəbi hansı deyil?",
+      "options": [
+        "Hipofizə qansızmalar",
+        "Hipofizin aplaziyası",
+        "Kraniofarinqioma",
+        "Somatomedinlərin defisiti",
+        "Hipotalamo-hipofizar sisteminin anevrizması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "79. Tireotrop hormon nəyin sintezini stimulə edir?",
+      "options": [
+        "Tiroksin",
+        "Qlükaqon",
+        "Sadalananların hamısı",
+        "Testosteron",
+        "İnsulin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Hiperqlikemik hiperosmolyar komanın müalıcəsinin məqsədi:",
+      "options": [
+        "qan osmolyarlığınin azaldılması",
+        "arterial təzyiqin endirilməsi",
+        "bədən hərarətinin tənzimlənməsi",
+        "bradikardiyanın aradan qaldırılması",
+        "asidozun aradan qaldırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Qonadoliberinlər harada sekresiya olunurlar?",
+      "options": [
+        "Baş beynin qabığının neyronlarında",
+        "Hipotalamusun nüvələrində",
+        "Hipofizin ön payında",
+        "Beyincik neyronlarında",
+        "Hipofizin arxa payında"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "82. İnsulin karbohidrat mübadiləsinə təsirini hansı fermentin aktivləşməsi vasitəsi ilə reallaşdırır:",
+      "options": [
+        "deyodaza",
+        "heksokinaza",
+        "transferaza",
+        "diastaza",
+        "proteaza"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "83. Diabetik retinopatiyanın başlanğıc mərhələsinin əsas ilkin əlaməti:",
+      "options": [
+        "qansızmalar",
+        "uzaq görmənin pozulması",
+        "billurun tutqunlaşması",
+        "torlu qişa damarlarının genişlənməsi",
+        "torlu qişada periferik anevrizmalar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "84. Diabetik mikroanqiopatiya üçün ən xarakter morfolojı xüsusiyyət hansıdır?",
+      "options": [
+        "Arteriyaların hüceyrələrində PAS-müsbət maddələrin toplanması",
+        "Birləşdirici toxumada degenerativ dəyişiliklər",
+        "Kapillyarların bazal membranının nazikləşməsi",
+        "Kapillyarların bazal membranının qalınlaşması",
+        "Endoteliyin limfoid infiltrasiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "85. Metforminin əlavə təsiri hansı deyil?",
+      "options": [
+        "Laktatasidoz",
+        "Meteorizm",
+        "Anemiya",
+        "Arterial hipotoniya",
+        "Ağızda metallik dad"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Biquanidlərin təyininə əks qöstərişlər hansılardır?",
+      "options": [
+        "Ürək çatmamazlığı, ketoasidoz",
+        "İnsulinrezistentlik",
+        "Tip 2 şəkərli diabet",
+        "Piylənmə",
+        "İkincili şəkərli diabet"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Sutkalıq təsirə malik insulinlərə aiddir?",
+      "options": [
+        "Lantus, Levemir",
+        "Monotard, Actrapid",
+        "Humulin R",
+        "Humulin NPH",
+        "Protafan, İnsulotard"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Akromegaliyalı xəstələrin operativ müdaxiləyə mütləq əks göstəriş hansıdır?",
+      "options": [
+        "Makroadenoma",
+        "Şua terapiyasının effektsizliyi",
+        "Ahıl yaş",
+        "Bədxassəli şiş",
+        "Qörmə gabiliyətinin pozulması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "89. İtsenko-Kuşınq xəstəliyinin simptomatik müalicəsində hansı preparatlardan istifadə olunmur?",
+      "options": [
+        "Hipotenziv preparatlardan",
+        "Şəkərsalıcı preparatlardan",
+        "Tireostatiklərdən",
+        "Anaboliklərdən",
+        "Ca preparatlarından"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "90. Ağızda quruluq, poliuriya, polidipsiya hansı xəstəlik üçün xarakter deyil:",
+      "options": [
+        "birincili aldosteronizm",
+        "böyrək diabeti",
+        "şəkərli diabet",
+        "MODY diabet",
+        "hipotireoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "91. Ketoasidotik vəziyyətdə olan I tip şəkərli diabet xəstəsinin pəhrizindən bu ərzaqların istisna edilməsi yağların qidada azalmasına imkan yaratdı:",
+      "options": [
+        "yağsız kəsmik, treska",
+        "göyərti, kartof",
+        "xama, pendirlər, yağ",
+        "çörək, tərəvəz",
+        "süd, qatıq"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "92. Kişi klimaksı zamanı hansı hormonal analizlər vacibdir?",
+      "options": [
+        "Cinsi hormonalrı birləşdirən qlobulin, LH",
+        "TSH, prolaktin",
+        "Ümumi testosteron, cinsi hormonalrı birləşdirən qlobulin",
+        "FSH, ümumi testosteron",
+        "LH,FSH"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "93. Tip 1 şəkərli diabetin patogenezində insulinin hansı çatmamazlığı əsas yer tutur:",
+      "options": [
+        "ritmik ifrazı",
+        "deyri ritmik ifraz",
+        "artıq ifrazı",
+        "tam çatmamazlıq",
+        "nisbi çatmamazlıq"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "94. Hiperosmolyar komanın müalicə prinsipləri hansılardır?",
+      "options": [
+        "20% NaCl məhlulu, 40% glyukoza məhlulu, KCl məhlulu",
+        "5% glyukoza məhlulu, KCl məhlulu, insulinoterapiya",
+        "0,9% NaCl məhlulu, MgSO4 məhlulu, insulinoterapiya",
+        "Hipertonik məhlul, MgSO4 məhlulu, KCl məhlulu",
+        "0,45% NaCl məhlulu, KCl məhlulu, insulinoterapiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "95. Hansı preparat bağırsaqlarda qlyukozanın sorulmasını azaldır?",
+      "options": [
+        "Qlyukobay",
+        "Amaril",
+        "Qlibenklamid",
+        "Diabeton",
+        "Aktos"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Hansı sulfanilamid törəmələrinin təyininə əks göstəriş deyil?",
+      "options": [
+        "2 tip şəkərli diabet",
+        "Hamiləlik, doğuş və laktasiya",
+        "Qanın onkolojı xəstəlikləri",
+        "Diabetik nefropatiyanın 3 mərhələsi",
+        "Ketoasidoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Akromegaliya zamanı ölümün səbəbi nə ola bilər?",
+      "options": [
+        "Hipertermiya, böyrək çatmamazlığı",
+        "Hipoqlikemiya",
+        "Şəkərli diabet",
+        "Hiperqlikemiya",
+        "Gecə apnoesi, ürək çatmamazlıgı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "98. Şəkərli diabetin uzun müddətli kompensasiyasını hansı göstərici əks etdirir?",
+      "options": [
+        "Qanda şəkərin miqdarının ac qarna və 2 saat yeməkdən sonar yoxlanması",
+        "Lipid mübadiləsinin qöstəriciləri",
+        "Qlyukozalaşmış hemoqlobinin səviyyəsi",
+        "Qecə saat 3 qanda şəkərin miqdarı",
+        "Sutkalıq qlikemik profil"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "99. Hiperqlikemik ketoasidotik komanın müalicəsində istifadə olunmur:",
+      "options": [
+        "biquanidlər",
+        "natriumbikarbonat",
+        "insulin",
+        "rehidratasiya",
+        "ürək-damar preparatları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Şəkərli diabeti olan hamilələrdə Kesar əməliyyatına göstərişlər hansılardır?",
+      "options": [
+        "Uşağın atasında şəkərli diabetin olması",
+        "Diabetik polineyropatiya",
+        "Dölün kiçik ölçüləri, diabetin stabil qedişatı",
+        "Dölün böyük ölçüləri, diabetin labil qedişatı, hamiləlik toksikozu",
+        "Ananın gənc olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "101. Şəkərli diabet olan xəstələr üçün arterial təzyiqin yol verilən maksimal səviyyəsi hansıdır?",
+      "options": [
+        "АT 125/75 mm.c.s.",
+        "АT 130/80 mm.c.s.",
+        "АT 120/80 mm.c.s.",
+        "АT 140/90 mm.c.s.",
+        "АT 160/90 mm.c.s."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "102. Ağızda quruluq, poliuriya, polidipsiya hansı xəstəlik üçün xarakter deyil:",
+      "options": [
+        "şəkərsiz diabet",
+        "feoxromasitoma",
+        "Konn sindromu",
+        "bürünc diabet",
+        "LADA diabet"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "103. Bu peroral şəkərsalıcı preparatlardan hansı gün ərzində 1 dəfə qəbul olunur?",
+      "options": [
+        "Diabeton",
+        "Diabeton MR",
+        "Qlyurenorm",
+        "Qlibenklamid",
+        "Minidiab"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "104. Biquanidlərin əlavə təsirlərinə hansılar aid deyil?",
+      "options": [
+        "Dərinin allerqik reaksiyası",
+        "Hiperqlikemiya",
+        "Dispeptik hallar",
+        "Süd-turşulu asidoz",
+        "B-12 defisitli anemiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "105. Bu hormonlardan hansı kontrinsulyar deyil?",
+      "options": [
+        "Antidiuretik hormon",
+        "Kortizol",
+        "Qlyukaqon",
+        "Somatotrop hormon",
+        "Tireoid hormonlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. Hansı əlamət hipotireoz üçün xarakterik deyil?",
+      "options": [
+        "Arıqlama",
+        "Dəri örtüyünün quru olması",
+        "Bradikardiya",
+        "Yuxululuq",
+        "Qəbizliyə meyillik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. Piylənmə bu xəstəliklərdən hansılarla ahənglik təşkil edir?",
+      "options": [
+        "Vitiliqo",
+        "Bronxial astma",
+        "Plevrit",
+        "Şəkərli diabet 2 tip",
+        "Psoriaz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "108. İtsenko-Kuşınq xəstəliyinin etiolojı faktorları hansı deyil?",
+      "options": [
+        "Böyrək-üstü vəzinin hormonal aktiv şişləri",
+        "Kəllə travmaları",
+        "Böyrəklərdə şişlər",
+        "Hipofizin şişləri",
+        "Hipotalamo-hipofizar sistemində iltihabi proseslər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "109. Cərrahiyə əməlliyatı öncəsi somatostatin analoqlarının istifadəsi hansı məqsəd daşıyır?",
+      "options": [
+        "Adenomanın ölçüsünün kiçilməsi və somatik statusunun yaxşılaşması",
+        "Psixolojı hazırlıq",
+        "Adenomanın konsistensiyasının dəyişilməsi",
+        "Arterial təziqin stabilləşdirilməsi",
+        "Əvvəlki terapiyanın qeyri-effektsizliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. Şəkərsiz diabetin hansı xəstəliklərlə differensial diaqnostikasını aparmaq lazımdır?",
+      "options": [
+        "Addison xəstəliyi ilə",
+        "Hiperparatireozla",
+        "Psixoqen polidipsiya ilə",
+        "Parxon sindromu ilə",
+        "Hipotireozla"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "111. A-qlikozidaza inhibitorlarının təyini üçün göstərişlər hansılardır?",
+      "options": [
+        "2 tip şəkərli diabet",
+        "1tip şəkərli diabet",
+        "Sulfanilamid törəmələrinə rezistentli",
+        "Ketoasidoz",
+        "Qestasiyon şəkərli diabet"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. Şəkərli diabet zamanı korluğun əsas səbəbi hansıdır?",
+      "options": [
+        "Görmə sinirinin atrofiyası",
+        "Qlaukoma",
+        "Avtonom neyropatiya",
+        "Katarakta",
+        "Proliferəedici retinopatiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "113. Hansı hormon hipofizin ön payında sintez olunmur:",
+      "options": [
+        "TTH",
+        "oksitosin",
+        "prolaktin",
+        "FSH",
+        "LH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "114. İnsulin çatışmamazlığı zamanı müşahidə olunur?",
+      "options": [
+        "Hipoqlikemiya, hiperketonemiya, qaraciyərin piyli infiltrasiyası",
+        "Hiperqlikemiya, keton cisimlərinin yaranmasının və qlikogen sintezinin azalması",
+        "Efirləşməmiş yağ turşularının əmələ gəlməsi",
+        "Hiperqlikemiya, hiperketonemiya, qara ciyərin piyli infiltrasiyası",
+        "Hiperqlikemiya, hipolipoproteinemiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "115. 1 tip şəkərli diabet üçün nə xarakterikdir?",
+      "options": [
+        "Xəstəliyin kəskin başlanması, ketoasidoza meyyilik, qanda insulin miqdarının azalması",
+        "İnterkurrent xəstəliklər fonunda insulin tələbatının azalması",
+        "Xəstəliyin tədricən başlanması, laktatasidoza meyyilik, qanda insulin miqdarının",
+        "Xəstəliyin kəskin başlanması, qanda insulin miqdarının dəyişilməməsi",
+        "Xəstəliyin tədricən başlanması, laktatasidoza meyyilik, insulinrezistentlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. Şəkərsiz diabet üçün hansı əlamət xarakterikdir?",
+      "options": [
+        "Əsas mübadilənin lənqiməsi",
+        "Lipogenezin sürətlənməsi",
+        "Poliuriya",
+        "Lipolizin lənqiməsi",
+        "Əsas mübadilənin sürətlənməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "117. Kəskin tireoiditin fəsadları hansıdır?",
+      "options": [
+        "Boyunun ekzeması",
+        "Eksudativ plevrit, ağ ciyər çatmamazlığı",
+        "Pnevmoniya",
+        "Xroniki bronxiki",
+        "İrinli mediastenit, boyun fleqmonası, aspirasion pnevmoniya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "118. Hansı qrup peroral şəkərsalıcı preparatların istifadəsindən hipoqlikemiyanın yaranma ehtimalı yüksəkdir?",
+      "options": [
+        "Biquanidlərin",
+        "Qlikemiyanın prandial requlyatorlarının",
+        "Tiazolidindionların",
+        "Sulfonilsidikcövhəri törəmələrinin",
+        "A-qlikozidaza inhibitorlarının"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "119. Akromeqaliya üçün nə xarakterik deyil?",
+      "options": [
+        "Splenomeqaliya",
+        "Qanda STH səviyyəsinin azalması",
+        "Yumşaq toxumanın hipertrofiyası",
+        "Proqmatizm",
+        "Karbohidrat mübadiləsinin pozulması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "120. Sulfanilamid preparatların təyininə aşağıdakılardan hansı biri mütləq əks göstəriş deyil?",
+      "options": [
+        "Orta ağırlıqlı səkərli diabet tip 2",
+        "Ketoasidoz",
+        "Diabetik nefropatiyanın IV-V mərhələləri",
+        "Trasmural miokard infarktı",
+        "İnsult (kəskin faza)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. Hipofizin aktiv şişi nə deməkdir?",
+      "options": [
+        "Mediatorlar sekresiya edən şiş",
+        "AKTH sekresiya edən şiş",
+        "Klinik əhəmiyyətli səviyyədə hormon sekresiya edən şiş",
+        "Hormon sekresiya etməyən şiş",
+        "10 mm-dən böyük şişlər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "122. Biquanidlərin təsir mexanizmi hansılardır?",
+      "options": [
+        "Qara ciyərdə qlyukozanın çoxalması",
+        "Əzələ toxumasında qlyukozanın utilizasiyasının azalması",
+        "Qlyukoneogenezin aktivasiyası",
+        "İnsulin reseptorların həssaslığının artmasə, əzələ toxumasında qlyukozanın utilizasiyasının artması, insulin təsirinin artması",
+        "B-hüceyrələrin stimulyasiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "123. Diffuz toksiki urun əməliyyatdan sonraki residivinin müalicəsi hansı metodla aparılır?",
+      "options": [
+        "1,5 illik propiltiourasillə müalicə",
+        "Tireostatiklərlə və immunomodulyatorlarla müalicə",
+        "Radioaktiv yodla müalicə",
+        "Təkrar cərrahi əməliyyat",
+        "1,5 illik tiomazolla müalicə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "124. İtsenko-Kuşınq xəstəliyinin mümkün müalicə metodlarına aid deyil?",
+      "options": [
+        "Müalicəsi yoxdur",
+        "Simptomatik",
+        "Patogenetik",
+        "Cərrahi",
+        "Etiotrop"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. İnsulinoterapiyaya mütləq göstərişlər hansılardır?",
+      "options": [
+        "Xroniki piyelonefrit",
+        "ÜİX kəskinləşməsi",
+        "Pəhrizin effektsizliyi",
+        "Ketoasidoz, hamiləlik",
+        "MODY tip şəkərli diabet"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "126. Diabetik avtonom kardiopatiyanın ən təhlükəli halı hansıdır?",
+      "options": [
+        "Daimi taxikardiya",
+        "Fiksə olunmuş ürək ritmi",
+        "Daimi olmayan taxikardiya",
+        "Ağrısız miokard infarktı",
+        "Ortostatik hipotenziya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "127. Şəkərlı diabet xəstəliyinin yüngül formasını müəyyənləşdirən amil:",
+      "options": [
+        "cəkinin dəyişməməsi",
+        "pəhrizlə müalicə",
+        "az dozada insulinin tətbigi",
+        "biquanidlərin tətbiqi",
+        "ağırlaşmaların geyd olunması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "128. Qısa təsir müddətli insulinlərə aiddir:",
+      "options": [
+        "lantus",
+        "insulatard",
+        "mikstard",
+        "novorapid",
+        "monotard"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "129. Tiroksin sintez olunur:",
+      "options": [
+        "cinsiyyət vəzilərində",
+        "böyrəküstü vəzlərin qabıq maddəsində",
+        "adenohipofizdə",
+        "hipotalamusda",
+        "qalxanabənzər vəzidə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "130. Qlyukozaya tolerantlıq sınağının aparılmasına göstəriş deyil?",
+      "options": [
+        "Furunkulyoz",
+        "Qanda şəkərin miqdarının bir neçə dəfə yüksək olması",
+        "Yanğı və susuzluq",
+        "Piylənmə",
+        "Dislipidemiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "131. Hansı başlamgıc tip 1 şəkərli diabet üçün xarakterdir:",
+      "options": [
+        "kəskin",
+        "xroniki",
+        "əlamətsiz",
+        "kökəlmə ilə",
+        "tədrici"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Hansı biquanidin istifadəsindən laktatasidozun yaranma ehtimalı azdır?",
+      "options": [
+        "Metforminin",
+        "Dimetilbiquanidlərin",
+        "Buforminin",
+        "Fenforminin",
+        "Butilbiquanidlərin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133. Endemik urun profilaktikasında istifadə olan preparatlar hansılardır?",
+      "options": [
+        "Vitaminlər",
+        "b-blokatorlar",
+        "Yod preparatları",
+        "Anaboliklər",
+        "Glyukokortikoidlər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "134. Kəskin irinli tireoiditin müalicəsində hansı üsullardan istifadə etmək olar?",
+      "options": [
+        "Tireoid hormonlar",
+        "Plazmaferez",
+        "Qlyukokortikoidlər və hemodializ",
+        "Tireostatiklər",
+        "Antibiotiklər və cərrahi müdaxilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "135. İnsulin molekulası neçə amin turşusundan ibarətdir?",
+      "options": [
+        "56",
+        "51",
+        "32",
+        "58",
+        "66"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "136. Akromeqaliya üçün xarakter deyil?",
+      "options": [
+        "Baş ağrıları",
+        "Yumşaq toxumaların hipertrofiyası",
+        "Proqnatizm",
+        "Tərləmə",
+        "Striyalar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "137. Hormonlardan hansı hipofizin ön payında sintez olunmur:",
+      "options": [
+        "аntidiuretik hormon",
+        "prolaktin",
+        "LH",
+        "TTH",
+        "FSH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138. Sulfanilamid preparatların təyininə göstəriş deyil:",
+      "options": [
+        "stabil gedişli II tip şəkərli diabet",
+        "insulinədavamlılıq",
+        "steroid diabet",
+        "pəhrizlə kompensasiya olunmayan II tip şəkərli diabet",
+        "hamiləlik diabeti"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "139. Aşağıdakı xəstəliklərin hansında sidik yollarının infeksiyasına daha çox rast gəlinir?",
+      "options": [
+        "Anemiya",
+        "Addison xəstəliyi",
+        "Ağciyər xərçəngi",
+        "Şəkərli diabet",
+        "Hipotireoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "140. Tip 2 şəkərli diabetin patogenezində insulinin hansı çatmamazlığı əsas yer tutur:",
+      "options": [
+        "geyri-hormonal faktorların aktivliyi",
+        "tam çatmamazlıq",
+        "reseptor aparatının yarıtmamazlığı",
+        "hormonal faktorların aktivliyi",
+        "nisbi çatmamazlıq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "141. Diabetik makroanqiopatiyalara aiddir:",
+      "options": [
+        "diabetik retinopatiya",
+        "miokard infarktı",
+        "kapilyaropatiya",
+        "makulopatiya",
+        "diabetik nefropatiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "142. Böyük cərrahi müdaxilələr zamanı şəkərli diabetli xəstəyə nə təyin olunur?",
+      "options": [
+        "İnsulin",
+        "Biquanidlər",
+        "Sulfanilamid törəmələri",
+        "Tiazolidindionlar",
+        "A-qlikozidazanın inhibitorları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Diabetik nefropatiyanın uremik mərhələsi üçün xarakterik deyil?",
+      "options": [
+        "Proteinuriya",
+        "Arterial hipertoniya",
+        "Arterial hipotoniya",
+        "Kreatinin miqdarının artması",
+        "Funksional böyrək rezervinin kəskin azalması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "144. Qanda tireoid hormonlar nə ilə birləşirlər?",
+      "options": [
+        "Transkortin ilə",
+        "Orozomukoid ilə",
+        "Tiroksinbirləşdirici qlobulin və prealbumin ilə",
+        "Metionin ilə",
+        "Transferrin ilə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "145. Bu insulin preparatlarından hansı orta müddətli deyil?",
+      "options": [
+        "Protofan",
+        "İnsulatard",
+        "Humulin NPH",
+        "Humulin R",
+        "Lente"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "146. Aşağıdakılardan hansıları somatotrop hormonun sekresiyasını azaldır?",
+      "options": [
+        "Qlyukagon",
+        "Somatomedinlər",
+        "Somatostatin",
+        "Estrogenlər",
+        "Serotonin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "147. Tireotropin hansı hormonların sintezini artırır?",
+      "options": [
+        "Adrenalinin",
+        "Tiroksinin",
+        "Pankreatik polipeptidin",
+        "Kortizolun",
+        "Estrogenlərin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "148. Ağırlaşmalardan hansı tip 2 şəkərli diabetdə daha çox rast gəlinir:",
+      "options": [
+        "retinopatiya",
+        "nefropatiya",
+        "diabetik pəncə sidromu",
+        "diabetik ketoasidotik koma",
+        "ürəyin işemik xəstəliyi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "149. Tip 1 şəkərli diabetin patogenezində əsas amili göstərin:",
+      "options": [
+        "β hüceyrələrin destruksiyası",
+        "insulinin qeyri hormonal antaqonistlərinin aktivliyinin artması",
+        "insulinə davamlılıq",
+        "nisbi insulin çatmamazlığı",
+        "kontrinsulyar hormonların aktivliyinin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. Hansı hormon çatışmazlığı xədim bədən quruluşuna səbəb olur?",
+      "options": [
+        "Cinsi hormonlar",
+        "Tiroid hormonlar",
+        "Boy hormonu",
+        "Prednizolon",
+        "Prolaktin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151. Qisa təsir müddətli insulinlərə aiddir׃",
+      "options": [
+        "lantus",
+        "levemir",
+        "aktrapid",
+        "insulatard",
+        "mikstard"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "152. Proinsulinin bioloji aktivliyi:",
+      "options": [
+        "insulinin bioloji aktivliyindən yüksəkdir",
+        "insulinin bioloji aktivliyinə bərabərdir",
+        "C-peptid aktivlikdədir",
+        "insulinin bioloji aktivliyinin 5%- i gədərdir",
+        "bioloji aktivlik ğöstərmir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "153. İrsi meyillilik xarakter olmayan , manifestasiyası 15- 24 yaşlarına təsadüf edən, kəskin başlayan, qanda insulin və C-peptid aşağı olan və ya heç təyin olunmayan, HLA sistemlə əlaqədar, ketoasidoza meyilli olan diabetin tipini göstərin:",
+      "options": [
+        "böyrək bioabeti",
+        "tip 2 şəkərli diabet",
+        "alimentar diabet",
+        "ikincili şəkərli diabet",
+        "tip 1 şəkərli diabet"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "154. Qanda keton cisimciklərinin səviyyəsinin normadan yüksək olması hansı komanın diaqnozunun qoyulmasına kömək edir:",
+      "options": [
+        "hiperqlikemik- ketoasidotik",
+        "hiperqlikemik – hiperlaktidemik",
+        "hiperqlikemik- hiperosmolyar",
+        "hipoqlikemik",
+        "beyin koması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Caro əmsalı hansı formulla hesablanır?",
+      "options": [
+        "Qanda toxqarına şəkər/qanda acqarına insulin",
+        "Qanda acqarına insulin/qanda acqarına şəkər",
+        "Qanda toxqarına şəkər/qanda toxqarına insulin",
+        "Qanda acqarına şəkər/qanda toxqarına insulin",
+        "Qanda acqarına şəkər/qanda acqarına insulin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "156. İnsulin çatışmamazlığı zamanı müşahidə olunur?",
+      "options": [
+        "Hipoqlikemiya, keton cisimlərinin və qlikogen sintezinin azalması",
+        "Qlikogen və qlyukaqonun sintezinin artması",
+        "Hipoqlikemiya, qlyukaqonun sintezinin artması",
+        "Hiperqlikemiya, keton cisimlərinin artması, qlikogen sintezinin azalması",
+        "Hiperqlikemiya, keton cisimlərinin yaranmasının və qlikogen sintezinin azalması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "157. 30 yaşlı anamnezində heç bir xəstəlik haqqında məlumat olmayan qadın hamiləliyin III trimestrində ağizda quruluq, susuzluq, sidik ifrazının artması şikayəti ilə sahə həkiminə müraciət edib. Ac qarnına qan şəkəri 177 mq%, sidikdə şəkər 0.5% aşkar olunub. Diaqnozu dəqiqləşdirin:",
+      "options": [
+        "xronik böyrək çatmamazlığı",
+        "böyrək diabeti",
+        "alimentar diabet",
+        "hestasion diabet",
+        "şəkərsiz diabet"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "158. Şəkərli diabet zamanı böyrəklərin zədələnməsi hansı sindromla adlandırılır:",
+      "options": [
+        "Somodji",
+        "Kimmelstil- Uilson",
+        "metabolik",
+        "Moriak",
+        "Kuşinq"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "159. Hansı şəkərsalıcı preparatlar həzm sistemi tərəfindən əlavə təsirlərə malikdir?",
+      "options": [
+        "İnsulin",
+        "Biquanid,akarboza",
+        "Qlinidlər",
+        "Sekretaqoqlar",
+        "Qlitazonlar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "160. Virus infeksiyasından sonra 15 yaşında oğlan susuzlug və tez-tez sidik ifrazından şikayət edir. Ganda şəkərin migdarı 17,6 mmol/l, sidikdə səkər 5%, aseton sidikdə müsbətdir. Diagnozu dəqiqləşdirin:",
+      "options": [
+        "insulindən asılı şəkərli diabet.",
+        "insulindən asılı olmayan şəkərli diabet.",
+        "ikincili şəkərli diabet.",
+        "insulin tələbli 2-ci tip şəkərli diabet.",
+        "LADA tip şəkərli diabet."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161. Hansı sulfanilamid törəməsi mədə-bağırsaq traktı ilə xaric olur?",
+      "options": [
+        "Qlyurenorm",
+        "Qlibenklamid",
+        "Amaril",
+        "Diabeton",
+        "Minidiab"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162. Kişi klimaksının erkən ağırlaşmalarına aiddir:",
+      "options": [
+        "Endokrin pozğunluqlar və anemik sindrom",
+        "Trofik və endokrin pozğunluqlar",
+        "Anemik sindrom və sidik-cinsiyyət sistemində pozğunluqlar",
+        "Psixoemosional və trofik pozğunluqlar",
+        "Vegetativ-damar və psixoemosional pozğunluqlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "163. Tireotoksikozun diaqnostikası üçün daha informativ üsullar aşağıdakılardır?",
+      "options": [
+        "Cinsi xromatinin təyini",
+        "AKTH təyini, Prolaktinin təyini",
+        "Tiroksin, triyodtironin, tireotrop hormonun təyini",
+        "Əsas mübadilənin təyini",
+        "Qanda zülalla birləşmiş yodun təyini"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "164. Qlükokortikoidlərin əsas yanaşı təsirlərinə aşağıdakılardan hansı aid deyil?",
+      "options": [
+        "İmmunodepressiya, steroid osteoporoz",
+        "Orqanizmdən Na və suyun çıxarılması",
+        "Piylənmə",
+        "Arıqlama",
+        "Orqanizmdə K saxlanılması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "165. İrsi meytillilik xarakter olan , manifestasiyası əsasən 40 yaşından sonra tədricın başlayan, qanda insulin və C-peptid normada və ya normadan çox olan, insulinədavamlılıq qeyd olunan , ketoasidoza meyilli olmayan, şəkərsalıcı həblərlə tənzimlənən diabetin tipini göstərin:",
+      "options": [
+        "tip 1 şəkərli diabet",
+        "ikincili diabet",
+        "bürünc diabet",
+        "tip 2 şəkərli diabet",
+        "hestansion diabet"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "166. Aşağıdakılardan hansı serebral – hipofizar çatışmazlığa səbəb ola bilməz?",
+      "options": [
+        "Meninqoensefalit",
+        "Türk yəhərinin şişi",
+        "Şəkərli diabet",
+        "Qansızma ilə müşahidə olunan kəllə travması",
+        "Vərəm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "167. Ümumi profilaktik müayinə zamanı praktik sağlam qadında sidikdə şəkər 1.5% və ac qarnına qan şəkəri 125mq% olmuşdur. Diaqnozu təyin edin:",
+      "options": [
+        "şəkərsiz diabet",
+        "böyrək diabeti",
+        "şəkərli diabet",
+        "hemoxromatoz",
+        "hestansion diabet"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "168. Ümumi profilaktik müayinə zamanı 45 yaşlı praktik sağlam kişidə sidikdə şəkər 1% və ac qarnına qan şəkəri 121mq% təyin olunmuşdur. Optimal müalicəni təyin edin:",
+      "options": [
+        "sulfanilamidlər",
+        "inkretin mimetiklər",
+        "insulin",
+        "pəhriz və fiziki aktivlik",
+        "biquanidlər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "169. Şəkərli diabet xəstələrində “bal ayı” anlayışı nə deməkdir?",
+      "options": [
+        "Diabetə yeni tutulmuş insanlarda insulin ehtiyacının bir müddətli kəskin artması",
+        "1 tip ŞD yeni tutulmuş insanlarda insulin ehtiyacının bir muddətli olmaması",
+        "1 tip ŞD uzun müddət xəstə olan insanlarda insulin ehtiyacının kəskin artması",
+        "2 tip ŞD uzun müddət xəstə olan insanlara insulin təyini",
+        "1 tip ŞD uzun müddət xəstə olan insanlarda insulin ehtiyacının kəskin azalması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "170. 41 yaşlı heç bir şikayəti olmayan kişidə təsadüfü müyinə zamanı yüksək qan şəkəri (170mq/ %) aşkar olunub. Aşağıdakı testlərdən hansını aparmaq vacibdir:",
+      "options": [
+        "qanda xolesterin",
+        "ac qarnına qanda şəkər",
+        "qida gəbulundan 2 saat sonra qanda şəkərin təyini",
+        "sidikdə şəkər",
+        "Hb A1c"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "171. Şəkərli diabetli xəstələrə sulfanilamid preparatları aşağıdakı hallarda təyin edilir?",
+      "options": [
+        "I tip şəkərli diabet zamanı",
+        "Keçirilmiş hepatit zamanı",
+        "Cərrahi əməliyyat zamanı",
+        "Orta ağırlıqlı II tip şəkərli diabet zamanı",
+        "III mərhələli diabetik nefropatiya zamanı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "172. Sulfanilamid törəmələrinin təsir mexanizmi hansılardır?",
+      "options": [
+        "İnsulinə qarşı toxuma reseptorlarının azalması",
+        "İştahın azalması",
+        "Pankreasın b-hüceyrələrinin birbaşa stimulyasiyası, endogen insulinə qarşı insulinasılı toxumaların həssaslığının artması",
+        "Qlyukozanın bağısaqlarda absorbsiyasının azalması",
+        "Qlyukaqonun sintezinin stimulyasiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "173. Qadınlarda hiperprolaktinemiya nə ilə müşahidə olunur?",
+      "options": [
+        "Arterial hipotoniya ilə",
+        "Hiperpiqmentasiya ilə",
+        "Ovulyasiyanın olmaması ilə",
+        "Bədən çəkisinin itirilməsi ilə",
+        "Qeyri mütənasib piylənmə ilə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "174. 30 yaşdan cavan olan xəstələrdə düyünlü toksiki urun əsas müalicə üsulu hansıdır?",
+      "options": [
+        "Qlyukokortikoidlərlə müalicə",
+        "131J ilə müalicə",
+        "Merkazolil ilə müalicə",
+        "Cərrahi müdaxilə",
+        "Antibiotiklərlə müalicə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "175. Kəskin tireoidit zamanı qalxanvari vəzinin funksiyası necə dəyişir?",
+      "options": [
+        "Azalır",
+        "Artır",
+        "Dəyişilmir",
+        "Distireoz",
+        "Xəstəliyin fazasından asılıdır"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "176. Kişi klimaksının patogenezində nə durur?",
+      "options": [
+        "Androgenlərin və estrogenlərin azalması",
+        "Estrogenlərin defisiti",
+        "Tiroid hormonların azalması",
+        "Qonadotrop hormonların azalması",
+        "Androgenlərin defisiti"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "177. Hansı şəkərsiz diabet üçün xarakterdir?",
+      "options": [
+        "Hiperqlikemiya",
+        "Polidipsiya, poliuriya, sidiyin hiperosmolyarlığı",
+        "Plazmanın hipoosmolyarlığı",
+        "Polidipsiya, poliuriya, sidiyin hipoosmolyarlığı",
+        "Polidipsiya, poliuriya, hiperqlikemiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "178. İtsenko-Kuşınq xəstəliyinin fəsadlarına hansılar aiddir?",
+      "options": [
+        "Patoloji sınıqlar",
+        "Trombositopeniya",
+        "Hipotenziya",
+        "Kəskin arıqlama",
+        "Hipotermiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179. Qanda keton cisimciklərinin səviyyəsinin norma daxilində olması hansı komanın diaqnozunun inkar etməyə kömək edir:",
+      "options": [
+        "hipoqlikemik",
+        "hiperqlikemik- ketoasidotik",
+        "beyin koması",
+        "böyrək koması",
+        "hiperqlikemik- hiperosmolyar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "180. Sulfanilamid preparatların şəkərsalıcı təsirinin mexanizminə aid deyil:",
+      "options": [
+        "insulindən asılı toxumaların endogen insulinə qarşı həssaslığının artması",
+        "qlükaqon sintezinin blokadası",
+        "bağırsaqlardan qlükozanın absorbsiyasının azalması",
+        "mədəaltı vəzin b-hüceyrələrinin stimullaşdırılması",
+        "toxumalarda insulin reseptorlarının sayının artması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "181. İnsulin sintez olunur:",
+      "options": [
+        "mədəaltı vəzin b-hüceyrələrində",
+        "böyrəküstü vəzlərin qabıq maddəsində",
+        "böyrəküstü vəzlərin beyin maddəsində",
+        "qalxanabənzər vəzidə",
+        "adenohipofizdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182. Akromegaliyaya səbəb ola bilməz?",
+      "options": [
+        "Hipofizin mikroadenoması",
+        "Somatotrop hormonu ifraz edən qeyri-hipofizar şişlər",
+        "Hipotalamusun birincili patologiyası",
+        "Sümük-əzələ sisteminin patoloqiyası",
+        "Hipofizin makroadenoması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "183. İnsulinə təlabatın hansı dozası insulinə orta davamlılıq kimi qiymətləndirilə bilər:",
+      "options": [
+        "40 TV",
+        "30 TV",
+        "100 TV",
+        "60 TV",
+        "50 TV"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "184. İnsulinə təlabatın hansı dozası ağır insulinə davamlılıq kimi qiymətləndirilə bilər:",
+      "options": [
+        "130 TV",
+        "110 TV",
+        "200 TV",
+        "140 TV",
+        "120 TV"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "185. Hiperqlikemik laktoasidotik komanın müalıcəsinin məqsədi:",
+      "options": [
+        "taxikardiyanın aradan qaldırılması",
+        "bədən hərarətinin tənzimlənməsi",
+        "arterial təzyiqi qaldırmaq",
+        "alkolozun aradan qaldırılması",
+        "laktat və metforminin orqanizmdən çıxarılması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "186. Hipertireozla nəticələnən xəstəliklər hansılardır?",
+      "options": [
+        "Autoimmun tireoidit",
+        "Qalxanabənzər vəzin xərçəngi",
+        "Çox düyünlü toksiki ur, Haşimoto tireoiditi",
+        "Qrevs xəstəliyi,çox düyünlü toksikiur, tireotoksiki adenoma",
+        "Hipotireoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "187. İnsulin ona həssas hüceyrələrə hansı reseptor vasitəsi ilə təsir edir:",
+      "options": [
+        "nüvə reseptoru",
+        "reseptorsuz",
+        "sitoplazma- nüvə",
+        "sitoplazma",
+        "membran reseptoru"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "188. Diabetik mikroanqiopatiyalara aiddir:",
+      "options": [
+        "işemik pəncə",
+        "miokard infarktı",
+        "diabetik retinopatiya",
+        "neyropatik pəncə",
+        "insult"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "189. Piylənmə zamanı ürək-damar sistemi tərəfindən hansı ağırlaşmalar yarana bilər?",
+      "options": [
+        "AT yüksəlməsi",
+        "Hipotenziya",
+        "Bradikardiya",
+        "Sinus düyününün zəifliyi",
+        "Səirici aritmiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. Hipoqlikemiyanın metabolik markerləri hansıdır?",
+      "options": [
+        "Qanda keton cismləri",
+        "Mikroalbuminuriya",
+        "Sidikdə keton cismləri",
+        "Qanda şəkərin miqdarının artması",
+        "Qanda şəkərin miqdarının azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "191. Tireoid hormonların artıq olması nəyə səbəb ola bilər?",
+      "options": [
+        "Zülal sintezinə təsir göstərmir",
+        "Lipidlərin sintezinə təsir göstərmir",
+        "Zülalların sintezinin sürətlənməsi",
+        "Zülalların katabolizmini sürətləndirir",
+        "Lipidlərin sintezini sürətləndirir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "192. Bədən kütlə indeksi hansı formulla hesablanır?",
+      "options": [
+        "Çəki (kq2)/boy (m)",
+        "Boy (m2)/çəki (kq)",
+        "Çəki (kq2)/boy (m2)",
+        "Çəki (kq)/boy (m2)",
+        "Boy (m)/çəki (kq2)"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "193. İtsenko-Kuşınq xəstəliyinin hansı xəstəliklərlə differensial diaqnozu aparılır?",
+      "options": [
+        "Essensial hipertenziya",
+        "Üzülmüş yumurtalıqlar sindromu",
+        "Xroniki piyelonefrit",
+        "Böyrək-üstü vəzinin xroniki çatmamazlığı",
+        "Xroniki alkoqolizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194. Hipofizin arxa payında ifraz olunur?",
+      "options": [
+        "Oksitosin",
+        "TTH",
+        "Sadalanan hormonlardan heç biri",
+        "AKTH",
+        "Prolaktin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "195. Hamiləliyin III trimestrində hestansion şəkərli diabet diaqnozu qoyulmuş qadının optimal müalicəsini təyin edin:",
+      "options": [
+        "biquanidlər",
+        "inkretin mimetiklər",
+        "pəhriz və insulin",
+        "sulfanilamidlər",
+        "akarboza"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "196. Piylənmənin hansı formaları var?",
+      "options": [
+        "ginoid, qarışıq",
+        "abdominal, ginoid, qarışıq",
+        "ginoid, abdominal, qarışıq, mərkəzi",
+        "abdominal, qarışıq",
+        "abdominal, ginoid"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "197. Qadın orqanizmində androgenlərin əmələ gəlməsi daha çox harada baş verir?",
+      "options": [
+        "Hipofizdə",
+        "Periferik toxumalarda",
+        "Böyrəkdə",
+        "Böyrəküstü vəzidə",
+        "Yumurtalıqda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "198. Hiperqlikemik laktoasidotik komanın müalicəsində istifadə olunmur:",
+      "options": [
+        "sulfanilamid preparatları",
+        "insulin",
+        "natriumbikarbonat",
+        "ürək-damar preparatları",
+        "dializ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199. Qestasiyon şəkərli diabet üzrə risk qrupuna hansı qadınlar aiddirlər?",
+      "options": [
+        "Bundan öncə hamiləlik zamanı toksikozlar kecirmiş qadınlar",
+        "4–kq aşağı uşaqlar dünyaya qətirmiş qadınlar",
+        "Bundan öncə hamiləlik zamanı qestasiyon diabet kecirmiş, 4–kq artıq uşaqlar dünyaya qətirmiş və irsiyatda şəkərli diabeti olan qadınlar",
+        "Qec dogan qadınlar",
+        "Çox cavan qadınlar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "200. Hipotireozun müalicəsində seçim preparatı hansıdır?",
+      "options": [
+        "Tireokomb",
+        "L-tiroksin",
+        "Tireotom",
+        "Tireoidin",
+        "Triyodtironin"
+      ],
+      "correct": 1
+    }
+  ]
+}

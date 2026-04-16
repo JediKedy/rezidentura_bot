@@ -1,0 +1,1060 @@
+{
+  "questions": [
+    {
+      "question": "1. Göstərilənlərdən hansı qaraciyərxarici öd axarlarına aid deyil?",
+      "options": [
+        "Oddi sfinkteri",
+        "Sağ pay axacaqları",
+        "Sol pay axacaqları",
+        "Öd kisəsi və axarı",
+        "Öd kanalcıqları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2. Hansı müayinə metodu öd yollarının ən həssas və ilkin müayinə metodudur?",
+      "options": [
+        "MRT",
+        "ERXPQ",
+        "USM",
+        "PTX",
+        "KT"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "3. Xolelitiaz nədir?",
+      "options": [
+        "Öd yollarının fibrozu",
+        "Öd yollarının iltihabı",
+        "Öd daşı",
+        "Öd kisəsinin iltihabı",
+        "Öd yollarının adenokarsinoması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "4. Xolangit nədir?",
+      "options": [
+        "Öd kisəsinin iltihabı",
+        "Öd yollarının adenokarsinoması",
+        "Ümumi öd axarında daş",
+        "Öd daşı",
+        "Öd yollarının iltihabı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "5. Xolesistit nədir?",
+      "options": [
+        "Öd yollarının adenokarsinoması",
+        "Öd daşı",
+        "Ümumi öd axarında daş",
+        "Öd yollarının iltihabı",
+        "Öd kisəsinin iltihabı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "6. Öd axacaqlarını qiymətləndirmək üçün ən dəqiq ilkin müayinə metodu hansıdır?",
+      "options": [
+        "Kateter xolangioqrafiya",
+        "Radioizotop müayinə",
+        "Perkutan transhepatik xolangioqrafiya",
+        "Əməliyyatdaxili xolangioqrafiya",
+        "Maqnit rezonans xolangioqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "7. Öd sancısını törədən xəstəliklərdən hansı öd daşına bağlı deyil?",
+      "options": [
+        "Biliar pankreatit",
+        "Xolangit",
+        "Xoledoxolitiaz",
+        "Xroniki daşlı xolesistit",
+        "Oddi sfinktoru diskineziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "8. Sarılığın dəqiqləşdirilməsi hansı müayinə metodları ilə aparılır?",
+      "options": [
+        "Endoskopiya",
+        "USM",
+        "MRT",
+        "KT",
+        "Labarator müayinələrlə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "9. 32 yaşlı qadın xəstə klinikaya qaşınma, gözün sklerasının və dilin altının saralması şikayətləri ilə daxil olmuşdur. Xəstənin deməsinə görə sarılıq və qaşınma əlamətləri iki gün ərzində başlamış və getdikcə şiddətlənmişdir. Labarator müayinədə QF və QQT səviyyələrinin artması müşahidə edilmişdir. Diaqnoz nədir?",
+      "options": [
+        "Xolesistolitiaz",
+        "Pankreatit",
+        "Sirroz",
+        "Hepatit",
+        "Xolestaz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "10. Mexaniki sarılığın ən çox rast gəlinən səbəbi hansıdır?",
+      "options": [
+        "Parazitlər",
+        "Varikozlar",
+        "Törəmə",
+        "Öd daşları",
+        "Çapıq"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "11. Göstərilənlərdən hansı mexaniki sarılıq nəticəsində bağırsaqlarda əmələ gələn patalogiyalara aid deyil?",
+      "options": [
+        "Translokasiya",
+        "Diareya",
+        "Avitaminozlar",
+        "Biliar sirroz",
+        "Malabsorbsiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. Mexaniki sarılığı digər sarılıqlardan fərqləndirən ən önəmli əlamət hansıdır?",
+      "options": [
+        "Tünd rəngli sidiyin olması",
+        "Qaşınma",
+        "Xolestatik enzimlərdə artma",
+        "Öd yollarının genişlənməsi",
+        "Bilurubinin artması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "13. Mexaniki sarılığın səbəbi hansı müayinə daha dəqiq göstərir?",
+      "options": [
+        "USM",
+        "Rentgen",
+        "Qastroskopiya",
+        "KT",
+        "MRT"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Öd kisəsindəki daşıları təyin etmək üçün ilk seçim hansı müayinə metodudur?",
+      "options": [
+        "KT",
+        "Qastroskopiya",
+        "Rentgen",
+        "USM",
+        "MRT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "15. Xoledoxdakı daşları təyin etmək üçün ilk seçim hansı müayinə metodudur?",
+      "options": [
+        "KT",
+        "Kolonoskopiya",
+        "MRT",
+        "Labarator müayinə",
+        "USM"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "16. Qəhvəyi xoledox daşlarının səbəbi nədir?",
+      "options": [
+        "Hemoliz",
+        "Bilirubin artması",
+        "Xolesterin artması",
+        "İnfeksiya",
+        "Sirroz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "17. Göstərilənlərdən hansı öd daşının əsas ağırlaşmalarına aid deyil?",
+      "options": [
+        "Bağırsaq keçməzliyi",
+        "Xoledoxolitiaz",
+        "Pankreatit",
+        "Xolangit",
+        "Xoralı kolit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "18. 31 yaşlı qadın xəstə klinikaya sağ qabırğaaltı və epiqastral nahiyədə olan kəskin ağrı şikayətləri ilə daxil olmuşdur. Xəstənin deməsinə görə ağrı yeməkdən 1 saat sonra başlamış, 6 saat ərzində davam etmiş, sonra isə təsricən azalmışdır. Diaqnozu təsdiq etmək üçün ilkin olaraq hansı müayinə aparılmalıdır?",
+      "options": [
+        "Rentgen",
+        "PET KT",
+        "KT",
+        "MRT",
+        "USM"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "19. Göstərilənlərdən hansı kəskin daşsız xolesistitin risk faktorlarına aid deyil?",
+      "options": [
+        "Kardiocərrahi əməliyyatlar",
+        "Uzun müddətli ac qalmalar",
+        "Kisədə xırda ölçülü daşların olması",
+        "Parenteral qidalanma",
+        "Böyük həcmli yanıqlar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "20. Göstərilənlərdən hansı kəskin daşsız xolesistitin labarator əlamətlərinə aid deyil?",
+      "options": [
+        "AST artması",
+        "ALT artması",
+        "QQT artması",
+        "Leykositoz",
+        "Hipoamilazemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "21. Göstərilənlərdən hansı xoledoxoletiazın ağırlaşmalarına aid deyil?",
+      "options": [
+        "Xolangit",
+        "Oddi fibrozu",
+        "Pankreatit",
+        "Biliar sirroz",
+        "Mədə polipi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Xolangitin diaqnostikasında ilk seçim hansı müayinə metodudur?",
+      "options": [
+        "Qastroskopiya",
+        "Kolonoskopiya",
+        "USM",
+        "PTX",
+        "ERXPQ"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "23. Kəskin xolesistitin ən çox rast gələn səbəbi aşağıdakılardan hansıdır?",
+      "options": [
+        "Ağır dərəcəli yanıq",
+        "Sepsis",
+        "Böyük əməliyyatlar",
+        "Öd daşı xəstəliyi",
+        "Skleroz xolangit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Göstərilənlərdən hansı xoledoxolitiaz üçün xarakterik deyil?",
+      "options": [
+        "Xolangit",
+        "Ağrı tutması",
+        "Ağrı tutmasının ardınca sarılığın inkişafı",
+        "Kəskin arıqlama",
+        "Qaşınma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "25. Aşağıdakılardan hansı mexaniki sarılıq törətmir?",
+      "options": [
+        "Ümumi öd axarının daşı",
+        "Böyük duodenal məməciyin şişi",
+        "Xroniki indurativ pankreatit",
+        "Kisə dibindəki daş",
+        "Mədəaltı vəz başının şişi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "26. Xoledoxolitiazın ən tipik simptomu aşağıdakılardan hansıdır?",
+      "options": [
+        "Üşütmə",
+        "Qarında əzələ gərginliyi",
+        "Qarında ağrı",
+        "Hərarətin artması",
+        "Sarılıq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "27. Kəskin xolesistitə şübhə olanda hansı müayinə aparılmır?",
+      "options": [
+        "Laparoskopiya",
+        "Laparosentez",
+        "USM",
+        "Qanın ümumi analizi",
+        "Qanda bilirubinin təyini"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Kəskin xolesistitin hansı növü yoxdur?",
+      "options": [
+        "Qanqrenoz",
+        "Fleqmanoz",
+        "Qanqrenoz-perforativ",
+        "Kataral",
+        "Sklerozlaşmış"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Öd daşı xəstəliyi hansına səbəb olmur?",
+      "options": [
+        "Öd kisəsinin xərçənginə",
+        "Xolesisto-duodenal fistulaya",
+        "Mexaniki sarılığa",
+        "Bağırsaq keçməzliyinə",
+        "Qarındaxili qanaxmaya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "30. Hansı öd daşı xəstəliyinin ağırlaşması deyil?",
+      "options": [
+        "Mexaniki sarılıq",
+        "Öd kisəsinin empieması",
+        "Kəskin pankreatit",
+        "Mədənin böyük əyriliyinin xorası",
+        "Öd kisəsinin hidropsu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "31. Xoledoxdakı daşı müəyyənləşdirmədə aşağıdakılardan hansının həssaslığı ən aşağıdır?",
+      "options": [
+        "ERXPQ",
+        "Xoledoxoskopiya",
+        "İntraoperasion xolangioqrafiya",
+        "USM",
+        "MRT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Öd daşlarının əsas əmələ gəlmə yeri haradır?",
+      "options": [
+        "Böyük duodenal məməciyin ampulu",
+        "Sol pay axacağı",
+        "Ümumi öd axarı",
+        "Öd kisəsi",
+        "Ümumi qaraciyər axarı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "33. Kəskin xolesistitin radikal müalicəsi hansıdır?",
+      "options": [
+        "Dekompressiya",
+        "Antibiotikoterapiya",
+        "Dekompressiya və antibiotikoterapiya",
+        "Xolesistektomiya",
+        "İltihabəlehinə dərmanlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "34. Kəskin xolesistitlərin spontan sönməsində ən önəmli rol oynayan hansıdır?",
+      "options": [
+        "Öd ifrazının artması",
+        "Oddi sfinkterinin boşalması",
+        "İnfeksiyanın aradan qalxması",
+        "Tıxanmanın aradan qalxması",
+        "İltihab bölgəsinin piyliklə hüdudlanması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "35. Öd kisəsinin boşalmasını tezləşdirən əsas stimul aşağıdakılardan hansıdır?",
+      "options": [
+        "Sekretin",
+        "Mədə turşusu",
+        "Parasimpatik təsir",
+        "Simpatik təsir",
+        "Xolesistokinin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Aşağıdakılardan hansı sarılıqla biruzə verməz?",
+      "options": [
+        "Hipoalbuminemiya",
+        "Hepatosellular disfunksiya",
+        "Massiv əzələ nekrozu",
+        "Xroniki daşlı xolesistit",
+        "Portal hipertenziya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "37. Kəskin irinli xolangitin simptomları arasında ən çox müşahidə olunanı hansıdır?",
+      "options": [
+        "Beyin pozğunluğu",
+        "Septik şok",
+        "Sarılıq",
+        "Qarında ağrılar",
+        "Yüksək hərarət"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "38. USM-də xoledox genişlənməsi olan sarılıqlı bir xəstədə sonrakı tətbiq olunan müayinə metodu açağıdakılardan hansıdır?",
+      "options": [
+        "EUS",
+        "PTXQ",
+        "ERXPQ",
+        "KT",
+        "MRT"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "39. Xəstə 70 yaşında sarılıq, qarında kəskin başlayan ağrı və qaşınma şikayətləri ilə klinikaya daxil olur. Anamnezində öd kisəsində daşları olduğunu bildirir. Mexaniki sarılığa şübhə var, ilk ediləcək müaytinə hansıdır?",
+      "options": [
+        "Nativ KT",
+        "ERXPQ",
+        "Kontrastlı KT",
+        "MRT",
+        "USM"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "40. Sarılıqlı xəstədə, qanda ümumi bilirubin səviyyəsi 4,4 mg/dL , düz (birləşmiş) bilirubin fraksiyası 3. 0 mg/dL-dır. Bu xəstədə diaqnoz qoymağa ən az yararlı olan müayinə aşağıdakılardan hansıdır?",
+      "options": [
+        "MRT",
+        "ERXPQ",
+        "USM",
+        "Angioqrafiya",
+        "Perkutan trtanshepatik xolangioqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "41. Xəstə 50 yaşında qadın, ağır yemək qəbulundan sonra qarında sağ qabırğaltı nahiyyədə kəskin başlayan ağrı səbəbi ilə təcili xəstəxanaya daxil olur. Hərarəti: 37. 5°C, leykosit- 12. 000/mm3-dir. Fizikal müayinədə sağ qabırğaaltı nahiyyədə gərginlik təyin olunur. Aşağıdakılardan hansını ilk olaraq edərsiniz?",
+      "options": [
+        "Qastrodudenoskopiya",
+        "Rentgenoqrafiya",
+        "USM",
+        "KT",
+        "MRT"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "42. Sağ qabırğaaltı nahiyədə ağrı, ürəkbulanma, qusma şikayətləri ilə gələn 60 yaşındakı qadın xəstəyə ilk olaraq aşağıdakılardan hansı edilməlidir?",
+      "options": [
+        "Qastroskopiya",
+        "ERXPQ",
+        "KT",
+        "Ayaq üstə vəziyyətdə icmal rentgenoqrafiya",
+        "USM"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "43. 2 il əvvəl xolesistektomiya keçirmiş 60 yaşında xəstə 39. C hərarət, titrətmə, sarılıq və qarında ağrı ilə xəstəxanaya müraciət edir. İlkin diaqnoz aşağıdakılardan hansıdır?",
+      "options": [
+        "Kəskin pankreatit",
+        "Bağırsaq keçməzliyi",
+        "Kəskin hepatit",
+        "Pankreas başı xərçəngi",
+        "Kəskin xolangit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "44. Qaraciyər xəstəlikləri üçün çox rast gələn xarakterik olan əlamət hansıdır?",
+      "options": [
+        "Köp",
+        "Qusma",
+        "Qaşınma",
+        "Yuxusuzluq",
+        "Sağ qabırğaaltı nahiyədə küt ağrı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "45. Assit nədir?",
+      "options": [
+        "Bədəndə diffuz qaşınma hissi",
+        "Skleranın sarı rəngə boyanması",
+        "Palpasiya zamanı ağrının olması",
+        "Mədə möhtəviyyatının geri qayıdması",
+        "Periton boşluğunda mayenin toplanması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "46. Ensefalopatiya nədir?",
+      "options": [
+        "Fibroz toxumanın inkişafı",
+        "Periton boşluğunda mayenin toplanması",
+        "Sağ qabırğaaltı nahiyədə ağrı",
+        "Şüurda və intelektdə dəyişikliklər",
+        "Skleranın sarı rəngə boyanması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "47. Göstərilən əlamətlərdən hansı qaraciyər xəstəliklərinə ən az şübhə yaradar?",
+      "options": [
+        "Hepatomeqaliya",
+        "Qaşınma",
+        "Mədə bağırsaq qanaxması",
+        "Halsızlıq",
+        "İshal"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "48. Portal hipertenziyanın ən çox rast gəlinən səbəbi nədir?",
+      "options": [
+        "ABV membranı",
+        "Hepatoportal fibroz",
+        "Dalaq venası trombozu",
+        "Sirroz",
+        "Portal vena trombozu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "49. Göstərilənlərdən hansı portal hipertenziyanın qaraciyərüstü səbəblərinə aiddir?",
+      "options": [
+        "Sarkoidoz",
+        "Dalaq venası trombozu",
+        "Sinusoidal",
+        "ABV membranı",
+        "Portal tromboz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "50. Portal hipertenziyada xəstələrdə ən çox rast gəlinən əlamət hansıdır?",
+      "options": [
+        "Ezofageal varikozlar",
+        "Hemorroidlər",
+        "Meduza başı",
+        "Ensefalopatiya",
+        "Splenomeqaliya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "51. Göstərilənlərdən hansı porto-kaval kollaterallara aid deyil?",
+      "options": [
+        "Hemorroidal venalar",
+        "Göbək venası",
+        "Tac venaları",
+        "Diafraqmal venalar",
+        "Qastro-ezofageal venalar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "52. Portal hipertenziyada ən təhlükəli ağırlaşma hansıdır?",
+      "options": [
+        "Assit",
+        "Hepatorenal sindrom",
+        "Ensefalopatiya",
+        "Splenomeqaliya",
+        "Ezofageal varikozlardan qanaxma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "53. Portal hipertenziyada qanaxmaların əsas diaqnostik müayinə metodu hansıdır?",
+      "options": [
+        "Ellastoqrafiya",
+        "KT",
+        "MRT",
+        "Qastroskopiya",
+        "USM"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Göstərilənlərdən hansı qaraciyərin anadangəlmə sistlərinin hansını törədməz?",
+      "options": [
+        "Kütlə effekti",
+        "Xolangit",
+        "Portal hipertenziya",
+        "Bağırsaq keçməzliyi",
+        "Xolestaz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "55. Qaraciyərin anadangəlmə sistlərinin klinik əlamətləri hansılar üçün xarakterikdir?",
+      "options": [
+        "Ürəkbulanma",
+        "Sarılıq",
+        "Hipertenziya",
+        "Əksərən asimtomatik olur",
+        "Taxikardiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "56. Qaraciyərin anadangəlmə sistlərinin diaqnostikasında ən çox hansı metoddan istifadə edilir?",
+      "options": [
+        "Sistoqrafiya",
+        "Rentgenoqrfiya",
+        "PET KT",
+        "KT",
+        "USM"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "57. Göstərilənlərdən hansı qaraciyər absesinin ağırlaşmalarına aid deyil?",
+      "options": [
+        "Qarın boşluğuna açılma",
+        "Xolangit",
+        "Peritonit",
+        "Sepsis",
+        "Hepatoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Göstərilənlərdən hansı hemihepatektomiya üçün əks göstərişdir?",
+      "options": [
+        "Fokal nodulyar hiperplaziya",
+        "İnterhepatik çoxsaylı daşlar",
+        "Hepatik hemangioma",
+        "Hepatosellular adenoma",
+        "Kiçik qaraçiyər sindromu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "59. Qaraciyərin USM müayinəsində 4 sm-lik kist görünür. İlk növbədə nə düşünülməlidir?",
+      "options": [
+        "Qaraciyər absesi",
+        "Travmatik kist",
+        "Sadə kist",
+        "Exnikok kisti",
+        "Neoplastik kist"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Qaraciyərin absesi hara daha çox perforasiya edir?",
+      "options": [
+        "Plevra boşluğu və ağciyərlərə",
+        "Yoğun bağırsağa",
+        "Qarın boşluğuna",
+        "Mədəyə",
+        "Perikardial boşluğa"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "61. Qaraciyər exnikokkozunun müalicəsində əsas yeri hansı tutur?",
+      "options": [
+        "Perkutan destruksiya",
+        "Perkutan yolla antihelmin dərmanın yeridilməsi",
+        "Punksion-aspirasiyon müalicə",
+        "Oral antihelmin terapiya",
+        "Cərrahi üsulla xaric edilməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "62. Portal hipertenziyanın etioloji amillərinə sadalananlardan hansı aid deyil?",
+      "options": [
+        "Splenomeqaliya",
+        "Sarkoidoz",
+        "Hepatit",
+        "Xroniki alkoholizm",
+        "Refluks ezofagit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Qaraciyər sirrozunun gecikmiş mərhələsinə hansı xas deyil?",
+      "options": [
+        "Qarının ön divarının venalarının varikoz genəlməsi",
+        "Assit",
+        "Hepatorenal sindrom",
+        "Mədənin kəskin genişlənməsi",
+        "Qida borusu venalarının genəlməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "64. Xəstə 35 yaşında, klinikaya kəskin pankreatit şübhəsi ilə daxil olmuşdur. Xəstəliyin diqnostikası üçün ən informativ sınaq hansıdır?",
+      "options": [
+        "Aldolazanın təyini",
+        "Aminotransferazanın təyini",
+        "Laktazanın təyini",
+        "Tripsinogenin təyini",
+        "Qanda amilazanın təyini"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "65. 50 yaşlı xəstə epiqastral nahiyədə ağrıdan, ürəkbulanmadan, dövri qusmalardan şikayət edir. Qastroduodenoskopiyada mədədə və 12 bb-da çoxsaylı xoralar görünmüşdür. Xəstəliyin səbəbi ilk növədə aşağıdakılardan hansıdır:",
+      "options": [
+        "Asinar toxumanın şişi",
+        "İnsulinoma",
+        "Qlükaqonoma",
+        "Mədəaltı vəzin sisti",
+        "Qastrinoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. Aşağıdakılardan hansı kəskin pankreatitə ən çoх şübhə yaradır?",
+      "options": [
+        "birdən-birə başlayan, qusma ilə kəskin azalan ağrı",
+        "birdən-birə başlayan və 6 saat ərzində öz-özünə keçən ağrı",
+        "birdən-birə başlayan və ağrıkəsicilərlə tеzliklə kеçən ağrı",
+        "yavaş başlayan tеz kеçən ağrı, qusma",
+        "birdən-birə başlayan və davam еdən güclü ağrı,"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Aşağıdakılardan hansı kəskin pankreatitin yerli ağırlaşması sayılmır?",
+      "options": [
+        "Pankreasın fistulası",
+        "Piylik kisəsinin absesi",
+        "Retroperitoneal fleqmona",
+        "Mədəaltı vəzin psevdosisti",
+        "Böyrək yetməzliyi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. Kəskin pankreatitdə qusma adətən:",
+      "options": [
+        "Qanlıdır",
+        "Ağrıları azaldır",
+        "Nəcislidir",
+        "Durğunluq möhtəviyyatlıdır",
+        "Çoxsaylıdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. Mədəaltı vəzin xərçəngi üçün xarakterikdir:",
+      "options": [
+        "Peritonun zəif qıcıqılanması",
+        "İntensiv arıqlama",
+        "Lipazemiya",
+        "Requrqitasiya",
+        "İshal"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "70. Aşağıdakılardan hansı kəskin pankreatitdə ilkin yеrli dəyişikliklərə aiddir?",
+      "options": [
+        "lokal peritonit",
+        "hеmorragiya",
+        "absеs və fistul",
+        "psеvdosist",
+        "ödеm"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "71. Aşağıdakılardan hansı kəskin pankreatitin səbəbi dеyil?",
+      "options": [
+        "hipеrlipidеmiya",
+        "parotit virusu",
+        "hipokalsеmiya",
+        "öd yolları хəstəlikləri",
+        "alkoqol"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "72. Aşağıdakı mədəaltı vəz xəstəliklərindən hansında KT müayinəsi mütləq şərt deyil?",
+      "options": [
+        "Pankreas kanseri",
+        "Adacıq şişləri",
+        "Kəskin pankreatit",
+        "Pankreas sistləri",
+        "Şəkərli diabet"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. Parapankreatik sahəyə maye toplanmasının ən informativ diaqnostika metodu hansıdır?",
+      "options": [
+        "Laparoskopiya",
+        "Retroqrad xolangioqrafiya",
+        "КТ",
+        "Duodenoskopiya",
+        "Retroqrad virsunqoqrafiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "74. Kəskin pankreatit üçün ən xarakterik olan ağrı hansıdır?",
+      "options": [
+        "Küt",
+        "Tutmaşəkilli",
+        "Xəncərvari",
+        "Göynədici",
+        "Kəmərvari"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "75. Kəskin pankreatitin diaqnostikasında hansının əhəmiyyəti çoх azdır?",
+      "options": [
+        "KT",
+        "Laparosokpiya",
+        "Endoskopik USM",
+        "Rentgenoqrafiya",
+        "MRT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "76. Aşağıdakı müayinələrdən hansı mədəaltı vəz parenximasını daha dəqiq göstərir?",
+      "options": [
+        "Ssintiqrafiya",
+        "PET",
+        "ERXPQ",
+        "USM",
+        "MRT"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. Kəskin pankreatitdə sarılıq hansı ilə əlaqədar olmaz?",
+      "options": [
+        "Pankreatogen hepatit",
+        "Qaraciyərin hemangioması",
+        "Böyük duodenal məməciyin ödemi",
+        "Böyük duodenal məməciyə daşın pərçimlənməsi",
+        "Xoledoxun mədəaltı vəz toxuması ilə sıxılması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "78. Kəskin pankreatitin ağırlaşmaları arasında ən az rast gələni hansıdır?",
+      "options": [
+        "psеvdosist",
+        "mədədə strеss хoraları",
+        "şok",
+        "peritonit",
+        "pankrеatoеntеrik fistul"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Kəskin pankreatitin ən çox rast gəlinən klinik-morfoloji forması hansıdır?",
+      "options": [
+        "Postoperativ pankreatit",
+        "İrinli pankreatit",
+        "Hemorragik pankreonekroz",
+        "Piy pankreonekrozu",
+        "Ödemli pankreatit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Kəskin pankreatitin başlanğıcında ağrı üçün aşağıdakı xarakterik deyil:",
+      "options": [
+        "Kəmərvari xarakter daşıya bilər",
+        "Epiqastral nahiyədə lokallaşa bilər",
+        "Epiqastral və qabırğaaltı nahiyələrdəki ağrı ilə birlikdə rast gəlinə bilər",
+        "Çox zəif xarakterli olur",
+        "Bel nahiyəsinə irradiasiya edə bilər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "81. Kəskin pankreatit üçün xarakterik deyil:",
+      "options": [
+        "Hipoalbuminemiya",
+        "Laxtalanma pozulması",
+        "Hipoqlikemiya",
+        "Hiperamilazemiya",
+        "Hiperkalsiemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "82. Kəskin pankreatitin ən çox rast gəlinən səbəbi hansıdır?",
+      "options": [
+        "Mədə və 12-barmaq bağırsaq xorası",
+        "Damarların trombozu",
+        "Qida allergiyası",
+        "Travma",
+        "Alkohol"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "83. Kəskin pankreatitdə ən informativ müayinə hansıdır?",
+      "options": [
+        "Qastroduodenoskopiya",
+        "Hemoqram",
+        "Qarın boşluğunun rentgenoskopiyası",
+        "Diaqnostik pnevmoperitoneum",
+        "Qanda amilazanın təyini, USM"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "84. Kəskin pankreatiti bir qayda olaraq hansı xəstəliklə differensasiya etmək lazım gəlmir?",
+      "options": [
+        "Aorta anevrizmasının partlaması",
+        "Perforativ xora",
+        "Mezenterial limfadenit",
+        "Stranqulyasion bağırsaq keçməzliyi",
+        "Müsariqə damarlarının trombozu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "85. Kəskin pankreatit zamanı qarnın köpməsi və meteorizm nə ilə əlaqədardır?",
+      "options": [
+        "Defekasiya aktının olmaması ilə",
+        "Böyümüş vəzlə 12-barmaq bağırsağın sıxılması ilə",
+        "Disbakterioz ilə",
+        "Böyümüş vəzlə yoğun bağırsağın sıxılması ilə",
+        "Bağırsaqların parezi ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "86. Kəskin pankreatitin ən çox rast gəlinən səbəbi hansıdır?",
+      "options": [
+        "Hiperkalsemiya",
+        "Medikamentoz",
+        "Öd daşı xəstəliyi",
+        "Postoperativ",
+        "Hipertriqliseridemiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "87. Aşağıdakı əlamətlərdən hansı xroniki pankreatit diaqnozunu qoymaq üçün daha spesifik göstəricidir?",
+      "options": [
+        "Steatoreya",
+        "Şəkərli diabet",
+        "Duktal genişlənmə",
+        "Xoledox stenozu",
+        "Kalsifikasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "88. Aşağıdakı əlamətlərdən hansı mədəaltı vəzin cərrahi xəstəliklərində ən az rast gələnidir?",
+      "options": [
+        "ürəkbulanma",
+        "arıqlama",
+        "sarılıq",
+        "kökəlmə",
+        "ağrı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "89. Xroniki pankreatitin ən çox rast gəlinən ağırlaşması?",
+      "options": [
+        "Arıqlama",
+        "Diabet",
+        "Pankreas şişləri",
+        "Psixi pozğunluq",
+        "Mədə bağırsaq qanaxmaları"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "90. Xroniki pankreatitin diaqnozunu dəqiqləşdirmək üçün hansı müayinə mütləq deyil?",
+      "options": [
+        "Pankreatoqrafiya",
+        "KT",
+        "USM",
+        "MRT",
+        "Qanın ümumi analizi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "91. Aşağıdakı mədəaltı vəz xəstəliklərinin hansında angioqrafiyaya ehtiyyac olmur?",
+      "options": [
+        "Adacıq şişləri",
+        "Pankreas adenokarsinoması",
+        "Xroniki pankreatit",
+        "Pankreasın başındakı şişləri",
+        "Ödematoz pankreatit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "92. Pankreasın adacıq şişləri arasında bədxassəli olma ehtimalı ən yüksək olan hansıdır?",
+      "options": [
+        "PP-oma",
+        "VİP-oma",
+        "İnsulinoma",
+        "Somatostatinoma",
+        "Qlükaqonoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "93. Transplantantın çox kəskin “rəddetmə” reaksiyası nə zaman baş verir?",
+      "options": [
+        "əməliyyatdan sonrakı ilk 5 il ərzində",
+        "əməliyyatdan sonrakı ilk 1 il ərzində",
+        "əməliyyatdan sonrakı ilk 3 ay ərzində",
+        "əməliyyatdan sonrakı ilk dəqiqələrdə və saatlarda",
+        "əməliyyatdan sonrakı ilk 2 il ərzində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "94. Orqan trasplantasiyasından sonra xəstələr immunosupressiv müalicəni nə qədər vaxt alır?",
+      "options": [
+        "6 aya qədər",
+        "7 ilə qədər",
+        "10 ilə qədər",
+        "Həyat boyu",
+        "1 ilə qədər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "95. Hansı xəstəlik organ donasiyası üçün əks göstərişdir?",
+      "options": [
+        "Qastro-ezofageal refluks xəstəliyi",
+        "Öd daşı xəstəliyi",
+        "Bədxassəli törəmə",
+        "Spastik kolit",
+        "Kəllə-beyin travması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "96. Pankreas transplantasiyası üçün əsas göstəriş hnasıdır?",
+      "options": [
+        "Pankreasın bədxassəli şişi",
+        "Virsunq axacağının obstruksiyası",
+        "Xronik pankreatit",
+        "Şəkərli diabet tip 1",
+        "Kəskin hemorragik pankreatit"
+      ],
+      "correct": 3
+    }
+  ]
+}

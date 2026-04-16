@@ -1,0 +1,246 @@
+{
+  "questions": [
+    {
+      "question": "1. Respirator distress – sidrom:",
+      "options": [
+        "Sol qulaqciqda normal təzyiq fonunda ikitərəfli ağciyər infiltrafları",
+        "Sol qulaqciqda təzyiqin artması fonunda ağciyər ödemi",
+        "Tənəffüs sistemi patalogiyası zamanı üzün və aşağı ətrafların ödemi",
+        "“Aspirin” bronxial astması zamanı qeyri-steroid iltihab əleyhinə preparatlarından yüksək dozalarda istifadə edilməsi",
+        "Təngnəfəsliklə xarakterizə oluna psixoəmosional vəziyyət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. İnfeksion spesifik plevritin törədicisi:",
+      "options": [
+        "Vərəm mikrobakteriyrlı",
+        "pnevmokokklar",
+        "Streptokokklar",
+        "Stafilokokklar",
+        "Göy – yaşıl irin çöpləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Epilepsiyası olan 25 yaşlı xəstənin anamnezindən tez-tez alkoqol qəbul etdiyi və təkrarlanan sağ aşağı pay pnevmoniyası olduğu müəyyən edilmişdir.Xəstədə əsas ehtimal olunan patologiya:",
+      "options": [
+        "Aspirasion pnevmoniya",
+        "Ağciyər vərəmi",
+        "Alfa – 1 – antitripsin çatmazlığı",
+        "Leqionella pnevmoniyası",
+        "Xlamidiya pnevmoniyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Ağciyər emfizemasının risk faktotuna aiddir:",
+      "options": [
+        "Alfa – antitripsin çatmazlığı",
+        "Laktatdehidrogenaza çatmazlığı",
+        "Alaninaminotransferaza çatmazlığı",
+        "Aspartataminotransferaza çatmazlığı",
+        "Kreatinfosfataza çatmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. D – dimer testinin mənfi nəticəsi inkar edir:",
+      "options": [
+        "Ağciyər arteriyasının tromboemboliyası",
+        "Allergik bronx – ağciyər aspergillozu",
+        "Ağciyər absesi",
+        "Nozokomial pnevmoniya",
+        "Səs tellərinin disfunksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Kəskin pnevmoniya üçün daha xarakterdir: \n1) Kəskin başlanğıc \n2) Tədrici başlanğıc \n3) Auskultasiyada krepitasiya \n4) Auskultasiyada plevranın sürtünmə küyü \n5) Döşkəfəsində ağrı \n6) Qanhayxırma",
+      "options": [
+        "1-3-5",
+        "1-4-6",
+        "2-3-5",
+        "2-5-6",
+        "1-5-6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. İnterstisial ağciyər xəstəliklərinin müalicəsinə aiddir:",
+      "options": [
+        "Qlukokortikosteroidlər",
+        "Miniralokortikosteroidlər",
+        "Aminturşlar",
+        "Virus əleyhinə preparatlar",
+        "Qurd əleyhinə preparatlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Ağciyərlərin xronik obstruktiv xəstəliyinin ağırlıq dərəcəsi təyin edilir:",
+      "options": [
+        "Tənəffüz yollarının obstruksiyasının dərəcəsi ilə",
+        "Ağciyərlərin diffuzion qabiliyətinin azalma dərəcəsi ilə",
+        "Ağciyər həcimlərinin dəyişinməsi",
+        "Arterial qanda qaz tərkibinin dəyişilməsi ilə",
+        "Siqaret çəkənlərin indeksinin yüksək dərəcəsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Kəskin pnevmoniya zamanı hansı hallarda  leykositoz  müşahidə edilir:",
+      "options": [
+        "Stafilokokk pnevmoniyası",
+        "Mikoplazma pnevmoniyası",
+        "Virus pnevmoniyası",
+        "Xlamidiya pnevmoniyası",
+        "Rikketsiya pnevmoniyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Bronxoskopiyaya göstəriş deyil:",
+      "options": [
+        "FEV1 < 40 %",
+        "Qanhayxırma",
+        "İri bronxların obstruksiyası",
+        "İnterstisiyal ağciyər xəstəliklərinə şübhə",
+        "Yad cismin xaric edilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Hipoventilyasion sindrom xarakterizə olunur:",
+      "options": [
+        "PO2 ↓, PaCO2↑, PAaO2↔",
+        "PaO2 ↔,PaCO2 ↓, PAaO2 ↓",
+        "PaO2↓, PaCO2 ↔,  PAaO2 ↓",
+        "PaO2 ↑,   PaCO2↑,  PAaO2↑",
+        "PaO2↓,   PaCO2 ↓,  PAaO2 ↓"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Az miqdarda plevral maye müəyyən olunur:",
+      "options": [
+        "USM",
+        "KT",
+        "Flüoqrafiya",
+        "Rentqenoskopiya",
+        "Rentqenoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Bronxoektaziyanın diaqnostikasında başlıca invazif metod:",
+      "options": [
+        "Bronxoqrafiya",
+        "Bronxoskopiya",
+        "KT",
+        "Rentqenoskopiya",
+        "Spirometriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Pnevmoniyaların ağırlaşmalarına aid deyil",
+      "options": [
+        "Ağciyər emfizeması",
+        "Kəskin tənəffüs çatışmazlığı",
+        "Ağciyər absesi",
+        "Plevranın empieması",
+        "İnfeksion-toksiki-şok"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Bəlğəmdə elastik liflər aşkar edilir:",
+      "options": [
+        "Ağciyər toxumasının destruksiyası zamanı",
+        "Ağciyərdə infeksion proses zamanı",
+        "Ağciyər toxumasında allergik proseslər zamanı",
+        "Qanhayxırma zamznı",
+        "Ağciyərdə fibroz dəyişiklik zamznı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Hiperkalsemiya hansi ağciyər xəstəliyi üçün xarakterdir:",
+      "options": [
+        "Sarkoidoz",
+        "Pnevmoniya",
+        "Xammen – Riç sindromu",
+        "Bronxial astma",
+        "Ağciyər enfizeması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. 35 yaşlı xəstə 38.5° C hərarət, selikli – irinli bəlğəmli öskürək, yüksək intoksikasiya əlamətləri ilə xəstəxanaya daxil olmuşdur. Xəstəyə kəskin pnevmoniya diaqnozu qoyulmuş və antibiotiklə müalicə başlanmışdır. Xəstəliyin 5 – ci günündən xəstədə döş qəfəsində ağrı və təngnəfəslik meydana çıxmışdır. Auskultasiyada plevranın sürtünmə küyü eşidilir. Ehtimal oluna diaqnoz:",
+      "options": [
+        "Plevrit",
+        "Ağciyər infarktı",
+        "Pnevmotoraks",
+        "Ağciyər absesi",
+        "Kəskin ağciyər ürəyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Plevra boşluğunda mayenin eksudat olmasını inkar edir:",
+      "options": [
+        "Zülalın 3 q % az olması",
+        "Zülalın 3 q % çox olması",
+        "LDH yüksək olması",
+        "Plevral maye və plazmada LDH nisbətinin 0.6 çox olması",
+        "Plevral maye və plazmada zülalın nisbətin 0.5 çox olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Refrakter bronxial astma hansı xəstəliklə differensasiya edilmir:",
+      "options": [
+        "İnterstisial ağciyər xəstəlikləri",
+        "Çarc – Straus sindromu",
+        "Obstruktiv yuxu apnoe",
+        "Piylənmə",
+        "Soltərəfli ürək çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Qəflətən başverən təngnəfəsliyin səbəbi:",
+      "options": [
+        "Ağciyər arteriyası tromboemboliyası",
+        "Plevritlər",
+        "Anemiya",
+        "Tireotoksokoz",
+        "Pnevmoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. 18 yaşlı xəstə çox miqdarda selikli- irinli bəlğəm ifrazı, qanhayxırma, 38° C hərarətlə xəstəxanaya daxil olmuşdur.Baxış zamanı xəstənin ümumi inkişafdan geyri qalması, barmaqların təbil çubuğu, dırnaqların saat şüşəsi formasında olması müəyyən edilmişdir.Ehtimal oluna diaqnoz:",
+      "options": [
+        "Bronxoektaziya",
+        "Ağciyər vərəmi",
+        "Ürək qüsuru",
+        "Pnevmokonioz",
+        "Pnevmoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Pnevmoniya zamanı hansı hallarda leykopeniya müşahidə edilir:",
+      "options": [
+        "Virus pnevmoniya zamanı",
+        "Pnevmokokk pnevmoniyası zamanı",
+        "Stafilokokk pnevmoniyası zamanı",
+        "Klebsiella pnevmoniyası zamanı",
+        "E.coli pnevmoniyası zamanı"
+      ],
+      "correct": 0
+    }
+  ]
+}

@@ -1,0 +1,4360 @@
+{
+  "questions": [
+    {
+      "question": "1. Aşağıda göstərilən sindromların hansına parlaq görmə hallüsinasiyaları xasdır?",
+      "options": [
+        "deliriy sindromuna",
+        "depersonalizasiya sindromuna",
+        "derealizasiya sindromuna",
+        "verbal hallüsinoz sindromuna",
+        "asteniya sindromuna"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Aşağıda göstərilən sindromların hansına psevdohallüsinasiyalar xasdır?",
+      "options": [
+        "Kandinski-Klerambo sindromuna",
+        "derealizasiya sindromuuna",
+        "deliriy sindromuuna",
+        "asteniya sindromuuna",
+        "depersonalizasiya sindromuuna"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Hallüsinasiyalar qavramanın hansı pozuntusudur?",
+      "options": [
+        "yalnış qavrama",
+        "səhv qavrama",
+        "təhrif olunmuş qavrama",
+        "sensor qavrama",
+        "hiperstezik qavrama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Aşağıda göstərilən qavrama pozuntulardan hansı illüziya adlana bilər?",
+      "options": [
+        "təhrif olunmuş qavrama",
+        "tanımamilə yanlış qavrama",
+        "uydurulmuş qavrama",
+        "həqiqətən olmayan səsin eşidilməsi",
+        "həqiqətən olmayan qoxunun duyması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Aşağıda göstərilən pozuntulardan hansı depersonalizasiyaya aiddir?",
+      "options": [
+        "xəstə üçün onun səsinin, bədəninin, hisslərin yad olması hissi",
+        "ətraf mühitin dəyişilməsi",
+        "deja vu simptomu",
+        "ətrafdakı əşyaların ölçüsünün böyüməsi",
+        "ətrafdakı əşyaların sayca azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Hipnohoqik görmə hallüsinasiyalara aiddir:",
+      "options": [
+        "xəstənin gözlərin bağlandığı və ya yuxuya getdiyi zamanı əmələ gələn qeyri",
+        "xəstənin gözlərin açıq olması zamanı əmələ gələn qeyri ixtiyarı görüntülər",
+        "hansısa funksional qıcııq olması ilə yanaşı əmələ gələn qeyri ixtiyarı görüntülər",
+        "yalnız mürəkkəb görüntülər şəkilində olan əlamətlər",
+        "xəstənin daxilində əmələ gələn qeyri ixtiyarı görüntülər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Verbal illüziyaların xüsusiyyətləri:",
+      "options": [
+        "xəstənin ətrafında olan insanların sözlərin təhrif olmuş formada qavranılmasıdır.",
+        "xəstənin ətrafında olan insanların nitqi ilə birgə əmələ gələn səslər",
+        "səs qıcığından asılı olmayaraq əmələ gələn səslər",
+        "xəstənin ixtiyarında asılı olaraq əmələ gələn səslər",
+        "xəstənin daxilində əmələ gələn qeyri ixtiyarı səslər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Funksional hallüsinasiyalar əmələ gəlir:",
+      "options": [
+        "başqa bir qıcıqla birlikdə qeyri ixtiyarı səslər əmələ gəlir və qıcıq itdikdə onlarda itir",
+        "qeyri ixtiyarı səslər hansısa bir qıcığın əvəzində əmələ gəlir",
+        "qıcıqdan asılı olmayaraq qeyri ixtiyarı səslər əmələ gəlir",
+        "qıcıq mənbəyi yox olduqda qeyri ixtiyarı səslər davam edir",
+        "bədənin müxtəlif nahiyyələrində qeyri ixtiyarı səslər əmələ gəlir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Psixosensor pozuntulara aiddir",
+      "options": [
+        "metamorfopsiya",
+        "hallüsinasiya",
+        "illüziya",
+        "aqnoziya",
+        "hallüsinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Hipesteziyalar hansı pozuntularda müşahidə olunur:",
+      "options": [
+        "düşüncənin yüngül pozulması halında (keyləşmə, obnubilyasiya)",
+        "yüngül dərəcəli oliqofreniyalarda",
+        "şizoaffektiv pozuntularda",
+        "maniakal vəziyyətdə",
+        "şəxsiyyətin affektiv tipli pozuntularda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Paresteziyalar hansı pozuntularda müşahidə olunur:",
+      "options": [
+        "ipoxondrik pozuntuda",
+        "yüngül dərəcəli oliqofreniyalarda",
+        "şizoaffektiv pozuntularda",
+        "maniakal vəziyyətdə",
+        "şəxsiyyətin paranoid tipli pozuntularda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Senestopatiyalara aiddir:",
+      "options": [
+        "xəstədə göynəmə, dartınma, sancıma, soyuqluq, gicişmə şəklində əmələ gələn",
+        "xəstə üçün onun səsinin, bədəninin, hisslərin yad olması hissi",
+        "ətraf mühitin dəyişilməsi",
+        "deja vu simptomu",
+        "ətrafdakı əşyaların ölçüsünün böyüməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Aşağıda göstərilən sindromların hansına həqiqi eşitmə hallüsinasiyaları xasdır?",
+      "options": [
+        "verbal hallüsinoza",
+        "psixi avtomatizm sindromuna",
+        "derealizasiya sindromuna",
+        "astenik sindroma",
+        "amentiv sindroma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Xəstə deyir ki, “bütün ətraf solğun, rəngsizdir, örtük altındadır, görüntülərin dəqiqliyi itib, əşyaların hamısı həqiqi deyil”. Aşağıda göstərilənlərin arasında düzgün cavabını tapın:",
+      "options": [
+        "derealizasiya",
+        "psevdo hallüsinasiyalar",
+        "həqiqi hallüsinasiyalar",
+        "depersonalizasiya",
+        "aqnoziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Xəstə onun bədənin müxtəlif hissələrində, daxili orqanlarında əmələ gələn xoşagəlməz, əzabverici və qəribə hissiyatlardan şikayətlənib deyir ki: “beynim çevrilir, ağ ciyərlərim yanır, bağırsaqlarım fırlanır”. Bu şikayətlər hansı psixopatoloji pozuntusuna xas olan əlamətlərdi?",
+      "options": [
+        "senestopatiyalara",
+        "illüziyalara",
+        "psevdo hallüsinasiyalara",
+        "hipersteziyaya",
+        "həqiqi hallüsinasiyalara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Xəstə hiss edir ki, onun başı “böyüyür, şişir, ətrafları qısalır”. Bu şikayətlər hansı psixopatoloji pozuntusuna xas olan əlamətlərdi?",
+      "options": [
+        "bədənin sxeminin pozulma sindromuna",
+        "həqiqi hallüsinasiyalara",
+        "derealizasiyaya",
+        "illüziyalara",
+        "hipersteziyaya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Xəstə mədəsinin içində “ilan-qurbağanın” hərəkətlərini hiss edir. Bu hansı psixopatoloji simptomdur?",
+      "options": [
+        "visseral hallüsinasiya",
+        "sarışan hallar",
+        "illüziyalar",
+        "depersonalizasiya",
+        "sayıqlama ideyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Qavrama pozuntularına aiddir:",
+      "options": [
+        "metamorfopsiya",
+        "mutizm",
+        "mentizm",
+        "sayıqlama",
+        "paramneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Xəstə ayaqüstə uzun müddət gəzdikdən sonra onun halın tükənməsindən və “ayaq dərisində arabir sancmaların, giziltilər”in əmələ gəlməsindən şikayətlənirsə bu hansı hissiyyat pozuntusudur?",
+      "options": [
+        "paresteziya",
+        "hiposteziya",
+        "derealizasiya",
+        "hallüsinasiya",
+        "hipersteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Aşağıda göstərilən amillərdən hansı hallüsinasiyalar üçün xarakterikdir?",
+      "options": [
+        "reallıqda mövcud olmayan obyektin qavranması",
+        "neqativ simptomlara aid olması",
+        "reallıqda mövcud olan obyektin təhrif olunmuş qavranması",
+        "özünüböyütmə fikirlərinə aid olması",
+        "ipoxondrik şikayətlərə aid olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. Sadalanan qavrama pozuntularından hansı xəstənin hospitallaşdırmasına göstəriş sayılır?",
+      "options": [
+        "imperativ hallüsinasiyalar",
+        "derealizasiya",
+        "paresteziya",
+        "senestopatiya",
+        "dismorfofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Xəstə dərisinin altında xırda həşarat və ya qurdların süründüyünü hiss edirsə, bu hansı pozuntudur?",
+      "options": [
+        "taktil hallüsinasiyalar",
+        "senestopatiyalar",
+        "verbal hallüsinasiyalar",
+        "derealizasiya",
+        "pareydolik illüziyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Əgər nevrozdan əziyyət çəkən xəstə başının içində “gürultu, göynəmə, dartınma, təzyiq, xışıltı” kimi xoşagəlməz qəribə hisslərin əmələ gəlməsindən şikayət edirsə, hansı qavrama pozuntusundan demək olar?",
+      "options": [
+        "senestopatiyalardan",
+        "paresteziyalardan",
+        "hipersteziyalardan",
+        "psevdohallüsinasiyalardan",
+        "illüziyaladan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Əgər xəstə vaxtaşırı olaraq otağın divarların “əyilməsindən, üstünə gəlməsindən” şikayət edirsə, bu qavramanın hansı pozuntusudur?",
+      "options": [
+        "derealizasiya",
+        "hipersteziya",
+        "illüziya",
+        "pareydoliya",
+        "depersonalizasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Əgər xəstə evindəki saatın çıqqıltısından və ya nişastalanmış yorğan-döşəyin səsindən yata bilmədiyi haqqında şikayət edirsə, bu hansı qavrama pozuntusundur?",
+      "options": [
+        "hipersteziya",
+        "hiporteziya",
+        "senestopatiya",
+        "paresteziya",
+        "anesteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Psevdohallüsinasiyalar aşağıda sadalanan sindromlardan hansının tərkibində müşahidə olunur?",
+      "options": [
+        "Kandinski – Klerambo sindromun",
+        "paranoyal sindromun",
+        "amentiv sindromun",
+        "parafren sindromun",
+        "Korsakov sindromun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Psevdohallüsinasiyalar üçün aşağıdakı amillərdən hansı əsasdır?",
+      "options": [
+        "əmələ gələn “səslərin, görüntülərin” qeyri-təbii (süni) olması hissi.",
+        "əmələ gələn “səslərin, görüntülərin” həgigətən ətraf mühitdə olması hissi.",
+        "əmələ gələn “səslərin, görüntülərin”cansız olması hissi.",
+        "əmələ gələn “səslərin, görüntülərin” axşam saatlarında güclənməsi",
+        "əmələ gələn “səslərə, görüntülərə” qarşı xəstə tərəfindən tənqidi yanaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Xəstə güzgüdə özünə baxır və deyir ki: “Üz mənim üzümə bənzəsədə, amma mən hiss edirəm ki, mən daxilən əvvəl olduğumdan tamamamilə fərqliyəm”. Bu hansı pozuntusundur?",
+      "options": [
+        "dismorfofobiya",
+        "depersonalizasiya",
+        "derealizasiya",
+        "pareydoliya",
+        "psevdohallüsinasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Xəstə başın içində kiminsə təsiri nəticəsində əmələ gələn “beyindaxili qəribə görüntülər, sanki üuyudan gələn səslər” barədə bildirdikdə onda hansı qavrama pozuntusunun olmasından demək olar?",
+      "options": [
+        "psevdohallüsinasiyadan",
+        "parafren sayıqlamadan",
+        "həqiqi hallüsinasiyadan",
+        "pareydolik illüziyadan",
+        "verbal hallüsinasiyadan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Səbəbsiz oğurluğa meylilik necə adlanır",
+      "options": [
+        "kleptomaniya",
+        "piromaniya",
+        "dipsomaniya",
+        "mifomaniya",
+        "agorofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Paranoyal sayıqlamaya xasdır",
+      "options": [
+        "hallüsinozun olmaması",
+        "psevdohallüsinoz",
+        "hallüsinoz",
+        "illüziyalar",
+        "imperativ hallusinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Paranoid sayıqlamaya daha çox xasdır",
+      "options": [
+        "təfəkkürün və qavramanın yanaşı pozuntuları",
+        "hallüsinozun olmaması",
+        "ifadə olunmuş ağıl zəifliyi",
+        "illüziyalar",
+        "bulimiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Sarışan hərəkətlərə aiddir",
+      "options": [
+        "tiklər",
+        "qıcolmalar",
+        "avtomatizmlər",
+        "psevdohallüsiyalar",
+        "melanxonik raptus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34. Xəstə əminliklə qeyd edir ki, ətrafdakılar onun həyatına zərər vurmaq istəyir, onu güdürlər, qonşunun evində aparatlar qurub onun həyatına nəzarət edirlər. Xəstəxanada oldüğü müddətdə qaldığı palatada ona qulaqasan qurğuları axtarır. Söhbət zamanı öz dediklərin üstündə qalır, inadkarlıqdan dönmür. Bu vəziyyətə necə qiymət vermək olar",
+      "options": [
+        "təqib sayıqlaması",
+        "psixopatobənzər sindrom",
+        "astenik sindrom",
+        "sarışan fikirlər",
+        "yuksək giymətli münasibət fikirlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Xəstə liftlə qalxmaqdan gorxur, çalışır pilləkənlardan istifadə etsin. Anlayir ki, real təhlükə yoxdur, istəyir qorxularına qalib gəlsin, hesab edir ki, bu xəstəlikdir. Həmin simptomatika",
+      "options": [
+        "klaustrofobiyadır",
+        "isteriyadır",
+        "katatoniyadır",
+        "psixomotor oyanmadır",
+        "təqib sayıqlamasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Sarışan gorxu (fobiya) xarakterizə olunur:",
+      "options": [
+        "intensiv və rəfedilməz qorxu, onun yersiz olmasının anlanılması ilə",
+        "qeyri-müəyyən qorxu, onun mənasızlığını dərk etməməklə",
+        "imperativ hallüsinozun təsiri altında yaranması",
+        "katalepsiya fonunda yaranması",
+        "ətrafdakıları qorxu fabulasına cəlbedilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Təfəkkürün məzmunca pozuntusuna aiddir:",
+      "options": [
+        "sarışan vəziyyətlər",
+        "qiperesteziya",
+        "amneziya",
+        "eyforiya",
+        "pareydoliyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Sarışan vəziyyətlər hansı sferanın pozuntusuna aiddir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "intellektin",
+        "meyllərin",
+        "düşüncənin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Yüksək qiymətli fikirlər hansı sferanın pozuntusuna aiddir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "intellektin",
+        "meyllərin",
+        "təəsuratın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Saıqlamalar hansı sferanın pozuntusuna aiddir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "intellektin",
+        "meyllərin",
+        "yaddaşın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. İdeator (assotiativ) avtomatizmlər necə təzahür edilir:",
+      "options": [
+        "təfəkkür proseslərinə və digər psixi, əqli funksiyalara kanardan edilən təsiri",
+        "mentizm, fikirlərin acıqlığı, canlanması",
+        "yaradılmış xoşagəlməz hissiyatlar",
+        "xəstənin iradəsinə əks olaraq yaradılmış hərəkətlər",
+        "iradənin əksinə yaranan xoşagəlməz xatirələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42. Depressiyanın əlamətlərinə aiddir:",
+      "options": [
+        "əhval-ruhiyyənin enməsi, maraq , zövqün və həyat enerjisinin azalması",
+        "hərəki tormozlanma, həyacan, mentizm",
+        "ideator tormozlanma, hərəki aktivlık, yuxunun pozulması",
+        "emosional tormozlanma, özünü qiymətləndirmənin azalması, mentizm",
+        "mentizm, hərəki oyanma, eyforiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Depressiya davranışına xas olan əlamətlər",
+      "options": [
+        "yuxusuzluq, tormozlanma, intihara cəhdlər",
+        "qiperaktivlık və aqressivlık",
+        "hərəki oyanma və iştahanın güclənməsi",
+        "disforiyaya meylilik və lunatizm",
+        "yuksək seksual aktivlık"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Depressiyanın somatik əlamətlərinə aid edilir",
+      "options": [
+        "dismenoreya",
+        "nefropatiya",
+        "varikosеlе",
+        "aplastik anеmiya",
+        "eklampsia"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. Maniakal triada xarakterizə olunur :",
+      "options": [
+        "əhval-ruhiyyənin yuksəlməsi, assosiativ proseslərin sürətlənməsi, hərəki oyanma",
+        "assosiativ proseslərin sürətlənməsi, iştahanın güclənməsi, yuxusuzluq",
+        "hərəki oyanma, assosiativ proseslərin sürətlənməsi, iştahanın güclənməsi",
+        "əhval-ruhiyyənin yuksəlməsi, assosiativ proseslərin sürətlənməsi, rezonyorluq",
+        "assosiativ proseslərin sürətlənməsi, mutizm, əhval-ruhiyyənin yuksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Disforiya hansı vəziyyətrlər üçün xasdır:",
+      "options": [
+        "baş beyinin üzvü patologiyası üçün",
+        "ifadə olunmuş asteno-nevrotik sindrom üçün",
+        "qebefrenik şizofreniya üçün",
+        "paranoid şizofreniya üçün",
+        "nevrogen bulimiyası üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. İpoxondrik sindroma aiddir",
+      "options": [
+        "əhval-ruhiyyənin enməsi, senestopatiyalar və əlaçsız xəstəliklər barədə fikirlər",
+        "liftlə qalxmaqla sarışan qorxu",
+        "yaşlı adamlara qarşı cinsi meyl",
+        "ziyan vura biləcək düşmənlərın olması barədə sayiqlama fikirləri",
+        "tanış olmayan adamların sözlərində ona aid olan kəlmələrin mövcudluğu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Depressiv stupor zamanı rast gəlinir",
+      "options": [
+        "yadda saxlamanın çətinləşməsi",
+        "proqressivləşən amneziyanın əlamətləri",
+        "konfabulyasiyaların mövcudluğu",
+        "təfəkkürün sayıqlama fabulasında cəmlənməsi",
+        "interpretativ sayıqlama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Psevdohallyusinasiyalara xasdır:",
+      "options": [
+        "intraproyeksiya",
+        "psixoqen körluq",
+        "eşitmə qabiliyyətinin itməsi",
+        "düşüncənin pozulması",
+        "hiposteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Senestopatiyalara xasdır:",
+      "options": [
+        "bədənin müxtəif hissələrində xoşagəlməz mürəkkəb və qəribə əzabverici hisslərin yaranması",
+        "bədənin forma və ölçülərin dəyişilməsi",
+        "qoxu qabiliyyətinin pozulması",
+        "hissiyatın itməsi",
+        "tanınmanın pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Verbal illyuziyalar üçün xasdır:",
+      "options": [
+        "xəstənin ətrafında olan şəxslərin həqiqətən olan nitqin onun tərəfindən təhrif olmuş şəkildə",
+        "xəstənin ətrafında olan neytral söhbətlərin musiqi kimi qavranılması",
+        "təşviş və qorxu nəticəsində yaranması",
+        "psixi avtomatızın ilə ilə birqə müşayiət olması",
+        "bədənin daxilində yad çanlı məhluqların olması hissi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. Funksional hallyusinasiyaların yaranması əlaqədardır:",
+      "options": [
+        "kanarda real qıcığla birgə əmələ gəlməsi",
+        "real qıcığın olmaması ilə yaranması",
+        "yanlız sayıqlama ilə birgə əmələ gəlməsi",
+        "düşüncənin pozulması nəticəsində əmələ gəlməsi",
+        "kəllə-beyin travması nəticəsində əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Taktil hallyusinasiyalar əsasən rast gəlmir:",
+      "options": [
+        "alkohol deliriy zamanı",
+        "oneyroid zamanı",
+        "epilepsiya zamanı",
+        "demensiya zamanı",
+        "katatomik stupor zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. Hipersteziya nəyin pozulmasına aiddir:",
+      "options": [
+        "qavramanın",
+        "düşüncənin",
+        "təfəkkürün",
+        "təəsüratların",
+        "yaddaşın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Hipnoqoqik hallyusinasiyalar nəyin pozulmasına aiddir:",
+      "options": [
+        "qavrama",
+        "təfəkkür",
+        "düşüncə",
+        "diqqət",
+        "yaddaş"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Affektiv illyuziyaların yaranma səbəbinə aiddir:",
+      "options": [
+        "emosional qərqinlik",
+        "stupor",
+        "keyləşmə",
+        "epileptik qicolma",
+        "amneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Taktil hallyusinasiyalar nəyin pozulmasıdır:",
+      "options": [
+        "qavrama",
+        "düşüncə",
+        "təfəkkür",
+        "meyllər",
+        "intellekt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Metarmorfopsiyaya hansı pozuntusuna aiddir:",
+      "options": [
+        "psixosensor pozuntusuna",
+        "hallüsinator pozuntusuna",
+        "mnestik pozuntusuna",
+        "intellektual pozuntusuna",
+        "hərəki-iradi pozuntusuna"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Makropsiya nəyin pozulmasıdır:",
+      "options": [
+        "qavrama",
+        "düşüncə",
+        "təfəkkür",
+        "meyllər",
+        "intellekt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. Hərifləri tanımamaq adlanır:",
+      "options": [
+        "alepsiya",
+        "dismeqalopsiya",
+        "metamorfopsiya",
+        "poliopsiya",
+        "makropsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Fotopsiya hansı qavrama pozuntusudur:",
+      "options": [
+        "sadə qörmə hallyusinasiyalardı",
+        "mürəkkəb qörmə hallyüsinasiyalardı",
+        "görmə psevdohallyusinasiyalardı",
+        "affektiv illyuziyadı",
+        "pareydolik illyuziyadı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Verbal hallyusinoza məxsusdur:",
+      "options": [
+        "həqiqi eşitmə hallyusinasiyalar",
+        "psevdohallyusinasiyalar",
+        "taktil hallyusinasiyalar",
+        "qoxu hallyusinasiyalar",
+        "hipnoqoqik hallyusinasiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63. Psixi avtomatizm sindromuna daha cox xasdır:",
+      "options": [
+        "psevdohallyusinasiyalar",
+        "taktil hallyusinasiyalar",
+        "funksional hallyusinasiyalar",
+        "qoxu hallyusinasiyalar",
+        "həqiqi hallyusinasiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Yuxuya qedən zamanı yaranan hallyusinasiyalar adlanır:",
+      "options": [
+        "hipnoqokik",
+        "imperativ",
+        "qoxu",
+        "taktil",
+        "funksional"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Pasiyent bədənin müxəlif hissələrində yandırma, üyüşmə, qaşınma, qizilti, buzlanma şəklində əmələ gələn xoşaqəlməz və qəribə hissiyatlardan şikayətlənirsə, bu adlanır:",
+      "options": [
+        "senestopatiya",
+        "derealizasiya",
+        "depersonalizasiya",
+        "exopraksiya",
+        "stereotipiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Visseral hallüsinasiyalar əsasən hansı hallarda əmələ gəlir:",
+      "options": [
+        "epileplik aurada",
+        "psixi avtomatizmdə",
+        "katatomik stuporda",
+        "ensefalopatiyada",
+        "depressiyada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Akoazmlar nəyin pozuntusudur:",
+      "options": [
+        "qavrama",
+        "yaddaş",
+        "düşüncə",
+        "diqqət",
+        "meyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Akoazmlar aiddir:",
+      "options": [
+        "eşitmə hallüsinasiyalara",
+        "görmə hallyusinasiyalara",
+        "taktil hallyusinasiyalara",
+        "qoxu hallyusinasiyalara",
+        "psevdohallyusinasiyalara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Sadə elementar eşitmə hallyusinasiyaları adlanır:",
+      "options": [
+        "akoazmlar",
+        "aqnoziya",
+        "alepsiya",
+        "afaziya",
+        "senestopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Görmə psevdohallyusinasiyalar aşağıda göstərilərin halların hansında dağa çox rast gəlinir:",
+      "options": [
+        "oneyroid",
+        "deliriy",
+        "amneziya",
+        "demensiya",
+        "Depressiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Pareydolik illyuziyalar daha çox xasdır:",
+      "options": [
+        "alkohol deliriya",
+        "depressiyaya",
+        "bipolyar pozuntulara",
+        "demensiyaya",
+        "oliqofreniyaya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Pasiyent şikayət edir ki,“ başımın ölçüləri elə böyüyüb ki, boynum bu ağırlığını saxlaya bilmir “. Bu adlanır:",
+      "options": [
+        "depersonalizasiya",
+        "derealizasiya",
+        "katalepsiya",
+        "exomimiya",
+        "ipoxondriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Pasiyent yeməkdən “ ölü qoxusu olduğunu “ bildirərərk, qidadan imtina edir. Bu adlanır:",
+      "options": [
+        "qoxu hallyusinasiyası",
+        "imperativ hallyusinasiyası",
+        "taktil hallyusinasiyası",
+        "dad hallyusinasiyası",
+        "psevdohallyusinasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. “ X” nədir?",
+      "options": [
+        "reproduksiya",
+        "konfabulyasiya",
+        "kriptomneziya",
+        "paramneziya",
+        "amensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Proqressiv amneziya zamanı yaddaş hansı prinsipə əsasən pozulur?",
+      "options": [
+        "yaxın hadisələrdən keçmiş hadisələrə doğru",
+        "keçmiş hadisələrdən yaxın hadisələrə doğru",
+        "yalnız uzaq keçmişdə baş verən hadisələr unudulur",
+        "yalnız yaxın hadisələr unudulur",
+        "yalnız stress ilə əlaqədar baş vermiş hadisələr unudulur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Affektogen amneziya zamanı hansı hadisələr unudulur?",
+      "options": [
+        "psixoloji stress ilə əlaqədar baş vermiş hadisələr",
+        "patoloji sərhoşluq halında baş vermiş hadisələr",
+        "patoloji affekt halında baş vermiş hadisələr",
+        "maniakal halında baş vermiş hadisələr",
+        "epileptik status vəziyyətdə baş vermiş hadisələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. 65 yaşında kişi pasiyentə bıçaqı göstərərkən onu tanıya bilmir, lakin deyir ki: “onu mənə verin...ona... nə deyillər.... onun ilə çörəyi kəsillər”. Bu hansı pozuntudur:",
+      "options": [
+        "amnestik afaziya",
+        "anteroqrad amneziya",
+        "aqnoziya",
+        "anozoqnoziya",
+        "affektogen amneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Təzə məlumatın yadda saxlama qabiliyyətinin pozulması necə adlanır?",
+      "options": [
+        "fiksasion amneziya",
+        "anteroqrad amneziya",
+        "kriptomneziya",
+        "konfabulyasiya",
+        "psevdoreminessensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Sadalanlardan hansı yaddaşın fiziologiyanın əsasını təşkil edir (İ.P. Pavlovun nəzəriyyəsinə görə)",
+      "options": [
+        "şərti-reflektor fəaliyyət",
+        "serotoninın mübadiləsi",
+        "asetilxolinın mübadiləsi",
+        "adreno-hipofizar fəaliyyət",
+        "iradənin güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Maniakal hallarda tez-tez rast gəlinən yaddaş pozuntusunu göstərin:",
+      "options": [
+        "hipermneziya",
+        "proqressiv amneziya",
+        "retroqrad amneziya",
+        "anteroqrad amneziya",
+        "hipomneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Kəllə-beyin travmanın kəskin dövründə tez-tez rast gəlinən yaddaş pozuntusunu göstərin:",
+      "options": [
+        "anteroqrad amneziya",
+        "kriptomneziya",
+        "konfabulyasiya",
+        "hipermneziya",
+        "proqressiv amneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. Xəstə tərəfindən danışılan hadisələrin mənbəyinin unudulması ilə xarakterizə olunan yaddaş pozuntusu hansıdır:",
+      "options": [
+        "kriptomneziya",
+        "psevdoreminesensiya",
+        "konfabulyasiya",
+        "hipomneziya",
+        "hipermneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. Yaddaşın “boşluqlarını” yanlış xatirələr ilə əvəz edilməsi necə adlanır?",
+      "options": [
+        "konfabulyasiya",
+        "kriptomneziya",
+        "psevdoreminesensiya",
+        "psevdohallüsinasiya",
+        "psevdodemensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84. İntellekt və təfəkkürün əsasını psixi fəaliyyətinin hansı sferası təşkil edir?",
+      "options": [
+        "yaddaş",
+        "iradə",
+        "təəsürat",
+        "meyl",
+        "davranış"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Yaddaşın normal fəaliyyətini təmin edən ən vacib şərtini göstərin:",
+      "options": [
+        "aydın düşüncə",
+        "emosional hal",
+        "abstrakt təfəkkür",
+        "yüksək intellekt",
+        "taktil hissiyat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86. Tədricən artan yaddaşın itirilməsi (hadisələrinin tədricən unudulması prosesi) necə adlanır?",
+      "options": [
+        "proqressiv amneziya",
+        "fiksasion amneziya",
+        "hipermneziya",
+        "affektogen amneziya",
+        "kriptomneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. 28 yaşda olan gənc oğlan, düşdüyü avtoqəza nəticəsində aldığı kəllə-beyin travması ilə huşsuz vəsiyyətdə xəstəxanaya gətirilmişdir. Xəstəxanada huşu aydınlaşandan sonra müalicə həkimi onula söhbət edərkən məlum olub ki, o, qəzadan üç gün əvvəl baş vermiş hadisələri xatırlaya bilmir. Ən ehtimal olunan simptom:",
+      "options": [
+        "retroqrad amneziya",
+        "anteroqrad amneziya",
+        "proqressiv amneziya",
+        "fiksasion amneziya",
+        "affektogen amneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Xəstə tərəfindən danışılan hadisələrin zamanca təhrif olunması ilə xarakterizə olunan yaddaş pozuntusu hansıdır:",
+      "options": [
+        "psevdoreminesensiya",
+        "proqressiv amneziya",
+        "konfabulyasiya",
+        "fiksasion amneziya",
+        "affektogen amneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Anadangəlmə ağıl çatışmazlığının başqa adı?",
+      "options": [
+        "oliqofreniya",
+        "demensiya",
+        "psevdodemensiya",
+        "amensiya",
+        "oneyroid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Qazanılmış ağıl zəifliyinin başqa adı?",
+      "options": [
+        "demensiya",
+        "amensiya",
+        "psevdodemensiya",
+        "oliqofreniya",
+        "oneyroid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Diffuz demensiyanın lakunar demensiyadan əsas fərqi:",
+      "options": [
+        "özünətənqidin olmaması",
+        "özünətənqidin olması",
+        "tam sağalma ehtimalı",
+        "damar patologiyanın üstünlüyü",
+        "serotonin mübadiləsinin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92. Alsheymer xəstəliyinin başlanması hansı yaş arası üçün daha xarakterikdir?",
+      "options": [
+        "50-55 yaş",
+        "70-75 yaş",
+        "30-35 yaş",
+        "40-45 yaş",
+        "25 yaşa qədər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93. Alsheymer xəstəliyinin ilkin əlamətlərinə məxsusdur:",
+      "options": [
+        "intellektual-mnestik funksiyasının enməsi",
+        "düşüncənin oneyroid tipli pozulması",
+        "konversion pozuntular",
+        "obsessiyalar",
+        "hipermneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Kotar sindromu sadalanan xəstəliklərdən hansı üçün daha səciyyəvidir?",
+      "options": [
+        "ahıl yaşlarda baş verən depressiyası üçün",
+        "şəxsiyyət pozuntusu üçün",
+        "obsessiv-kompulsiv pozuntusu üçün",
+        "generalizə olunmuş təşviş pozuntusu üçün",
+        "posttravmatik stress pozuntusu üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. Presenil demensiyanın bədxassəli gedişi nə ilə xarakterizə olunur?",
+      "options": [
+        "ajitasiya ilə",
+        "ləngimə ilə",
+        "katatonik oyanma ilə",
+        "əhval-ruhiyyənin yüksəlməsi ilə",
+        "psevdodemensiya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Tədricən artan (proqressivləşən) demensiya hansı xəstəlik üçün xarakterikdir?",
+      "options": [
+        "neyrosifilis üçün",
+        "hepatit A üçün",
+        "angina üçün",
+        "revmatizm üçün",
+        "endokardit üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Psevdodemensiya üçün nə xarakterikdir?",
+      "options": [
+        "geriyə qayıtma",
+        "total demensiyanın inkişafı",
+        "lakunar demensiyanın inkişafı",
+        "intoksikasion psixozun inkişafı",
+        "infeksion psixozun inkişafı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Nitqin kobud pozulması, stereotipiyası,hərəkətlərin və mimikanın ləngiməsi, təfəkkürün patoloji müfəssəlliliyi, disforiya, kinlilik hansı xəstəlik üçün hassdır?",
+      "options": [
+        "epilepsiya nəticəsində demensiya",
+        "Alsheymer xəstəliyin nəticəsində demensiya",
+        "ateroskleroz nəticəsində demensiya",
+        "neyrosifilis nəticəsində demensiya",
+        "şizofreniya nəticəsində demensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Öz həyatı barədə danışarkan, pasiyent “Anna Karenina” kitabında təsvir olunan hadisələrini, öz həyatında baş vermiş hadisələr kimi təsvir edir. Ən ehtimal edilən simptom:",
+      "options": [
+        "kriptomneziya",
+        "konfabulyasiya",
+        "proqressiv amneziya",
+        "fiksasion amneziya",
+        "psevdoreminesensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. 27 yaşda olan subay qadın pasiyenti. Keçirtdiyi ağır psixi sarsıntıdan sonra davranışı qəflətən dəyişilib, qeyri-adekvat olub. Söhbət zamanı onun əlində 7 barmağın, üzündə 4 gözün və 3 burunun olmasını söyləyir, mənasız gülür. Eyni zamanda, bəzi mürəkkəb suallara düzgün cavabları verir. Ən ehtimal edilən pozuntu?",
+      "options": [
+        "psevdodemensiya",
+        "psevdohallüsinasiya",
+        "pareydoliya",
+        "deliriy",
+        "paranoid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Hipermneziya – bu:",
+      "options": [
+        "yada almaq qabiliyyətin güclənməsi",
+        "yada almaq qabiliyyətin zəifləməsi",
+        "təzə məlumatdan istifadə etmək bilməməsi",
+        "qavramanın güclənməsi",
+        "qavramanın zaifləməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. Hipomneziya – bu:",
+      "options": [
+        "yada almaq qabiliyyətin zəifləməsi",
+        "yada almaq qabiliyyətin güclənməsi",
+        "təzə məlumatdan istifadə etmək bilməməsi",
+        "qavramanın güclənməsi",
+        "qavramanın zaifləməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. Lakunar demensiyanın inkişafı hansı xəstəlik üçün ən səciyyəvidir?",
+      "options": [
+        "ateroskleroz",
+        "şəkərli diabet",
+        "şizofreniya",
+        "hepatit А",
+        "şəxsiyyət pozuntusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. Sadalanaların hansı təfəkkürün kəmiyyət pozuntusuna aiddir:",
+      "options": [
+        "perseverasiya",
+        "paranoya",
+        "obsessiya",
+        "akrofobiya",
+        "konfabulyasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. Rezonyorluq, bu:",
+      "options": [
+        "boş mühakimələr, mənasiz sözlərdən ibarət nitqdir",
+        "simvollarla baglı mühakimədir",
+        "sarışan haldır",
+        "patoloji müfəssəllikdir",
+        "şizofaziyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. Autistik təfəkkür hansı xəstəlik üçün xarakterikdir:",
+      "options": [
+        "şizofreniya üçün",
+        "epilepsiya üçün",
+        "oliqofreniya üçün",
+        "depressiv nevroz üçün",
+        "sarışan hallar nevrozu üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. Maniakal sindrom üçün hansı pozuntu xarakterikdir:",
+      "options": [
+        "təfəkkürün sürətlənməsi",
+        "təfəkkürün ləngiməsi",
+        "simvolik təfəkkur",
+        "autizm",
+        "neoloqizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108. Xəstə öz nitqində anlaşılmaz yeni sözlər və ifadələr işlədir və həmin ifadələrə o,özünəməxsus mənalar verir, bu:",
+      "options": [
+        "neoloqizmdir",
+        "simvolizmdir",
+        "rezonyorluqdur",
+        "autizmdir",
+        "stereotipiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. Epilepsiya xəstəliyi üçün xarakterik olan təfəkkür pozuntusu hansıdir:",
+      "options": [
+        "təfəkkürun patoloji müfəssəlliliyi",
+        "təfəkkürün sürətlənməsi",
+        "təfəkkürün ambivalentliyi",
+        "rezonyorluq",
+        "autizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. Əqli fəaliyyəti nəticəsində cisim və hadisələr arasındakı əlaqələrinin çıxartma qabiliyyəti hansı prosesin köməyi ilə həyata keçirilir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "yaddaşın",
+        "düşüncənin",
+        "iradənin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. Xəstə müxtəlif suallara eyni cavablar verir və cavabları təkrarlayır, bu:",
+      "options": [
+        "perseverasiyadır",
+        "təfəkkürun qırıqlığıdır",
+        "stereotipiyadır",
+        "sarışan haldır",
+        "ambivalentlikdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. Xəstəni iradəsindən asılı olmayaraq fikirlərin axını və çoxluğu narahat edir, bu:",
+      "options": [
+        "mentizmdir",
+        "konfabulyasiyadır",
+        "şperrunqdur",
+        "sayıqlamadır",
+        "şizofaziyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113. Təfəkkürün hansı patoligiyasında xəstə ilə söhbət zamanı o, fikirlərin birdən yox olması barədə söyləyir, bu zaman dayanır, nə söyləyəcəyini bilmir:",
+      "options": [
+        "şperrunqda",
+        "şizofaziyada",
+        "perseverasiyada",
+        "rezonyorluqda",
+        "neoloqizmdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Xəstə günün çox vaxtında danışmır, həkimin suallarına bir neçə vaxt keçəndən sonra ,,hə,, və ,,yox,, cavabını verir,bu:",
+      "options": [
+        "təfəkkürün ləngiməsidir",
+        "perseverasiyadır",
+        "stereotipiyadır",
+        "mentizmdir",
+        "neologizmdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115. Təfəkkürün ambivalentliyi,bu:",
+      "options": [
+        "eyni vaxtda bir-birinə zidd fikirlərin meydana çıxmasıdır",
+        "nitqdə yeni söz və ifadələrin yaranmasıdır",
+        "fikir dolaşıqlığıdır",
+        "sarışan haldır",
+        "fikirlərin məntiqsizliyi və əlaqısizliyidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. Depressiv sindrom üçün hansı təfəkkür pozuntusu daha xarakterikdir:",
+      "options": [
+        "təfəkkürün ləngiməsi",
+        "təfəkkürün sürətlənməsi",
+        "simvolik təfəkkür",
+        "neologizm",
+        "rezonyorluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. Real həyatdan uzaqlaşma, xəstənin səhv təsəvvürləri ilə baglı, izaholunmayan və obyektiv əsası olmayan təfəkkür pozuntusu hansıdır:",
+      "options": [
+        "autistik təfəkkür",
+        "neoloqizm",
+        "təfəkkürün ambivalentliyi",
+        "təfəkkürün persererasiyası",
+        "rezonyorluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118. Fikirlərin əlaqəsizliyi, ``söz yıgımı`` kimi təzahür edir, bu:",
+      "options": [
+        "təfəkkürün(nitqin) qırıqlıgıdır",
+        "məntiqsiz təfəkkürdür",
+        "rezonyorluqdur",
+        "stereotipiyadır",
+        "ambivalentlikdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119. Şizofaziya nədir?",
+      "options": [
+        "təfəkkür qırıqlıgının bir forması",
+        "mentizm",
+        "perseverasiya",
+        "autizm",
+        "neoloqizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120. Verbiqerasiya, bu:",
+      "options": [
+        "mənasız sözlərin stereotipik təkrarıdır",
+        "patoloji müfəssəllikdir",
+        "rezonyorluqdur",
+        "neoloqizmdir",
+        "sarışan haldır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. Kəskin və agır infeksion, intoksikasion psixozlar üçün daha çox təfəkkürün hansı kəmiyyət pozuntusu xarakterikdir:",
+      "options": [
+        "təfəkkürün qırıqlıgı",
+        "məntiqsiz təfəkkür",
+        "autistik təfəkkür",
+        "neoloqizm",
+        "şizofaziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122. İnkoqerensiya, bu:",
+      "options": [
+        "düşüncə pozuntusu fonunda təfəkkürün qırıqlıgıdır",
+        "məntiqsiz təfəkkürdür",
+        "neoloqizmdir",
+        "patoloji müfəssəllilikdir",
+        "təfəkkürün ambivalentliyidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. Xəstə həkimlə salamlaşarkən, onun başının aşağı əyməsini kiminsə yaxın vaxtda öləcəyinə işarə kimi qiymətləndirir,bu:",
+      "options": [
+        "simvolik təfəkkürdür",
+        "neoloqizmdir",
+        "rezonyorluqdur",
+        "şizofaziyadır",
+        "perseverasiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. Şizofrеniya xəstəliyi nəticəsində səxsiyyət qüsuru olan xəstələr üçün daha xasdır",
+      "options": [
+        "şizofaziya",
+        "simvolizm",
+        "patoloji müfəsəllik",
+        "təfəkkürün ləngiməsi",
+        "təfəkkürün donuğluğu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. Kəllə-bеyin travmasından sonra şəxsiyyət dəyişiklikləri olan xəstələr üçün daha xasdır",
+      "options": [
+        "patoloji müfəsəllilik",
+        "vеrbigеrasiya",
+        "simvolizm",
+        "təfəkkürün qırıqlıqı",
+        "təfəkkürün stereotipiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126. Pasiеnt suallara cavab vеrərkən, vaxtaşırı, bəzən bir cümlədə iki dəfə еyni sözü təkrar еdir. Bu onda:",
+      "options": [
+        "təfəkkürün stеrеotipiyasıdır",
+        "təfəkkürün ləngiməsidir",
+        "təfəkkürün ambitеndеnsiyasıdır",
+        "şpеrrungdır",
+        "simvolikdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127. Pasiеnt, rəisinin onun otağında qulaqasıcı qurğu ilə onu təqib etdiyi barədə iddiya еdir və buna görə o, öz otağında hеç kimlə açıq danışmaq istəmir. Bu onda",
+      "options": [
+        "sayıqlama idеyasıdır",
+        "klaustrofobiyadır",
+        "stеrеotipiyadır, təfəkkürün sürətlənməsi ilə",
+        "autik təfəkkürdür, tеz-tеz yaranan şpеrrunglarla",
+        "sayrışan qorxudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128. Pasiеnt, həkimin bu gün göy corab gеyməsilə yaxın zamanlarda onun stasionardan çıxacağına işarə vеrdiyini söyləyir. Bu onda",
+      "options": [
+        "simvolik təfəkkürdir",
+        "rеzonyorluqdur",
+        "təfəkkürün qırıqlıqıdır",
+        "autik təfəkkürdür",
+        "vеrbigеrasiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129. Təfəkkürün pozuntularına aiddir",
+      "options": [
+        "şizofaziya və vеrbigеrasiya",
+        "sеnеstopatiya və akoazm",
+        "hallüsinasiya və psеvdorеminеsеnsiya",
+        "psеvdorеminеsеnsiya və parеydoliya",
+        "anekforiya və parеydoliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130. Dövrü olaraq xəstənin iradəsindən asılı olmayaraq onda qorxu hissinin və ya bezikdirici xoşagəlməz xatirələrin yaranması, bunların xəstəlik nəticəsində əmələ gəlməsinin anlanılması və təngidi münasibətin olması ilə xarakterizə olunan vəziyyət hansıdır:",
+      "options": [
+        "sarışan hallar vəziyyətdir",
+        "sayıqlamadır",
+        "stеrеotipiyadır",
+        "pеrsеrvеrasiyadır",
+        "ipoxondriyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131. Hallüsinator-paranoid sindrom nəyin göstəricəsidir",
+      "options": [
+        "psixozun",
+        "ipoxondrik nеvrozun",
+        "mеlanxolik raptusun",
+        "dissoativ şəxsiyyət pozuntusunun",
+        "dеmеnsiyanın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Təfəkkürün pozuntularına aiddir",
+      "options": [
+        "nеologizm",
+        "parеydoliya",
+        "hallüsinasiya",
+        "psеvdorеminеsеnsiya",
+        "disforiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133. Təfəkkürün pozuntularına aiddir",
+      "options": [
+        "parafreniya",
+        "senestopatiya",
+        "amneziya",
+        "konfabulasiya",
+        "anekforeya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134. Təfəkkürün pozuntularına aiddir",
+      "options": [
+        "simvolizm",
+        "senestopatiya",
+        "hallüsinasiya",
+        "psеvdorеminеsеnsiya",
+        "dipsomaniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135. Qapalı məkanda əsaslandırılmamış qorxu necə adlanır:",
+      "options": [
+        "klaustrofobiya",
+        "piromaniya",
+        "tanatofobiya",
+        "mifomaniya",
+        "aqorofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136. Formaca təfəkkürün pozuntularına aiddir",
+      "options": [
+        "rеzonyorluq",
+        "senestopatiya",
+        "paranoid",
+        "parafreniya",
+        "dipsomaniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137. Formaca təfəkkürün pozuntularına aiddir",
+      "options": [
+        "patoloji müfəsəllilik",
+        "imperativ hallüsinoz",
+        "sarısan halar",
+        "parafreniya",
+        "makropsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138. Perserverasiya - əlamət kimi hansı pozuntularına aiddir",
+      "options": [
+        "təfəkkürün formaca pozuntusuna",
+        "təəsürat pozuntularına",
+        "hərəki sferanın pozuntusuna",
+        "təfəkkürün məzmunca pozuntularına",
+        "hissiyatların pozuntularına"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139. Xəstəyə “sən dərman içmisənmi” verilən suala o,belə cavab verir: “Bir həftə öncə, bərk yağış zamanı, mən tezdən durub, qonşu dükandan aldığım kofeni içdim. Sonra yarım saat oturdum, qəzetdə siyasi xəbərləri oxudum. Sonra gödəkçəmin sol cibindən içində həblər olan göy rəngli bankanı çıxarıb, həblərdən birini götürərək, otaq temperaturlu bir stəkan su ilə içdim, bəli, mən dərman içmişəm”. Çox güman ki, onda",
+      "options": [
+        "patoloji müfəsəllilikdir",
+        "parafreniyadir",
+        "vеrbigеrasiyadır",
+        "rezonyorluqdur",
+        "simvolik təfəkkürdür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140. Xəstə, onun adı və soyadı ilə bağlı suala cavab verir: “Ad – nisbi anlayışdır, burada mən bir adla çağrılıram, ayrı yerdə mənim bu adım oradakı meyarlara uyğun olmadığdan, məni ayrı adla adladırırlar. Ona görə məni necə istəyirsiniz kimi adlandırın, mənim ücün fərgi yoxdur”. Çox güman ki, onda",
+      "options": [
+        "rezonyorluqdur",
+        "mentizmdır",
+        "təfəkkürün ləngiməsidir",
+        "simvolik təfəkkürdir",
+        "senestopatiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141. Maniakal oyanmanı digər oyanmalardan fərgləndirən hansı meyyardır",
+      "options": [
+        "məgsədəyönlülükdür",
+        "təlxəklikdir",
+        "axşam vaxtında oyanmanın artmasıdır",
+        "impulsivlıklikdir",
+        "arada yaranan donmalardır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142. Xəstə, toyda olarkən şad görsənirdi, tost deyib, lətifələr danışırdı. Lakin zaldan çıxan kimi, təklikdə, damarlarını kəsməklə intihar etdi. Çox güman ki, onda nə idi",
+      "options": [
+        "maskalanmış depressiya",
+        "ipoxondriya",
+        "münasibət sayiqlaması",
+        "hebefrenik şizofreniya",
+        "şəxsiyyətin dissosiativ pozuntusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Maniyanın eyforiyadan fərgləndirən hansı meyyardır",
+      "options": [
+        "hərəki oyanıqlıq",
+        "təlxəklik",
+        "geyri ixtiyari ədəbsiz qışqşrıqlar",
+        "əhval-ruhiyyənin enməsi",
+        "affeklərə meyllik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144. Affekt – bu",
+      "options": [
+        "qısamüddətli, güclü emosional reaksiyadır",
+        "şizofreniyanın sonudur",
+        "illuziyanın müxtəlifliyidir",
+        "xəstənin baş verən hadisələri öz sayıqlamasına cəlb etməsidir",
+        "özünə bələdciliyin saxlanılması ilə kecən düşüncə pozuntusudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145. Xəstə, kinoya bilet üçün növbədə durarkən, daimi növbəsiz irəli keçənlərin hərəkətlərinə dözməyərək, birinin üzərinə atılır, ona ağır kəllə-beyin travması endirir və nəticədə cinayət məsüliyyətinə cəlb edilir. Baş vermiş hadisə yadındadır, etdiyi hərəkətə görə təəssüflənir. Qanun pozuntusu zamanı ona nə olmuşdu?",
+      "options": [
+        "fizioloji affekt",
+        "asteno-nevrotik sindromun kövrəkliyi",
+        "patoloji affekt",
+        "paranoid şizofreniyanın manifestı",
+        "disforik pozuntu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146. Universitetinin sonuncu kursunda oxuyan tələbənin hazırlığı pisləşir, səbəbini isə onda müşayiət olunan somatik zəifliklə izah edir və yaxın vaxtda ölə biləcəyinə görə, universitetdə aldığı biliklərin ona lazım olmayacaqını söyləyir. Əhvalının pisləşməsi ilə bağlı çoxlu şikəyətləri təqdin etsə də, onda hansı somatik patologiyanın olmasını konkretləşdirə bilmir. Çox güman ki, onda",
+      "options": [
+        "ipoxondriyadır",
+        "münasibət sayıqlamasıdır",
+        "mifomaniyadır",
+        "derealizasiyadır",
+        "depersonalizasiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. Depressiyanın hansı növü intiharın yaranması nögteyi-nəzərindən daha təhlükəlidir?",
+      "options": [
+        "ajitəli",
+        "maskalanmış",
+        "presenil",
+        "reaktiv",
+        "endogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148. Pasiyent bir ildən çoxdur ki, heç nə ilə məşgul olmur, günlərlə çarpayda uzanaraq, ətrafda olan insanlara və hadisələrə qarşı tam laqeyddir, səliqəsizdir, dişlərini təmizləmir, dırnaqlarını kəsmir. Məcbur edilməsə, həftələrlə çimmək istəmir. Çox güman ki, onda:",
+      "options": [
+        "apatiyadır",
+        "heç nə etməməyə sayrışan arzu",
+        "yaradıcılıq böhrandır",
+        "disforiyadır",
+        "nevrotik astenizasiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. Xəstə söyləyir ki, onda hərdən bir atasını öldürmək və ya ona mənəvi ağrı vurmaq istəyi əmələ gəlir. Halbuki, eyni zamanda o, atasına böyüyü, valideyini və çörək verəni kimi hörmət edir. Uşaqlıqda atası ilə birlikdə necə oynadıqlarını, dənizə qetdiklərini sevinclə xatırlayır. Çox güman ki, onda",
+      "options": [
+        "ambivalentlikdir",
+        "negativizmdir",
+        "disforiyaya meyllikdir",
+        "impulsivlikdir",
+        "tanatofobiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. Təəsürat pozuntularına aiddir",
+      "options": [
+        "kövrəklik və apatiya",
+        "pareydoliya və anekforiya",
+        "amneziya və konfabulyasiya",
+        "parafreniya və eyforiya",
+        "depressiya və akoazmlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151. İradənin zəifləməsi necə adlanır?",
+      "options": [
+        "hipobuliya",
+        "hiperbuliya",
+        "abuliya",
+        "apatiya",
+        "neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152. İradənin güclənməsi necə adlanır?",
+      "options": [
+        "hiperbuliya",
+        "hipobuliya",
+        "abuliya",
+        "apatiya",
+        "neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153. İradənin tam itməsi necə adlanır?",
+      "options": [
+        "abuliya",
+        "hipobuliya",
+        "apatiya",
+        "hiperbuliya",
+        "neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154. Eyni hərəkətlərin təkrar olunması necə adlanır?",
+      "options": [
+        "stereotipiya",
+        "negativizm",
+        "impulsiv hərəkətlər",
+        "apatiya",
+        "depressiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Katatoniya olan vəziyyətdə xəstənin tam sakit, əzələlərin gərginləşmiş və donuq olması necə adlanır?",
+      "options": [
+        "katatonik stupor",
+        "katatonik oyanma",
+        "passiv neqativizm",
+        "aktiv neqativizm",
+        "manerlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156. Katatonik vəziyyətdə olan xəstənin xaotik hərəkətlər etməsi necə adlanır?",
+      "options": [
+        "katatonik oyanma",
+        "katatonik stupor",
+        "passiv neqativizm",
+        "aktiv neqativizm",
+        "manerlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157. Katatonik stuporu olan xəstənin müayinəsi zamanı həkim ona ayağa qalxmasını, dilini göstərməsini təklif edərkən, xəstənin bunları etməməsi necə adlanır?",
+      "options": [
+        "passiv neqativizm",
+        "aktiv neqativizm",
+        "manerlik",
+        "exolaliya",
+        "exopraksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158. Katatonik stuporu olan xəstələrin müayinəsi zamanı əzələlərini gərginləşdirərək ciddi müqavimət göstərməsi və ya təklif olunan hərəkətlərin əksini etməsi necə adlanır?",
+      "options": [
+        "aktiv neqativizm",
+        "passiv neqativizm",
+        "manerlik",
+        "exolaliya",
+        "exopraksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159. Xəstələrin əcaib təlxəkvari hərəkətlər etməsi necə adlanır?",
+      "options": [
+        "manerlik",
+        "aktiv neqativizm",
+        "passiv neqativizm",
+        "exolaliya",
+        "exopraksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160. Hipobuliya nədir?",
+      "options": [
+        "iradənin zəifləməsi",
+        "eyni hərəkətlərin təkrarlanması",
+        "iradənin tam itməsi",
+        "müayinə zamanı həkimin təkliflərini yerinə yetirilməməsi",
+        "iradənin güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161. Hiperbuliya nədir?",
+      "options": [
+        "iradənin güclənməsi",
+        "katatonik oyanma",
+        "passiv neqativizm",
+        "aktiv neqativizm",
+        "manerlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162. Abuliya nədir?",
+      "options": [
+        "iradənin tam itməsi",
+        "katatonik oyanma",
+        "passiv neqativizm",
+        "aktiv neqativizm",
+        "manerlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163. Stereotipiya nədir?",
+      "options": [
+        "eyni hərəkətlərin təkrar etməsi",
+        "xəstənin tam sakit, donuq olması",
+        "iradənin tam itməsi",
+        "xəstənin əzələlərini gərginləşdirərək ciddi müqavimət göstərməsi",
+        "xəstənin əcaib təlxəkvari hərəkətlər etməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164. Katatonik stupor nədir?",
+      "options": [
+        "xəstənin tam sakit, əzələlərin gərginləşmiş və donuq olması",
+        "eyni hərəkətlərin təkrar etməsi",
+        "iradənin tam itməsi",
+        "xəstənin əzələlərini gərginləşdirərək ciddi müqavimət göstərməsi",
+        "xəstənin əcaib təlxəkvari hərəkətlər etməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165. Katatonik oyanma nədir?",
+      "options": [
+        "xəstənin əcaib xaotik hərəkətlər etməsi",
+        "eyni hərəkətlərin təkrar etməsi",
+        "xəstənin tam sakit, donuq olması",
+        "iradənin tam itməsi",
+        "xəstənin əcaib təlxəkvari hərəkətlər etməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166. Passiv neqativizm nədir?",
+      "options": [
+        "həkim xəstəyə ayağa qalxmasını, dilini göstərməsini təklif edərkən, xəstənin bunları etməməsi",
+        "eyni hərəkətlərin təkrar etməsi",
+        "xəstə əzələlərini gərginləşdirərək ciddi müqavimət göstərməsi və ya təklif olunan",
+        "xəstənin əcaib təlxəkvari hərəkətlər etməsi",
+        "katatonik vəziyyətdə olan xəstənin xaotik hərəkətləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167. Aktiv neqativizm nədir?",
+      "options": [
+        "xəstə əzələlərini gərginləşdirərək ciddi müqavimət göstərməsi və ya təklif olunan",
+        "həkim xəstəyə ayağa qalxmasını, dilini göstərməsini təklif edərkən, xəstənin",
+        "eyni hərəkətlərin təkrar etməsi",
+        "xəstənin əcaib təlxəkvari hərəkətlər göstərməsi",
+        "katatonik vəziyyətdə olan xəstənin xaotik hərəkətləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168. Manerlik nədir?",
+      "options": [
+        "xəstənin əcaib təlxəkvari hərəkətlər etməsi",
+        "həkim xəstəyə ayağa qalxmasını, dilini göstərməsini təklif edərkən, xəstənin bunları etməməsi",
+        "xəstə əzələlərini gərginləşdirərək ciddi müqavimət göstərməsi və ya təklif olunan hərəkətlərin əksini",
+        "eyni hərəkətlərin təkrar etməsi",
+        "katatonik vəziyyətdə olan xəstənin xaotik hərəkətləridir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169. Iradənin əsas cəhəti nədir?",
+      "options": [
+        "motiv",
+        "passiv neqativizm",
+        "manerlik",
+        "exolaliya",
+        "exopraksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170. Hansı iradə pozuntusu zamanı xəstə ona verilən suallara cavab vermək əvəzinə, həmin sualı olduğu kimi təkrar edir?",
+      "options": [
+        "exolaliya",
+        "passiv neqativizm",
+        "manerlik",
+        "motiv",
+        "exopraksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171. Hansı iradə pozuntusu zamanı xəstə başqasının etdiyi hərəkətləri eynilə təkrar edir?",
+      "options": [
+        "exopraksiya",
+        "passiv neqativizm",
+        "manerlik",
+        "motiv",
+        "exolaliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "172. Hansı iradə pozuntusu zamanı xəstənin mimiki əzələlərin uyğunsuz hərəkətləri müşahidə olunur və onda qeyri-təbii gorkəmi yaranır?",
+      "options": [
+        "paramimiya",
+        "passiv neqativizm",
+        "manerlik",
+        "motiv",
+        "exolaliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "173. Obnubilyasiya necə adlanır?",
+      "options": [
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "düşüncənin keyləşməsinin ən ağır forması",
+        "eşitmə hallüsinasiyaları",
+        "yarı yuxulu hal",
+        "şərtsiz reflektor fəaliyyətin itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "174. Somnolensiya necə adlanır?",
+      "options": [
+        "yarı yuxulu hal",
+        "düşüncənin keyləşməsinin ən ağır forması",
+        "eşitmə hallüsinasiyaları",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "şərtsiz reflektor fəaliyyətin itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "175. Supor necə adlanır?",
+      "options": [
+        "düşüncə pozuntusu, hansında ki, huşun itməsi fonunda şərtsiz reflektor fəaliyyət saxlanılır, şərti",
+        "düşüncənin keyləşməsinin ən ağır forması",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "eşitmə hallüsinasiyaları",
+        "yarı yuxulu hal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "176. Koma necə adlanır?",
+      "options": [
+        "düşüncə pozuntusunun ən ağır dərəcəsidir, hansında ki xəstədə huşun itməsi",
+        "qoxu hallüsinasiyaları",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "yarı yuxulu hal",
+        "eşitmə hallüsinasiyaları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "177. Düşüncənin delirioz pozuntusu zamanı nə baş verir?",
+      "options": [
+        "xəstədə özünün dərk etməsi saxlanılır, mühitin dərk etməsi pozulur",
+        "xəstədə özünün və mühitin dərk etməsi pozulur",
+        "xəstədə mühitin dərk etməsi saxlanılır, özünün dərk etməsi pozulur",
+        "xəstə eyni hərəkətləri təkrar edir",
+        "xəstə əzələlərini gərginləşdirərək ciddi müqavimət göstərir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "178. Oneyroid necə adlanır?",
+      "options": [
+        "xəstənin özünə bələdliyin tam itməsi, mühitə bələdliyin qismən pozulması",
+        "xəstədə əmələ gələn kəskin eşitmə hallüsinozu",
+        "xəstənin özünə bələdliyin qismən pozulması, mühitə bələdliyin tam itməsi",
+        "xəstənin özünə bələdliyin saxlanılması, mühitə bələdliyin qismən pozulması",
+        "xəstənin özündə mühitə də bələdliyin tam itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179. Yaddaş “boşluqlarının” xəstənin həyatında baş vermiş və yaxud baş verə biləcək hadisələrlə doldurulması necə adlanır:",
+      "options": [
+        "psevdoreminissensiya",
+        "retroqrad amneziya",
+        "kriptomneziya",
+        "fiksasion amneziya",
+        "konfabulyasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "180. Yaddaş “boşluqlarının” fantastik, cəfəng xarakterli hadisələrlə doldurulması necə adlanır:",
+      "options": [
+        "konfabulyasiya",
+        "retroqrad amneziya",
+        "kriptomneziya",
+        "fiksasion amneziya",
+        "psevdoreminissensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "181. Korsakov sindromunun klinik şəklində hansı pozuntu müşahidə olunur:",
+      "options": [
+        "fiksasion amneziya",
+        "anteroqrad amneziya",
+        "obnubilyasiya",
+        "münasibət sayıqlaması",
+        "hipotimiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182. Sadalanan psixopatoloji sindromlardan hansında tez-tez hipomneziya rast gəlinir?",
+      "options": [
+        "depressiv sindromda",
+        "paranoid sindromda",
+        "katatonik sindromda",
+        "maniakal sindromda",
+        "münasibət sayıqlamada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "183. Sadalanan psixopatoıoji sindromlardan hansında tez-tez hipomneziya rast gəlinir?",
+      "options": [
+        "astenik sindromda",
+        "paranoid sindromda",
+        "katatonik sindromda",
+        "maniakal sindromda",
+        "münasibət sayıqlamasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "184. Hansı qrup preparatları mnestik pozuntularının müalicəsində terapevtik nöqteyi- nəzərindən əhəmiyyətlidir?",
+      "options": [
+        "nootroplar",
+        "neyroleptiklər",
+        "trankvilizatorlar",
+        "antidepressantlar",
+        "litium duzları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "185. Fiksatsion amneziya hansı əlamətlərlə xarakterizə olunur:",
+      "options": [
+        "hazırki hadisələrin yadda saxlama qabiliyyətinin itməsi ilə",
+        "intellektin enməsi ilə",
+        "hallüsinasiya ilə",
+        "maniya ilə",
+        "münasibət sayıqlaması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "186. Korsakov sindromunda xəstə:",
+      "options": [
+        "professional vərdişləri yadda saxlaya bilər",
+        "yeni biliklər əldə edə bilər",
+        "daha yaxşı orientasiyanı əldə edə bilər",
+        "professional fəaliyyətini əvvəlkindən daha yaxşı davam edə bilər",
+        "yeni bilikləri və daha yaxşı orientasiyanı əldə edə bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "187. Yaxın zamanlarada əldə olunmuş məlumatların, keçmiş zamanda əldə olunmuş məlumatlara doğru gedən yaddaşın itməsinin proqressiv tənəzzülü necə adlanır:",
+      "options": [
+        "Ribo qanunu",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu",
+        "Blöyler xəstəliyi",
+        "paranoyal sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "188. Keçmişdə və hazırda əldə olunmuş məlumatların yadda saxlanması və iradi olaraq ətraflı xatırlanması nə üçün xarakterikdir:",
+      "options": [
+        "yaxşı yaddaş üçün",
+        "hipomneziya üçün",
+        "amneziya üçün",
+        "Kandinski-Klerambo sindromu üçün",
+        "Korsakov sindromu üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189. Hansı sindromun tərifində geridönməzlik anlayışı vardır?",
+      "options": [
+        "demensiyanın",
+        "amentiv pozuntunun",
+        "amnestik pozuntunun",
+        "astenik pozuntunun",
+        "hipomneziyanın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. Kəmağıllığın təsiretmə zamanından asılı olan etiolojı faktorlar bunlardır:",
+      "options": [
+        "irsi",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu",
+        "Blöyler xəstəliyi",
+        "paranoyal vəziyyət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "191. Kəmağıllığın təsiretmə zamanından asılı olan etiolojı amillər bunlardır",
+      "options": [
+        "anabətnində",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu",
+        "Blöyler xəstəliyi",
+        "paranoyal vəziyyət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "192. Debilliyin xarakterik kliniki təzahürləri özünü necə göstərir",
+      "options": [
+        "mücərrəd təfəkkürün zəifliyi ilə",
+        "Kandinski-Klerambo sindromu ilə",
+        "Korsakov sindromu ilə",
+        "Blöyler xəstəliyi ilə",
+        "paranoya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "193. Debilliyin xarakterik klinik təzahürləri özünü necə göstərir",
+      "options": [
+        "sadə bilik tələb edən praktik vərdişlərin mənimsənilməsinə bacarmaması ilə",
+        "Kandinski-Klerambo sindromu ilə",
+        "Korsakov sindromu ilə",
+        "Bloyler xəstəliyi ilə",
+        "paranoya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194. Kəmağıllı xəstələrdə psixoz hansı vəziyyətdə baş verə bilər",
+      "options": [
+        "nadir hallarda əlavə provokasion amillərin olması zamanı",
+        "bütün hallarda",
+        "heç vaxt",
+        "həmişə şizofreniya xəstəliyinə keçir",
+        "kamağıllığın ağır formasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "195. Debilliklə olan xəstələrin müalicə məqsədlərinə aiddir:",
+      "options": [
+        "ibtidai məktəb təhsili səviyyəsində oxutmaq",
+        "intellektin bərpası",
+        "intellektin 100 %-ə qədər artırılması",
+        "intellektin 110 %-ə qədər artırılması",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "196. Sadalanan kəmağıllıq formalarının hansında yenidoğulmuşu vaxtında müalicə etməklə xəstəliyin inkişafının qarşısını almaq mümkündür",
+      "options": [
+        "fenilketonuriyada",
+        "Daun xəstəliyində",
+        "Martin-Bella sindromunda",
+        "Kandinski-Klerambo sindromunda",
+        "Korsakov sindromunda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "197. Psixi inkişafına mane olan ən çox rast gəlinən səbəbini göstərin",
+      "options": [
+        "sosial baxımsızlıq",
+        "Daun xəstəliyi",
+        "Martin-Bella sindromu",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198. Anadangəlmə ağıl çatışmazlığı (oliqofreniya) özünü nə ilə göstərir",
+      "options": [
+        "debillik ilə",
+        "demensiya ilə",
+        "obsessiya ilə",
+        "Kandinski-Klerambo sindromu ilə",
+        "Korsakov sindromu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199. Anadangəlmə ağıl çatışmazlığı (oliqofreniya) özünü göstərir",
+      "options": [
+        "imbesillik ilə",
+        "demensiya ilə",
+        "obsessiya ilə",
+        "Kandinski-Klerambo sindromu ilə",
+        "Korsakov sindromu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "200. Anadangəlmə ağıl çatışmazlığı (oliqofreniya) özünü göstərir",
+      "options": [
+        "idiotiya ilə",
+        "obsessiya ilə",
+        "demensiya ilə",
+        "Kandinski-Klerambo sindromu ilə",
+        "Korsakov sindromu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "201. Beynin natamam inkişafı oliqofreniyaya zəmin yaradır",
+      "options": [
+        "bətndaxili dövrdə zədələnmə",
+        "obsessiya",
+        "demensiya",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202. Beynin natamam inkişafı oliqofreniyaya zəmin yaradır",
+      "options": [
+        "doğuş travması",
+        "obsessiya",
+        "demensiya",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "203. Beynin natamam inkişafı oliqofreniyaya zəmin yaradır",
+      "options": [
+        "həyatın ilk üç ilində zədələnmə",
+        "obsessiya",
+        "demensiya",
+        "Kandinski-Klerambo sindromu",
+        "Korsakov sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "204. İdiotiya dərəcəsində kamağıllığı olan xəstələrin reabilitasiyasında əsas məsələ göstərilənlərin öyrənilməsindən ibarətdir",
+      "options": [
+        "özünə qulluq etmə vərdişləri",
+        "sadə hesab əməliyyatları",
+        "çətin hesab əməliyyatları",
+        "sadə peşələrə yiyənlənməsi",
+        "çətin peşələrə yiyənlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "205. Daun xəstəliyi üçün xarakterikdir",
+      "options": [
+        "xəstələrin əksəriyyətində kəmağıllılıq imbesillik dərəcəsindədir",
+        "reproduktiv funksiyanın saxlanılması",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "206. Daun xəstəliyi üçün xarakterikdir",
+      "options": [
+        "ağıl çatışmazlığı",
+        "reproduktiv funksiyanın saxlanılması",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207. Somatik depressiya üçün aşağıda göstərilənlərdən hansı daha xarakterikdir?",
+      "options": [
+        "depressiyanın kəskinləşməsi somatik vəziyyətin kəskinləşməsi ilə şərtləşir",
+        "əhval-ruhiyyənin gün ərzində dəyişilməsi",
+        "əhval-ruhiyyənin yeksəlməsi",
+        "Kandinski-Klerambo sindromu",
+        "sayıqlama ideyaları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "208. Depressiyanın somatik əlaməti üçün ən çox xarakterik olan əlamətini seçin",
+      "options": [
+        "çəkinin itirilməsi",
+        "tənəffüsün pozulması",
+        "dəri piqmentasiyasının pozulması",
+        "dəri piqmentasiyasının artması",
+        "dəri piqmentasiyasının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "209. Depressiyanın somatik əlaməti üçün daha çox xarakterik olan simptomunu seçin",
+      "options": [
+        "taxikardiya",
+        "tənəffüsün pozulması",
+        "dəri piqmentasiyasının pozulması",
+        "dəri piqmentasiyasının artması",
+        "dəri piqmentasiyasının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "210. İpoxondrik sindrom özünü necə göstərir",
+      "options": [
+        "öz sağlamlığına qarşı həddindən artıq diqqət",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "211. İpoxondrik sindrom özünü necə göstərir",
+      "options": [
+        "müalicə olunmayan xəstəliyə tutulması qorxusu",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromun",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "212. İpoxondrik sindrom özünü necə göstərir:",
+      "options": [
+        "mövcud olmayan xəstəliyin olması barədə sayıqlama ideyası",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "213. Bipolyar affektiv pozuntusu üçün xarakterikdir:",
+      "options": [
+        "epizodlararası dövrdə əmək qabiliyyətinin bərpa olunması",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "214. Bipolyar affektiv pozuntusu üçün xarakterikdir",
+      "options": [
+        "affektiv epizodun təkrarlanmasına meyllik",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "215. Bipolyar affektiv pozuntusu üçün xarakterikdir:",
+      "options": [
+        "bir fazadan digərinə fasiləsiz keçməsi",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "Kandinski-Klerambo sindromu",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "216. Özünəqəsd davranışın risk faktorları kimi sayıla bilər:",
+      "options": [
+        "depressiv vəziyyət",
+        "yaddaşın enməsi",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "217. Özünəqəsd davranışın risk faktorları kimi sayıla bilər",
+      "options": [
+        "imperativ hallüsinasiya",
+        "yaddaşın enməsi",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "218. Özünəqəsd davranışın risk amilləri kimi sayıla bilər:",
+      "options": [
+        "özünü günahlandırma sayıqlaması",
+        "yaddaşın enməsi",
+        "demensiya",
+        "intellektin 100 %-ə qədər artırılması",
+        "intellektin 120 %-ə qədər artırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "219. Psixiatriya bu:",
+      "options": [
+        "psixi xəstəliklərin etiologiyası, patogenezi, diaqnostikası, müalicəsi və proflaktikası ilə məşqul tibbi",
+        "insan psixologiyasını öyrənən elmdir",
+        "insanın cəmiyyətdə davranışını öyrənən elmdir",
+        "psixi xəstəlikləri öyrənən elmdir",
+        "psixi xəstərlərin psixologiyasını öyrənən elmdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "220. \"Nifət etmə, müalicə ol\" şüarı kim tərəfindən irəli sürülüb",
+      "options": [
+        "F.Pinel",
+        "Hippokrat",
+        "Əbu-Ali ib Sina",
+        "S.S.Korsakov",
+        "K.Qalen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "221. Psixiatriyada nozoloji prinsipin əsasını hansı alim qoymuş hesab edilir:",
+      "options": [
+        "E.Krepellin",
+        "S.S.Korsakov",
+        "F.Pinel",
+        "Z.Freyd",
+        "İ.M.Secenov"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "222. Psixoalalizin əsasını hansı alim qoyub:",
+      "options": [
+        "Z.Freyd",
+        "K.Yunq",
+        "E.Krepellin",
+        "I.P.Pavlov",
+        "E.Bleyler"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "223. Psixi xəstəliklərin psixotrop dərmanlarla müalicəsinə nə zaman başlanılıb",
+      "options": [
+        "1952-ci ildən",
+        "1962-ci ildən",
+        "1922-ci ildən",
+        "1917-ci ildən",
+        "1922-ci ildən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "224. İlk psixotrop dərman hesab edilir:",
+      "options": [
+        "xlorpromazin",
+        "haloperidol",
+        "stelazin",
+        "aspirin",
+        "amitriptilin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225. Azerbaycanda ilk psixiatr kim olub:",
+      "options": [
+        "İ.R.Rəhimov",
+        "A.A.Abasquliyev",
+        "X.A.Həsənov",
+        "A.A.Sultanov",
+        "F.A.İbrahimbəyov"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "226. Azərbaycanda ilk psixonevroloji kafedra nə zaman təşkil olunub:",
+      "options": [
+        "1922-ci ildə",
+        "1918-ci ildə",
+        "1925-ci ildə",
+        "1931-ci ildə",
+        "1905-ci ildə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "227. Psixiatriya xidmətinin fəaliyyəti, psixi xəstəlikdən əziyyət çəkən şəxslərin hüquqlarının qorunması necə tənzimlənir",
+      "options": [
+        "Azərbaycan Respublikasının qanunları ilə",
+        "Azərbaycan Respublikası Ədliyyə nazirliyinin sərancamları ilə",
+        "Azərbaycan Respublikası Daxili işlər nazirliyinin sərancamları ilə",
+        "Təhsil Nazirliyinin təlimatları ilə",
+        "hüquq-mühafizə orqanların qərarları ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228. Psixiatriya xəstəxanasında psixi xəstələrin məcburi müalicəsi haqqında qərar səhiyyə orqanları tərəfindən necə realizə olunur:",
+      "options": [
+        "məhkəmənin qərarına əsasən",
+        "tərkibi ən azı 3 həkim-psixiatrdan ibarət olan komissiyanın qərarına əsasən",
+        "polis orqanlarının qərarına əsasən",
+        "prokurorluq orqanlarının qərarına əsasən",
+        "yerli hakimiyyət orqanlarının qərarına əsasən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229. Həkim-psixiatr komissiyası tərəfindən vətandaşın psixiatriya stasionarına qeyri-könüllü hospitallaşması haqqında verilmiş rəy əsası hesab edilərsə, onda onun sonrakı vəziyyəti barəsində qərarı hansı orqan qəbul edir:",
+      "options": [
+        "məhkəmə",
+        "psixiatriya şöbəsinin müdiri",
+        "xəstəni müalicə edən həkim-psixiatr",
+        "psixiatriya stasionarın baş həkimi",
+        "insan hüquqlarını qoruyan komissiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "230. “Psixiatriya yardımı\" haqqında Azərbaycan Respublikasının Qanunu neçənci ildə qəbul olunub:",
+      "options": [
+        "2001-ci ildə",
+        "1987-ci ildə",
+        "2007-ci ildə",
+        "1997-ci ildə",
+        "2003-cü ildə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "231. Psixi xəstəliklər barəsində məlumat təqdim oluna bilər:",
+      "options": [
+        "psixiatriya yardımın icrasına nəzarət edən yerli icra orqanın tələbinə əsasən",
+        "xəstənin çalışdığı müəssə/təşkilatın tələbinə əsasən",
+        "rəsmi olaraq müraciət etmiş hər hansı bir şəxsə",
+        "xəstənin yaxın qohumlarının ərizəsinə əsasən",
+        "xəstənin yaşadığı ərazinin müalicə-proflaktika həkiminin yazılı sorğusuna əsasən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232. Psixiatriya xəstəxanasına hospitallaşmadan imtina etmiş psixi xəstə hansı halda qeyri könüllü stasionara yerləşdirilə bilər:",
+      "options": [
+        "ətrafdakılara və özünə təhlükə törətməsi ehtimalı olduqda",
+        "hallüsinasiya və ya sayıqlama daxil olmaqla hər hansı kəskin psixotik vəziyyə,",
+        "öz xəstəliyinə və hazırkı vəziyyətinə qarşı tənqidin olmadıqda",
+        "yaxın qohumunun və yaxud hüquqi nümayəndəsinin rəsmi ərizəsinə əsasən",
+        "əvvəllər stasionar psixiatriya müəssisədə müalicə olunmasına dair rəsmi sənəd"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "233. Birinci dəfə psixi xəstəlik aşkar edilmiş pasientdə rəsmi diaqnoz qoyulur:",
+      "options": [
+        "müvafiq diplomu olan həkim-psixiatr tərəfindən",
+        "tərkibində ən azı üç həkim-psixiatr olan həkim-məsləhət komissiyası tərəfindən",
+        "psixiatrik müəssisənin rəhbəri tərəfindən",
+        "psixiatriya yardımın göstərilməsində iştirak edən hər bir mütəxəssis",
+        "ali tibb təhsili almış və psixi xəstələrlə işləməyə ixtiyarı olan hər bir həkim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "234. Xəstənin psixiatriya stasionarına qeyri könüllü hospitallaşması barədə rəy həkim-psixiatr komissiyası tərəfindən məhkəməyə neşə müddət ərzində təqdim edilməlidir",
+      "options": [
+        "48 saat ərzində",
+        "24 saat ərzində",
+        "72 saat ərzində",
+        "1həftə ərzində",
+        "10gün ərzində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "235. Suisidal cəhdini etmiş şəxs müayinə olunmasına razılıq vermirsə həkim-psixiatr nə etməlidir",
+      "options": [
+        "şəxsin razılığı olmadan onun qeyri-könüllü muayinəsi barədə qərar qəbul etmək",
+        "yaxın qohumları tərəfindən müayinə olunmasına dair ərizəni qəbul etmək",
+        "hüquq-mühafizə orqanlarına məlumat vermək",
+        "müayinənin aparmasından imtina etmək",
+        "yerli icra orqanlarına məlumat vermək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "236. Sosial təhlükəni təşkil edən şəxsin təcili olaraq psixiatriya stasionarına yerləşdirilməsinə dair qərarı kim qəbul edir",
+      "options": [
+        "həkim-psixiatr",
+        "təcili yardımın həkimi",
+        "üç həkim-psixiatrdan ibarət olan komissiyası",
+        "hüquq-mühafizə orqanı nümayəndəsi",
+        "psixiatrik müəssisənin rəhbəri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "237. Şəxsi qeyri qanuni olaraq psixiatriya müəssisəyə yerləşdirən həkimi hansı cəza gözləyir",
+      "options": [
+        "cinayət məsuliyyəti daşıyır və həkim vəzifəsindən 3il müddətinə uzaqlaşdırılır",
+        "inzibati məsuliyyət daşıyır və yetirilmiş ziyana görə təzminat ödəyir",
+        "işdən azad oluna və yaxud vəzifəsindən 3il müddətinə uzaqlaşdırıla bilər",
+        "vəzifəsi 3 il ərzində aşağı salınır",
+        "heç bir cavab düzgün deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "238. Hansı orqan psixi xəstənin məcburi müalicəsi barəsində qərar qəbul edir",
+      "options": [
+        "məhkəmə",
+        "psixiatriya klinikası",
+        "Səhiyyə Nazirliyi",
+        "geniş profilli klinika",
+        "prokurorluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "239. Ağır psixi pozuntusu olan xəstə cinayət əməlini törədərsə, ona qarşı hansı tədbirlər tətbiq edilir",
+      "options": [
+        "cinayət məsuliyyətindən azad edilir və ona qarşı məcburi müalicə tətbiq edilir",
+        "cinayət məsuliyyətindən azad edilmir və ona qarşı müvafiq cəza tətbiq edilir",
+        "psixiatrın baş çəkməsi ilə məhkumluq tətbiq edilir",
+        "psixiatra ambulator baş çəkməsi ilə islahedici işlər tətbiq edilir",
+        "islahedici işlər tətbiq edilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "240. Psixi pozuntusu olan şəxs hansı hüquqlara malikdir",
+      "options": [
+        "digərləri kimi bütün hüquqa malikdir",
+        "azadlıqdan başqa bütün hüquqlara malikdir",
+        "hüquqları məhduddur",
+        "himayəçilik hüquqları var",
+        "heç bir hüquqları yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "241. Pasientin sosial yardımını və müalicəni tələb etmə hüququna malik olması üçün ona psixi xəstəlik diaqnozunu kim müəyyən edir",
+      "options": [
+        "həkim-psixiatr",
+        "həkim-nervopatoloq",
+        "ilkin yardımını göstərən həkim",
+        "həkim-terapevt",
+        "istənilən diplomu olan həkim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "242. Aşağıda göstərilən sindromların hansına parlaq görmə hallüsinasiyaları xasdır?",
+      "options": [
+        "delirioz sindromuna",
+        "depersonalizasiya sindromuna",
+        "derealizasiya sindromuna",
+        "verbal hallüsinoz sindromuna",
+        "astenik sindromuna"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "243. Aşağıda göstərilən sindromların hansına psevdohallüsinasiyalar xasdır?",
+      "options": [
+        "Kandinski-Klesambo sindromuna",
+        "derealizasiya sindromuna",
+        "delirioz sindromuna",
+        "astenik sindromuna",
+        "depersanalizasiya sindromuna"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244. Hallüsinasiyalar qavramanın nə kimi pozuntusuna aid edilə bilər?",
+      "options": [
+        "yalançı qavrama",
+        "səhv qavrama",
+        "təhrif olunmuş qavrama",
+        "sensor qavrama",
+        "hiperstezik qavrama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "245. Aşağıda göstərilənlərin hansı illüziya adlana bilər?",
+      "options": [
+        "təhrif olunmuş qavrama",
+        "yanlış qavrama",
+        "uydurulmuş qavrama",
+        "olmayan səsin eşidilməsi",
+        "olmayan qoxunun duyması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "246. Depersonalizasiyaya aiddir?",
+      "options": [
+        "səsinin, bədəninin,bədənin bəzi cisimlərinin xəstə üçün yad olması",
+        "ətraf mühitin dəyişilməsi",
+        "əvvəl tanış olmayan qoxuların duyulması",
+        "ətrafdakı əşyaların ölçüsünün böyüməsi",
+        "ətrafdakı əşyaların sayca azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247. Hipnohogik hallüsinasiyalar müşahidə olunur:",
+      "options": [
+        "yumulmuş gözlər və ya yuxuya gedən zaman qeyri ixtiyarı görüntülər kimi",
+        "açıq gözlər zamanı",
+        "hansısa funksional qıcııq olduqda",
+        "yalnız mürəkkəb səslər şəkilində",
+        "daxildə xoşagəlməz hissiyat kimi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248. Verbal illüziyaların xüsusiyyətləri:",
+      "options": [
+        "ətrafda olan insanarın nitqlərin təhrif olmuş formada qavranılmasıdır",
+        "ətrafda səslənən nitq ilə birgə əmələ gəlməsidir",
+        "səs qıcıqlarından asılı olmayaraq",
+        "xəstənin ixtiyarında asılı olaraq",
+        "yalnız psixi pozuntu zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249. Funksional hallüsinasiyalar qavranılır:",
+      "options": [
+        "hansısa funksional qıcııq ilə birgə əmələ gəlir, qıcıq mənbəyi yox olduqda yox olur",
+        "hansısa bir qıcığın əvəzi kimi",
+        "qıcıqdan asılı olmayaraq",
+        "qıcıq mənbəyi yox olduqda davam edir",
+        "bədənin müxtəlif nahiyyələrində hiss olunur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "250. Psixosensor pozuntulara aiddir",
+      "options": [
+        "metamorfopsiya",
+        "hallüsinasiya",
+        "illüziya",
+        "aqnoziya",
+        "hallüsinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251. Hipesteziyalar əsasən xasdır;",
+      "options": [
+        "düşüncənin yüngül pozulma halına",
+        "oliqofreniyalara",
+        "şizofreniya xəstəliyinə",
+        "maniakal vəziyyətə",
+        "şəxsiyyətin epileptoid tipli pozuntusuna"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "252. Paresteziyalar adətən necə müşahidə olunur",
+      "options": [
+        "daxili orqanlarda meydana çıxan yanlış hissiyatlarla",
+        "eşitmə aqnoziyası ilə",
+        "hipesteziya ilə",
+        "pareydolik illüziya ilə",
+        "imperativ hallüsinasiya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "253. Senestopatiyalara aiddir:",
+      "options": [
+        "göynəmə, dartınma, sancıma, soyuqluq, gizilti şəklində əmələ gələn qəribə hisslər",
+        "derealizasiya, depersonalizasiya",
+        "dismeqalopsiya",
+        "aqnoziya",
+        "hallüsinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "254. Aşağıda göstərilən sindromların hansına həqiqi eşitmə hallüsinasiyaları xasdır?",
+      "options": [
+        "verbal hallüsinoza",
+        "psixi avtomatizm sindromuna",
+        "derealizasiya sindromuna",
+        "astenik sindroma",
+        "amentiv sindroma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255. Xəstə deyir ki, “bütün ətraf solğun, rəngsizdir, örtük altındadır, görüntülərin dəqiqliyi itib, əşyaların hamısı həqiqi deyil”. Aşağıda göstərilənlərin arasında düzgün cavabını tapın:",
+      "options": [
+        "derealizasiya",
+        "psevdohallüsinasiyalar",
+        "həqiqi hallüsinasiyalar",
+        "depersonalizasiya",
+        "aqnoziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256. Xəstə onun bədənin müxtəlif hissələrində, daxili orqanlarında əmələ gələn xoşagəlməz, əzabverici və qəribə hissiyatlardan şikayətlənib deyir ki: “beynim çevrilir, ağ ciyərlərim yanır, bağırsaqlarım fırlanır”. Bu şikayətlər hansı psixopatoloji pozuntusuna xas olan əlamətlərdi?",
+      "options": [
+        "senestopatiyalara",
+        "illüziyalara",
+        "psevdohallüsinasiyalara",
+        "hipersteziyaya",
+        "həqiqi hallüsinasiyalara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257. Xəstə hiss edir ki, onun başı “böyüyür, şişir, ətrafları qısalır”. Bu şikayətlər hansı psixopatoloji pozuntusuna xas olan əlamətlərdi?",
+      "options": [
+        "bədənin sxeminin pozulma sindromuna",
+        "həqiqi hallüsinasiyalara",
+        "derealizasiyaya",
+        "illüziyalara",
+        "hipersteziyaya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "258. Xəstə mədəsinin içində “ilan-qurbağanın” hərəkətlərini hiss edir. Bu hansı psixopatoloji simptomdur?",
+      "options": [
+        "visseral hallüsinasiya",
+        "sarışan hallar",
+        "illüziyalar",
+        "depersonalizasiya",
+        "sayıqlama ideyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259. Qavrama pozuntularına aiddir:",
+      "options": [
+        "metamorfopsiya",
+        "mutizm",
+        "mentizm",
+        "sayıqlama",
+        "paramneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "260. Xəstə ayaqüstə uzun müddət gəzdikdən sonra onun halın tükənməsindən və “ayaq dərisində arabir sancmaların, giziltilər”in əmələ gəlməsindən şikayətlənirsə bu hansı hissiyyat pozuntusudur?",
+      "options": [
+        "paresteziya",
+        "hiposteziya",
+        "derealizasiya",
+        "hallüsinasiya",
+        "hipersteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "261. Aşağıda göstərilən amillərdən hansı hallüsinasiyalar üçün xarakterikdir?",
+      "options": [
+        "reallıqda mövcud olmayan obyektin qavranması",
+        "neqativ simptomlara aid olması",
+        "reallıqda mövcud olan obyektin təhrif olunmuş qavranması",
+        "özünüböyütmə fikirlərinə aid olması",
+        "ipoxondrik şikayətlərə aid olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "262. Sadalanan qavrama pozuntularından hansı xəstənin hospitallaşdırmasına göstəriş sayılır?",
+      "options": [
+        "imperativ hallüsinasiyalar",
+        "derealizasiya",
+        "paresteziya",
+        "senestopatiya",
+        "dismorfofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "263. Xəstə dərisinin altında xırda həşarat və ya qurdların süründüyünü hiss edirsə, bu hansı pozuntudur?",
+      "options": [
+        "taktil hallüsinasiyalar",
+        "senestopatiyalar",
+        "verbal hallüsinasiyalar",
+        "derealizasiya",
+        "pareydolik illüziyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "264. Əgər nevrozdan əziyyət çəkən xəstə başının içində “gürultu, göynəmə, dartınma, təzyiq, xışıltı” kimi xoşagəlməz qəribə hisslərin əmələ gəlməsindən şikayət edirsə, hansı qavrama pozuntusundan demək olar?",
+      "options": [
+        "senestopatiyalardan",
+        "paresteziyalardan",
+        "hipersteziyalardan",
+        "psevdo hallüsinasiyalardan",
+        "illüziyaladan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "265. Əgər xəstə vaxtaşırı olaraq otağın divarların “əyilməsindən, üstünə gəlməsindən” şikayət edirsə, bu qavramanın hansı pozuntusudur?",
+      "options": [
+        "derealizasiya",
+        "hipersteziya",
+        "illüziya",
+        "pareydoliya",
+        "depersonalizasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "266. Əgər xəstə evindəki saatın çıqqıltısından və ya nişastalanmış yorğan-döşəyin səsindən yata bilmədiyi haqqında şikayət edirsə, bu hansı qavrama pozuntusundur?",
+      "options": [
+        "hipersteziya",
+        "hiporteziya",
+        "senestopatiya",
+        "paresteziya",
+        "anesteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "267. Psevdohallüsinasiyalar aşağıda sadalanan sindromlardan hansının tərkibində müşahidə olunur?",
+      "options": [
+        "Kandinski – Klerambo sindromun",
+        "paranoyal sindromun",
+        "amentiv sindromun",
+        "parafren sindromun",
+        "Korsakov sindromun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "268. Psevdohallüsinasiyalar üçün aşağıdakı amillərdən hansı əsasdır?",
+      "options": [
+        "əmələ gələn “səslərin, görüntülərin” qeyri-təbii (süni) olması hissi.",
+        "əmələ gələn “səslərin, görüntülərin” həgigətən ətraf mühitdə olması hissi.",
+        "əmələ gələn “səslərin, görüntülərin”cansız olması hissi.",
+        "əmələ gələn “səslərin, görüntülərin” axşam saatlarında güclənməsi",
+        "əmələ gələn “səslərə, görüntülərə” qarşı xəstə tərəfindən tənqidi yanaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "269. Xəstə güzgüdə özünə baxır və deyir ki: “Üz mənim üzümə bənzəsədə, amma mən hiss edirəm ki, mən daxilən əvvəl olduğumdan tamamamilə fərqliyəm”. Bu hansı pozuntusundur?",
+      "options": [
+        "dismorfofobiya",
+        "depersonalizasiya",
+        "derealizasiya",
+        "pareydoliya",
+        "psevdohallüsinasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "270. Xəstə başın içində kiminsə təsiri nəticəsində əmələ gələn “beyindaxili qəribə görüntülər, sanki üuyudan gələn səslər” barədə bildirdikdə onda hansı qavrama pozuntusunun olmasından demək olar?",
+      "options": [
+        "psevdohallüsinasiyadan",
+        "parafren sayıqlamadan",
+        "həqiqi hallüsinasiyadan",
+        "pareydolik illüziyadan",
+        "verbal hallüsinasiyadan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "271. Aşağıda sadalanan psixi pozuntuların hansında hallüsinasiyalar müşahidə olunur?",
+      "options": [
+        "şizofreniya",
+        "şəxsiyyət pozuntusu",
+        "böyük epileptik t tutması",
+        "nevrotik pozuntular",
+        "lüisid katatoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "272. Aqnoziyanın hansı növləri olur?",
+      "options": [
+        "eşitmə aqnoziyası",
+        "pareydolik aqnoziyası",
+        "affektiv aqnoziyası",
+        "imperativ aqnoziyası",
+        "funksional aqnoziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "273. Aşağıda göstərilən amillərdən hansı taktil hallüsinasiyalar üçün xarakterikdir?",
+      "options": [
+        "bədənin müxtəlif nahiyyələrində göynəmə, soyuqluq, bədənində “cücülərin və",
+        "xəstə üçün onun səsinin, bədəninin, hisslərin yad olması hissi",
+        "ətraf mühitin dəyişilməsi",
+        "deja vu simptomu",
+        "ətrafdakı əşyaların ölçüsünün böyüməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "274. Verbal illüziyalar zamanı xəstə nəyi təhrif olunmuş halda qavrayır:",
+      "options": [
+        "ətrafda olan insanların adi söhbətlərini",
+        "ətrafda olan insanların hərəkətlərini",
+        "qorxu nəticəsində ətrafdakı əşyalarını",
+        "divarda olan çatlarını, xalca naxışlarını",
+        "musiqini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "275. Affektiv illüziyalar əsasən hansı hallarda yaranır?",
+      "options": [
+        "təəsuratın dəyişməsi fonunda (qorxu, vahimə, həyacan)",
+        "intoksikasiya fonunda",
+        "baş-beyin travması nəticəsində",
+        "epileptik qıcolma nəticəsində",
+        "yaddaşın pozuntusu nəticəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "276. Psixosensor pozuntular ətrafdakı cisimlərin qavranmasının pozulmasına aid olarsa, bu:",
+      "options": [
+        "derealizasiyadır",
+        "dismeqalopsiyadır",
+        "makropsiyadır",
+        "metamorfopsiyadır",
+        "depersonalizasiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "277. Hansı sindrom qavrama pozuntusunun üstünlüyü ilə keçir?",
+      "options": [
+        "verbal hallüsinoz sindromu",
+        "Kotar sindromu",
+        "parafren sindromu",
+        "paranoid sindromu",
+        "Korsakov sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "278. Xəstə ətrafda olan əşyaların sayını həqiqətən olduğundan artıq dedikdə bu kimi qavramanın pozuntusu necə adlanır?",
+      "options": [
+        "poliopsiya",
+        "makropsiya",
+        "mikropsiya",
+        "dismeqalopsiya",
+        "metamorfopsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "279. Alepsiya nədir?",
+      "options": [
+        "hərfləri tanıya bilməməsi",
+        "səsləri tanıya bilməməsi",
+        "qoxuları tanıya bilməməsi",
+        "dadı tanıya bilməməsi",
+        "insanları tanıya bilməməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "280. Psixosensor pozuntusu hansı sferanın pozuntusuna aiddir?",
+      "options": [
+        "qavrama",
+        "yaddaş",
+        "intellekt",
+        "düşüncə",
+        "təfəkkür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "281. Pareydolik illüziyalar hansı duyğu orqanın funksiyasının posulmasına aiddir?",
+      "options": [
+        "görmə",
+        "eşitmə",
+        "dad",
+        "qoxu",
+        "taktil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "282. Xəstə, ona əvvəl tanış olan səsləri, sözləri, musiqini tanıya bilmədiyini dedikdə, bu simptom necə adlanır?",
+      "options": [
+        "eşitmə aqnoziyası",
+        "affektiv illüziya",
+        "pareydolik illüziya",
+        "optik amneziya",
+        "paresteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "283. Xəstə keçirtdiyi stress nəticəsində kəskin həyacan halında olduğu zaman gecə vaxtı onun qarşısına rast gələn ağacın əyri budağını ona hücüm etməyə hazırlaşan zəhərli ilana bənzədir. Bu hansı qavrama pozuntusudur?",
+      "options": [
+        "affektiv illüziya",
+        "verbal illüziya",
+        "hallüsinasiya",
+        "paresteziya",
+        "aqnoziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "284. Qavrama prosesinin pozuntusu ilə yanaşı təfəkkür sferasını da əhatə edən əlamətlər hansıdır?",
+      "options": [
+        "psevdohallüsinasiyalar",
+        "həqiqi hallüsinasiyalar",
+        "verbal hallüsinasiyalar",
+        "visseral hallüsinasiyalar",
+        "taktil hallüsinasiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "285. Psixi avtomatizm hansı hallüsinasiya növünə məxsusdur?",
+      "options": [
+        "psevdohallüsinasiya",
+        "həqiqi hallüsinasiya",
+        "verbal hallüsinasiya",
+        "funksional hallüsinasiya",
+        "görmə hallyüsinasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "286. Yuxu ilə ayıqlıq arasında rast gəlinən hipnohoqik hallüsinasiyalar hansı duyğu orqanın pozuntusuna aiddir:",
+      "options": [
+        "görmə",
+        "eşitmə",
+        "qoxu",
+        "taktil",
+        "dad"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "287. 46. Hipermneziya nədir?",
+      "options": [
+        "yaddaş funksiyaların güclənməsi",
+        "yaddaş funksiyaların zəiflənməsi",
+        "yaddaşın itməsi",
+        "yaddaşın keyfiyyət pozuntusu",
+        "qeyri dəqiq yaddaş"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "288. Anekforiya nədir?",
+      "options": [
+        "yada salındıqdan sonra hadisələrin xəstənin yadına düşməsi",
+        "müəyyən epizodun yaddan çıxması",
+        "yaddaşın keyfiyyət pozuntusu",
+        "hadisələrin zamanca səhf yada salınması",
+        "sərxoşluq zamanı yaddaşın itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "289. Amenizayaların hansı növləri olur?",
+      "options": [
+        "retrograd, anteroqrad, fiksasion və s.",
+        "konfabulyator, lakunar, uzadılmış",
+        "psevdoreminissent, total və s.",
+        "mexaniki, mənəvi",
+        "qısa müddətli və uzadılmış"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "290. Retardik amneziya nədir?",
+      "options": [
+        "Düşüncəsiz halından çıxarkən xəstədə yaddaş bərpa olunur, lakin müəyyən vaxt",
+        "Düşüncəsiz halından çıxarkən xəstədə bu haldan əvvəl olan hadisələr yaddan çıxır",
+        "Düşüncəsiz halından çıxarkən xəstədə bu haldan sonra olan hadisələr yaddan çıxır",
+        "Düşüncəsiz halından çıxarkən xəstədə bu haldan əvvəl və sonra olan hadisələr yaddan çıxır",
+        "Düşüncəsiz halda olan hadisələr xəstənin yadından çıxır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "291. Paramneziyalara hansı pozuntular aiddir?",
+      "options": [
+        "konfabulyasiya, psevdoreminissensiya, kriptomneziya",
+        "konfabulyasiya, psevdoreminissensiya, amneziya",
+        "konfabulyasiya, amneziya, kriptomneziya",
+        "konfabulyasiya, kriptomneziya, anekforiya",
+        "konfabulyasiya, kriptomneziya, hipermneziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "292. Kriptomneziya nədir?",
+      "options": [
+        "başqalarına məxsus olan hadisələri, xəstə özünə məxsus olduğu kimi təqdim edir",
+        "xəstə real həyatda mövcud olmayan hadisələri təqdim edir",
+        "xəstə fantastik məzmunlu hadisələri təqdim edir",
+        "xəstə onun həyatında baş vermiş epizodları zamanca səhf təqdim edir",
+        "xəstə onun həyatında baş vermiş müxtəlif epizodları unudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "293. Konfabulyasiya nədir?",
+      "options": [
+        "xəstə fantastik məzmunlu hadisələri təqdim edir",
+        "başqalarına məxsus olan hadisələri, xəstə özünə məxsus olduğu kimi təqdim edir",
+        "xəstə real həyatda mövcud olmayan hadisələri təqdim edir",
+        "xəstə onun həyatında baş vermiş epizodları zamanca səhf təqdim edir",
+        "xəstə onun həyatında baş vermiş müxtəlif epizodları unudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "294. Psevdoreminissensiya anlayışı nədir?",
+      "options": [
+        "xəstə onun həyatında baş vermiş epizodları zamanca səhf təqdim edir",
+        "başqalarına məxsus olan hadisələri, xəstə özünə məxsus olduğu kimi təqdim edir",
+        "xəstə real həyatda mövcud olmayan hadisələri təqdim edir",
+        "xəstə fantastik məzmunlu hadisələri təqdim edir",
+        "xəstə onun həyatında baş vermiş müxtəlif epizodları unudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "295. Korsakov amnestik sindromunda hansı pozuntular mövcuddur?",
+      "options": [
+        "fiksasion amneziya, konfabulasiya, psevdoreminissensiya, bələdliliyin amnestik pozulması",
+        "fiksasion amneziya, antero-retro amneziya",
+        "fiksasion amneziya və kriptomneziya",
+        "fiksasion amneziya, palimsest, affektogen amneziya",
+        "fiksasion amneziya, bələdliliyin amnestik pozulması və anekforiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "296. Proqressiv (tədricən artan) amneziya nədir?",
+      "options": [
+        "ilk növbədə yaxın zamanda olan hadisələr unudulur və tədricən əvvəlki və uzaq",
+        "ilk növbədə çoxdan olan hadisələr unudulur, yaxın olan hadisələr yadda qalır",
+        "həyatında olan bütün hadisələr unudulur",
+        "yalnız xəstəlik zamanı olan hadisələr unudulur",
+        "hal-hazırdakı hadisələr unudulur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "297. Hansı xəstəliklərdə yaddaş pozuntuları əsas yeri tutur?",
+      "options": [
+        "baş-beyin üzvi xəstəliklərdə",
+        "şizofreniyada",
+        "epilepsiyada",
+        "nevrozlarda",
+        "şəxsiyyət pozuntularda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "298. 35 yaşlı xəstə qadın, məşhur bir Amerika aktyorunun onu sevməsini və tezliklə onunla evlənməsini tam əminliklə söyləyir,bu:",
+      "options": [
+        "məhəbbət sayıqlamasıdır",
+        "qısqanclıq sayıqlamasıdır",
+        "sarişan haldır",
+        "parafren sayıqlamasıdır",
+        "simvolik təfəkkürdü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "299. Sarışan qorxular və ya fobiyalar hansı hal üçün xarakterikdir:",
+      "options": [
+        "yaranmış qorxu hissi ilə xəstə daim mübarizə aparır",
+        "emosional pozuntu müşahidə olunmur",
+        "xəstəni daim həyəcanlandıran qorxu hissi onun üçün aktual deyil",
+        "qorxu hissinin konkret motivi yoxdur",
+        "xəstəlik anlamı yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "300. Ipoxondrik sayıqlamalar üçün aşağıda sadalanlardan hansı xarakterikdir:",
+      "options": [
+        "obyektiv əamətlərinin olmadan sagalmaz xəstə olması barədə hamıya sübut etməyə çalışması",
+        "daim kimsə tərəfindən onu izləməsi barədə fikirlərin olması",
+        "yaranmış qorxu hissi ilə xəstə daim mübarizə aparır",
+        "düşüncə pozuntusu əlamətləri fonunda yaranır",
+        "ambivaletlik əlamətləri ilə xarakterizə olunur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "301. Parafren sindromda hansı əlamətlər müşahidə olunur:",
+      "options": [
+        "fantastik sayıqlamaların özünüböyütmə sayıqlamalarla müştərəkliyi",
+        "rituallarla müşayiət olunması",
+        "mövcud olmayan xəstəlik əlamətlərinin olmasından şikayət etməsi",
+        "əhval-ruhiyyənin aşagı enməsi",
+        "ambivalentlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "302. Sarışan rituallara aiddir:",
+      "options": [
+        "güman etdiyi bədbəxt hadisənin qarşısını almaq üçün, müdafiə xarakteri daşıyan sarışan hərəkətlər",
+        "xəstə hesab edir ki, edilən hərəkətlər kənardan olan təsir nəticəsində yerinə yetirilir",
+        "impulsiv hərəkətlər",
+        "dromomaniya",
+        "bulimiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "303. Qocalıq psixozundan əziyyət çəkən 55 yaşlı xəstə ətrafdakılara israrla sübut etməyə çalışır ki,”mən heç vaxt ləyaqətsiz, alçaq adam olmamışam, inanın mənə,nə olur?”,bu:",
+      "options": [
+        "özünütəqsiqləndirmə sayıqlamasıdır",
+        "təqib sayıqlamasıdır",
+        "rezonyorluqdur",
+        "kverulyantlıqdır",
+        "sarışan fikirlərdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "304. 35 yaşlı xəstə sübut etməyə çalışır ki,10 ildir ki,o,eritrositlərin faqositar qabiliyyətini kəşf edib, lakin elmi cəmiyyətlər onu qəbul etmək istəmir, müxtəlif ünvanlara ərizələrlə müraciət edir, rədd cavabını alır,bu:",
+      "options": [
+        "ixtiraçılıq sayıqlamasıdır",
+        "nigilistik sayıqlamasıdır",
+        "təqib sayıqlamasıdır",
+        "sarışan ideyadır",
+        "neoloqizmdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "305. 45 yaşlı qadın söyləyir ki, həyat yoldaşı hər gün işdən gec gəlir, ona xəyanət edir və ərinin bazara getməsini bəhanə kimi qiymətləndirir və ətrafdakıların onun şübhələrinin əsassız olması barədə izahlarına inanmır , bu:",
+      "options": [
+        "qısqanclıq sayıqlamasıdır",
+        "təqib sayıqlamasıdır",
+        "məhəbbət sayıqlamasıdır",
+        "paranoid sayıqlamadır",
+        "sarışan şübhələrdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "306. Alim Pavlova görə, sarışan hallar beynin oyanma ocagında gedə patoloji prosesin məhsuludur ki,bu:",
+      "options": [
+        "patoloji durğunluğun zəifliyidir",
+        "patoloji durgunlugun güclənməsidir",
+        "II siqnal sisteminin tormozlanmasıdır",
+        "beyin qabıgında daxili ləngimədır",
+        "funksional fəaliyyətin pozulmasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "307. Xəstə çoxsözlüdür, fikrlərini tez-tez çatdırmağa çalışır, danışan zaman çaşır, sozləri “udur “. Onda:",
+      "options": [
+        "təfəkkürün sürətləndirilməsidir",
+        "şperrunqdur",
+        "patoloji müfəssəllilikdir",
+        "verbigerasiyadır",
+        "perserverasiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "308. Baş beynin üzvi patologiyası olan xəstələrə xasdır",
+      "options": [
+        "patoloji müfəssəllilik",
+        "verbigerasiya",
+        "simvolik təfəkkür",
+        "təfəkkürün qırıqlığı",
+        "təfəkkürün stereotipiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "309. Xəstə ona vеrilmiş suala uzun-uzadı, artıq və qəliz sözlər işlətməklə, lazımsız kəlmələrdən istifadə еtməklə cavab vеrir. Onda:",
+      "options": [
+        "rezonyorluqdur",
+        "təfəkkürün ləngiməsidir",
+        "təfəkkürün stereotipiyasıdır",
+        "şperrunqdur",
+        "simvolik təfəkkürdü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "310. Epilepsiyalı xəstələr üçün daha tipikdır:",
+      "options": [
+        "təfəkkürün patoloji müfəssəlliliyi və ləngiməsi",
+        "qırıq və simvolik təfəkkür",
+        "stereotipiyalar və təfəkkürün sürətlənməsi",
+        "autistik təfəkkür tez-tez yaranan şperrunqlarla",
+        "verbigerasiya ilə perseverasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "311. Eyni sözün lazımsız təkrarı",
+      "options": [
+        "verbigerasiyadır",
+        "rezonyorluqdur",
+        "təfəkkürün qırıqlığıdır",
+        "autistik təfəkkürdü",
+        "simvolik təfəkkürdü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "312. Obsessiv sindrom xarakterizə olunur",
+      "options": [
+        "xəstəlik prosesinin anlanılması, ona qarşı tənqidi münasibətin olması ilə",
+        "kimsə tərəfindən yaradılması hissi ilə",
+        "imperativ hallüsinosinozla",
+        "təlqin olunmuş sirrli qüvvənin təsiri altında formalaşması ilə",
+        "hərəki və psixiki avtomatizmlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "313. Kəskin hallusinator, paranoid ya parafren vəziyyətlərdə təcili yardım",
+      "options": [
+        "vaxt itirmədən stasionara yerləşdirilməsi",
+        "psixoanaliz",
+        "psixotik simptomların korrеktorlarla (siklodol, parkopan və s.) ilə aradan götürülməsi",
+        "psixoterapiya",
+        "oyanmanı trankvilizatorlarla (diazеpam, tеmazеpam və s.) ilə aradan götürülməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "314. Obsessiv sindrom xarakterizə olunur",
+      "options": [
+        "qeyri-ixtiyari fikirlərin, xatırlamaların, meyllərin, hərəkətlərin, hissiyatın və s. yaranması",
+        "güya kimsə tərəfindən yaradılması",
+        "maneələrin dəf edilməsinin çətinliyi",
+        "iradə ilə xəstəliyik vəziyyətinin dəf еdilməsi",
+        "sayıqlama fikirlərin nəticəsində yaranması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "315. Kəskin hallüsinator-paranoid sindrom xarakterizə olunur",
+      "options": [
+        "hallüsinoz fonunda yaranmış sayıqlama",
+        "sayıqlama ideyalarının sistemləşməsi",
+        "sayrışan qorxularla",
+        "qorxu, həyəcan, karıxma affektı, epizodik yaranan katatonik əlavələrlə",
+        "yaşamaların reaktiv amillə bağlantısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "316. Sayıqlamaların formalaşma mərhələləri",
+      "options": [
+        "paranoyal, paranoid, parafren",
+        "parafren, hallüsinator-paranoid, paranoyal",
+        "münasibət, əhəmiyyət, yüksək əsillilik",
+        "induksiya olunmuş, çoxfaktorlu",
+        "rezidual, induksiya olunmuş, paranoid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "317. Təfəkkür pozuntusına aiddir",
+      "options": [
+        "mentizm",
+        "senestopatiya",
+        "hallüsinasiya",
+        "psevdoreminestensiya",
+        "anekforiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "318. Paranoyal sindromuna xasdır",
+      "options": [
+        "sistemləşmə",
+        "stupor",
+        "disforiya",
+        "rezonyorluq",
+        "amensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "319. Kandinski-Klerambo sindromunun əsas əlamətləri",
+      "options": [
+        "təsir sayıqlaması, psevdohallüsinoz, psixi avtomatizm",
+        "əhval-ruhiyyənin artması, hərəki, motor və intellektual-mnestik prosseslərin aktivləşməsi",
+        "yorulma, qıcıqlanma, yuxusuzluq",
+        "iradənin zəifləməsi ilə yanaşı marağın, istəyin itməsi",
+        "libidonun artması, yuxusuzluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "320. Sarışan vəziyyətlərin digər adı",
+      "options": [
+        "obsessiyalar",
+        "oneyroid",
+        "konfabulyasiya",
+        "psevdoreminissensiya",
+        "amensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "321. Səbəbsiz oğurluğa meylilik necə adlanır",
+      "options": [
+        "kleptomaniya",
+        "piromaniya",
+        "dipsomaniya",
+        "mifomaniya",
+        "agorofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "322. Paranoyal sayıqlamaya xasdır",
+      "options": [
+        "hallüsinozun olmaması",
+        "psevdohallüsinoz",
+        "hallüsinoz",
+        "illüziyalar",
+        "imperativ hallusinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "323. Paranoid sayıqlamaya daha çox xasdır",
+      "options": [
+        "təfəkkürün və qavramanın yanaşı pozuntuları",
+        "hallüsinozun olmaması",
+        "ifadə olunmuş ağıl zəifliyi",
+        "illüziyalar",
+        "bulimiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "324. Sarışan hərəkətlərə aiddir",
+      "options": [
+        "tiklər",
+        "qıcolmalar",
+        "avtomatizmlər",
+        "psevdohallüsiyalar",
+        "melanxonik raptus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "325. Xəstə əminliklə qeyd edir ki, ətrafdakılar onun həyatına zərər vurmaq istəyir, onu güdürlər, qonşunun evində aparatlar qurub onun həyatına nəzarət edirlər. Xəstəxanada oldüğü müddətdə qaldığı palatada ona qulaqasan qurğuları axtarır. Söhbət zamanı öz dediklərin üstündə qalır, inadkarlıqdan dönmür. Bu vəziyyətə necə qiymət vermək olar",
+      "options": [
+        "təqib sayıqlaması",
+        "psixopatobənzər sindrom",
+        "astenik sindrom",
+        "sarışan fikirlər",
+        "yuksək giymətli münasibət fikirlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "326. Xəstə liftlə qalxmaqdan gorxur, çalışır pilləkənlardan istifadə etsin. Anlayir ki, real təhlükə yoxdur, istəyir qorxularına qalib gəlsin, hesab edir ki, bu xəstəlikdir. Həmin simptomatika",
+      "options": [
+        "klaustrofobiyadır",
+        "isteriyadır",
+        "katatoniyadır",
+        "psixomotor oyanmadır",
+        "təqib sayıqlamasıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "327. Sarışan gorxu (fobiya) xarakterizə olunur:",
+      "options": [
+        "intensiv və rəfedilməz qorxu, onun yersiz olmasının anlanılması ilə",
+        "qeyri-müəyyən qorxu, onun mənasızlığını dərk etməməklə",
+        "imperativ hallüsinozun təsiri altında yaranması",
+        "katalepsiya fonunda yaranması",
+        "ətrafdakıları qorxu fabulasına cəlbedilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "328. Təfəkkürün məzmunca pozuntusuna aiddir:",
+      "options": [
+        "sarışan vəziyyətlər",
+        "qiperesteziya",
+        "amneziya",
+        "eyforiya",
+        "pareydoliyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "329. Sarışan vəziyyətlər hansı sferanın pozuntusuna aiddir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "intellektin",
+        "meyllərin",
+        "düşüncənin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "330. Yüksək qiymətli fikirlər hansı sferanın pozuntusuna aiddir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "intellektin",
+        "meyllərin",
+        "təəsuratın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "331. Saıqlamalar hansı sferanın pozuntusuna aiddir:",
+      "options": [
+        "təfəkkürün",
+        "qavramanın",
+        "intellektin",
+        "meyllərin",
+        "yaddaşın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "332. İdeator (assotiativ) avtomatizmlər necə təzahür edilir:",
+      "options": [
+        "təfəkkür proseslərinə və digər psixi, əqli funksiyalara kanardan edilən təsiri hissi",
+        "mentizm, fikirlərin acıqlığı, canlanması",
+        "yaradılmış xoşagəlməz hissiyatlar",
+        "xəstənin iradəsinə əks olaraq yaradılmış hərəkətlər",
+        "iradənin əksinə yaranan xoşagəlməz xatirələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "333. Depressiyanın əlamətlərinə aiddir:",
+      "options": [
+        "əhval-ruhiyyənin enməsi, maraq , zövqün və həyat enerjisinin azalması",
+        "hərəki tormozlanma, həyacan, mentizm",
+        "ideator tormozlanma, hərəki aktivlık, yuxunun pozulması",
+        "emosional tormozlanma, özünü qiymətləndirmənin azalması, mentizm",
+        "mentizm, hərəki oyanma, eyforiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "334. Depressiya davranışına xas olan əlamətlər",
+      "options": [
+        "yuxusuzluq, tormozlanma, intihara cəhdlər",
+        "qiperaktivlık və aqressivlık",
+        "hərəki oyanma və iştahanın güclənməsi",
+        "disforiyaya meylilik və lunatizm",
+        "yuksək seksual aktivlık"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "335. Depressiyanın somatik əlamətlərinə aid edilir",
+      "options": [
+        "dismenoreya",
+        "nefropatiya",
+        "varikosеlе",
+        "aplastik anеmiya",
+        "eklampsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "336. Maniakal triada xarakterizə olunur :",
+      "options": [
+        "əhval-ruhiyyənin yuksəlməsi, assosiativ proseslərin sürətlənməsi, hərəki oyanma",
+        "assosiativ proseslərin sürətlənməsi, iştahanın güclənməsi, yuxusuzluq",
+        "hərəki oyanma, assosiativ proseslərin sürətlənməsi, iştahanın güclənməsi",
+        "əhval-ruhiyyənin yuksəlməsi, assosiativ proseslərin sürətlənməsi, rezonyorluq",
+        "assosiativ proseslərin sürətlənməsi, mutizm, əhval-ruhiyyənin yuksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "337. Disforiya hansı vəziyyətrlər üçün xasdır:",
+      "options": [
+        "baş beyinin üzvü patologiyası üçün",
+        "ifadə olunmuş asteno-nevrotik sindrom üçün",
+        "qebefrenik şizofreniya üçün",
+        "paranoid şizofreniya üçün",
+        "nevrogen bulimiyası üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "338. İpoxondrik sindroma aiddir",
+      "options": [
+        "əhval-ruhiyyənin enməsi, senestopatiyalar və əlaçsız xəstəliklər barədə fikirlər",
+        "liftlə qalxmaqla sarışan qorxu",
+        "yaşlı adamlara qarşı cinsi meyl",
+        "ziyan vura biləcək düşmənlərın olması barədə sayiqlama fikirləri",
+        "tanış olmayan adamların sözlərində ona aid olan kəlmələrin mövcudluğu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "339. Depressiv stupor zamanı rast gəlinir",
+      "options": [
+        "yadda saxlamanın çətinləşməsi",
+        "proqressivləşən amneziyanın əlamətləri",
+        "konfabulyasiyaların mövcudluğu",
+        "təfəkkürün sayıqlama fabulasında cəmlənməsi",
+        "interpretativ sayıqlama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "340. Maniyanın göstəricilərinə aiddir",
+      "options": [
+        "əhval-ruhiyyənin yuksəlməsi",
+        "əhval-ruhiyyənin enməsi",
+        "intihar barəsində fikirlər",
+        "apatiya",
+        "еmosional еnmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "341. Depressiv oyanmanın təzahürü",
+      "options": [
+        "xəstənin inildəyib, ağlaması və özünə xəsarət etirmək cəhdləri",
+        "aktiv neqativizm",
+        "təlxəklik",
+        "exo-əlamətlər",
+        "güya kimsə tərəfindən təsiri nəticəsində yaradılmış vəziyyət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "342. Təəsuratın pozuntularına aiddir",
+      "options": [
+        "eyforiya, disforiya",
+        "asteniya, yuxunun pozulması",
+        "amneziya, konfabulyasiyalar",
+        "demensiya, amneziya",
+        "verbiqerasiya, simvoliklik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "343. Depressiv xəstələrə qulluğun əsas qaydası",
+      "options": [
+        "güclü nəzarət",
+        "yataq rejimı",
+        "məhdudlaşdırılmamış rejim",
+        "tibbi-pedaqoji tədbirlərin keçirilməsi",
+        "nootropların yuksək dozalarda istifadə olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "344. Maniyada rast gəlinə bilər:",
+      "options": [
+        "təfəkkürün sürətlənməsi",
+        "psixi adinamiya",
+        "intihar barəsində fikirlər",
+        "tədricən artan ağıl zəifliyi",
+        "təlxəklik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "345. Disforiyani necə təyin etmək olar",
+      "options": [
+        "qəzəbli-kədərli əhval-ruhiyyə",
+        "nitqin pozulması",
+        "əhval-ruhiyyənin yüksəlməsi",
+        "emosional reaksiyaların olmaması",
+        "bir-birinə əks emosiyaların təzahürü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "346. Zəif, monoton, sakit danışıq hansı vəziyyətdə rast gəlinir",
+      "options": [
+        "depressiyada",
+        "təqib sayıqlamasında",
+        "meqalomanik sayıqlamada",
+        "katatoniyada",
+        "Kandinski-Klerambo sindromunda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "347. Obnibulyasiya nədır:",
+      "options": [
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "düşüncənin ən ağır forması",
+        "eşitmə hallüsinasiyaları",
+        "yarıyuxulu hal",
+        "şərtsiz reflektor fəaliyyətin itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "348. Somnolensiya nədir:",
+      "options": [
+        "yarıyuxulu hal",
+        "düşüncənin ən ağır forması",
+        "eşitmə hallüsinasiyaları",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "şərtsiz reflektor fəaliyyətin itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "349. Sopor nədir:",
+      "options": [
+        "düşüncə pozuntusu, hansında ki xəstədə huşsuz vəziyyətdə şərti reflektor fəaliyyət",
+        "düşüncənin ən ağır forması",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "eşitmə hallüsinasiyaları",
+        "yarıyuxulu hal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "350. Koma nədir:",
+      "options": [
+        "düşüncə pozuntusunun ən ağır dərəcəsidir, hansında ki, xəstədə huşsuz vəziyyətdə şərti və şərtsiz",
+        "xəstədə özünün və mühitin dərk etməsi pozulur",
+        "xəstədə mühitin dərk etməsi saxlanılır, özünün dərk etməsi pozulur",
+        "xəstə eyni hərəkətləri təkrar edir",
+        "xəstə əzələlərini gərginləşdirərək ciddi müqavimət göstərir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "351. Düşüncənin delirioz pozuntusu zamanı:",
+      "options": [
+        "xəstədə özünün dərk etməsi saxlanılır, mühitin dərk etməsı pozulur",
+        "xəstədə özünün və mühitin dərk etməsi pozulur",
+        "xəstədə mühitin dərk etməsi saxlanılır, özünün dərk etməsi pozulur",
+        "xəstə eyni hərəkətləri təkrar edir",
+        "xəstə əzələlərini gərginləşdirərək ciddi müqavimət göstərir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "352. Oneyroid nədir:",
+      "options": [
+        "xəstənin özünə bələdliyin qismən pozulması, mühitə bələdliyin tam itməsi",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "xəstənin özünə də mühitə bələdliyin tam itməsi",
+        "xəstədə əmələ gələn kəskin eşitmə hallusinozu",
+        "düşüncə pozuntusunun ən ağır forması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "353. Ambulator avtomatizm nədir:",
+      "options": [
+        "düşüncənin alaqaranlıq halında olan şəxsin mənasız gəzintilərə meyl göstərməsi",
+        "düşüncənin keyləşməsinin ən yüngül forması",
+        "xəstənin özünə də mühitə bələdliyin tam itməsi",
+        "xəstədə əmələ gələn kəskin eşitmə hallusinozu",
+        "düşüncə pozuntusunun ən ağır forması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "354. Somnambuliyanın digər adı:",
+      "options": [
+        "lunatizm",
+        "passiv neqativizm",
+        "mutizm",
+        "mumabənzər plastiklik",
+        "apatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "355. Qəfil baş vermiş xaotik, məqsədsiz hərəkətlərlə xarakterizə olunan düşüncə pozuntusu necə adlanır:",
+      "options": [
+        "fuqa",
+        "amensiya",
+        "deliriy",
+        "somnambuliya",
+        "somnolensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "356. Hansı düşüncə pozuntusu özünün və mühitin dərk etmənin tam pozulması ilə xarakterizə olunur:",
+      "options": [
+        "amensiya",
+        "ambulator avtomatizm",
+        "somnainbuliya",
+        "fuqa",
+        "somnolensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "357. Psixi xəstələrdə suisidal davranışlar hansı vəziyyətdə arta bilər",
+      "options": [
+        "depressiv",
+        "maniakal",
+        "katatonik",
+        "paranoyal",
+        "obsessiv"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "358. Hansı sindrom zamanı yüksəlmiş şən əhval-ruhiyyə, təfəkkürün sürətlənməsi və hərəki oyanması kimi simptomların triadası rast gəlinir:",
+      "options": [
+        "maniakal",
+        "parafreniya",
+        "depressiv",
+        "ipoxondrik",
+        "paranoyal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "359. Hansı sindrom zamanı əhval-ruhiyyənin kədərli olması, təfəkkürün ləngiməsi və hərəkətin tormozlanması kimi simptomlar triadası rast gəlinir:",
+      "options": [
+        "depressiv",
+        "maniakal",
+        "katatonik",
+        "paranoyal",
+        "obsessiv"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "360. Hansı sindrom zamanı əhval-ruhiyyənin kədərli və qəzəbli olması müşahidə olunur",
+      "options": [
+        "disforik",
+        "maniakal",
+        "katotanik",
+        "paranoyal",
+        "obsessiv"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "361. Psixotik əlamətlərlə müşahidə olunan affektiv pozuntusu zamanı nisbi sayıqlama ideyaların düzgün formalaşmasını göstərir:",
+      "options": [
+        "affektə müvafiq sayıqlama ideyaları",
+        "düşüncə pozuntusu fonunda",
+        "katotonik sindrom fonunda",
+        "intellektin enməsi",
+        "affektlə əlaqəda olmayan sayıqlama ideyaları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "362. Disforiya hansı qrup sindromlara aid edilir.",
+      "options": [
+        "affektiv",
+        "sayıqlama",
+        "düşüncə pozuntusu sindromları",
+        "katatonik sindrom",
+        "sarışan qorxular"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "363. Maskalanmış depressiyanı digər depressiyadan fərqləndirən xarakterik simptomlar hansıdır:",
+      "options": [
+        "somatik şikayətlərin üstünlüyü",
+        "özünü günahlandıra, özünə qəsd, sayıqlama ideyaları",
+        "sarışan qorxular",
+        "əhval-ruhiyyənin gün ərzində dəyişilməsi",
+        "yüksəlmiş əhval-ruhiyyə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "364. Aşağıda təsvir olunan anlayış maskalanmış depressiyaya uyğun gəlir.",
+      "options": [
+        "psixomotor tormozlanma nəzərə çarpan deyil, depressiv affekt zəif ifadə olunur və xəstənin",
+        "depressiyanın affektiv triadası ifadə olunur, ideator komponenti zəif ifadə olunur, hərəkətlərin",
+        "ifadə olunmuş psixomotor tormozlanma mövcuddur, affektiv komponent zəif ifadə olunur",
+        "psixomotor oyanıqlıq mövcuddur, affektiv komponent zəif ifadə olunur.",
+        "kəskin psixomotor tormozlanma mövcuddur, affektiv kompanent güclü ifadə olunur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "365. Maskalanmış depressiyanı digər depressiyadan fərqləndirən xarakterik simptomlar hansıdır:",
+      "options": [
+        "somatik şikayətlərin üstünlüyü",
+        "özünü günahlandıra, özünə qəsd, sayıqlama ideyaları",
+        "sarışan qorxular",
+        "əhval-ruhiyyənin gün ərzində dəyişilməsi",
+        "yüksəlmiş əhval-ruhiyyə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "366. Aşağıda sadalanan hansı qrup preparat maskalanmış depressiyanın müalicəsində daha effektivdir.",
+      "options": [
+        "antidepressant",
+        "trankvilizator",
+        "psixostimulyator",
+        "β-adrenoblokator",
+        "neyroleptik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "367. Klassik maniakal triadaya daxildir.",
+      "options": [
+        "yüksək əhval-ruhiyyə.",
+        "somatik şikayətlərin üstünlüyü",
+        "özünü günahlandırma, alçaltma sayıqlama ideyalar",
+        "sarışan qorxular",
+        "suisidal fikirlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "368. Klassik maniakal triadasına daxildir.",
+      "options": [
+        "assosiasiyaların sürətlənməsi.",
+        "somatik şikayətlərin üstünlüyü",
+        "özünü günahlandırma, alçaltma sayıqlama ideyalar",
+        "sarışan qorxular",
+        "suisidal fikirlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "369. Klassik maniakal triadasına daxildir.",
+      "options": [
+        "hərəki oyanıqlıq",
+        "somatik şikayətlərin üstünlüyü",
+        "özünü günahlandırma, alçaltma sayıqlama ideyalar",
+        "sarışan qorxular",
+        "suisidal fikirlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "370. Depressiv sindrom üçün xarakterikdir.",
+      "options": [
+        "kədər hissi",
+        "assosiasyaların sürətlənməsi",
+        "ətrafdakılara təhlükə təşkil edilməsi",
+        "impulsiv məqsədsiz hərəkətlər",
+        "aktiv neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "371. Depressiya üçün xarakterikdir.",
+      "options": [
+        "hərəki (motor) tormozlanma",
+        "assosiasyaların sürətlənməsi",
+        "ətrafdakılara təhlükə təşkil edilməsi",
+        "impulsiv məqsədsiz hərəkətlər",
+        "aktiv neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "372. Depressiya üçün xarakterikdir.",
+      "options": [
+        "ideator tormozlanma",
+        "assosiasyaların sürətlənməsi",
+        "ətrafdakılara təhlükə təşkil edilməsi",
+        "impulsiv məqsədsiz hərəkətlər",
+        "aktiv neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "373. Depressiya üçün xarakterikdir.",
+      "options": [
+        "özünü alçaltma sayıqlama ideyaları",
+        "assosiasyaların sürətlənməsi",
+        "ətrafdakılara təhlükə təşkil edilməsi",
+        "impulsiv məqsədsiz hərəkətlər",
+        "aktiv neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "374. Bipolyar affektiv pozuntunun depressiv fazası üçün xarakterikdir.",
+      "options": [
+        "depressiv triadanın mövcudluğu",
+        "assosiasyaların sürətlənməsi",
+        "ətrafdakılara təhlükə təşkil edilməsi",
+        "impulsiv məqsədsiz hərəkətlər",
+        "aktiv neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "375. Bipolyar affektiv pozuntunun depressiv fazası üçün xarakterikdir.",
+      "options": [
+        "özünü günahlandırma fikirləri",
+        "assosiasyaların sürətlənməsi",
+        "ətrafdakılara təhlükə təşkil edilməsi",
+        "impulsiv məqsədsiz hərəkətlər",
+        "aktiv neqativizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "376. Suisidal davranış hansı formada müşahidə oluna bilər:",
+      "options": [
+        "təkidlə özünəqəsd bəyanatları formasında",
+        "assosiasyaların sürətlənməsi formasında",
+        "ətrafdakılara təhlükə təşkil edilməsi formasında",
+        "impulsiv məqsədsiz hərəkətlər formasında",
+        "aktiv neqativizm formasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "377. Suisidal davranış hansı formada müşahidə oluna bilər:",
+      "options": [
+        "özünə qəsd meylləri formasında",
+        "assosiasyaların sürətlənməsi formasında",
+        "ətrafdakılara təhlükə təşkil edilməsi formasında",
+        "impulsiv məqsədsiz hərəkətlər formasında",
+        "aktiv neqativizm formasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "378. Suisidal davranış hansı formada müşahidə oluna bilər.",
+      "options": [
+        "suisidal niyyətlərin mövcudluğu və onların dissimulasiyası",
+        "assosiasyaların sürətlənməsi formasında",
+        "ətrafdakılara təhlükə təşkil edilməsi formasında",
+        "impulsiv məqsədsiz hərəkətlər formasında",
+        "aktiv neqativizm formasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "379. Katatonik stuporu depressiv stupordan fərqləndirən əlamətlər hansıdır.",
+      "options": [
+        "neqativizm, əzələ tonusunun artması",
+        "assosiasiyanın surətlənməsi",
+        "İdiotiya",
+        "İntelektin 100% artması",
+        "İntelektin 120% artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "380. Katatonik oyanma vəziyyətinə xarakterikdir olan əlamətlər məcmusunu göstərin.",
+      "options": [
+        "oyanıq impulsiv, məqsədsiz hərəkətlər, streiotipiyalar,təlxəklik davranışı, exolaliya, exopraksiya.",
+        "qəzəbli kədərli əhval ruhiyyə, düşüncənin daralması, qorxulu hallüsinasiyalar, təqib sayıqlaması",
+        "əhval ruhiyyənin yüksəlməsi, düşüncələrin dərin pozuntusu, qorxulu hallüsinasyalar, təqib",
+        "daimi fəaliyyətə can atma, oyaqnıq və məqsədyönlü hərəkətlər",
+        "daimi fəaliyyətə can atma, oyaqnıq və məqsədyönlü hərəkətlər, intellektin yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "381. Katatonik oyanma zamanı xəstənin kimə qarşı yönəlmiş aqressiya təhlükəsi əhtimalı müşahidə oluna bilər.",
+      "options": [
+        "təsadüfü şəxslərə qarşı",
+        "bütün insanlara qarşı",
+        "ətrafda olan əşyalara qarşı",
+        "yalnız tanıdığı insanlara qarşı",
+        "bu vəziyyətdə olan xəstələr təhlükə təşkil etmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "382. Katatonik oyanma zamanı xəstənin kimə qarşı yönəlmiş aqressiya təhlükəsi əhtimalı müşahidə oluna bilər.",
+      "options": [
+        "xəstənin özünə qarşı",
+        "bütün insanlara qarşı",
+        "ətrafda olan əşyalara qarşı",
+        "yalnız tanıdığı insanlara qarşı",
+        "bu vəziyyətdə olan xəstələr təhlükə təşkil etmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "383. Katatonik oyanma zamanı xəstənin kimə qarşı yönəlmiş aqressiya təhlükəsi əhtimalı müşahidə oluna bilər.",
+      "options": [
+        "xəstənin özünə və tibbi personala qarşı",
+        "bütün insanlara qarşı",
+        "ətrafda olan əşyalara qarşı",
+        "yalnız tanıdığı insanlara qarşı",
+        "bu vəziyyətdə olan xəstələr təhlükə təşkil etmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "384. Oneyroid katatoniya özünü necə göstərir?",
+      "options": [
+        "düşüncənin oneyroid tipli pozulması ilə",
+        "hərəkətsizliklə",
+        "assosiasiyanın sürətlənməsi ilə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "385. Oneyroid katatoniya özünü necə göstərir?",
+      "options": [
+        "hərəkətsizliklə",
+        "assosiasiyanın sürətlənməsi ilə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "386. Oneyroid katatoniya özünü necə göstərir?",
+      "options": [
+        "görmə psevdohallüsinasiyaları ilə",
+        "assosiasiyalarının sürətlənməsi ilə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "387. Lüsid (düşüncənin pozulmaması ilə müşayiət olunan) katatoniya özünü necə göstərir?",
+      "options": [
+        "hərəkətsizliklə",
+        "assosiasiyanın sürətlənməsi ilə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "388. Lüsid (düşüncənin pozulmaması ilə müşayiət olunan) katatoniya özünü necə göstərir?",
+      "options": [
+        "əzələlərin donması ilə",
+        "cinsi aktivliyin oyanması ilə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "389. Hiperbuliya sadalanan əlamətlərinin hansı ilə xarakterizə edilir?",
+      "options": [
+        "cinsi aktivliyin oyanması ilə",
+        "mutizmlə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "390. Hiperbuliya sadalanan əlamətlərinin hansı ilə xarakterizə edilir?",
+      "options": [
+        "qeyri-produkriv fəaliyyətin artması ilə",
+        "mutizmlə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "391. Hiperbuliya sadalanan əlamətlərinin hansı ilə xarakterizə edilir?",
+      "options": [
+        "coşqunluqla",
+        "mutizmlə",
+        "iştaahın artması ilə",
+        "intellektin 100% artması ilə",
+        "intelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "392. Hiperbuliya sadalanan əlamətlərinin hansı ilə xarakterizə edilir.",
+      "options": [
+        "impulsiv və məqsədsiz hərəkət oyanıqlığı ilə",
+        "mutizm ilə",
+        "iştaahın artması ilə",
+        "İntelektin 100% artması ilə",
+        "İntelektin 120% artması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "393. Hansı klinik simptom katotonik stupor üçün xarakterikdir.",
+      "options": [
+        "katalepsiya",
+        "illüziya",
+        "idiotiya",
+        "intellektin 100% artması",
+        "intellektin 120% artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "394. Katatonik stupor üçün hansı klinik əlamət xarakterikdir?",
+      "options": [
+        "katalepsiya",
+        "illüziya",
+        "idiotiya",
+        "intellektin 100% artması",
+        "intellektin 120% artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "395. Katatonik sindrom üçün hansı klinik əlamət xarakterikdir?",
+      "options": [
+        "exo-simptomlar",
+        "illüziya",
+        "idiotiya",
+        "intellektin 100% artması",
+        "intellektin 120% artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "396. Katatonik sindrom üçün hansı klinik əlamət xarakterikdir?",
+      "options": [
+        "neqativizm",
+        "illüziya",
+        "idiotiya",
+        "intellektin 100% artması",
+        "intellektin 120% artması"
+      ],
+      "correct": 0
+    }
+  ]
+}

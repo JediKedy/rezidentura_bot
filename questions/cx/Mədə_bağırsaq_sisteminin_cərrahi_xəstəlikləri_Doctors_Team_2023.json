@@ -1,0 +1,2875 @@
+{
+  "questions": [
+    {
+      "question": "1. Qida borusunun orta darlığı harada yerləşir?",
+      "options": [
+        "qida borusunun girişində",
+        "ezofaqusun diafraqmadan keçdiyi yerdə",
+        "traxeyanın bifurkasiyası səviyyəsində",
+        "qida borusu ilə aorta qövsünün kəsişdiyi yerdə",
+        "ağciyər arteriyaları səviyyəsində"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2. Qida borusunun selikli qişası hansı toxuma ilə təşkil olunmuşdur?",
+      "options": [
+        "çox təbəqəli yastı hüceyrəli epiteldən",
+        "kubik epiteldən",
+        "kövşək birləşdirici toxumadan",
+        "səthi vəzi epiteldən",
+        "kolumnar epiteldən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Aşağı qida borusu sfinkterində təzyiq nə qədər olur?",
+      "options": [
+        "5-10 mm Hg st.",
+        "15-25 mm Hg st.",
+        "35-50 mm Hg st.",
+        "65-85 mm Hg st.",
+        "60-140 mm Hg st."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "4. Qida borusu xəstəliklərinin ikinci pillə müayinələrinə hansılar aid deyil?",
+      "options": [
+        "KT",
+        "Endoskopik USM",
+        "Mikrobioloji müayinə",
+        "Funksional müayinələr",
+        "Endoskopik müayinələr"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "5. QERX ezofaqusun xəstəliklərinin neçə faizini təşkil edir?",
+      "options": [
+        "50%",
+        "75%",
+        "20-30%",
+        "40%",
+        "85%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. QERX-nin müalicəsi zamanı hansı tədbirlər həyata keçirilir? 1) qəbul olunan qidanın miqdarının azaldılması 2) yatağın baş hissəsinin qaldırılması 3) qarındaxili təziqi azaldan faktorların qarşısının alınması 4) yatmazdan 3 saat əvvəl qida qəbul edilməməsi 5) qəbul olunan qidanın miqdarının artırılması",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 4",
+        "1, 3, 4",
+        "2, 3, 5",
+        "2, 4, 5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "7. Qastroezofageal reflüks xəstəliyində cərrahi müalicəyə göstərişlər hansılardır? 1) konservativ müalicənin effektsizliyi 2) mədə xorası 3) qida borusunun strikturaları 4) təkrari qanaxmalar 5) Hiatal yırtıq",
+      "options": [
+        "1, 2, 3, 4, 5",
+        "1, 3, 5",
+        "1, 3, 4, 5",
+        "2, 3, 4, 5",
+        "1, 4, 5"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "8. Fundoplikasiya əməliyyatlarından sonra ən çox rast gəlinən ağırlaşma hansıdır?",
+      "options": [
+        "mədə xorası",
+        "Hiatal yırtıq",
+        "Barrett ezofaqusu",
+        "disfagiya",
+        "ürəkbulanma və qusma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "9. Aşağıdakılardan hansı fundoplikasiya əməliyatından sonra əmələ gələn ağırlaşmaya aid deyil?",
+      "options": [
+        "striktur",
+        "disfagiya",
+        "perforasiyası",
+        "qaz balonu simptomu",
+        "aspirasion pnevmoniya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "10. Barrett ezofaqusunun ağırlıq dərəcəsinə görə histoloji təsnifatı aşağıdakı kimidir:",
+      "options": [
+        "adenokarsinoma, aşağı dərəcəli displaziya, yüksək dərəcəli displaziya, metaplaziya,",
+        "yüksək dərəcəli displaziya, aşağı dərəcəli displaziya, metaplaziya, adenokarsinoma",
+        "metaplaziya, yüksək dərəcəli displaziya, aşağı dərəcəli displaziya, adenokarsinoma",
+        "metaplaziya, aşağı dərəcəli displaziya, yüksək dərəcəli displaziya, adenokarsinoma",
+        "aşağı dərəcəli displaziya, metaplaziya, yüksək dərəcəli displaziya, adenokarsinoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "11. Qeyd olunanlardan hansı Barrett ezofaqusunda metaplaziyanın ağırlaşması deyil?",
+      "options": [
+        "qida borusunun adenokarsinoması",
+        "qastroezofageal reflüks xəstəliyi",
+        "qıda borusunun xoraları",
+        "qıda borusunun strikturaları",
+        "displaziya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "12. Axalaziyanın etiologiyasında aparıcı mexanizm kimi harada neyronların destruksiyası güman edilir?",
+      "options": [
+        "Meysner kələfində",
+        "selikli qişada",
+        "Auerbax kələfində",
+        "seroz qişada",
+        "günəş kələfində"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "13. Paradoksal disfagiyaya hansı xəstəlik zamanı rast gəlinir?",
+      "options": [
+        "mədə xorası",
+        "Hiatal yırtıq",
+        "QERX",
+        "axalaziya",
+        "Kron xəstəliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "14. Hansı yerinə görə diаfraqmal yırtıq növü deyil?",
+      "options": [
+        "Hiatal yırtıqlar",
+        "Parasternal",
+        "Kosto-vertebral",
+        "Postravmatik",
+        "Paravertebral"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "15. Qeyd olunanlardan hansı hiatal yırtıqlar üçün risk amilləri sayılmır?",
+      "options": [
+        "köklük",
+        "genetik meyillik",
+        "toxuma zəifliyi",
+        "qan dövranı pozğunluğu",
+        "irəli yaş"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "16. Diafraqmanın qida borusu dəliyinin yırtığının ağırlaşması deyil",
+      "options": [
+        "reflüks ezofagit",
+        "divertikulit",
+        "aspirasion pnevmoniya",
+        "Barrett ezofaqusu",
+        "striktura"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "17. Mədə-12 barmaq bağırsaq xorasının diaqnostikasında ən informativ instrumental müayinə metodları hansıdır?",
+      "options": [
+        "R-skopiya, KT-ya, USM",
+        "MRT, R-skopiya, USM",
+        "KT, MRT, USM",
+        "FEQDS-ya, R-skopiya",
+        "R-skopiya, Angioqrafiya, USM"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "18. Mədə-12 barmaq bağırsaq xorasının perforasiyasına hansı simptom dəlalət edir?",
+      "options": [
+        "Qarnın assimetriyası",
+        "Qarnın köpü",
+        "Taxta qarın",
+        "Auskultasiyada düşən damcı simptomu",
+        "Qanlı qusma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "19. Mədə-12 barmaq bağırsaq xorasının perforasiyasında cərrahi əməliyyatın həcminin seçilməsində hansı əsas götürülür?",
+      "options": [
+        "Perforasiyanın lokalizasiyası",
+        "Peritonitin yayılması və iltihabi dəyişiklik dərəcəsi",
+        "Perforativ dəliyin ölçüsi",
+        "Xora xəstəliyi anannezinin müddəti",
+        "Qonşu orqanların vizual dəyişikliyi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "20. Mədə-12 barmaq bağırsaq xorasının perforasiyasında R-skopiyada müşahidə olunur:",
+      "options": [
+        "Qarın boşluğunda maye",
+        "Kloyber kasacıqları",
+        "kiçik çanaqda maye",
+        "Sağ diafraqmaaltı sahədə sərbəst qazın olması",
+        "Qastroektaziya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "21. Mədə-12 barmaq bağırsaq xorasının perforasiyası zamanı göstərişdir.",
+      "options": [
+        "Konservativ müalicə",
+        "Təcili cərrahi əməliyyat",
+        "planlı əməliyyat",
+        "Gözləmə taktikası və intensiv konservativ müalicə",
+        "Müalicə tələb olunmur"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "22. Mədə çıxacağının stenozunun diaqnostikasında ən informativ instrumental müayinə metodları.",
+      "options": [
+        "KT, USM, MRT",
+        "R-skopiya, MRT, USM",
+        "KT, R-skopiya, USM",
+        "Icmal R-skopiya, FEQDS, USM",
+        "Kontrast R-skopiya, FEQDS"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "23. Mədə çıxacağının stenozu zamanı aşağıdakı kliniki əlamətlərdən hansı doğrudur?",
+      "options": [
+        "Qida qəbulundan sonra ağırlıq, gəyirmə, qusma, kəskin arıqlama",
+        "Ürəkbulanma, hıçqırma, hipertoniya",
+        "Qida qəbulundan sonra qanla qusma",
+        "Ağrı, köp, ürəkbulanma",
+        "Hipotoniya, halsızlıq, qida qəbulundan sonra ağrıların azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Piloroduodenal stenoz zamanı aşağıda göstərilən metobolik dəyişikliklərdən hansı daha çox ehtimal olunur?",
+      "options": [
+        "Xlorid turşusunun itirilməsi, su-duz balansının pozğunluğu",
+        "Zülal ehtiyyatının tükənməsi",
+        "Yağ ehtiyyatının tükənməsi",
+        "Qlükogen ehtiyyatının tükənməsi",
+        "Hamısı doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "25. Piloroduodenal stenozda aşağıda göstərilən hansı müalicə metodunun seçilməsi düzgündür?",
+      "options": [
+        "Konservativ müalicə",
+        "Cərrahi müalicə",
+        "Bujlama",
+        "Ballon dilatasiyası",
+        "Nazoqastral zondlama və konservativ müalicə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "26. Pilorostenoz zamanı mədənin peristaltikası ilk dövrlərdə necə olur?",
+      "options": [
+        "Artır",
+        "Azalır",
+        "Dəyişmir",
+        "Mədə atonik vəziyyətdə olur",
+        "Heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Qastroduodenal qanaxmalarda hansı müayinə metodları ilə qanaxmanın dəqiq mənbəyini təyin etmək olar?",
+      "options": [
+        "Obzor R-skopiya",
+        "Kontrast R-kopiya",
+        "USM",
+        "KT-ya",
+        "FEQDS"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "28. Qastroduodenal qanaxmalara səbəb olan patologiya hansıdır?",
+      "options": [
+        "Mədə xorası",
+        "12 barmaq bağırsaq xorası",
+        "Mədə xərçəngi",
+        "Eroziv qastrit",
+        "Bütün sadalananlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Bütün qastroduodenal qanaxmaların 2-5%-ni təşkil edən Mellori-Veys sindromu nədir?",
+      "options": [
+        "Kardioezofagial selikli qişanın cırılması",
+        "Pilorik nahiyənin selikli qişasının cırılması",
+        "Kardial nahiyənin polipinin qanaxması",
+        "Mədənin kardial hissəsinin xorasından qanaxma",
+        "Mədə selikli qişasının total qanaxması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Mədə-12 barmaq bağırsaq xoraları aşağıda göstərilən hansı orqanlara penetrasiya edə bilər?",
+      "options": [
+        "Kiçik piyliyə, mədəaltı vəzə",
+        "Qaraciyər-12 barmaq bağırsağa, qaraciyərə",
+        "Qarın boşluğu divarına, köndələn çənbər bağırsağa",
+        "Öd kisəsinə",
+        "Hamısı doğrudur."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Hansı xoralar daha çox penetrasiya etmək xüsusiyyətlərinə malikdir?",
+      "options": [
+        "Səthi xoralar",
+        "Kallyoz xoralar",
+        "Qanayan xoralar",
+        "Postrezeksion peptiki xoralar",
+        "Perforasiya olunmuş xoralar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Turşuluğu aşağı olan xəstələrdə H. pilorinəyə səbəb ola bilər?",
+      "options": [
+        "Qastrit",
+        "Xora",
+        "Eroziya",
+        "Adenokarsinoma",
+        "Heç biri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "33. Mədə xorasında xərçəngin inkişaf etməsi neçə faiz təşkil edir?",
+      "options": [
+        "1-2%",
+        "2-25%",
+        "25-30%",
+        "30-40%",
+        "40-50%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. Mədə xərçəngi həmişə haraya metastaz edir?",
+      "options": [
+        "Regionar limfa düyünlərinə",
+        "Ağciyərə",
+        "Dalağa",
+        "Mədəaltı vəzə",
+        "Böyük piyliyə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Mədə divarının qatları hansılardır?",
+      "options": [
+        "Seroz, əzələ, selikli",
+        "Seroz, əzələ, selikaltı, selikli",
+        "Adventisiya, əzələ, selikli",
+        "Seroz, selikli",
+        "Seroz, əzələ, selikaltı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. Profuz qida borusu qanaxmalarını saxlamaq üçün istifadə olunan boru hansıdır?",
+      "options": [
+        "nazoqastral zond",
+        "nazointestinal zond",
+        "Blekmor zondu",
+        "Bebkok zondu",
+        "Foley katetri"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "37. Xora xəstəliyinin hansı ağırlaşmalarında təcili cərrahi əməliyyat tələb olunur?",
+      "options": [
+        "maliqinizasiya, penetrasiya",
+        "konservativ saxlanması mümkün olmayan qanaxmalar, perforasiya",
+        "stenoz, penetrasiya, maliqinizasiya",
+        "penetrasiya",
+        "hamısında"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "38. 12 barmaq bağırsağın divarı hansı qatlardan ibarətdir?",
+      "options": [
+        "seroz, əzələ, selikaltı və selikli",
+        "seroz, əzələ, selikli",
+        "adventisiya, əzələ, selikli",
+        "seroz, əzələ, selikaltı",
+        "heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Kallyoz mədə xorası ilə maliqinizasiya olunmuş xoranın tam diferensasiyası hansı müayinənin nəticəsinə əsaslanır?",
+      "options": [
+        "FEQDS",
+        "KT",
+        "MRT",
+        "patohistoloji",
+        "kontrast R-skopiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "40. Yuxarı və aşağı qanaxmalarin sərhəddi hansı anatomik struktur hesab olunur?",
+      "options": [
+        "Hepatoduodenal bağ",
+        "Treytz bağı",
+        "Onikibarmaq bağırsaq",
+        "Mədənin pilorik hissəsi",
+        "Kardioezofageal keçid"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "41. Yuxarı mədə-bağırsaq qanaxmalarina ən chox aşağıdakılardan hansı səbəb olur?",
+      "options": [
+        "xoralı ezofaqit",
+        "varikoz venalar",
+        "yanıqlar, travmalar",
+        "xora xəstəliyi",
+        "şişlər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "42. Aşağı mədə-bağırsaq qanaxmalarda baş verə biləcək yerli əlamətlər hansılar ola bilər?",
+      "options": [
+        "hematokeziya",
+        "melena",
+        "qanqusma",
+        "hematoptizis",
+        "hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Adətən düz bağırsaq və kolon qanaxmalarında düz bağırsaqdan al qanın çıxması necə adlanır?",
+      "options": [
+        "melena",
+        "hematomezis",
+        "hematokeziya",
+        "hematoptizis",
+        "tenezm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "44. Həm yuxarı, həm də aşağı qanaxmalarda olan, adətən 50 ml -dən çox qanaxmalarda rastlanan qətran rəngli nəcisə nə deyilir?",
+      "options": [
+        "melena",
+        "hematomezis",
+        "hematokeziya",
+        "hematoptizis",
+        "tenezmus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. Blekmor zondu hansı qanaxmaların dayandırılmasında istifadə olunur?",
+      "options": [
+        "xora mənşəli",
+        "Melori-Veys sindromu",
+        "Varikoz qanaxmalar",
+        "Divertikulyar qanaxmalar",
+        "Hamısı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "46. Öyümə və ya qusmadan sonra qastroezogageal birləşmə səviyyəsində selikli qişanın cırılması və qanaxma olan xəstəlik neçə adlanır?",
+      "options": [
+        "Boerhave sindromu",
+        "Mondor xəstəliyi",
+        "Melory-Veys sindromu",
+        "Kuşinq sindromu",
+        "Addison xəstəliyi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "47. Qanaxma yoğun bağırsaqdan olub, lakin yeri və səbəbi kolonoskopiyada və angioqrafiyada tapılmırsa hansı tədbir aparılmalıdır?",
+      "options": [
+        "müşahidə",
+        "konservativ müalicə",
+        "subtotal kolektomiya",
+        "total kolektomiya",
+        "lazer və ya elektrokoaqulyasiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "48. Aşağıdakılardan hansı massiv alt qastrointestinal sistem qanaxmalarına ən çox səbəb olur?",
+      "options": [
+        "kolorektal kanser",
+        "qeyri-spesifik xoralı kolit",
+        "radiasyon kolit",
+        "hemorroidal xəstəlik",
+        "divertikulyar xəstəlik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "49. Ağrısız defekasiyadan sonra nəcislə birlikdə parlak al qırmızı qanın gəlməsi hansı xəstəliyi düşündürür ilk növbədə?",
+      "options": [
+        "divertikulyar xəstəlik",
+        "qeyri-spesifik xoralı kolit",
+        "hemorroidal xəstəlik",
+        "işemik kolit",
+        "vaskulyar ektaziya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "50. Yuxarı mədə-bağırsaq qanaxması olan xəstələrdə ilk olaraq hansı müayinə metodu aparılmalıdır",
+      "options": [
+        "kolonoskopiya",
+        "kompyuter tomoqragiya",
+        "USM",
+        "ezofaqoqastroduodenoskopiya",
+        "MRT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "51. Kolonoskopiyada aktiv qanaxma varsa və yerini dəqiqləşdirmək mümkün olmursa qanaxma yerini müəyyən etmək üçün hansı müayinə aparılmalıdır?",
+      "options": [
+        "USM",
+        "KT",
+        "angioqrafiya",
+        "sintiqrafiya",
+        "MRT"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "52. Aşağı mədə-bağırsaq qanaxması olan xəstələrdə yuxarı mədə-bağırsaq qanaxmasını inkar etmək üçün ilk növbədə nə etmək lazımdır?",
+      "options": [
+        "ezogaqoqastroduodenoskopiya",
+        "kolonoskopiya",
+        "nazoqastral zondun qoyulması",
+        "anfiografiya",
+        "sintigrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Uşaqlarda alt GİS qanaxmanın ən çox rast gələn səbəbi hansıdır?",
+      "options": [
+        "qeyri-spesifik xoralı kolit",
+        "yoğun bağırsaq polipləri",
+        "xora xəstəliyi",
+        "Mekkel divertikulu",
+        "Kron xəstəliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Kron xəstəliyi zamanı nazik və yoğun bağırsaqda hansı patoloji dəyişikliklər izlənir?",
+      "options": [
+        "Linear və aftoz xoralar",
+        "Daş döşənmiş küçə mənzərəsi",
+        "Transmural fibroz",
+        "daralma",
+        "hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "55. Kron xəstəliyi ən çox mədə-bağırsaq traktının hansı hissəsində rast gəlinir?",
+      "options": [
+        "Qalça bağırsağın terminal hissəsi",
+        "Düz bağırsaq",
+        "Kor bağırsaq",
+        "Onikibarmaq bağırsaq",
+        "Yoğun bağırsağın rektosiqmoid nahiyəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Kəskinləşmələr və spontan remissiyalar ilə özünü biruzə verən, mədə-bağırsaq sisteminin istənilən hissəsini tuta bilən transmural iltihabı xəstəlik hansıdır?",
+      "options": [
+        "Qeyri-spesifik xoralı kolit",
+        "Kron xəstəliyi",
+        "Tuberkulyoz",
+        "Sarkoidoz",
+        "Divertikulyar xəstəlik"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "57. Aşağıdakılardan hansılar Kron xəstəliyi üçün xarakter deyil:",
+      "options": [
+        "Bağırsaq divarının qalınlaşması",
+        "Bağırsağın antimezenterik səthinə piy toxuması ilə tutulması",
+        "Çözün qalınlaşması, fibrozlaşması və qısalması",
+        "Absess və fistullar( xarici və ilgəklərarası)",
+        "Psevdopoliplər və kript absesslər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Kron xəstəliyi zamanı ən çox rast gələn intestinal ağirlaşma:",
+      "options": [
+        "Obstruksiya",
+        "Perforasiya(absess, daxili və xarici fistullar)",
+        "Anorektal ağırlaşmalar",
+        "Toksik meqakolon",
+        "Karsinoma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Kron xəstəliyinə görə cərrahi əməliyyata göstərişləri qeyd edin:",
+      "options": [
+        "Obstruksiya",
+        "Perforasiya",
+        "Massiv qanaxma",
+        "Neoplastik proseslərdən differensiasiyanın çətinləşməsi",
+        "Hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "60. Qeyri-tipik yerləşən çoxsaylı, dərin, müalicəyə çətin tabe olan anal çatlar olduqda hansı xəstəlik differensiasiya olunmalıdır ?",
+      "options": [
+        "Kron xəstəliyi",
+        "Mezenterial işemiya",
+        "Divertikulyar xəstəlik",
+        "Hirşprunq xəstəliyi",
+        "Duodenal xora"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Kron xəstəliyinsə nazik bağırsağın qisa seqmentində srtiktura varsa hansı müalicə üsulu göstərişdir?",
+      "options": [
+        "Strikturoplastika",
+        "Bağırsaq seqmentinin rezeksiyası",
+        "Dolayıcı anaztomozun qoyulması",
+        "İnfliximabla müalicə",
+        "Steroidlərlə müalicə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Kron xəstəliyinin etioloji amillərindən hansı yalnışdır?",
+      "options": [
+        "allergik amillər,",
+        "keçirilmiş bağırsaq infeksiyası,",
+        "məhəlli limfa damarların tutulması,",
+        "damar pozğunluğu,",
+        "bağırsaq divertikulu."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Kron xəstəliyinin gedişində neçə mərhələ ayırd edilir?",
+      "options": [
+        "5",
+        "3",
+        "4",
+        "2",
+        "6"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "64. Kron xəstəliyi zamanı simptomlardan hansı yalnışdır?",
+      "options": [
+        "qarında ağrı,",
+        "ishal,",
+        "yüksək temperatur,",
+        "çəki itkisi,",
+        "melena tipli defekasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "65. Kron xəstəliyinin ağırlaşmalarından hansı yalnışdır?",
+      "options": [
+        "bagirsaq kecməməzliyi",
+        "bağırsaq qanaxması",
+        "bağırsaq fistulasi",
+        "bağırsaq perforasiyasi",
+        "psevdopolipoz."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. Kron xəstəliyinin diaqnostikası zamanı hansı metod yalnışdır?",
+      "options": [
+        "kolonoskopiya",
+        "biopsiya",
+        "kompüter tomoqrafiya",
+        "maqnit rezonans tomoqrafiyası",
+        "elektroensefaloqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Kron xəstəliyi zamanı əsasən hansı preparatlardan istifadə olunur?",
+      "options": [
+        "immunodepressiv, antibakterial,",
+        "hemostatik, antikoaqulyant,",
+        "antikoaqulyant, immunodepressiv,",
+        "antikoaqulyant, antibakterial,",
+        "hemostatik , antioksidant."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Kron xəstəliyi zamanı cərrahi müdaxiləyə əsas göstəriş hansıdır?",
+      "options": [
+        "bağırsaq perforasiyasi,",
+        "ishal,",
+        "qarinda periodik agrilar,",
+        "yüksək temperatur,",
+        "qeyd olunan bütün hallar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Kron xəstəliyinin differensial diaqnostikası hansı xəstəliklə əsasən aparılır?",
+      "options": [
+        "kəskin appendisit,",
+        "Pankreatit,",
+        "kəskin daşlı xolesistit,",
+        "sistit,",
+        "mədə xorası."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Kron xəstəliyinin lokalizasiyasi hansı nahiyə hesab olunur?",
+      "options": [
+        "Nazik bağırsağın distal nahiyəsi,",
+        "mədəaltı vəzi,",
+        "öd kisəsi,",
+        "ağciyər və qaraciyər,",
+        "dalaq."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Kron xəstəliyi zamanı hansı əməliyyat icra olunur?",
+      "options": [
+        "patoloji prosesə uğramış bağırsaq seqmentinin rezeksiyasi,",
+        "bilrot I əməliyyati,",
+        "bilrot ll əməliyyati,",
+        "Lixtenşteyn əməliyyatı,",
+        "fundoplikasiya əməliyyati."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Kron xəstəliyi ilk dəfə neçənci ildə kim tərəfindən kəşf olunub?",
+      "options": [
+        "Chron, 1932,",
+        "Chron, 1944,",
+        "Lixtenşteyn, 1936,",
+        "Braun, 1933,",
+        "Chron, 1946."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Kron xəstəliyi zamanı səhvən kəskin appendisitə görə cərrahi əməliyyat icra olunubsa, heç bir ağırlaşma olmadığı təqdirdə hansı əməliyyat icra olunur?",
+      "options": [
+        "bağırsaq müsariqəsinə novokain məhlulu və antibiotikin vurulması,",
+        "bağırsaq seqmentinin rezeksiyasi,",
+        "kolostomiya,",
+        "hartman əməliyyati,",
+        "ileostomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Kron xəstəliyi bağırsaq mənfəzinin obturasiyasi ilə agirlasibsa hansı əməliyyat icra olunmalıdır?",
+      "options": [
+        "patoloji prosesə uğramış bağırsaq seqmentinin rezeksiyasi,",
+        "bağırsaq müsariqəsinə novokain məhlulu və antibiotikin vurulması,",
+        "konservativ müalicə,",
+        "infuzion terapiya,",
+        "appendektomiya ."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Kron xəstəliyi zamanı aşağıdakı əlamətlərdən hansı yalnışdır?",
+      "options": [
+        "anemiya,",
+        "oynaq agrilari,",
+        "qarında ağrı,",
+        "uzunmüddətli ishal,",
+        "sistit əlamətləri."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "76. Kron xəstəliyinin diaqnostikası zamanı əsas müayinə metodu hansıdır?",
+      "options": [
+        "kolonoskopiya,biopsiya,",
+        "elektroensefaloqrafiya, biopsiya,",
+        "mədə bağırsagin kontrast müayinəsi, elektromioqrafiya,",
+        "elektroensefaloqrafiya, kompüter tomoqrafiyası,",
+        "qeyd olunan bütün müayinələr."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Durğun bağırsaq sindromu zamanı aşağıdakı əlamətlərdən hansı müşahidə olunur?",
+      "options": [
+        "malabsorbsiya əlaməti,",
+        "penetrasiya əlaməti,",
+        "melena,",
+        "ayabənzər sifət əlaməti,",
+        "bazedov simptomu."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Durğun bağırsaq sindromu zamanı aşağıdakı əlamətlərdən hansı yalnışdır?",
+      "options": [
+        "malabsorbsiya,",
+        "steatoreya,",
+        "diareya,",
+        "anemiya,",
+        "hematuriya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Durgun bağırsaq sindromunun diaqnostikası zamanı hansı metod yalnışdır?",
+      "options": [
+        "kolonoskopiya,",
+        "kompüter tomoqrafiyası,",
+        "biopsiya,",
+        "irriqoqrafiya,",
+        "elektroensefaloqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Durğun bağırsaq sindromu zamanı aşağıdakı hansı cərrahi səbəb yalnışdır?",
+      "options": [
+        "bağırsaq divertikulu,",
+        "bağırsaq strukturu,",
+        "bağırsaq fistulu,",
+        "kor bağırsaq seqmenti,",
+        "psevdopolipoz."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "81. Kəskin bağırsaq kecməzliyini mədə perforasiyasından differensasiya etmək üçün hansı müayinəni etməliyik?",
+      "options": [
+        "Qastroskopiya",
+        "Laparoskopiya",
+        "İcmal rentgenoskopiya",
+        "Pnevmoqastroqrafiya",
+        "Mədənin rentgenoskopiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "82. Mexaniki bağırsaq kecməzlik ilə xəstəni əməliyyata hazırlayarkan nə etmək olmaz",
+      "options": [
+        "mədənin aspirasiyası",
+        "infuzion terapiya",
+        "spazmolitik terapiya",
+        "peristaltikanı artıran dərman yeritmək",
+        "imalə etmək"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "83. Yoğun bağırsaq keçməzliyi daha çox nəyə görə yaranır",
+      "options": [
+        "öd daşları ilə",
+        "bədxassəli törəmə ilə",
+        "bitişmə",
+        "helmintər",
+        "heç biri"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "84. Hansı söz buraxılıb? Obstruktiv bağırsaq kecməzliyin 4 klassik əlamətləri - . . . . . . . . , köp, qusma, qaz və nəcizin xaric olmaması.",
+      "options": [
+        "ürəkbulanma",
+        "qarnında ağrılar",
+        "ümümi zəiflik",
+        "hipovolemiya",
+        "halsızlıq"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "85. Hansı növ bağırsaq kecməzliyində qazların, nəcisin xaric olmaması və köp erkən, qusma(nəciz xarakterli qusuntu) və dehidratasiya isə gecikmiş əlamətdir",
+      "options": [
+        "paralitik",
+        "dinamik",
+        "proksimal obstruktiv",
+        "distal obstruktiv",
+        "hec biri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Hansı hallarda dehidratasiya tez baş verir",
+      "options": [
+        "nazik bağırsaq burulması",
+        "S-vari bağırsağın burulması",
+        "ileo-sekal invaqinasiya",
+        "yoğun bağırsağın obturasyon kecməzliyi",
+        "düz bağırsağın törəməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Kəskin bağırsaq kecməzliyinin erkən diaqnostikasında nə istifadə olunur",
+      "options": [
+        "qarın boşluğunun icmal rentgenoskopiyası",
+        "laparoskopiya",
+        "irriqoskopiya",
+        "kolonoskopiya",
+        "USM qarın boşlugunun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Yogun bağırsaq kecməzliyi üçün nə məxsus deyil",
+      "options": [
+        "intoksikasiya əlamətlərinin artması",
+        "qarında köp",
+        "Kloyber kəsacıkların olması",
+        "defekasiya aktının olmaması",
+        "tez baş verən dehidratasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "89. Xəstə 76 yaşında xroniki kolitlə, qarnında ağrılarla müraciət edib 7 gün ərzində defekasiya aktı olmayıb Rektal müayinə zamanı nəciz daşları müəyyən olunur. Nə edərsiniz?",
+      "options": [
+        "Təcili əməliyyat",
+        "Peristaltikanı artıran dərman vasitələrinin verilməsi",
+        "Spazmolitiklərin verilməsi",
+        "İmalə",
+        "İşlədici dərmanlardan istifadə etmək"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "90. Dinamiki bağırsaq kecməzliyində hansı növ müalicə aparılır?",
+      "options": [
+        "yalnız konservativ",
+        "yalnız cərrahi",
+        "konservativ müalicənin efekti olmadan, cərrahi müalicə",
+        "laparoskopik ileostomiya",
+        "düzgün cavab yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. İnvaqinasiya harda daha tez-tez rast gəlir?",
+      "options": [
+        "Kör bağırsaq",
+        "İleosekal hissə",
+        "İleo-ileal hissə",
+        "Siqmoid bağırsaq",
+        "Rektosiqmoid hissə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "92. Hansı halda bağırsaq nekrozu daha tez baş verir?",
+      "options": [
+        "Qalca bağırsağın törəmə ilə obturasiyası zamanı",
+        "Yoğun bağırsağın törəmə ilə obturasiyası zamanı",
+        "Acı bağırsağın mənfəzinin öd daşı ilə obturasiya etməsi zamanı",
+        "Düyünlənmə",
+        "Yoğun bağırsağın mənfəzinin nəciz daşları ilə obturasiya etməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "93. Yoğun bağırsağın polipi hansı şişlərə aiddir",
+      "options": [
+        "xoşxassəli epitelial",
+        "bədxassəli epitelial",
+        "adenokarsinoma",
+        "leyosarkoma",
+        "musinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Yoğun bağırsağın polipləri hansı hüceyrələrdən inkişaf edir",
+      "options": [
+        "selikli qişanın vəzi hüceyrələrindən",
+        "selikaltı qat vəzi hüceyrələrindən",
+        "əzələ qat hüceyrələrindən",
+        "seroz qatdan",
+        "birləşdirici toxumadan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. yoğun bağırsaq poliplərinin hansı formaları olmur?",
+      "options": [
+        "hiperplastik",
+        "adenamatoz",
+        "vəzi xovlu",
+        "diffuz",
+        "idiopatik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. ən çox hansı polip şişə keçir",
+      "options": [
+        "xovlu şiş",
+        "xovlu polip",
+        "hiperplastik",
+        "adenamatoz",
+        "hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. polipozun şişə keçmə ehtimalı",
+      "options": [
+        "70 -100%",
+        "50 -60%",
+        "10-20%",
+        "keçmir",
+        "30-40%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Yoğun bağırsaq poliplərində diaqnozun qoyulmasında hansı üsul ən önəmlidir",
+      "options": [
+        "kolonoskopiya",
+        "rentgenoskopiya",
+        "irriqoqrafiya",
+        "MRT",
+        "USM"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Tək poliplərin müalicəsi nədən ibarətdir?",
+      "options": [
+        "endoskopik polipektomiya",
+        "bağırsaq rezeksiyası",
+        "bağırsağın pazvarı rezeksiyası",
+        "kolektomiya",
+        "şua terapiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. diffuz polipozda aparılan əməliyyatlar",
+      "options": [
+        "subtotal kolektomiya",
+        "sağtərəfli hemikolektomiya",
+        "soltərəfli hemikolektomiya",
+        "s- varı bağırsağın rezeksiyası",
+        "siqmostomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Hansı ölçüdə olan poliplərin şişə keçmə ehtimalı böyükdür",
+      "options": [
+        "1 sm",
+        "1-2 sm",
+        "2sm dən böyük enli əsaslı",
+        "2 sm dən nazik ayaqcıq üzərində",
+        "0,5sm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "102. bağırsaq divertukulu nədir",
+      "options": [
+        "bağırsaq divarının torbaşəkilli kənara çıxması",
+        "bağırsaq divarının boylama cırılması",
+        "bağırsaq divarının laylanması",
+        "bağırsaq divarının törəməsi",
+        "bağırsaq divarının mənfəzə sallanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. həqiqi divertikul nə deməkdir",
+      "options": [
+        "bağırsaq divarının tam qabarması",
+        "bağırsaq divarının seroz qatın cırılması",
+        "bağırsaq divarının əzələ qatının cırılması",
+        "bağırsaq divarının selikli və əzələ qişasının cırılması",
+        "bağırsaq divarının tam sallanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. divertikulun rastgəlmə tezliyi nə qədərdir",
+      "options": [
+        "10 -65%",
+        "20 -35%",
+        "60-90%",
+        "30-45%",
+        "2-9%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. divertikulun kolonda ən çox rast gəlinən yeri",
+      "options": [
+        "siqmoid bağırsaqda",
+        "kor bağırsaqda",
+        "köndələn çənbər bağırsaqda",
+        "enən çənbər bağırsaqda",
+        "qalxan çənbər bağırsaqda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. divertikulit nədir",
+      "options": [
+        "divertikulun iltihabı",
+        "diverikulun xərçəngi",
+        "divertikulun işemiyası",
+        "divertikulun qanqrenası",
+        "divertikulun deşilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. divertikulitin ağırlaşmalarına aid deyil",
+      "options": [
+        "perforasiya",
+        "abses",
+        "peritonit",
+        "fistullar",
+        "xərçəngi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "108. divertikulyozu olan xəstədə divertikulit olarsa neçə divertikulda iltihab yaranır",
+      "options": [
+        "bir",
+        "iki və üç",
+        "hamısında",
+        "heç birində",
+        "beş"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. Yoğun bağırsağın divertikulitlərində əsas müayinə üsulu hansıdır?",
+      "options": [
+        "kompyuter tomoqrafiya",
+        "kolonoskopiya",
+        "rentgenoskopiya",
+        "ultrasəs müayinəsi",
+        "EUS"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. Divertikulitlərdə müalicə üsulunun seçimi nəyə əsaslanır",
+      "options": [
+        "divertikulitin ağırlıq dərəcəsinə",
+        "rentgen müayinənin nəticəsinə",
+        "qan analizlərinin nəticəsinə",
+        "USM nəticəsinə",
+        "xəstələrin istəyinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. İltihabi poliplər kimlərdə olur",
+      "options": [
+        "kron və xoralı koliti olan xəstələrdə",
+        "işemik koliti olan xəstələrdə",
+        "xponiki kolitlərdə",
+        "divertikulu olan xəstələrdə",
+        "kolon xərçəngində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. adenamatoz poliplərin maliqnizasiya riski nə ilə müəyyənləşmir",
+      "options": [
+        "ölçü",
+        "histoloji tip",
+        "hüceyrələrin atipiyası",
+        "müddəti",
+        "yerləşməsinə görə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "113. Peutz Jeqher sindromu olan qadınlarda hansı kanser riski var",
+      "options": [
+        "yumurtalıq kanseri",
+        "süd vəzin kanseri",
+        "uşaqlığın kanseri",
+        "tireoid vəzin kanseri",
+        "ağciyər kanseri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Aşağıdakılardan hansı qeyri-spesifik xoralı kolit üçün ən ərkən görünən endoskopik görüntüdür:",
+      "options": [
+        "kript abseslər",
+        "selikli qişanın atrofiyası",
+        "irinli ərplə örtülü selikli qişa",
+        "selikli qişanın ödemi",
+        "aftoz xoralar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "115. Qeyri-spesifik kolitin cərrahi müalicəsinə göstərişlər aşağıdakılardan hansılardır:",
+      "options": [
+        "konservativ müalicəyə tabe olmaması",
+        "displastik dəyişikliklər ya karsinomanın inkişafı",
+        "massiv qanaxma",
+        "tolsik meqakolon",
+        "hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "116. Uzun illərdir xoralı kolitdən əziyyət çəkən və müalicə alan 55 yaşlı xəstəyə kolonoskopiyada pankolitin olduğu, götürülən bioptatların patohistoloji müayinəsində isə karsinoma in situ müəyyənləşmişdir. Aşağıdakılardan hansının xəstəyə aparılması göstərişdir:",
+      "options": [
+        "Total proktokolektomiya",
+        "Total kolektomiya",
+        "Müşahidə",
+        "Konservativ müalicə",
+        "İleostomanım qoyulması və konservativ müalicə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. Toksiki meqakolon diaqnozu ilk olarak hansı müayinə metodu ilə aşkarlanır:",
+      "options": [
+        "Qanın ümumi analizi",
+        "Kolonoskopiya",
+        "İrriqoskopiya",
+        "KT",
+        "Qarın boşluğunun obzor R-skopiyası."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "118. Aşağıdakılardan hansı qeyri-spesifik kolit üçün doğru deyil:",
+      "options": [
+        "Xoralı kolit yoğun bağırsağın mukoza və submukozasını zədələyən iltihabı xəstəlikdir",
+        "ən ərkən endoskopik görüntüsü mukoza ödemidir və patoloji incələmədə ğörülən kript",
+        "xoralı kolitit zamanı qalça bağırsağın terminal hissəsi nadir tutulur",
+        "xoralı kolit zamanı xoralar arasındakı selikli qişa polipoid görüntü alır və buna",
+        "xoralı kolitdə düz bağırsaq zədələndikdə perianal abseslər və çatlar adətən bu iltihabı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "119. Aşağıdakılardan hansı cümlələr xoralı kolit üçün xarakter deyil:",
+      "options": [
+        "Zədələnmə düz bağırsaqdan başlayır",
+        "Selikli qişa və selikaltı qatı tutan xoralar görülür",
+        "Zədələnmə diffuz yayılır",
+        "Seroz qat tutulmur",
+        "Perianal çatlar və fistulalar tez-tez görülür"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "120. Kron xəstəliyinin və qeyri-spesifik xoralı kolitin konservativ müalicəsi zamanı ilk olaraq hansı dərman preparatları təyin olunur?",
+      "options": [
+        "İnfliximab ( anti – TNFA)",
+        "Steroid preparatlar",
+        "Amonisalisilatlar",
+        "Antibiotikoterapiya",
+        "İmmunosupressor terapiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "121. Qeyri-spesifik xoralı kolit və Kron xəstəliyinin diaqnozunu dəqiqləşdirmək üçün mütləq aparılması göstəriş olan müayinə üsulu",
+      "options": [
+        "İrriqoskopiya",
+        "Mədə-bağırsaq traktının kontrast rentgenografiyası",
+        "Kolonoskopiya",
+        "Kolonoskopiya və bioptatın patohistoloji müayinəsi",
+        "USM"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "122. Qeyri-spesifik xoralı ekstrakolik ağırlaşmalardan hansına rast gəlinmir?",
+      "options": [
+        "Uveit",
+        "Artrit",
+        "Nekrotizan fasiit",
+        "Slrerozan xolanqit",
+        "Eritema nodozum"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "123. Qeyri-spesifik xoralı kolitin inkişat etmə riskinin azalmasına səbəb olur:",
+      "options": [
+        "Düzgün qidalanmamaq",
+        "Stress",
+        "Siqaretçəkmə",
+        "Spirtli içkilərin qəbulu",
+        "Ağır fiziki iş"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "124. Son 12 saatdır diareyası kəsilmiş aktiv xoralı kolit olan bir xəstə qarnında ağrı, köp şikayətləri ilə gətirilmişdir klinikayA) Qarın boşluğunun icmal R- skopiyasında köndələn çənbər bağırsaq qazla dolu olduğu və d = 9 -sm dək genişləndiyi qeyd olunur. Hansı ağırlaşma inkişaf etdiyini düşünmək olar?",
+      "options": [
+        "Perforasiya",
+        "Obstruksiya",
+        "Qanaxma",
+        "Toksikİ meqakolon",
+        "Karsinoma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. Qeyri-spesifik xorallı kolitin ən çox rast gələn simptomu hansıdır?",
+      "options": [
+        "Qarında ağrı",
+        "Qanlı diareya",
+        "Qəbzlik",
+        "Çəki itirmə",
+        "Ürəkbulanma, qusma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "126. Hansı xəstəlikdə irriqoskopiyada haustralar itir və görünüş ”qurğuşun borunu” xatırladır?",
+      "options": [
+        "Kron xəstəliyi",
+        "Bağırsaq vərəmi",
+        "Xroniki xoralı kolit",
+        "divertikulyar xəstəlik",
+        "adenokarsinoma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "127. Birincili sklerozlaşdıırıcı xolanqiti olan xəstələrin 40-60% də hansı xəstəliyə rast gəlinir?",
+      "options": [
+        "Kron xəstəliyi",
+        "Divertikulyar xəstəlik",
+        "Qeyri-spesifik xoralı kolit",
+        "Pankreatit",
+        "Kəskin xolesistit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "128. Qeyri-spesifik kolittə kolorektal kanser riskini artlran faktorları göstər:",
+      "options": [
+        "Xəstəliyin müddəti",
+        "Xəstəliyin yayılma dərəcəsi",
+        "Xəstəliyin uzun sürən aktiv dövrü",
+        "İltihabın şiddəti",
+        "Hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "129. Tenezmlər xoralı kolitin hansı formasında görülür?",
+      "options": [
+        "Pankolit",
+        "Sol tərəfli kolit",
+        "Proktosiqmoidit",
+        "Proktit",
+        "Bütün formalarında"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "130. Maliqnizasiya riski baxımından aşağıdakılardan hansı daha risklidir?",
+      "options": [
+        "Nazik bağırsağın Kron xəstəliyi",
+        "Gluten enteropatiyası",
+        "Yoğun bağırsağın Kron xəstəliyi",
+        "Xoralı kolit",
+        "Bağırsaq vərəmi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "131. Qeyri spesifik xoralı kolitdə ən çox rast gələn cərrahi əməliyyata göstəriş - ---- ------; Kron xəstəliyi zamanı isə ən çox rast gələn cərrahi əməliyyata göstəriş -----",
+      "options": [
+        "Qanaxma, karsinomA",
+        "Medikal müalicəyə dirənc, obstruksiya",
+        "Obstruksiya, qanaxma",
+        "Karsinoma, obstruksiya",
+        "Toksik meqakolon, daxili fistullar."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "132. Hansı yoğun bağırsaqın əsas funksiyalarına aid deyil?",
+      "options": [
+        "Absorbsiya",
+        "Hərəki",
+        "Qoruma",
+        "Endokrin",
+        "Sekresiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "133. Hansı fikirlər qeyri-spesifik xoralı kolitə aid deyil?",
+      "options": [
+        "yoğun başırsağın selikli qişasının xroniki iltihabıdır",
+        "düz bağırsaqdan başlayıb proskimala doğru yayılır",
+        "kəskinlşmə və remissiya dövrləri xarakterikdir",
+        "yoğun bağırsağın bütün divarlarının zədələnməsi ilə gedir",
+        "qanaxma və toksik dilatasiya kimi ağırlaşmalara səbəb olur"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "134. Ən çox rast gələn təcili cərrahi xəstəlik hansıdır?",
+      "options": [
+        "kəskin xolesistit",
+        "kəskin appendisit",
+        "kəskin bağırsaq keçməməzliyi",
+        "kəskin divertikulit",
+        "12 barmaq bağırsaq xorasının perforasiyası"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "135. Bir neçə saat əvvəl göbəkətrafı nahiyədə başlayan , daha sonra sağ qalça çuxurunda lokallaşan davam edən ağrı və həmin nahiyədə palpator gərginlik varsa hansı təcili cərrahi xəstəlikdən ilk olaraq şübhələnmək lazımdır?",
+      "options": [
+        "kəskin xolesistit",
+        "böyrək sancısı",
+        "12barmaq bağırsağın xora xəstəliyinin kəskinləşməsi",
+        "Kron xəstəliyi",
+        "kəskin appendisit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "136. Kəskin perforativ appendisitin başlamasındam adətən 48-72 saat sonra ortaya çıxan, appendisitin bağırsaqlar və piylik tərəfindən hüdudlaşması nəticəsində əmələ gələn, yüksək hərarət, sağ qalşa çuxurunda palpator kütlə və sepsis əlamətləri ilə özünü biruzə verən ağırlaşma hansıdır?",
+      "options": [
+        "appendikulyat infiltrat",
+        "paraappendikulyar absess",
+        "perotinit",
+        "tiflit",
+        "pileflebit"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "137. Appendikulyat absesin müalicə taktikası necə olmalıdır?",
+      "options": [
+        "müşahidə",
+        "təcili appendektomiya",
+        "absesin perkutan drenajı",
+        "konservativ müalicə",
+        "sağ tərəfli hemikolektomiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "138. Təcili appendektomiyaya əks göstəriş olan patologiya hansıdır?",
+      "options": [
+        "miokard infarktı",
+        "hamiləlin ikinci yarısı",
+        "hemorragik diatez",
+        "diffuz perotonit",
+        "appendikulyr infiltrat"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "139. Kəskin appendisitin diaqnostikasında hansı üsullar istifadə oluna bilər?",
+      "options": [
+        "kompyuter tomoqrafiya",
+        "MRT",
+        "USM",
+        "qanın ümumi analizi",
+        "hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "140. Kəskin appendisit zamanı patoloji prosessin inkişafı hardan başlayır?",
+      "options": [
+        "soxulcanabənzər çıxıntının selikli qışasından",
+        "soxulçanabənzər çıxıntinin seoz qatından",
+        "soxulcanabənzər çıxıntınin əzələ qişasından",
+        "kor bağırsağın kümbəzindən",
+        "qalça bağırsağın terminal hissəsindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141. Mekkel divertikulu yerləşdiyi yeri işarələyin.",
+      "options": [
+        "acı bağırsaq",
+        "qalça bağırsaq",
+        "qalxan çənbər bağırsaq",
+        "kor bağırsaq",
+        "siqmavari bağırsaq"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "142. Kəskin appendisitin xarakter klinik mənzərəsi zamanı aparılan cərrahi kəsik hansı olmalıdır?",
+      "options": [
+        "aşağı orta laparotomiya",
+        "Volkoviç-Dyakonov kəsiyi",
+        "pararektal kləsik",
+        "köndələn kəsik",
+        "transrektal kəsik"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "143. Yayılmış perotinitlə ağırlaşmış appendisit zamanı əməliyyat kəsiyi hansı olmalıdır?",
+      "options": [
+        "transrektal",
+        "pararektal",
+        "yuxarl-orta",
+        "aşağı-orta",
+        "Volkoviç-Dyakonov kəsiyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "144. Kəskin appendisitin adətən hansı klinik əlamətlə başlayır?",
+      "options": [
+        "wrəkbulanma və qusma",
+        "dizurik şıkayətlər",
+        "ishal",
+        "qarında ağrı",
+        "qəbzlik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "145. Kəskin appendisit üçün bu əlamət xarakter deyil:",
+      "options": [
+        "Rovzinq",
+        "Voskresenski",
+        "Merfi",
+        "Obrazsov",
+        "Bartomye-Mixelson"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "146. Kəskin appendisiti bu xəstəlikdən başqa aşağıdakı hansı patologiyalarla differensiasiya etmək lazım gəlir",
+      "options": [
+        "qlomerulonefrit",
+        "kəskin adneksit",
+        "kəskin qastroenterit",
+        "sağtərəfli böyrək sancısı",
+        "kəskin pankreatit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. Birincili qanqrenoz apppendisit əsasən rast gəlinir",
+      "options": [
+        "uşaqlarda",
+        "ağır xəstələrdə",
+        "kişilərdə",
+        "qadınlarda",
+        "yaşlı insanlarda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "148. Ərkən əməliyyatdan sonrakı dövrdə ən çox rast gələn ağırlaşma hansıdır?",
+      "options": [
+        "qanaxma",
+        "aritmiya",
+        "atelektaziya",
+        "infarkt",
+        "infeksiyalaşma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. Kəskin appendisitin başlanmasında əsas faktor aşağıdakılardan hansıdır?",
+      "options": [
+        "infeksiya",
+        "travma",
+        "düzğun qidalanmama",
+        "soxulcanabənxər çıxıntının mənfəzinin obstruksiyası",
+        "qan təchizatının pozulması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "150. Obturator testin müsbət olduğu xəstəliyi qeyd edin",
+      "options": [
+        "kəskin xolesistit",
+        "kəskin mezmenterik adenit",
+        "yumurtalıq kisti burulması",
+        "kəski appendisit",
+        "kəskin divertikulit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "151. Kəskin appendisit klinikası ilə yanaşı sarılıq müşahidə olursa hansı ağırlaşma düşünülməlidir",
+      "options": [
+        "absess",
+        "appendikulyar infiltrat",
+        "tiflit",
+        "pileflebit",
+        "xoledoxolitiaz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "152. Sol qalça çuxurun palpasiyası zamanı ağrının sağ qalça çuxurunda hissedilməsi hansı simptom sayılır?",
+      "options": [
+        "Voskresenski simptomu",
+        "Rosenşteyn simptomu",
+        "Rovzing simptomu",
+        "Obturator testi",
+        "Merfi simptomu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "153. Kəskin apppendisitdə soxulçanabənzər çıxıntının tutulmasına ən chox nə səbəb olur?",
+      "options": [
+        "Fekalitlər",
+        "Limfatik toxuma hiperplaziyası",
+        "Parasitlər",
+        "Şişlər",
+        "Aterosklerotik plaklar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "154. Aşağıdakı hansı xəstəlik anorektum xəstəliyi sayılmır?",
+      "options": [
+        "Kron xəstəliyi,",
+        "babasil xəstəliyi;",
+        "anal cat,",
+        "paraproktit,",
+        "pararektal fistulA"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Babasil xəstəliyinin müalicəsində əsas müayinə metodu hansıdır?",
+      "options": [
+        "ultrasəs müayinə,",
+        "qastrskopiya,",
+        "kompüter tomoqrafiyası,",
+        "irriqoqrafiya,",
+        "rektoromanoskopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "156. Babasil xəstəliyinin lokalizasiyasina görə əsas növləri hansıdır?",
+      "options": [
+        "inteasfinkter, ekstrasfinkter,",
+        "birinci və ikinci dərəcəli,",
+        "kəskin və xroniki,",
+        "xarici və daxili,",
+        "qanayan və boğulan babasil."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "157. Babasil xəstəliyi zamani təcili təxirəsalınmaz cərrahi əməliyyata göstəriş hansıdır?",
+      "options": [
+        "profuz qanaxma,",
+        "agri,",
+        "defekasiya aktinin ağrılı olması,",
+        "arabir sancinin olmasi,",
+        "boyuk bayıra çıxan zaman nəcis üzərində arabir qanın olması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158. Babasil xəstəliyinin neçə dərəcəsi vardir?",
+      "options": [
+        "3",
+        "6",
+        "2",
+        "7",
+        "4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "159. Kəskin paraproktit zamanı əsas təcili müalicə hansidir?",
+      "options": [
+        "yerli sam və imalələr,",
+        "yerli məlhəmlərdən istifadə,",
+        "infuzion terapiya,",
+        "antibakterial müalicə,",
+        "yerli anesteziya ilə irinin açılıb təmizlənib drenə olunması."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "160. Kəskin paraproktit zamanı əsas simptom hansidir?",
+      "options": [
+        "Qarında ağrı,",
+        "Qusma,",
+        "Qarnın köpməsi, assimmetrik qarın,",
+        "Stul və qazların olmaması,",
+        "anal nahiyədə kəskin agri və şişkinlik."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "161. Kəskin paraproktit zamanı aşağıdakı instrumental müayinələrdən hansı informativ sayılır?",
+      "options": [
+        "Rentgenoloji müayinə,",
+        "rektoromanoskopiya,",
+        "İrriqoskopiya,",
+        "qastroskopiya,",
+        "tomoqrafiya ."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "162. Pararektal fistulalarinin hansi növləri vardır, tam variantı göstərin?",
+      "options": [
+        "intrasfinkter, ekstrasfinkter, transsfinkter,",
+        "intrasfinkter, xarici,",
+        "ekstrasfinkter, daxili,",
+        "qarisiq, transsfinkter ,",
+        "birinci və ikinci dərəcəli fostula"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163. Babasil xəstəliyi zamanı təcili əməliyyatın aparılma səbəblərindən hansı yalnışdır?",
+      "options": [
+        "babasil düyünlərinin boğulmasi,",
+        "babasil düyünlərinin nekrozu,",
+        "profuz qanaxma,",
+        "anal nahiyədə arabir agri,",
+        "babasil düyünlərinin trombozu."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "164. Anal çatın müayinəsi hansı metodla aparılır?",
+      "options": [
+        "qastrskopiya ,",
+        "kompüter tomoqrafiyası,",
+        "ultrasəs müayinəsi,",
+        "rektoromanoskopiya ,",
+        "irriqoqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "165. Aşağıdakı variantlardan hansı bagirsaq çatın əlamətlərinə aid deyil?",
+      "options": [
+        "anal nahiyədə kəskin ağrı,",
+        "anal nahiyədə qasinma,",
+        "yüksək temperatur,",
+        "defekasiya aktından sonra kəskin ağrı, ,",
+        "defekasiya aktı zamanı nəcis üzərində qanın olması."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "166. Pararektal fistulalarin əsas müalicə növü hansıdır?",
+      "options": [
+        "yerli şam və məlhəm müalicəsi,",
+        "antibakterial müalicə,",
+        "cərrahi müdaxilə,",
+        "infuzion terapiya,",
+        "imalələrlə mualicə ."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "167. Babasil xəstəliyi zamanı cərrahi əməliyyat hansı mərhələlərdə göstərişdir?",
+      "options": [
+        "birinci və ikinci,",
+        "ikinci,",
+        "üçüncü və dördüncü,",
+        "birinci,",
+        "altıncı."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "168. Babasil xəstəliyi zamanı aşağıdakı müasir müalicə variantı hansı yalnışdır?",
+      "options": [
+        "fistulektomiya,",
+        "skleroterapiya,",
+        "lateks həlqələrlə bağlama,",
+        "hemorroidektomiya ,",
+        "elektrokoaqulyasiyA"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169. Pararektal fistulalar zamanı xarakterik əlamətlər hansılardır?",
+      "options": [
+        "anus nahiyədə nəmlik, iltihabı axıntı,",
+        "yüksək temperatur,",
+        "anus nahiyədə kəskin ağrı və laxtalarla defekasiya,",
+        "qaz və stulun olmamasi,",
+        "qusma və ağri."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170. Pararektal fistulalar zamanı hansı əməliyyat icra olunur, doğru variant hansıdır?",
+      "options": [
+        "fistulektomiya ,",
+        "sol tərəfli kolektomiya,",
+        "hartman əməliyyati, ,",
+        "Nissen əməliyyatı,",
+        "Lixtenşteyn əməliyyatı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171. Pararektal fistulalar zamanı əsas diaqnostik metod hansidir?",
+      "options": [
+        "ultrasəs müayinə,",
+        "maqnit rezonans müayinə,",
+        "kompüter tomoqrafiyası,",
+        "kolonoskopiya,",
+        "irriqoqrafiyA"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "172. Kəskin paraproktitə görə icra olunan əməliyyatdan sonrakı müalicə özündə növbəti məsələləri cəmləşdirir, yalniş variant hansıdır?",
+      "options": [
+        "antibakterial müalicə;",
+        "yerli olaraq antiseptiklərlə yaranın gündəlik sanasiyasi,",
+        "hemostatik müalicə,",
+        "antibiotiklərin ikili təyini,",
+        "təmizləyici vannalar."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "173. Anal çatın yaranma səbəbi hansı yalnışdır?",
+      "options": [
+        "davamlı qəbizlik,",
+        "uzun müddət davam edən ishal,",
+        "anemiya,",
+        "nəcis yumşaldıcı dərmanlardan uzun müddət istifadə,",
+        "kron xəstəliyi."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "174. Qaraciyərin funksiyaları hansılardı? 1) sintez 2) təmizləmə 3) təmzimləmə 4) sekresiya 5) hemodinamika",
+      "options": [
+        "1,2",
+        "3,4",
+        "1,5",
+        "4,5",
+        "Bütün cavablar doğrudur."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "175. Qaraciyərin necə seqmenti var?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "6",
+        "Düzgün cavab yoxdur."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "176. Qaraciyərin bədən çəkisinə nisbəti nə qədərdir?",
+      "options": [
+        "4%",
+        "2%",
+        "10%",
+        "6%",
+        "8%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "177. Bunlardan hansı qaraciyərin bədxassəli törəmələrinə aid deyil?",
+      "options": [
+        "hepatosellular karsinoma",
+        "liposarkoma",
+        "hepatosellular adenoma",
+        "hepatoblastoma",
+        "heç biri"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "178. Bunlardan hansı qaraciyərin xoşxassəli törəmələrinə aid deyil?",
+      "options": [
+        "hepatosellular adenoma",
+        "sistoadenoma",
+        "hepatosellular karsinoma",
+        "hemangioendotelioma",
+        "bütün cavablar düzgündir."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "179. Bunlardan hansı müalicə tələb edən xoşxassəli törəmədi?",
+      "options": [
+        "hemangioma",
+        "lipoma",
+        "exinokokk kisti",
+        "kalsifikasiya",
+        "fokal nodulyar hiperplaziya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "180. Bunlardan hansı müalicə tələb etməyən xoşxassəli törəmədi?",
+      "options": [
+        "biliar sistadenoma",
+        "hemangioma",
+        "exinokokk kisti",
+        "iltihabi psevdotumor",
+        "hamısı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "181. Qaraciyərin müayinə üsullarına hansı aid deyil?",
+      "options": [
+        "USM",
+        "KT",
+        "xolangioqrafiya",
+        "PET-KT",
+        "MRT"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "182. Qaraciyərin anadangəlmə sistlərində hansı sindromlardan biri üstünlük təşkil edə bilər?",
+      "options": [
+        "xolestaz",
+        "xolangit",
+        "kütlə effekti",
+        "portal hipertenziya",
+        "hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "183. Karoli xəstəliyi nədir",
+      "options": [
+        "Öd yolları ilə əlaqəsi olan çoxsaylı kistlərdir.",
+        "qaraciyərin bir və ya hər iki payı tuta bilirlər.",
+        "Təkrarlayan xolangit əlamətləri törədə bilirlər.",
+        "sekretin testindən sonra öd ifrazı artır.",
+        "bütün cavablar düzdür"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "184. Qaraciyərin bakterial abseslərin yaranma yolları",
+      "options": [
+        "biliar",
+        "arterial",
+        "venoz",
+        "kontakt",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "185. Portal hipertenziyanın erkən əlamətləri hansılardır?",
+      "options": [
+        "Sağ qabırğaaltı nahiyyədə küt ağrı",
+        "köp, periodik ishal",
+        "ürəkbulanma, ümumi zəiflik",
+        "bağırsaqların daim dolu olma hissi",
+        "hamısı doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "186. Aşağıda sadalananlardan hansı portal hipertenziyaya aid deyil?",
+      "options": [
+        "splenomeqaliya",
+        "qida borusu venalarının genişlənməsi",
+        "göbəkətrafı dərialtı venaların genişlənməsi",
+        "hepatomeqaliya",
+        "assit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "187. Portal hipertenziyanın diaqnostikasında böyük əhəmiyyətə malik instrumental müayinə hansıdır?",
+      "options": [
+        "qaraciyərin sintiqrafiyası",
+        "splenoportoqrafiya",
+        "KT-ya,USM",
+        "radioizotopla müayinə",
+        "hamısı doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "188. Portal hipertenziya sindromunun bütün hallarında təsadüf edir?",
+      "options": [
+        "splenomeqaliya",
+        "hepatomeqaliya",
+        "akromeqaliya",
+        "heç biri",
+        "leykopeniya, eritrositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189. Portal blokun hansı formaları var?",
+      "options": [
+        "qaraciyər daxili,qaraciyər üstü,qaraciyər altı,qarışıq",
+        "qaraciyərdaxili, qaraciyəraltı",
+        "I, II, III",
+        "qaraciyərüstü, qaraciyəraltı",
+        "qaraciyərüstü, qaraciyəraltı, qarışıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. Qapı venasında təzyiq normadA . . . . . . . mm. s. süt. olur?",
+      "options": [
+        "100",
+        "150-200",
+        "250-300",
+        "300-350",
+        "50-100"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "191. Portal hipertenziyalı qanaxma ilə ağırlaşmış xəstələrdə tətbiq olunan cərrahi əməliyyat hansıdır?",
+      "options": [
+        "portakaval anastomoz",
+        "splenorenal anastomoz",
+        "selektiv distal splenorenal şuntlama",
+        "yuxarı çöz venası ilə aşağı boş vena arasında anastomoz",
+        "hamısı doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "192. Profuz qida borusu qanaxmalarını saxlamaq üçün istifadə olunan boru hansıdır?",
+      "options": [
+        "nazoqastral zond",
+        "nazointestinal zond",
+        "Bebkok zondu",
+        "Foley katetri",
+        "Blekmor zondu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "193. Portal qan dövranının qaraciyər daxili bloku hansı səbəblərdən ola bilməz?",
+      "options": [
+        "alkoqol mənşəli",
+        "virus hepatitləri səbəbindən",
+        "qaraciyərin I-li şişləri",
+        "qaraciyərin metastatik şişləri",
+        "qaraciyərin absesi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "194. Portal hipertenziyada qaraciyəraltı bloku yaradan səbəbi göstərin?",
+      "options": [
+        "qapı venasının stenozu",
+        "qapı venasının trombozu",
+        "qapı venasının şişləri",
+        "qapı venasının obliterasiyası",
+        "hamısı doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "195. Portal sistemdə qanın durğunluğu hansı kollateral anastomozların inkişafına səbəb olar?",
+      "options": [
+        "portokaval",
+        "kavokaval",
+        "portokaval və kavokaval",
+        "portokaval,kavokaval və portorenal",
+        "qastroezofagial,pararektal və paraumblikal"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "196. Portal hipertenziyada icra olunan Boqoroz əməliyyatı hansıdır?",
+      "options": [
+        "qapı venası ilə aşağı boş vena arasında anastomoz",
+        "yuxarı çöz venası ilə aşağı boş vena arasında anastomoz",
+        "qapı venası ilə böyrək venası arasında anastomoz",
+        "aşağı çöz venası ilə aşağı boş vena arasında anastomoz",
+        "dalaq venası ilə aşağı boş vena arasında anastomoz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "197. Portal qan dövranının qarışıq formalı bloku aşağıdakılardan hansıdır?",
+      "options": [
+        "qaraciyərin sirrozu və portal tromboz",
+        "qaraciyərin sirrozu və portal stenoz",
+        "qaraciyərin sirrozu və portal şişi",
+        "qaraciyərin sirrozu və portal obliterasiya",
+        "qaraciyərin sirrozu və qaraciyər venalarının daralması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198. Baddi-Kiari sindromunun növləri hansılardır?",
+      "options": [
+        "obliterasiyaedici endoflebit",
+        "aşağı boş venanın və qaraciyər venası seqmentinin daralması",
+        "aşağı boş venanın qaraciyər venası seqmentindən yuxarı daralması",
+        "hamısı doğrudur",
+        "aşağı boş venanın total trombozu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "199. Portal hipertenziyalı xəstələrdə qida borusu venalarından qanaxmanın residivləşməsi zamanı ölüm faizi neçə faiz olur?",
+      "options": [
+        "100%",
+        "20%",
+        "15%",
+        "50%",
+        "25%"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "200. Portal hipertenziyası olan xəstədə planlı əməliyyatı nəvaxt icra etmək olar?",
+      "options": [
+        "qaraciyərin funksiyaları qənaətbəxş olanda",
+        "qanaxma olmadıqda",
+        "sirrozun stabil vəziyyətində",
+        "paraumbilikal kollaterallar az inkişaf etdikdə",
+        "bütün hallarda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "201. Kalot üçbucağında, periton səhifələri arasında adətən nə yerləşir?",
+      "options": [
+        "öd kisəsi arteriyası",
+        "ümumi öd axarı",
+        "sağ qaraciyər axacağı",
+        "sol qaraciyər arteriyası",
+        "mədəaltı vəz axarı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202. Öd kisəsini qanla təhciz edən kisə arteriyası hansı arteriyadan ayrılır?",
+      "options": [
+        "ümumi qaraciyər arteriyasından",
+        "sağ qaraciyər arteriyasından",
+        "sol qaraciyər arteriyasından",
+        "şəxsi qaraciyər arteriyasından",
+        "ümumi öd axarı arteriyasından"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "203. Simpatik sinirlər öd kisəsi və sfinkterlərinə necə təsir göstərir?",
+      "options": [
+        "öd kisəsində boşalma, sfinkterlərində yığılma",
+        "öd kisəsində yığılma, sfinkterlərində boşalma",
+        "öd kisəsində və sfinkterlərində boşalma",
+        "öd kisəsində və sfinkterlərində yığılma",
+        "öd kisəsində boşalma, sfinkterlərinə təsir göstərmir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "204. Qaraciyərdən ifraz olunan ilkin öd kisədə hansı dəyişikliyə uğrayır?",
+      "options": [
+        "pH 7,2-dən 7,8-ə dəyişir",
+        "pH 6,8-dən 7,2-yə dəyişir",
+        "pH 7,8-dən 6,2-yə dəyişir",
+        "pH 7,8-dən 7,2-yə dəyişir",
+        "pH 6,2-dən 7,8-ə dəyişir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "205. Döyəcləmə vaxtı sağ qabırğaaltında ağrının olması necə adlanır?",
+      "options": [
+        "Merfi simptomu",
+        "Şyotkin-Blyumberq simptomu",
+        "Voskresenski simptomu",
+        "Rovzinq simptomu",
+        "Ortner simptomu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "206. Merfi simptomunda nə müşahidə olunur?",
+      "options": [
+        "palpasiya ilə eyni vaxtda nəfəs aldıqda ağrı artır və ya nəfəsalma dayanır",
+        "palpasiya ilə eyni vaxtda nəfəs aldıqda ağrı azalır və ya nəfəsalma dayanır",
+        "palpasiya zamanı sağ qalça çuxurunda ağrı artır",
+        "sol qabırğaaltı nahiyyədə palpasiya zamanı nəfəsalma dayanır",
+        "döyəcləmə vaxtı sağ qabırğaaltında ağrı əmələ gəlir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207. Öd daşlarının əksəriyyətini hansı daşlar təşkil edir?",
+      "options": [
+        "bilirubin",
+        "xolesterin",
+        "biliverdin",
+        "kalsium",
+        "mərcan"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "208. Öd daşının ən çox törətdiyi ağırlaşma hansıdır?",
+      "options": [
+        "eroziya",
+        "nekroz",
+        "obturasiya",
+        "fistula",
+        "xərçəng"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "209. Hansı öd daşının əsas ağırlaşması deyil?",
+      "options": [
+        "Bağırsaq keçməzliyi",
+        "Xoledoxolitiaz",
+        "Xolangit",
+        "Pankreatit",
+        "Kəskin sistit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "210. Qeyd olunanlardan hansı xroniki daşlı xolesistit tutmasında öd daşının kisə axacağını tıxaması nəticəsində kisədə yaranan morfofunksional dəyişikliklərə aid deyil?",
+      "options": [
+        "durğunluq",
+        "hipoaktiv kisə",
+        "fibroz",
+        "iltihab",
+        "stenoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "211. Kəskin xolangit üçün xarakterik klinik əlamət olmayan bəndi qeyd edin:",
+      "options": [
+        "ağrı",
+        "sarılıq",
+        "üşütmə",
+        "qusma",
+        "yüksək hərarət"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "212. Aşağıda qeyd olunanların hansı kəskin daşlı xolesistitin ağırlaşması deyil?",
+      "options": [
+        "xoledoxolitiaz",
+        "Mirizzi sindromu",
+        "xolangit",
+        "empiema",
+        "hidrosele"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "213. Xoledoxolitiazın dəqiqləşdirilməsi üçün seçim üsulu hansıdır?",
+      "options": [
+        "USM",
+        "FEQDS",
+        "MRT",
+        "KT",
+        "EUS"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "214. Mədəaltı vəzin periton qatına görə yerləşməsi:",
+      "options": [
+        "İntraperitoneal",
+        "Mezoperitoneal",
+        "Qismən retroperitoneal",
+        "Tam retroperitoneal",
+        "Qismən intraperitoneal"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "215. Mədəaltı vəz funksional olaraq hansı orqan sayılır?",
+      "options": [
+        "Endokrin",
+        "Ekzokrin",
+        "Ekzokrin və endokrin",
+        "Metabolik",
+        "Neyrogen"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "216. Mədəaltı vəz arterial qan təchizatında iştirak edən əsas damar hansıdır?",
+      "options": [
+        "Sol mədə arteriyası",
+        "Alt müsariqə arteriyası",
+        "Xüsusi qaraciyər arteriyası",
+        "Sağ mədə piylik arteriyası",
+        "Ümumi qaraciyər arteriyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "217. Mədəaltı vəz enzimlərinin aktivləşdiyi yer?",
+      "options": [
+        "Virsunq axarı",
+        "Asinar hüceyrələr",
+        "Onikibarmaq bağırsaq",
+        "Acı bağırsaq",
+        "Qalça bağırsaq"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "218. Kəskin pankreatit üçün hansı laborator göstərici daha səciyyəvidir?",
+      "options": [
+        "Hemoglobinin artımı",
+        "Trombositopeniya",
+        "Eozinofiliya",
+        "Amilazanın səviyyəsinin artması",
+        "Qalıq azotunun artımı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "219. Kəskin pankreatitin başlanğıcı patofiziologiyasına görə hansı prosesdir?",
+      "options": [
+        "Allergik",
+        "Travmatik",
+        "Enzimatik destruktiv",
+        "Bakterial iltihabi",
+        "Hemodinamik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "220. Kəskin pankreatitin diaqnostikasında “qızıl standart” kimi qəbul edilmiş görüntüləmə müayinə üsulu hansıdır?",
+      "options": [
+        "Ultrasəs müayinəsi",
+        "Rentgenoqrafiya",
+        "Komputer tomoqrafiyası",
+        "Maqnit rezonans tomoqrafiyası",
+        "Endoskopik ultrasonoqrafiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "221. Kəskin pankreatitdə yaranmış mexaniki sarılığın səbəbi nədir?",
+      "options": [
+        "İntoksikasiya",
+        "Peritonit",
+        "Ümumi öd axarının daşı",
+        "Kəskin hepatit",
+        "Hemoliz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "222. Qanda və sidikdə hansı laborator göstəricinin 3 dəfədən çox artımı kəskin pankreatitə şübhə oyadır?",
+      "options": [
+        "Kreatinin",
+        "Qalıq azotu",
+        "Bilirubin",
+        "Amilaza",
+        "Urokinaza"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "223. Qarın boşluğunda hemorragik maye, periton qişası üzərində stearin ləkələri aşkarlanarsa hansı xəstəlik barəsində düşünmək olar?",
+      "options": [
+        "Perforativ xora",
+        "Kron xəstəliyi",
+        "Kəskin bağırsaq keçməzliyi",
+        "Vərəm peritoniti",
+        "Kəskin pankreatit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "224. Birincili xroniki Pankreatitin yaranma səbəbləri hansılardır?",
+      "options": [
+        "zülal çatışmazlığı və xroniki alkoqolizm,",
+        "xolesistit,",
+        "xolangit,",
+        "duodenit,",
+        "bütün variantlar doğrudur."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225. Xroniki Pankreatitin təsnifatında hansı variant yalnışdır?",
+      "options": [
+        "xroniki indurativ Pankreatit,",
+        "xroniki xolesostopankreatit,",
+        "psevdotumoroz Pankreatit,",
+        "psevdosistoz Pankreatit,",
+        "xroniki uretral Pankreatit."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "226. Xroniki Pankreatit zamanı rast gəlinən əlamətlərdən hansı yalnışdır?",
+      "options": [
+        "epiqastral nahiyədə ağrı,",
+        "qusma,",
+        "ürəkbulanma,",
+        "qarnın kopməsi,",
+        "uretrit əlaməti."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "227. Xroniki Pankreatit zamanı aşağıdakı simptomlardan hansı yalnışdır?",
+      "options": [
+        "Merfi simptomu,",
+        "Kaça simptomu,",
+        "soltərəfli Frenikus simptomu,",
+        "sağ tərəfli Frenikus simptomu,",
+        "Qrotta simptomu."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228. Peritonitin ən tez rast gələn səbəbi?",
+      "options": [
+        "kəskin appendisit",
+        "perforasiya olunmuş xora",
+        "salpinqit",
+        "stranqulyasiya olunmuş nazik bağırsaq",
+        "mədə kanseri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229. Peritonit üçün nə məxsus deyil?",
+      "options": [
+        "taxikardiya",
+        "quru dil",
+        "qarnın ön divarının əzələlərin qərqinliyi",
+        "bağırsaq peristaltikasının olmaması",
+        "diareya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "230. Peritonitin simptomlarına nə aid deyil",
+      "options": [
+        "qusma",
+        "qarnında ağrı",
+        "qanlı nəciz",
+        "nəciz və qazların xaric olmaması",
+        "qarnın ön divarının əzələlərin qərqinliyi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "231. Yayılmış peritonit diaqnozu ilə xəstənin xəstəliyin başlanmasından 36 saat sonra vəziyyəti ağırdır. A/T -70/50 mm rt. st. Sizin taktikanız",
+      "options": [
+        "Təcili əməliyyat",
+        "konservativ müalicə",
+        "2-3 saatlıq hazırlıqdan sonra təcili əməliyyat",
+        "peritonitin əmələ qəlmə səbəbini dəqiqləşdirənən sonra təcili əməliyyat",
+        "gözləmə tatikası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232. Səbəbinə görə kəskin ikincili peritonitlər hansılardı",
+      "options": [
+        "perforasiya nəticəsində olan",
+        "iltihab nəticəsində",
+        "işemiya nəticəsində",
+        "travma nəticəsində",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "233. Eksudatın xarakterinə görə peritonitlər necə ola bilər",
+      "options": [
+        "seroz",
+        "irinli",
+        "nəcizli",
+        "ödlü",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "234. Peritonitin gedişi hansı amillərdən asılıdır",
+      "options": [
+        "yayılma dərəcəsi",
+        "lokalizasiya",
+        "organizmin rezervlərindən",
+        "vaxtında olunan müalicədən",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "235. Peritonit diaqnozu hansı əlamətlər varsa qoyulur",
+      "options": [
+        "kəskin ağrı",
+        "bağırsaq səslərinin azalması",
+        "köp",
+        "tənginəfəslik",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "236. Peritonitin əlamətlər hansılardır?",
+      "options": [
+        "oliqouriya",
+        "taxikardiya",
+        "dehidratasiya",
+        "USMdə qarında maye",
+        "bütün cavablar doğrudur."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "237. Peritonitin ağırlaşmalarına nə aiddir?",
+      "options": [
+        "sepsis və septiki şok",
+        "abses",
+        "multiorqan yetməzliyi",
+        "letallıq 40%",
+        "bütün cavablar düzdür`"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "238. Vərəm peritonitin ağırlaşmalarına nə aiddir?",
+      "options": [
+        "bağırsaq kecməzliyi",
+        "ikincili infeksiyalar",
+        "qarındaxili orqanlarda vərəm",
+        "disseminasiya",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "239. Kəskin peritonit necə faiz hallarda qarında kəskin ağrılarla başlayır",
+      "options": [
+        "50%",
+        "60-70%",
+        "75-80%",
+        "85%",
+        "100%"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "240. Xəstə 46 yaşında qanqrenoz appendisitə görə appendektomiya əməliyyatı kecirmiş. 5 gündən sonra qarnın aşağı hissəsində küt ağrılar başlayıb, defekasiya zamanı ağrılar olur, tenezmlər. Temperatur (37,8-38,5C) Sizin diaqnozunuz?",
+      "options": [
+        "kəskin proktit",
+        "kəskin babasil",
+        "yayılmış peritonit",
+        "Duqlas boşluğunun absesi",
+        "kəskin sistit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "241. Buraxılmış rəqəmi əlavə edin. Peritonitin reaktiv mərhələsi . . . . . . . saat davam edir",
+      "options": [
+        "4-6",
+        "24",
+        "48",
+        "72",
+        "12"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "242. Peritonitin gecikmiş mərhələsinə nə aid deyil",
+      "options": [
+        "hipovolemiya",
+        "hipoproteinemiya",
+        "qarnında köp",
+        "güclü peristaltika",
+        "bağırsaq küylərin olmaması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "243. Birincili xroniki Pankreatitin yaranma səbəbləri hansılardır?",
+      "options": [
+        "zülal çatışmazlığı və xroniki alkoqolizm,",
+        "xolesistit,",
+        "xolangit,",
+        "duodenit,",
+        "bütün variantlar doğrudur."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244. Xroniki Pankreatitin təsnifatında hansı variant yalnışdır?",
+      "options": [
+        "xroniki indurativ Pankreatit,",
+        "xroniki xolesostopankreatit,",
+        "psevdotumoroz Pankreatit,",
+        "psevdosistoz Pankreatit,",
+        "xroniki uretral Pankreatit."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "245. Xroniki Pankreatit zamanı rast gəlinən əlamətlərdən hansı yalnışdır?",
+      "options": [
+        "epiqastral nahiyədə ağrı,",
+        "qusma,",
+        "ürəkbulanma,",
+        "qarnın kopməsi,",
+        "uretrit əlaməti."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "246. Xroniki Pankreatit zamanı rast gəlinən Kaça simptomu hansıdır?",
+      "options": [
+        "səkkizinci döş seqmentlərinin innervasiya etdiyi zonaların hiperstgeziyasi,",
+        "əzələ gərginliyi,",
+        "göbəkdən sol tərəfdə dərialtı piy təbəqəsinin azalması,",
+        "göbəkdən sağ tərəfə dərialtı piy təbəqəsinin azalması,",
+        "göbək ətrafında piqmentasiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247. Xroniki Pankreatit zamanı rast gəlinən Qrotta simptomu hansıdır?",
+      "options": [
+        "göbəkdən sol tərəfə dərialtı piy təbəqəsinin azalması,",
+        "əzələ gərginliyi,",
+        "səkkizinci döş seqmentlərinin innervasiya etdiyi zonaların hiperstgeziyasi,",
+        "göbəkdən sağ tərəfə dərialtı piy təbəqəsinin azalması,",
+        "göbək ətrafında piqmentasiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248. Xroniki Pankreatit zamanı rast gəlinən Turner simptomu hansıdır?",
+      "options": [
+        "göbək ətrafında piqmentasiya,",
+        "səkkizinci döş seqmentlərinin innervasiya etdiyi zonaların hiperstgeziyasi,",
+        "göbəkdən sol tərəfdə dərialtı piy təbəqəsinin azalması,",
+        "göbəkdən sağ tərəfə dərialtı piy təbəqəsinin azalması,",
+        "əzələ gərginliyi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249. Xroniki Pankreatitin diaqnostikasında qanın laborator analizində hansi ferment əsas yoxlanılır?",
+      "options": [
+        "amilaza,",
+        "kreatinin,",
+        "zülal,",
+        "diastaza,",
+        "sidik cövhəri."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "250. Xroniki Pankreatitin diaqnostikasında sidiyin laborator analizində hansi ferment əsas yoxlanılır?",
+      "options": [
+        "diastaza,",
+        "kreatinin,",
+        "zülal,",
+        "sidik cövhəri,",
+        "amilaza."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251. Xroniki Pankreatitin instrumental müayinələrdən hansı informativ sayılmır?",
+      "options": [
+        "pankreatoqrafiya,",
+        "ultrasəs müayinə,",
+        "kompüter tomoqrafiyası,",
+        "maqnit rezonans tomoqrafiyası,",
+        "elektroensefaloqrafiya."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "252. Xroniki Pankreatit zamanı cərrahi müdaxilə nə zaman icra olunur?",
+      "options": [
+        "xroniki pankreatit hər zaman cərrahi əməliyyata göstəriş sayılır,",
+        "xroniki pankreatitin fistula və sist ilə ağırlaşması zamani,",
+        "epiqastral nahiyədə ağrılar zamanı,",
+        "ürəkbulanma və qusmalarin olması zamanı,",
+        "xroniki pankreatit yalnız konservativ müalicə olunur."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "253. Virsunq axacaginin terminal hissəsinin stenozunda hansı əməliyyat icra olunur?",
+      "options": [
+        "papillosfinkterotomiya və virsunqoplastika,",
+        "pankreatoduedonal rezeksiya,",
+        "xolesistektomiya,",
+        "xoledoxolitotomiya,",
+        "qastrektomiya."
+      ],
+      "correct": 1
+    },
+    {
+      "question": "254. Mədəaltı vəzin sistlərinin hansı növləri var?",
+      "options": [
+        "həqiqi, yalançı,",
+        "birincili və ikincili,",
+        "tam və natamam,",
+        "xarici və daxili",
+        "qeyd olunan bütün cavablar doğrudur."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255. Həqiqi mədəaltı vəzi sistlərinin yalançı sistlərdən fərqi nədir?",
+      "options": [
+        "həqiqi sistlərin divarının daxili səthinin epitel örtüyünün olması ilə,",
+        "həqiqi sistlərin divarının daxili səthinin epitel örtüyünün olmamasi ilə,",
+        "yalançı sistlərin divarının daxili səthinin epitel örtüyünün olması ilə,",
+        "aralarında fərq yoxdur,",
+        "variantlar hamsi yalnışdır."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256. Mədəaltı vəzin baş nahiyəsində yerləşən böyük ölçülü sistin ağırlaşması hansıdır?",
+      "options": [
+        "mexaniki sarılıq, portal hipertenziya,",
+        "xolesistit,",
+        "duodenit,",
+        "xoledoxolitiaz,",
+        "qeyd olunan bütün cavablar yalnışdır."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257. Mədəaltı vəzin sistlərinin diaqnostikası zamanı hansı metod yalnışdır?",
+      "options": [
+        "pankreatoqrafiya,",
+        "ultrasəs müayinə,",
+        "kompüter tomoqrafiyası,",
+        "maqnit rezonans tomoqrafiyası,",
+        "elektroensefaloqrafiya."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "258. Mədəaltı vəzin sistlərinin quyruq hissəsində yerləşməsi zamanı aşağıdakı hansı cərrahi müdaxilə icra olunur?",
+      "options": [
+        "radikal sistektomiya,",
+        "pankreatoduedonal rezeksiya",
+        "qastrektomiya,",
+        "xoledoxolitotomiya,",
+        "qeyd olunan bütün cavablar yalnışdır."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259. Mədəaltı vəzin sistlərinin cərrahi müdaxiləsi zamanı aşağıdakı hansı cərrahi əməliyyat yalnışdır?",
+      "options": [
+        "sistoqastrostomiya,",
+        "sistoyeyunostomiya,",
+        "sistoduodenostomiya,",
+        "radikal sistektomiya,",
+        "qastrektomiya."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "260. Xroniki Pankreatitin yaranma səbəblərindən aşağıdakı yalnış variant hansıdır?",
+      "options": [
+        "xolesistit,",
+        "duodenit,",
+        "papillit,",
+        "xolangit,",
+        "uretrit."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "261. Mədəaltı vəzin quyruq və cismində yerləşən sistlərin ağırlaşması hansıdır?",
+      "options": [
+        "mexaniki sarılıq,",
+        "portal hipertenziya,",
+        "mədənin və ya sol böyrəyin funksiyasının pozulması,",
+        "xoledoxolitiaz,",
+        "qeyd olunan bütün cavablar."
+      ],
+      "correct": 2
+    }
+  ]
+}

@@ -1,0 +1,1148 @@
+{
+  "questions": [
+    {
+      "question": "1. B12 defisit anemiyada sinir sisteminin hansı zədələnməsi olur:",
+      "options": [
+        "Funikulyar mieloz",
+        "Asimmetrik periferik nevrit",
+        "Qıcolma sindromu",
+        "Üz sinirinin nevriti",
+        "Üçlü sinirinin nevriti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. B12 defisit anemiyada hansı sindrom olmur:",
+      "options": [
+        "Anemik",
+        "Mədə-bağırsaq",
+        "Nevroloji",
+        "Sarılıq",
+        "Artralgik"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "3. B12 defisit anemiyanın səbəbi deyil:",
+      "options": [
+        "Vegetarianlıq",
+        "Atrofik qastrit",
+        "Mədə rezeksiyası",
+        "Hamiləlik",
+        "Diflobatrioz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "4. Dəmir  defisiti üçün hansı klinik əlamət xarakterik deyil:",
+      "options": [
+        "Əzələ zəifliyi",
+        "Tükün tökülməsi",
+        "Disfagiya",
+        "Trombositopeniya",
+        "Koylonixiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "5. Dəmir defisitli anemiya üçün hansı xarakterikdir:",
+      "options": [
+        "Qanda dəmirin artıq olması",
+        "Zərdabın dəmir birləşdirmə qabiliyyətinin artması",
+        "Zərdabın dəmir birləşdirmə qabiliyyətinin azalması",
+        "Ferritinin artması",
+        "Rəng göstəricisinin yüksək olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "6. Hansı laborator müayinənin nəticəsindən sonra B12 defisitli anemiya diaqnozu tam dürüst olur:",
+      "options": [
+        "Rəng göstəricisinin artması",
+        "Eritrositlərin azalması",
+        "Makrositoz periferik qanda",
+        "Sümük iliyində meqaloblastoz",
+        "Leykositlərin sayının azalması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "7. Dəmir defisitli anemiya üçün xarakterik əlaməti göstərin:",
+      "options": [
+        "Retikulositoz",
+        "Makrositoz",
+        "Zərdabın dəmir birləşdirmə qabiliyyətinin artması",
+        "Dəmir toxumalara toplanır",
+        "EÇS – in artması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "8. B12 defisit anemiyanın müalicəsi aparılır:",
+      "options": [
+        "Hemotransfuziya",
+        "Vitamin B12 daxil",
+        "Vitamin B12 əzələ daxilinə",
+        "Fol turşusu",
+        "Dəmir preparatı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "9. Dəmirdefisitli anemiya üçün hansı xarakterik deyil:",
+      "options": [
+        "Sümük iliyində dəmirin artması",
+        "Qanda ferritinin azalması",
+        "Hipoxromiya və mikrositoz",
+        "Koylonixiya",
+        "Retikulositopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Anemiyanın simptomuna aid deyil:",
+      "options": [
+        "təngnəfəslik",
+        "sifətin avazıması",
+        "ürəkdöyünmə",
+        "sarılıq",
+        "soyuğa həssaslıq ( üşümək )"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "11. Fol turşusunun defisiti nə ilə müşayiət olunur:",
+      "options": [
+        "Hiperxromiya ilə",
+        "Leykositozla",
+        "Limfositozla",
+        "Monositozla",
+        "Hipoxromiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. B12 defisit anemiyada xəstənin rəngi:",
+      "options": [
+        "avazımış- sarımtıl",
+        "sarımtıl-kül",
+        "yaşılımtıl-sarı",
+        "göy",
+        "yaşılımtıl"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Dəmir əsasən haradan sorulur:",
+      "options": [
+        "Mədədən",
+        "Yoğun bağırsaqdan",
+        "12 barmaq və acı bağırsaqdan",
+        "Qalça bağırsaqdan",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "14. Dəmir hansı formada yaxşı sorulur:",
+      "options": [
+        "Ferritin",
+        "Hemosiderin",
+        "Hem",
+        "Sərbəst 3 valentli dəmir",
+        "Qeyri- hem"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "15. Autoimmun hemolitik anemiya isti hemolizin təsiri ilə hansının hesabına yaranır:",
+      "options": [
+        "Eritrosit membranı zülalı defekti",
+        "Qlobin zənciri defekti",
+        "İg G",
+        "Eritrositin ferment defekti hesabına",
+        "İg M"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "16. Dəmirin qidadan sorulmasını pisləşdirir:",
+      "options": [
+        "oksalat",
+        "vitamin C",
+        "kəhraba turşusu",
+        "xlor turşusu",
+        "polisaxarid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Qanda retikulositin artması hansı üçün xarakterikdir:",
+      "options": [
+        "Aplastik anemiya",
+        "Kəskin qanitirmə",
+        "B12 və fol defisitli anemiya",
+        "Kəskin leykoz",
+        "Xronik leykoz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. Dəmir defisit anemiyanın etiologiyasına aid deyil:",
+      "options": [
+        "Şüalanma",
+        "Xronik qanaxma",
+        "Dəmirə təlabatın artması",
+        "Alimentar çatışmazlıq",
+        "Dəmirin sorulmasının pisləşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Sideropeniyanın əlaməti hansıdır:",
+      "options": [
+        "Tükün tökülməsi",
+        "Skleranın ikterikliyi",
+        "Qaraciyərin böyüməsi",
+        "Dalağın böyüməsi",
+        "Limfoadenopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Zərdabda  dəmirin azalması hansı üçün xarakterikdir:",
+      "options": [
+        "Hemolitik anemiya",
+        "B12 defisit anemiya",
+        "Eritremiya",
+        "Erkən xloroz",
+        "Fol defisit anemiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "21. Anemiyada vidaci venada hansı küy eşidilir:",
+      "options": [
+        "Flint küyü",
+        "River – Korvala küyü",
+        "Fırfıra küyü",
+        "Qrexm – Still küyü",
+        "Dürzenin küyü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Uşaqlarda xeyli miqdarda üzlü inək südünün verilməsi nə üçün dəmir defisitli anemiya əmələ gətirir?",
+      "options": [
+        "südün albumini bağırsaqlardan dəmir itkisini artırır",
+        "süddə dəmir olmur",
+        "südün albumini bağırsaqlardan dəmir itkisini azaldır",
+        "südün albumini dəmirə təsir etmir",
+        "süd ishal yaratdığı üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Dəmir defisitli anemiya üçün xarakterikdir:",
+      "options": [
+        "Hipoxromiya, mikrositoz, sideroblast, hədəf eritrositlər",
+        "Hipoxromiya, mikrositoz, zərdabın dəmir birləşmə qabiliyyətinin artması",
+        "Hipoxromiya, mikrositoz, zərdabın dəmir birləşmə qabiliyyətinin azalması",
+        "Hipoxromiya, mikrositoz, hədəf eritrositlər",
+        "Hiperxromiya, makrositoz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "24. Dəmir defisitli anemiya üçün xarakterik deyil:",
+      "options": [
+        "Sümük iliyində dəmirin az olması",
+        "Qanda ferritinin az olması",
+        "Hipoxromiya və mikrositoz",
+        "Retikulositlərin sayının azalması",
+        "Sümük iliyində meqaloblastoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "25. Sideroaxrestik anemiyanı dəmir defisitli anemiyadan fərqləndirir: \n1) Serum dəmirinin artması \n2) Rəng göstəricisinin artması \n3) Trombositopeniya \n4) Sümük iliyində sideroblastların artması \n5) Eritroid sıra elementlərində dəmir qranulları",
+      "options": [
+        "1, 4, 5",
+        "2, 3",
+        "3, 4",
+        "2,3,5",
+        "1, 2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Sideroblast anemiyanın müalicəsi zamanı nə istifadə olunur?",
+      "options": [
+        "C – vitamini",
+        "B12 – vitamini",
+        "E – vitamini",
+        "Dəmir preparatları",
+        "B 6 – vitamini"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "27. Hədəfvari eritrostlər daha çox hansı xəstəlik üçün xarakterdir?",
+      "options": [
+        "İrsi sferositoz",
+        "Talassemiya",
+        "Dəmir defisitli anemiya",
+        "Oraqvari heceyrəli anemiya",
+        "Sideroblast anemiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Dəmir defisitli anemiyada olmur:",
+      "options": [
+        "retikulositoz",
+        "zərdab dəmirinin səviyyəsinin azalması",
+        "ferritinin azalması",
+        "eritrositin həcminin azalması",
+        "anizo – poykilositoz mikrositoza meyillik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Dəmir defisitli anemiyada qanın şəkli: \n1) leykositoz, \n2) leykopeniya, \n3) aşağı rəng göstəricisi, \n4) anizo- poykilositoz, \n5) trombositopeniya",
+      "options": [
+        "3, 4",
+        "1, 2, 3",
+        "1, 3",
+        "2, 4, 5",
+        "2, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Hemolitik kriz nə ilə müşahidə olunur?",
+      "options": [
+        "Periferik qanda retikuloz ilə",
+        "Leykopeniya",
+        "Onurğa ağrılarla",
+        "Diffuz sianozla",
+        "Huşun itirilməs ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Aplastik anemiyanın xarakterik əlamətini göstərin:",
+      "options": [
+        "eritrositin hipoxromiyası",
+        "anizo – poykilositoz",
+        "makrositoz",
+        "pansitopeniya",
+        "qanda dəmirin artması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Sağlam kişidə hemoqlobinin miqdarı:",
+      "options": [
+        "170 – 200 q/l",
+        "100 – 110 q/l",
+        "130 – 160 q/l",
+        "90 – 100 q/l",
+        "160 – 200 q/l"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "33. Hansı əlamət dəmir defisitli anemiyaya uyğun deyil:",
+      "options": [
+        "rəng göstəricisi 0,7",
+        "eritrosoton hipoxromiyası",
+        "neytrofilin hiperseqmentasiyası",
+        "anizo – poykilositoz",
+        "mikrositoz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "34. Koylonixiya nədir:",
+      "options": [
+        "dırnağın kövrəkliyi",
+        "dırnağın saat şüşəsinə oxşaması",
+        "dırnaqda qaşığa oxşar çökəklik",
+        "dırnaqda köndələn çatlar",
+        "dırnaqda boylama ağ cizgilər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "35. Leykemoid reaksiyanın leykozdan fərqli əlaməti hansıdır:",
+      "options": [
+        "blast hüceyrənin olmaması",
+        "proqressiv gedişli olması",
+        "anemiyanın olması",
+        "hemorragiyanın olması",
+        "leykopeniyanın olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Hemofiliyanın diaqnostik əlaməti hansıdır:",
+      "options": [
+        "Fibrinogenin azalması",
+        "Qan axma müddətinin artması",
+        "Qan laxtalanma müddətinin artması",
+        "Trombositin azalması",
+        "Qan laxtasının retraksiya müddətinin pozulması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Verilhof xəstəliyində hemorragik sindromun səbəbi:",
+      "options": [
+        "Trombositoz",
+        "III, IV faktorların çatışmazlığı",
+        "IX faktorun çatışmazlığı",
+        "Trombositopeniya",
+        "VIII faktorun çatışmazlığı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "38. Qranulositar sıradan olan hansı formalı element normada qanda olur:",
+      "options": [
+        "Limfoblast",
+        "Mieloblast",
+        "Çöp nüvəli neytrofil",
+        "Promielosit",
+        "Eritroblast"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "39. Hemofiliyada qanaxma hansının nəticəsində yaranır:",
+      "options": [
+        "Trombositin defisiti",
+        "II, III, IV faktorların çatışmazlığı hesabına",
+        "VIII, IX faktorların çatışmazlığı hesabına",
+        "V, VI faktorların çatışmazlığı hesabına",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "40. Neytrofil hansından başlanğıc götürür:",
+      "options": [
+        "Limfositdən",
+        "Meqakarioblastdan",
+        "Mieloblastdan",
+        "Eritroblastdan",
+        "Plazmoblastdan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "41. Xronik limfoleykoz diaqnozu üçün hansının təyini məqsədə uyğundur:",
+      "options": [
+        "Dərialtı toxumanın biopsiyası",
+        "Böyrək biopsiyası",
+        "Dalaq biopsiyası",
+        "Böyümüş limfa vəzin biopsiyası",
+        "Trepanobiopsiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Xronik limfoleykozda hansı daha çox rast gəlinir:",
+      "options": [
+        "Hemartroz",
+        "Hipersplenizm",
+        "Kardiomeqaliya",
+        "Limfoadenopatiya",
+        "Limfopeniya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "43. Hemofiliyada qan axma hansının hesabına olur:",
+      "options": [
+        "V faktorun defisiti",
+        "Damar keçiriciliyinin artmasına görə",
+        "Tromboplastin sintezinin pozulmasına görə",
+        "Qanın fibrinolitik aktivliyinin azalmasına görə",
+        "Trombositopeniyaya görə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "44. Aşağıdakılardan hansı sindrom hipersplenizmə xarakterikdir:",
+      "options": [
+        "Anemiya, limfositoz, trombositopeniya",
+        "Anemiya, leykositoz, trombositopeniya",
+        "Anemiya, leykopeniya, trombositopeniya",
+        "Anemiya, leykopeniya, trombositoz",
+        "Anemiya, leykositoz, trombositoz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "45. Autoimmun trombositopeniyanı törədir:",
+      "options": [
+        "Emosional stres",
+        "Hipoksiya",
+        "Virus infeksiyası",
+        "B12 vitamin çatışmazlığı",
+        "Dəmir çatışmazlığı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "46. Anadangəlmə hemolitik anemiyada olur: \n1) Normoxrom anemiya, \n2) trombositoz, \n3) retikulositoz, \n4) EÇS – in artması, \n5) hiperxrom anemiya:",
+      "options": [
+        "1, 3",
+        "3, 4",
+        "1, 2",
+        "3, 4, 5",
+        "2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Autoimmun trombositopeniya üçün xarakterikdir \n1) ağır anemik sindrom, \n2) trombositoz olur, \n3) digər autoimmun xəstəliyin fonunda olur, \n4) gövdədə ləkəli petexiyalar olur, \n5) periferiyada trombositlər 100 mindən az olur.",
+      "options": [
+        "1, 3",
+        "3, 4, 5",
+        "1, 2, 5",
+        "3, 4",
+        "2, 4, 5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "48. 60 yaşlı xəstədə anemiya, dəri örtüyü avazıyıb saralıb, sidiyində metilmalon turşusu vardır. Ehtimal olunan diaqnoz:",
+      "options": [
+        "B12 defisit anemiya",
+        "fol defisit anemiya",
+        "aplastik anemiya",
+        "hemolitik anemiya",
+        "makrositar anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Meqaloblastik anemiyada olmur:",
+      "options": [
+        "MCHC artır",
+        "MCV artır",
+        "MCH artır",
+        "MCHC norma",
+        "Prays – Cons əyrisi sağa əyilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Meqaloblastik anemiyanın müalicəsindən sonra nə üçün rəng göstəricisi azalır?",
+      "options": [
+        "eritrositin miqdarı hemoqlabin səviyyəsindən daha tez artır",
+        "hemoqlabin sintezi azalır",
+        "eritrosit miqdarı azalır",
+        "dəmir çatışmır",
+        "dəmir çox olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Dəmir defisitli anemiyanın və xronik xəstəliklər zamanı ortaya çıxan anemiyaların differensial diaqnozu üçün ən çox əhəmiyyətlidir:",
+      "options": [
+        "Zərdab dəmirinin və zərdabın ümumi dəmirbağlama qabiliyyətinin təyini",
+        "Sadalanan parametrlərin hamısının təyini",
+        "Mieloqrammanın müayinəsi",
+        "Qanda ferritinin konsentrasiyasının təyini",
+        "Qanda transferrinin konsentrasiyasının təyini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. Heyns – Erlix cisimcikləri hansı xəstəlik üçün xarakterikdir:",
+      "options": [
+        "Qlükoza - 6- fosfatdehidrogenaza defisiti",
+        "B12 defisitli anemiya",
+        "Dəmir defisitli anemiya",
+        "Fol defisitli anemiya",
+        "Bütün növ hemolitik anemiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. İrsi sferositozlu xəstədə splenektomiyadan sonra baş verir:",
+      "options": [
+        "Əksər xəstələrdə hemoqlabinin səviyyəsi normallaşır",
+        "Periferik qanda sferositlər qeyd olunmur",
+        "Trombositlərin səviyyəsi 200 000 – dən yuxarı olmur",
+        "Trombositopeniya qeyd olunur",
+        "Ciddi fəsadlar qeyd olunmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. B12 defisitli anemiyanı, fol defisitli anemiyadan  fərqləndirən klinik əlamətlər:",
+      "options": [
+        "Onurğa beyninin yan kötüyünün zədələnməsi və ya iflici – funikulyar mieloz",
+        "Baş gicəllənməsi",
+        "Fiziki işdən sonra meydana çıxan təngnəfəslik, ürək döyünməsi",
+        "Dispeptik əlamətlər",
+        "Zəiflik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Uşaqda proteinuriya ilə müşayiət olunan hiperxrom meqaloblast anemiyanın səbəbi:",
+      "options": [
+        "Nefrotik sindrom",
+        "Nefritlə müşayiət olunan dəmir defisitli anemiya",
+        "Leş – Hayan sindromu",
+        "Xronik böyrək çatımazlığı",
+        "İmerslun – Qresbek sindromu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Xəstənin febril temperaturu, boğazında ağrılar, avazımış sifəti, qanda hiperleykositoz, differensasiya olmamış hüceyrələr və Hiatus leykemicus aşkar olunur. Xəstədə ehtimal olunan diaqnoz:",
+      "options": [
+        "Xronik mieloleykoz",
+        "Xronik limfoleykoz",
+        "Kəskin leykoz",
+        "B12 defisitli anemiya",
+        "Dəmir defisitli anemiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "59. Aplastik anemiya üçün hansı xarakterik deyil:",
+      "options": [
+        "Qanaxma",
+        "İnfeksiyaya qarşı rezistenliyin azalması",
+        "Anemiya",
+        "Eritrositoz",
+        "Leykopeniya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Eritremiya zamanı trombotik fəsadlaşmanın səbəbi deyil:",
+      "options": [
+        "Sirkulə edən eritrositin kütləsinin artması",
+        "Qanın özlülüyünün artması",
+        "Trombositoz",
+        "Damar keçiriciliyinin artması",
+        "Trombositin funksional pozğunluğu :"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "61. Əgər xəstədə anemiya, trombositopeniya, periferik qanda blastoz varsa hansını düşünmək olar:",
+      "options": [
+        "Aplastik anemiya",
+        "Kəskin leykoz",
+        "B12 defisitli anemiya",
+        "Eritremiya",
+        "Hemolitik anemiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "62.  Xronik mieloleykozda hansı düz deyil:",
+      "options": [
+        "splenomeqaliya",
+        "hepatomeqaliya",
+        "hiperurikemiya",
+        "periferik qanda mielositin olmaması",
+        "limfa vəzilərin böyüməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "63. Eritremiyanı ikincili eritrositozdan hansı fərqləndirir:",
+      "options": [
+        "trombositopeniyanın olması",
+        "trombositozun olması",
+        "neytrofildə qələvi fosfatazanın artması",
+        "böyük trombosit",
+        "bazofilin artması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "64. Eritremiya diaqnozu hansının əsasında qoyulur?",
+      "options": [
+        "eritrositin, leykositin, trombositin sayının artması",
+        "trombositin sayının artması",
+        "leykositin sayının artması",
+        "eritrosit və leykositin sayının artması",
+        "limfositlərin sayının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Hansında sadə müalicə üsulu ilə qanburaxma tətbiq olunur?",
+      "options": [
+        "eritremiyada",
+        "mieloleykozda",
+        "limfoleykozda",
+        "kəskin leykozda",
+        "limfoqranulomatozda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Filadelfiya xromosomu hansında tapılır:",
+      "options": [
+        "Mielom xəstəliyində",
+        "Xronik limfoleykozda",
+        "Kəskin posthemorragik anemiyada",
+        "Dəmir defisitli anemiyada",
+        "Xronik mieloleykozda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Xronik mieloleykozun diaqnostik kriteriyası hesab olunur:",
+      "options": [
+        "Leykositoz",
+        "Mieloid hiperplaziya, filadelfiya xromosomu ilə",
+        "Eozinofil – bazofil assosasiya",
+        "Anemiya",
+        "Mieloqrammada 60 % promieloblast"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "68. XLL – in xarakterik hematoloji əlaməti hansıdır:",
+      "options": [
+        "Botkin – Humbrext kölgəsi",
+        "Lukin – Libman əlaməti",
+        "Şarko – Leyden kristalı",
+        "Botkin – Erb nöqtəsi",
+        "Sokolov – Layon indeksi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. XLL – in çox rast gəlinən forması:",
+      "options": [
+        "A – hüceyrəli",
+        "B – hüceyrəli",
+        "T – hüceyrəli",
+        "Tükhüceyrəli",
+        "Yastıhüceyrəli"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "70. Əgər xəstədə limfatik vəzlər, dalaq böyümüş, limfositoz varda hansı ehtimal ola bilər?",
+      "options": [
+        "Limfoqranulomatoz",
+        "Kəskin limfoblast leykoz",
+        "Xronik limfoleykoz",
+        "Xronik mieloleykoz",
+        "Eritremiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "71. Çoxsaylı mieloma xəstəliyinin fəsadı deyil:",
+      "options": [
+        "böyrək çatışmazlığı",
+        "hiperkaoqulyasiya",
+        "infeksiya",
+        "osteolitik zədələnmə",
+        "hipokaoqulyasiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "72. Eritremiya üçün xarakterikdir:",
+      "options": [
+        "panmieloftiz",
+        "periferik qanda pansitoz, sümük iliyinin hipermielozu",
+        "sümük iliyinin piy toxuması ilə tutulması",
+        "pansitopeniya",
+        "EÇS – in artması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "73. Xronik mieloleykozun daha çox xarakterik əlaməti hansıdır:",
+      "options": [
+        "Antibiotiklə salınan qızdırma",
+        "Qanaxma və dəri qaşınması",
+        "Boyun limfatik vəzlərin böyüməsi və leykositoz",
+        "Qaraciyərin böyüməsi və anemiya",
+        "Splenomeqaliya və lekositoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "74. Aplastik anemiyada sümük iliyində nə artır:",
+      "options": [
+        "piy toxuması",
+        "retikulosit",
+        "eritrozit",
+        "leykosit",
+        "trombosit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Oraqvarı hüceyrəli anemiyada krizin növünə aid deyil:",
+      "options": [
+        "aritmik",
+        "vazookluziv",
+        "sekvestrasion",
+        "hemolitik",
+        "aplastik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Oraqvarı hüceyrəli anemiyada nə üçün eritrosit formasını dəyişir?",
+      "options": [
+        "qlobulin zəncirinin polimerizasiyası baş verir",
+        "qlobulinin denaturasiyası olur",
+        "hem dağılır",
+        "hemoqlabin dağılır",
+        "eritrosit membranı dəyişir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Oraqvarıhüceyrəli anemiyada ümumi qan analizinin nəticəsi üçün tipik deyil:",
+      "options": [
+        "eozinofiliya",
+        "normo və ya hipoxrom anemiya",
+        "retikulositoz",
+        "eritrositlərin bazofil dənəliyi, tək – tək normoblastlar",
+        "leykositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Əgər xəstənin dalağı böyümüşsə, sərbəst bilirubini yüksəkdirsəehtimal olunan diaqnoz:",
+      "options": [
+        "autoimmun hemolitik anemiya",
+        "fol defisit anemiya",
+        "aplastik anemiya",
+        "B12 defisit anemiya",
+        "makrositar anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Talassemiyanın simptomlarına aiddir: \n1) splenomeqaliya, \n2) hədəfəbənzər eritrosit, \n3) sferosit, \n4) meqaloblast, \n5) makrosit",
+      "options": [
+        "1, 4",
+        "3, 4, 5",
+        "1, 4",
+        "3, 4",
+        "1, 2"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Talassemiya zamanı hemoqlabin səviyyəsi:",
+      "options": [
+        "çox artır",
+        "artır",
+        "dəyişmir",
+        "həm artır, həm azalır",
+        "azalır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "81. Kiçik talassemiyanın diaqnozu:",
+      "options": [
+        "qənaətbəxşdir",
+        "pisdir",
+        "pessimistikdir",
+        "təhlükəlidir",
+        "letaldır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. İTP üçün səciyyəvidir:",
+      "options": [
+        "laxtalanma müddətinin azalması",
+        "laxtalanma müddətinin uzanması",
+        "qanaxama müddətinin uzanması",
+        "protrombin müddətinin uzanması",
+        "protrombin müddətinin azalması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "83. İTP – də splenektomiyadan sonra olur: \n1) Trombositin sayının artması, \n2) Qanda Jolli cisimciyi, \n3) Trombositin sayı azalır, \n4) Qanın laxtalanma müddəti azalır, \n5) Protrombin müddəti uzanır",
+      "options": [
+        "1, 4",
+        "1, 3, 4",
+        "1, 2",
+        "2, 3, 5",
+        "3, 4, 5"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "84. YDLS – in ən çox rast gəlmə səbəbi?",
+      "options": [
+        "müxtəlif etiologiyalı şok",
+        "böyrək xəstəlikləri",
+        "dalaq xəstəlikləri",
+        "ürək xəstəlikləri",
+        "mədə xəstəlikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Xronik limfoleykozda blast krizi müşahidə olunurmu?",
+      "options": [
+        "nadir hallarda",
+        "olmur",
+        "çox olur",
+        "az halda",
+        "bəzi halda çox, bəzən də az"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Xronik mieloleykoz üçün xarakterik olmayan nədir?",
+      "options": [
+        "Limfositoz",
+        "Eozinofil- bazofil assosiyası",
+        "Mieloproliferativ xəstəliklərə aid ol ası",
+        "Dalaq və qaraciyərin böyüməsi",
+        "Trombositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Xoçkin limfomasının sinonimi:",
+      "options": [
+        "limfoqranulomatoz leykemoid reaksiya",
+        "limfoleykoz",
+        "kəskin limfoblast leykoz",
+        "kəskin mieloblast leykoz",
+        "limfoqranulomatoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "88. Mielom xəstəliyi üçün xarakterik deyil:",
+      "options": [
+        "hiperproteinemiya olur",
+        "ümumi simptomu beldə ağrılardır",
+        "başlıca olaraq yeniyetmələr tutur",
+        "zülal elektroforezində M – qradientin olması",
+        "rentgenoqrafiyada yastı sümüklərin osteolitik defekti"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "89. Hemofiliya A üçün tipik əlamətlər:",
+      "options": [
+        "hematom tip qanaxma",
+        "qan yaxmasında Botkin – Hunberxt hüceyrəsi",
+        "sümük iliyində meqakariositlər azalır",
+        "qanaxma müddəti uzanır",
+        "trombositopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Xronik mieloleykozun klinik əlamətinə aid deyil:",
+      "options": [
+        "hiatus leucaemicus",
+        "splenomeqaliya",
+        "leykositoz",
+        "filadelfiya xromosmunun olması",
+        "hemorragik sindrom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Aplastik anemiyanın müalicəsində istifadə olunmur:",
+      "options": [
+        "hemotransfuziya",
+        "qlükokortikosteroidlər",
+        "immundepressantlar",
+        "dəmir preparatı",
+        "siklosporin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "92. “ Pletora “ hansı xəstəlik üçün xarakterikdri?",
+      "options": [
+        "Limfoqranulematoz",
+        "Xroniki mieloleykoz",
+        "Eritremiya",
+        "Essensial trombositopeniya",
+        "Xroniki limfoleykoz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "93. Limfoqranulematozun diaqnostikasında həlledici rol oynayır?",
+      "options": [
+        "Qanın müayinəsi ( hemoqramma, biokimyəvi müayinələr )",
+        "Trepanobiopsiya",
+        "Limfoid toxumanın mikroskopik müayinəsi",
+        "Limfoqrafiya",
+        "Komputer tomoqrafiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "94. Eritromelalgiya, başda ağırlıq hissi hansı xəstəlik zamanı müşahidə edilir?",
+      "options": [
+        "Neyroleykoz",
+        "Xronik limfoleykoz",
+        "Amiloidoz",
+        "Eritremiya",
+        "Anemiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "95. Kəskin leykoza şübhə olduqda ilk növbədə hansı müayinə həyata keçirilməlidir?",
+      "options": [
+        "Retikulositlərin sayılması",
+        "Limfa düyünün biopsiyası",
+        "Dalaq cvə qaraciyərin USM – i",
+        "Dalağın punksiyası",
+        "Sümük iliyinin punksiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. Xronik mieloleykoz üçün xarakterikdir : \n1) Kəskin mieloblastlı xəstədə yaranır; \n2) Sərbəst mieloproliferativ xəstəlikdir; \n3) Pansitopeniya ilə xarakterizə olunur; \n4) Trombositozla müşayiət oluna bilər; \n5) Qaraciyər və dalağın böyüməsi xarakterikdir.",
+      "options": [
+        "2, 4, 5",
+        "1 ,2",
+        "3, 5",
+        "1, 2, 4",
+        "1, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Leykozların kəskin və xronik formalara bölünməsi nəyə əsaslanır?",
+      "options": [
+        "Nomal qan hüceyrələrinin sıxılma dərəcəsi",
+        "Xəstəliyin davametmə müddətinə",
+        "Hüceyrə substratının morfoloji, sitokenetik və sitokimyəvi xüsusiyyətllərinə görə",
+        "Xəstənin yaşına",
+        "Xəstəliyin gedişinə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "98. Kəskin promielositar leykoz çox zaman?",
+      "options": [
+        "İmmun trombositopeniya ilə müşayiət olunur",
+        "YDLS sindromuna gətirir",
+        "Leykositozla müşayiət olunur",
+        "Autoimmun anemiya ilə müşayiət olunur",
+        "Limfadenopatiya ilə müşayiət olunur"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "99. Eritrositlərin çökmə sürətinin azalması nə zaman qeyd edilir?",
+      "options": [
+        "Revmatoid poliartritdə",
+        "Eritremiyada",
+        "İmmun – iltihabi proseslərdə",
+        "İnfeksion xəstəliklərdə",
+        "Mielom xəstəliyində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "100. Mielom xəstəliyi üçün xarakter olmayan əlamət hansıdır?",
+      "options": [
+        "Elektrofarez zaman M – qradientin aşkar edilməsi",
+        "Hiperproteinemiya",
+        "Sidikdə Bens – Cons zülalının aşkar edilməsi",
+        "Sümük iliyində differensasiya etməmiş blastların 20 % - dən çox olması",
+        "Hiperkalsemiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "101. B12 – defisitli anemiyalı xəstənin əsas şikayəti hansıdır?",
+      "options": [
+        "dildə yanğı",
+        "döş sümüyünün arxasında ağrı",
+        "axsama",
+        "yaxındangörmə",
+        "ürəkbulanma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. B12 defisitli anemiyanın xarakter əlaməti:",
+      "options": [
+        "yüksək rəng göstəricisi",
+        "leykositoz",
+        "EÇS-in sürətlənməsi",
+        "hipertrombositoz",
+        "limfositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. B12 defisitli anemiyalı xəstənin müalicə taktikası:",
+      "options": [
+        "ömür boyu aparılır",
+        "hemoqlabinin səviyyəsi normalaşşana qədər",
+        "1 il",
+        "3 ay",
+        "ildə 2 dəfə 3 aylıq kurslarla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. Hemolizin göstəricisi deyil:",
+      "options": [
+        "rəng göstəricisinin aşağı olması",
+        "dalağın böyüməsi",
+        "zərdab dəmirinin miqdarının artması",
+        "sidikdə urobilinin miqdarının artması",
+        "retikulositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. Xronik mieloleykozun inkişaf etmiş mərhələsində periferik qanın xarakter xüsusiyyətləri: \n1) metamielositlərə qədər sola meyillilik; \n2) limfositlərin sayının artması; \n3) bazofil – eozinofil assosiasiya; \n4) plazmoblast tip hüceyrələrin yaranması.",
+      "options": [
+        "1, 3",
+        "2, 3",
+        "2, 4",
+        "1, 4",
+        "1, 2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. YDLS – da hemostazda baş verən dəyişikliklər hansıdır: \n1) hipo- yaxud hiperkoaqulyasiya, fibrinin deqradasiya məhsullarının olması, fibrinolizin aktivliyinin sönməsi; \n2) hipertrombositoz; \n3) trombositopeniya və fibrinogenin azalması; \n4) trombositlərin rsitomisin – aqlyutinasiyasının olmamas, fibronektinin azalması",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "2, 4",
+        "1, 4",
+        "2, 3"
+      ],
+      "correct": 0
+    }
+  ]
+}

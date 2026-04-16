@@ -1,0 +1,1137 @@
+{
+  "questions": [
+    {
+      "question": "1. Eritrositoz nədir ?",
+      "options": [
+        "Leykositlərin miqdarının azalması",
+        "Eritrositlərin miqdarının azalması",
+        "Leykositlərin miqdarının artması",
+        "Trombositlərin miqdarının azalması",
+        "Eritrositlərin miqdarının artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2. Anizositoz nəyin dəyişikliyidir?",
+      "options": [
+        "Eritrositlərin formasının",
+        "Yuxarıda sadalananların hamısı",
+        "Eritrositlərin həcminin",
+        "Leykositlərin formasının",
+        "Eritrositlərin ölçülərinin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "3. Poykilositoz nədir?",
+      "options": [
+        "Leykositlərin formasının dəyişilməsi",
+        "Yuxarıda sadalananların hamısı",
+        "Eritrositlərin həcminin dəyişilməsi",
+        "Eritrositlərin formasının dəyişilməsi",
+        "Eritrositlərin ölçülərinin dəyişilməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "4. Eritromelalgiya nə zaman rast gəlinir?",
+      "options": [
+        "Heç biri doğru deyil",
+        "Xroniki qastrit zamanı",
+        "Vakez xəstəliyi zamanı",
+        "Qlaukoma zamanı",
+        "Aplastik anemiya zamanı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "5. Polisitemiya Vera (Vakez xəstəliyi) zamanı hemoglobin necə dəyişir?",
+      "options": [
+        "Xəstəliyin başlanğıcından iki il sonra artır",
+        "Xəstəliyin əvvəlində azalır",
+        "Dəyişmir",
+        "Azalır",
+        "Artır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "6. Polisitemiya Vera (Vakez xəstəliyi) zamanı hemoglobin miqdarı kişilərdə necə dəyişir?",
+      "options": [
+        "18.5 g/dl-dən aşağı olur",
+        "Dəyişmir",
+        "18.5 g/dl-dən yuxarı olur",
+        "17.0 g/dl-dən aşağı olur",
+        "Azalır"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Vakez xəstəliyinin müalicəsinə nələr daxildir?",
+      "options": [
+        "Hematopoetik kök hüceyrə nəqli",
+        "İnterferon alfa",
+        "Sitoreduktiv müalicə",
+        "Sadalananlardan hamısı",
+        "Flebotomiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "8. Leykositoz nədir?",
+      "options": [
+        "Eritrositlərin miqdarının artması",
+        "Trombositlərin miqdarının azalması",
+        "Leykositlərin miqdarının artması",
+        "Leykositlərin miqdarının azalması",
+        "Eritrositlərin miqdarının azalması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "9. Anemiyanın simptomlarına nə aiddir?",
+      "options": [
+        "Aşağı arterial təzyiq",
+        "Ürəkdöyünmə",
+        "Başgicəllənmə",
+        "Dəridə avazıma",
+        "Sadalananlardan hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "10. Anemiya zamanı hansı laborator dəyişikliklər baş verir?",
+      "options": [
+        "Heç biri doğru deyil",
+        "Qadınlarda hemoqlobinin 120 q/l-dən və eritrositlərin 3.5x10*12/l dən yuxarı qalxması",
+        "Hemoqlobinin və eritrositlərin miqdarının artması",
+        "Bütün variantlar doğrudur",
+        "Kişilərdə hemoqlobinin 130 q/l-dən və eritrositlərin 4x10*12/l dən aşağı enməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "11. Hemoqlobinin qanda normal miqdarı hansıdır?",
+      "options": [
+        "150 - 170 q/l",
+        "100 - 110 q/l",
+        "140 - 160 q/l",
+        "100 - 120 q/l",
+        "120 - 150 q/l"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "12. Eritrositlərin qanda normal miqdarı hansıdır?",
+      "options": [
+        "5,9 – 9,5x10*12 q/l",
+        "2.9 - 3.5x10*12 q/l",
+        "4 - 9x10*12 q/l",
+        "6 - 8.0x10*12 q/l",
+        "3.9 - 5.0x10*12 q/l"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "13. Anemiya üçün xarakterik deyil?",
+      "options": [
+        "Selikli qişaların və dərinin avazıması",
+        "Təngnəfəslik, taxikardiya",
+        "Ürəkdə sistolik küy",
+        "Bədən hərarətinin 38-dən çox qalxması",
+        "Zəiflik, halsızlıq, tez yorulma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "14. Anemiyanın əsas simptomları nə ilə əlaqədardır?",
+      "options": [
+        "Hiperurikemiya",
+        "Malabsorbsiya",
+        "Su-elektrolit balansının pozulması",
+        "İntoksikasiya",
+        "Hipoksemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "15. Hemoqlobinin tərkibində bədəndə olan dəmirin neçə faizi vardır?",
+      "options": [
+        "10%",
+        "60%",
+        "30%",
+        "90%",
+        "40%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. Adqeziyaya mane olan maddəni gostərin:",
+      "options": [
+        "Villebrand faktoru",
+        "Tromboksan",
+        "Epinefrin",
+        "Serotonin",
+        "Prostasiklin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "17. Trombosit üzərində olan reseptorlar hansı faktorlara həssasdır, uyğunluğu müəyyən edin: a. villebrand faktoru b. kollagen C. fibrinogen d. tromboksan e. heparansulfat 1) GP IA 2) GP IIB/IIIA 3) GP IB",
+      "options": [
+        "1e, 2c, 3c",
+        "1a, 2e, 3d",
+        "1d, 2c, 3e",
+        "1b, 2d, 3e",
+        "1b, 2c, 3a"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "18. Aşağıda sadalananlardan hansı prosesdə trombin iştirak etmir?",
+      "options": [
+        "Fibrinogenin parçalanması ilə fibrin yaranması",
+        "Villebrand faktorunun sekresiyası",
+        "Fibrinolizin ingibə olunması",
+        "Tromb stabilizasiyası",
+        "Protein C yolunu aktivləşməsi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. Sadalananlardan hansı aqreqasiyanı aktivləşdirir və araxidon turşusu məhsuludur?",
+      "options": [
+        "Proakselerin",
+        "Kristmas faktoru",
+        "Epinefrin",
+        "Prostasiklin",
+        "Tromboksan"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "20. Laxtalanmanın daxili yolunda iştirak etməyən faktoru göstərin:",
+      "options": [
+        "XI",
+        "X",
+        "VIII",
+        "IX",
+        "VII"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "21. Antitrombin hansı faktorları inaktivə edir?",
+      "options": [
+        "VIIIa, IIa, Xa",
+        "Xa, VIIa, XIa",
+        "IIa, VIIIa, VIIa",
+        "IIa, VIIa, XIa",
+        "IIa, Xa, XIa"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Toxuma faktoru birbaşa hansı faktoru aktivləşdirir?",
+      "options": [
+        "XIII",
+        "XI",
+        "II",
+        "IX",
+        "VII"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "23. Heparinin antikoaqulyant effekti birbaşa hansı faktorla bağlıdır?",
+      "options": [
+        "Prokonvertin",
+        "Proakselerin",
+        "Plazmin",
+        "Antitrombin",
+        "Fibrinogen"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Antitrombinin aktivləşməsini hansı preparat təmin edir?",
+      "options": [
+        "Dipiridamol",
+        "Klopidoqrel",
+        "Varfarin",
+        "Aspirin",
+        "Heparin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "25. Sadalananlardan hansı preparat fibrinolizi aktivləşdirir?",
+      "options": [
+        "Klopidoqrel",
+        "Dipiridamol",
+        "Aspirin",
+        "Heparin",
+        "Urokinaza"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "26. Toxuma faktoru yolunun ingibitoru hansı faktorlara təsir edir?",
+      "options": [
+        "IXa, VIIa",
+        "Va, IIa",
+        "Xa, Va",
+        "VIIa, Xa",
+        "IIa, VIIa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "27. Trombinin trombomodulinlə birləşməsi hansı faktoru aktivləşdirir?",
+      "options": [
+        "Prokonvertin",
+        "Trombin",
+        "Antitrombin",
+        "Plazmin",
+        "Protein C"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "28. Protein C hansı faktorlara təsir edir?",
+      "options": [
+        "Xa, VIIIa",
+        "IXa, Va",
+        "IIa, Va",
+        "Xa, IXa",
+        "Va, VIIIa"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Vitamin K –dan asılı olan faktorları göstərin:",
+      "options": [
+        "Antitrombin",
+        "Protein C",
+        "Plazmin",
+        "Toxuma faktorunun inhibitoru",
+        "Urokinaza"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "30. Laxtalanma faktorlarından hansının aktivləşməsi vitamin K-dan asılı deyil?",
+      "options": [
+        "X",
+        "VII",
+        "IX",
+        "II",
+        "XIII"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Sadalananlardan hansının antiaqreqasiya effekti yoxdur?",
+      "options": [
+        "Tirofiban",
+        "Dipiridamol",
+        "Klopidoqrel",
+        "Urokinaza",
+        "Aspirin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Aşağıdakılardan hansı hemolizin fərqləndirici xüsusiyyətlərindən biridir:",
+      "options": [
+        "Konyuqəolunmuş bilirubinin artması",
+        "Methemalbuminin azalması",
+        "Artmış hemoqlobin",
+        "Laktatdehidrogenazanın azalması",
+        "Azalmış hemoqlobin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. Aşağıdakılardan hansı hemolizin fərqləndirici xüsusiyyətlərindən biridir:",
+      "options": [
+        "Eritrositoz",
+        "Haptoqlobinin artması",
+        "Methemalbuminin azalması",
+        "Laktatdehidrogenazanın azalması",
+        "Sidikdə urobilinogenin artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "34. Hansı infeksion xəstəlik damardaxili hemolizə səbəb ola bilər:",
+      "options": [
+        "Amöbiaz",
+        "Difteriya",
+        "Dizenteriya",
+        "Salmanelyoz",
+        "Malyariya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "35. Damardaxili hemolizin səbəblərinə aid deyil:",
+      "options": [
+        "Clostridium perfringens",
+        "ABO sistemi üzrə transfuzion reaksiya",
+        "Paroksizmal gecə hemoqlobinuriyası",
+        "DDL-sindrom",
+        "İrsi sferositoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Hemolizin fərqləndirici xüsusiyyətlərinə aid deyil:",
+      "options": [
+        "Azalmış hemoqlobin",
+        "Laktatdehidrogenazanın artması",
+        "Sərbəst bilirubinin azalması",
+        "Retikulositoz",
+        "Sidikdə urobilinogenin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Damardaxili hemolizin əlamətlərinə aiddir:",
+      "options": [
+        "Sərbəst bilirubinin azalması",
+        "Laktatdehidrogenazanın azalması",
+        "Artmış hemoqlobin",
+        "Methemalbuminin azalması",
+        "Haptoqlobinin azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "38. Hemolizin irsi səbəblərinə aid deyil:",
+      "options": [
+        "Oraqvarihüceyrəli anemiya",
+        "Talasemiyalar",
+        "İrsi sferositoz",
+        "İsti tip autoimmun hemolitik anemiya",
+        "İrsi ovalositoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "39. Hemolizin qazanılma səbəblərinə aid deyil:",
+      "options": [
+        "DDL-sindrom",
+        "İsti tip autoimmun hemolitik anemiya",
+        "Soyuq tip autoimmun hemolitik anemiya",
+        "Yürüş hemoqlobinuriyası",
+        "Talassemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "40. Hemolizin qazanılma səbəblərinə aiddir:",
+      "options": [
+        "Qlükoza-6-fosfatdehidrogenaza defisiti",
+        "Oraqhüceyrəli anemiya",
+        "Talassemiya",
+        "İrsi sferositoz",
+        "Soyuq tip autoimmun hemolitik anemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "41. Hemolizin irsi səbəblərinə aiddir:",
+      "options": [
+        "DDL-sindrom",
+        "Yenidoğulmuşların hemolitik xəstəliyi",
+        "Paroksizmal gecə hemoqlobinuriyası",
+        "İsti tip autoimmun hemolitik anemiya",
+        "Oraqvarihüceyrəli anemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Aşağıdakı laborator əlamətlərdən hansı hemoliz səbəbindən eritrosit ömrünün qısaldığını göstərmir:",
+      "options": [
+        "Sərbəst bilirubinin artması",
+        "Nəcisdə urobilinogenin artması",
+        "Retikulositoz",
+        "Haptoqlobin miqdarının azalması",
+        "Hemoqloniburiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "43. Anemiyası olan xəstədə aşağıdakılardan hansı hemoliz əlaməti deyil?",
+      "options": [
+        "Hemopeksinin azalması",
+        "Haptoqlobinin azalması",
+        "Retikulositoz",
+        "Sərbəst bilirubinin artması",
+        "Laktatdehidrogenazanın azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "44. Sidikdə hemosiderinin aşkar edilməsi hansı vəziyyət üçün daha çox xarakterdir?",
+      "options": [
+        "Talassemiya",
+        "Hüceyrədaxili hemoliz",
+        "Xroniki böyrək çatışmazlığının terminal mərhələsi",
+        "Oraqvarihüceyrəli anemiya",
+        "Damardaxili hemoliz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "45. Hansı dərman preparatlarının qəbulu zamanı hemoliz yaranma ehtimalı yoxdur?",
+      "options": [
+        "Metildopa",
+        "Nitroqliserin",
+        "Penisillin",
+        "Levodopa",
+        "Xinidin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "46. Eritrositlərin forması aşağıdakılardan hansı tərəfindən qorunub saxlanılır?",
+      "options": [
+        "Miozin zülalı tərəfindən",
+        "Keratin tərəfindən",
+        "Dəmirin sorulması və depolanmasında iştirak edən ferritin tərəfindən",
+        "Kollagen proteinləri tərəfindən",
+        "Stabilləşdirici membran zülalı olan spektrin tərəfindən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "47. Hansının qranullarında protozoa və helmintlərin hüceyrədaxili məhvində iştirak edən reaktiv oksigen növləri və zülallar yarada bilən peroksilaza var?",
+      "options": [
+        "Bazofillər",
+        "Eritrositlər",
+        "Eozinofilər",
+        "Neytofillər",
+        "Limfositlər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "48. Aşağıdakı hüceyrələrdən hansılar qranulositlərdir?",
+      "options": [
+        "Neytrofillər,Trombositlər,Bazofillər",
+        "Monositlər,Bazofillər,Neytrofillər",
+        "Monositlər,Eoazinofillər,Eritrositlər",
+        "Bazofillər,Eozinofillər,Neytrofillər",
+        "Eozinofillər,Eritrositlər,Neytrofillər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "49. Sümük iliyində ilk tanınan qranulosit hansıdır?",
+      "options": [
+        "Limfoblastlar",
+        "Eritrositlər",
+        "Trombositlər",
+        "Limfositlər",
+        "Mieloblastlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "50. Bu hüceyrələr bir neçə saat qanda dövr edir və sonra toxumalara köçərək makrofaqlara, Kupfer hüceyrələrinə və ya antigen təqdim edən dendritik hüceyrələrə çevrilirlər :",
+      "options": [
+        "Neytrofillər",
+        "Bazofillər",
+        "Monositlər",
+        "Trombositlər",
+        "Eritrositlər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "51. Limfositlər haqqında aşağıdakılardan hansı doğru deyil?",
+      "options": [
+        "Limfositlər sümük iliyindəki pluripotent hematopoetik kök hüceyrələrdən əmələ gəlir",
+        "Limfositlər heterogendir, ən kiçikləri eritrositlərə, ən böyüyü isə neytrofillərə bənzəyir.",
+        "Qan dövranında olan limfositlərin əksəriyyəti (təxminən 80%) T hüceyrələridir",
+        "Yaşama müddətləri bir neçə gündən bir neçə ilə qədər ola bilər",
+        "Bu hüceyrələr bir neçə saat qanda dövr edir və sonra toxumalara köçərək makrofaqlara, Kupfer hüceyrələrinə və ya antigen təqdim edən dendritik hüceyrələrə çevrilirlər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "52. Kök hüceyrələr haqqında aşağıdakılardan hansı doğru deyil?",
+      "options": [
+        "Sümük iliyinin stromal hüceyrələrində və başqa yerlərdə sintez olunan böyümə faktorları kök hüceyrələrin və onların nəsillərinin sağ qalmasına, proliferasiyasına, differensiasiyasına və funksiyasına nəzarət edir",
+        "Onlar sümük iliyi hüceyrələrinin ümumi sayının yalnız 0,01%-ni təşkil edir",
+        "Sümük iliyində qeyri-hematoloji hüceyrələrə differensasiya edə bilən kök hüceyrələr də var",
+        "Bütün qan hüceyrələri pluripotent hematopoetik kök hüceyrələrdən inkişaf edir",
+        "Mezenximal kök hüceyrələr skelet əzələ hüceyrələrinə differensiasiya edə bilməz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "53. Aşağıdakılardan hansılar aqranulositlərə aidir?",
+      "options": [
+        "Neytrofillər,Eozinofillər",
+        "Monositlər,Bazofillər",
+        "Eozinofillər,Limfositlər",
+        "Limfositlər,Eritrositlər",
+        "Limfositlər,Monositlər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "54. Eritrositlərin effektiv inkişafında aşağıdakılardan hansıların xüsusi rolu var?",
+      "options": [
+        "Ferritin və kollagenin",
+        "Fol turşusu və kollagenin",
+        "Vit B12 və miozinin",
+        "VitD və spektrin proteinin",
+        "Vit B12 və Fol turşusunun"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "55. Embrional inkişaf zamanı hematopoez baş verir:",
+      "options": [
+        "Heç birində",
+        "Yalnız sarı kisədə",
+        "Yalnız qaraciyərdə",
+        "Yalnız dalaqda",
+        "Sarı kisədə,qaraciyərdə və dalaqda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "56. Yetkin insanda hematopoez baş verir: \n1) fəqərələrdə \n2) baldır sümüklərində \n3) körpücük və kəllə sümüklərində \n4) çanaq sümüklərində \n5) döş sümüyündə \n6) bud sümüyünün proksimalında \n7) bazu sümüklərinin aşağı hissəsində",
+      "options": [
+        "1,2,3,4",
+        "1,3,4,5,6",
+        "2,3,5,6,7",
+        "1,2,4,5,7",
+        "2,4,5,6,7"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "57. Neytofillər haqqında hansı doğru deyil?",
+      "options": [
+        "Onlar toxumalara nüfuz edir və iltihab prosesində iştirak edə bilər və ya apoptoza məruz qalır və makrofaqlar tərəfindən faqositoza uğrayırlar.",
+        "2-5 seqmentdən ibarət lobulyasiya edilmiş nüvəsi və sitoplazmasında qranullar var",
+        "Neytrofillər qan dövranında 6-10 saat qalır və sonra əsasən dalaqla xaric edilir",
+        "Bu hüceyrələr eozinofillərdən daha az rast gəlinir, dövr edən leykositlərin ümumi sayının 1%-dən azını təşkil edir.",
+        "Onların əsas funksiyası yad hissəcikləri və mikroorqanizmləri tanımaq, udmaq və məhv etməkdir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "58. Limfositlər haqqında aşağıdakılardan hansı doğrudur? \n1) Limfositlər sümük iliyindəki pluripotent hematopoetik kök hüceyrələrdən əmələ gəlir. \n2) Limfositlər heterogendir, ən kiçikləri eritrositlərə, ən böyüyü isə neytrofillərə bənzəyir. \n3) Qan dövranında olan limfositlərin əksəriyyəti (təxminən 80%) T hüceyrələridir. \n4) Timusa köçən limfoid hüceyrələr T hüceyrələrinə çevrilir, B hüceyrələri sümük iliyində inkişaf edir. \n5) 2-5 seqmentdən ibarət lobulyasiya edilmiş nüvəsi və sitoplazmasında qranullar var \n6) Qan dövranında olan limfositlərin əksəriyyəti (təxminən 80%) B hüceyrələrdir",
+      "options": [
+        "2,3,5,6",
+        "2,4,5,6",
+        "1,2,3,5",
+        "1,2,3,4,",
+        "1,3,4,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "59. Limfositlər haqqında aşağıdakılardan hansı doğru deyil? \n1) Qan dövranında olan limfositlərin əksəriyyəti (təxminən 80%) T hüceyrələridir. \n2) 2-5 seqmentdən ibarət lobulyasiya edilmiş nüvəsi və sitoplazmasında qranullar var \n3) Limfositlər heterogendir, ən kiçikləri eritrositlərə, ən böyüyü isə neytrofillərə bənzəyir \n4) Qan dövranında olan limfositlərin əksəriyyəti (təxminən 80%) B hüceyrələrdir",
+      "options": [
+        "1,4",
+        "1,3",
+        "2,3",
+        "2,4",
+        "3,4"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Trombositlər haqqında aşağıdakılardan hansılar doğrudur? \n1) Trombositlərin yaşama müddəti bir neçə ilə qədərdir \n2) Nüvəsiz qan hüceyrələridir \n3) Ölmüş trombositlər qaraciyər və dalağa daxil olub makrositlər tərəfindən faqositoza uğrayırlar \n4) Nüvəsi vardır 5) Yaşama müddəti 5-9 gündür",
+      "options": [
+        "Heç biri doğru deyil",
+        "1,3,4",
+        "3,4,5",
+        "2,3,5",
+        "1,2,3"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "61. Aşağıdakılardan hansı qanda hemoqlobinin təyini zamanı yalnış yüksək nəticəyə səbəb ola bilər?",
+      "options": [
+        "Nümunənin səhv qarışdırılması, infuziyanın aparıldığı eyni damardan qan alınması",
+        "Qanda nüvəli eritrositlərin olması",
+        "Nümunədə laxtanın olması, trombositlərin aqqreqasiyası",
+        "Hiperlipidemiya, sarılıq, leykositlərin kəskin yüksəlməsi",
+        "Soyuq aqqlutininlər, diabetik hiperosmolyar koma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "62. Aşağıdakılardan hansı qanda hemoqlobinin təyini zamanı yalnış aşağı nəticəyə səbəb ola bilər?",
+      "options": [
+        "Qanda nüvəli eritrositlərin olması",
+        "Nümunədə laxtanın olması, trombositlərin aqqreqasiyası",
+        "Hiperlipidemiya, sarılıq, leykositlərin kəskin yüksəlməsi",
+        "Soyuq aqqlutininlər, diabetik hiperosmolyar koma",
+        "Nümunənin səhv qarışdırılması, infuziyanın aparıldığı eyni damardan qan alınması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Aşağıdakılardan hansı qanda eritrositlərin həcminin (MCV) təyini zamanı yalnış yüksək nəticəyə səbəb ola bilər?",
+      "options": [
+        "Hiperlipidemiya, sarılıq, leykositlərin kəskin yüksəlməsi",
+        "Nümunədə laxtanın olması, trombositlərin aqqreqasiyası",
+        "Qanda nüvəli eritrositlərin olması",
+        "Nümunənin səhv qarışdırılması, infuziyanın aparıldığı eyni damardan qan alınması",
+        "Soyuq aqqlutininlər, diabetik hiperosmolyar koma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "64. Aşağıdakılardan hansı qanda leykositlərin təyini zamanı yalnış yüksək nəticəyə səbəb ola bilər?",
+      "options": [
+        "Hiperlipidemiya, sarılıq, leykositlərin kəskin yüksəlməsi",
+        "Nümunədə laxtanın olması, trombositlərin aqreqasiyası",
+        "Nümunənin səhv qarışdırılması, infuziyanın aparıldığı eyni damardan qan alınması",
+        "Soyuq aqqlutininlər, diabetik hiperosmolyar koma",
+        "Qanda nüvəli eritrositlərin olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "65. Aşağıdakılardan hansı qanda trombositlərin təyini zamanı yalnış aşağı nəticəyə səbəb ola bilər?",
+      "options": [
+        "Nümunənin səhv qarışdırılması, infuziyanın aparıldığı eyni damardan qan alınması",
+        "Nümunədə laxtanın olması, trombositlərin aqqreqasiyası",
+        "Soyuq aqqlutininlər, diabetik hiperosmolyar koma",
+        "Hiperlipidemiya, sarılıq, leykositlərin kəskin yüksəlməsi",
+        "Qanda nüvəli eritrositlərin olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "66. Hansı xəstəliklərdə MCV ›100 fl olur?",
+      "options": [
+        "Xronik xəstəlik anemiyası",
+        "Dəmir çatışmazlığı, talassemiya, sideroblastik anemiya",
+        "Qurğuşunla zəhərlənmə",
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı, qaraciyər xəstəliyi, hipotireoz, mielodisplastik sindromlar",
+        "Disseminasiya olunmuş damardaxili laxtalanma sindromu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "67. Hansı xəstəliklərdə MCV <76 fl olur?",
+      "options": [
+        "Hipotireoz, mielodisplastik sindromlar",
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı, qaraciyər xəstəliyi,",
+        "Di Gulielmo xəstəliyi",
+        "Otoimmün hemolitik anemiya, splenektomiyadan sonrakı vəziyyət, irsi sferositoz",
+        "Dəmir çatışmazlığı, talassemiya, sideroblastik anemiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. Hədəfəbənzər hüceyrələr hansı xəstəliklərdə müşahidə olunur?",
+      "options": [
+        "Qurğuşunla zəhərlənmə",
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı, hipotireoz, mielodisplastik sindromlar",
+        "Qaraciyər xəstəliyi, talassemiya, splenektomiyadan sonrakı vəziyyət, hemoqlobinopatiya C",
+        "Disseminasiya olunmuş damardaxili laxtalanma sindromu",
+        "Dəmir çatışmazlığı, sideroblastik anemiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "69. Sferositlər hansi xəstəliklərdə müşahidə olunur?",
+      "options": [
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı, hipotireoz, mielodisplastik sindromlar",
+        "Disseminasiya olunmuş damardaxili laxtalanma sindromu",
+        "Dəmir çatışmazlığı, sideroblastik anemiya",
+        "Qurğuşunla zəhərlənmə",
+        "Otoimmün hemolitik anemiya, splenektomiyadan sonrakı vəziyyət, irsi sferositoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Nüvəli qırmızı qan hüceyrələri (normoblastlar) hansı xəstəliklərdə müşahidə olunur?",
+      "options": [
+        "Qurğuşunla zəhərlənmə",
+        "Disseminasiya olunmuş damardaxili laxtalanma sindromu",
+        "Dəmir çatışmazlığı, sideroblastik anemiya",
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı, hipotireoz, mielodisplastik sindromlar",
+        "Sümük iliyinin infiltrasiyası, ağır hemoliz, mielofibroz, kəskin qanaxma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "71. Howell-Jolly cisimləri (nüvənin kiçik yuvarlaq qalıqları) hansı xəstəliklərdə müşahidə olunur?",
+      "options": [
+        "Disseminasiya olunmuş damardaxili laxtalanma sindromu",
+        "Dəmir çatışmazlığı, sideroblastik anemiya",
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı, hipotireoz, mielodisplastik sindromlar",
+        "Talassemiya, hemoqlobinopatiya C",
+        "Hiposplenizm, splenektomiyadan sonrakı vəziyyət, hematopoezin pozulması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "72. Polixromaziya (gənc eritrositlər - retikulositlərin olması) nə zaman müşahidə olunur?",
+      "options": [
+        "Aplastik anemiya, Aplastik kriz",
+        "Dəmir çatışmazlığı, sideroblastik anemiya",
+        "Xronik xəstəlik anemiyası",
+        "Vitamin B12 və ya fol turşusunun çatışmazlığı,",
+        "Hemoliz, kəskin qanaxma, eritrositlərin yenilənməsinin artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. Hansı vitamin çatışmazlığı meqaloblast anemiyaya səbəb ola bilər?",
+      "options": [
+        "Vitamin B 6",
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin B 1",
+        "Vitamin B 12"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "74. Sümük iliyinin punktatında meqaloblastların görünməsi hansı anemiya üçün xarakterikdir?",
+      "options": [
+        "Hemolitik",
+        "Talassemiya",
+        "Dəmir çatışmazlığı",
+        "vitamin B12 çatışmazlığı",
+        "Aplastik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "75. Vitamin B12 miqdarı aşağıdakılardan hansının tərkibində daha çoxdur?",
+      "options": [
+        "qəhvə dənələrində",
+        "pivə mayasında",
+        "qırmızı kürüdə",
+        "ətdə",
+        "fındıqda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "76. Meqaloblast anemiyanın müalicəsi üçün təyin etmək lazımdır:",
+      "options": [
+        "Vitamin B1",
+        "Vitamin B6",
+        "Vitamin C",
+        "Dəmir preparatları",
+        "Vitamin B 12"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. B12 və B9 vitamini çatışmazlığı zamanı hansı qan parametrinin səviyyəsi yüksəlir?",
+      "options": [
+        "Xolesterol",
+        "Kreatinin",
+        "HbA1c",
+        "bilirubin",
+        "Homosistein"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "78. Qan qrupu mənsubiyyəti nədən asılıdır?",
+      "options": [
+        "eritrositlərin nüvəsində olan xüsusi antitellərdən",
+        "Eritrositlərin nüvəsində olan xüsusi antigenlərdən",
+        "Valideyinlərin qan qrupundan",
+        "Eritrositlərin membranında olan xüsusi antitellərdən",
+        "Eritrositlərin membranında olan xüsusi antigenlərdən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Hamilələrdə Rezus konflikt nə zaman meydana çıxır?",
+      "options": [
+        "Rh (+) ananın Rh (-) döllə ikinci hamiləliyində",
+        "Hər iki valideyin Rh (-) olanda",
+        "Rh (+) ananın Rh (-) döllə hamiləliyində",
+        "Rh (-) ananın Rh (+) döllə ikinci hamiləliyində",
+        "Rh (-) ananın Rh (+) döllə ilk hamiləliyində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "80. Hansı doğrudur?",
+      "options": [
+        "aqqlutinogen və aqqlutinin bir arada olub-olmamasının qan qrupunun müəyyən edilməsində hec bir əhəmiyyəti yoxdur",
+        "aqqlutinogen və aqqlutinin bir arada olması qan qrupu mənsubiyyətini müəyyən edir",
+        "aqqlutinogen və aqqlutinin bir arada olub-olmamasının qanköçürmə zamanı hec bir əhəmiyyəti yoxdur",
+        "İnsan orqanizmində qan qrupu antigeni (aqqlutinogen) və ona qarşı antitellər (aqqlutinin) həmişə bir arada olur",
+        "İnsan orqanizmində qan qrupu antigeni (aqqlutinogen) və ona qarşı antitellər (aqqlutinin) heç vaxt bir arada ola bilməz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "81. Hansı hemolizin əlaməti deyil?",
+      "options": [
+        "Konyuqasia olmamış bilirybinin artması",
+        "Sidikdə urobilinogenin miqdarının azalması",
+        "Sidikdə hemosiderinin olması",
+        "Hb-nin miqdarının azalması",
+        "Retikulositlərin miqdarının artması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "82. Qan qrupunun müəyyən edən antigenlər harda yerləşir?",
+      "options": [
+        "Leykositlərin membranında",
+        "Eritrositin sitoplazmasında",
+        "Trombositlərin membranında",
+        "eritrositin membranında",
+        "Eritrositin nüvəsində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "83. Kəskin leykozun təyini üçün ən qiymətli diaqnostik üsuldur?",
+      "options": [
+        "KT",
+        "Sidik analiz",
+        "EKQ",
+        "Qanın tam analizi",
+        "Sümük iliyinin analizi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "84. Kəskin leykoz zamanı periferik qanda aşağıdakılar aşkar edilir:",
+      "options": [
+        "Neytrofilez",
+        "Hemoqlobinin artması",
+        "Eozinofiliya",
+        "Eritrositoz",
+        "Blast hüceyrələrinin olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "85. Sümük iliyində leykositlərin sayının artması ilə xarakterizə olunan kök hüceyrələrin hematopoetik fraksiyasının bədxassəli pozğunluğu:",
+      "options": [
+        "Meqaloblastik anemiya",
+        "Hemoliz",
+        "Aplastik anemiya",
+        "Leykoz",
+        "Hemoglobinopatiyalar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Kəskin leykozun inkişafının etioloji amili:",
+      "options": [
+        "Qanaxma",
+        "Vitamin B12 çatışmazlığı",
+        "Hamiləlik",
+        "Vegetarianlıq",
+        "İonlaşdırıcı şüalanma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Leykemiyalar aşağıdakı toxumalardan yaranan bədxassəli xəstəliklərdir:",
+      "options": [
+        "Limfoid",
+        "Retikulyar",
+        "Mezenximal",
+        "Hematopoetik",
+        "Birləşdirici"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "88. Kəskin leykozun müalicəsində ən çox istifadə edilən dərman?",
+      "options": [
+        "Siyanokobalamin",
+        "Varfarin",
+        "Eritropoetin",
+        "Metotreksat",
+        "Deksametazon"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "89. Xroniki leykozun kliniki gedişatının fazası hansıdır?",
+      "options": [
+        "Ağırlaşma fazası",
+        "Rekonvalessensiya fazası",
+        "Kəskin faza",
+        "Remissiya fazası",
+        "Xroniki faza"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "90. Xroniki leykozun klinik gedişatının mərhələsi hansıdır?",
+      "options": [
+        "Hipoadrenal kriz",
+        "Tirotoksik krizi",
+        "Hipokalsemiya krizi",
+        "Blast krizi",
+        "Hiperparatiroid krizi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "91. Xroniki leykozda splenomeqaliya baş verir:",
+      "options": [
+        "12%",
+        "70%",
+        "45%",
+        "30%",
+        "90%"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "92. Xroniki leykozda hepatomeqaliya baş verir:",
+      "options": [
+        "70%",
+        "90%",
+        "45%",
+        "83%",
+        "50%"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "93. Filadelfiya xromosomu nədir?",
+      "options": [
+        "X xromosomunun qismən və ya tam olmaması",
+        "21-ci cüt üçün trisomiya",
+        "qısaldılmış 22-ci xromosom",
+        "18-ci xromosomda trisomiya",
+        "iki və ya daha çox X xromosomunun və bir Y xromosomunun olması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "94. Transferrin (dəmiri daşıyan protein) hansı səbəblərdən qanda azalır?",
+      "options": [
+        "natamam qidalanma,oral kontraseptivlərdən istifadə zamanı",
+        "hamiləlik ,nefrotik sindrom ,kəskin faza reaksiyası zamanı",
+        "natamam qidalanma,qaraciyər xəstəlikləri,kəskin faza reaksiyası,nefrotik sindrom zamanı",
+        "qaraciyər xəstəlikləri,hamiləlik,nefrotik sindrom zamanı",
+        "natamam qidalanma,hamiləlik,oral kontraseptivlərdən istifadə zamanı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "95. Transferrinin miqdarı (dəmir daşıyıcı protein) nə zaman artır?",
+      "options": [
+        "natamam qidalanma və kəskin faza reaksiyasında",
+        "hamiləlik və nefrotik sindrom zamanı",
+        "natamam qidalanma və qaraciyər xəstəlikləri zamanı",
+        "natamam qidalanma və oral kontraseptivlərdən istifadə zamanı",
+        "hamiləlik və oral kontraseptivlərdən istifadə zamanı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. Dəmir defisitli anemiyalı xəstələrin müalicəsində istifadə olunan dəmir sulfat preparatını dəmir ehtiyatlarını doldurmaq üçün hansı müddətdə istifadəsi məqsədə uyğundur?",
+      "options": [
+        "gündə 3 dəfə 200 mq dəmir sulfat 2 həftə müddətinə",
+        "gündə 3 dəfə 200 mq dəmir sulfat 1 ay müddətinə",
+        "gündə 3 dəfə 200 mq dəmir sulfat 1 həftə müddətinə",
+        "gündə 3 dəfə 200 mq dəmir sulfat 12-24 ay müddətinə",
+        "gündə 3 dəfə 200 mq dəmir sulfat 3-6 ay müddətinə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "97. Serum Ferritin testi hansı hallarda aşağı səviyyədə olur?",
+      "options": [
+        "bəndlərin heç biri düzgün deyil",
+        "dəmir defisiti, şəkərli diabet, sklerodermiya xəstəliyində",
+        "dəmir defisiti və ya çox nadir hallarda hipotiroidizm və ya C vitamini çatışmazlığında",
+        "Polisitemiya Vera (Vakez xəstəliyi), şəkərsiz diabet zamanı",
+        "leykozlar, hamiləlik və nevroloji xəstəliklər zamanı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "98. Kişilərdə və posmenopauzal qadınlarda dəmir defisitli anemiyanın ən çox yayılma səbəbi hansı xəstəliklərdir?",
+      "options": [
+        "cavabların heç biri düzgün deyil",
+        "xronik hemoptiz, poliplər, Polisitemiya Vera",
+        "divertikulit, mədə xorası, kolorektal xərçəng, qastrit",
+        "axalaziya, şəkərsiz diabet,Vakez xəstəliyi",
+        "qastrit, axalaziya, feoxromasitoma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "99. β–talassemiya aşağıdakılardan hansəna aiddir:",
+      "options": [
+        "həqiqi polisitemiyalara",
+        "qazanılma hemolitik anemiyalara",
+        "irsi qanyaranma aplaziyalarına",
+        "anadangəlmə mübadilə pozulmaqlarına",
+        "irsi hemolitik anemiyalara"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "100. β-talassemiya daşıyıcılarının ailəsində doğulmuş uşağın β-qlobin geninin defektsiz variantına rastgəlmə tezliyi:",
+      "options": [
+        "75% hallarda",
+        "100% hallarda",
+        "25% hallarda",
+        "10% hallarda",
+        "50% hallarda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "101. Hemoqlobin fraksiyasının müəyyən edilməsi aşağıdakının diaqnostikası üçün lazımdır:",
+      "options": [
+        "qlikozilləşmiş hemoqlobin üçün",
+        "eritrositlərin piruvatkinazasının çatışmazlığı üçün",
+        "qanyaranma aplaziyası üçün",
+        "β-talassemiya üçün",
+        "dəmir defisiti üçün"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "102. Qlobin zəncirlərinin sintezinin miqdarı pozulmalarının nəticəsində yaranan hemoqlobinopatiyalara aiddir:",
+      "options": [
+        "Daymond-Blekfen anemiyası",
+        "oraqvari hüceyrəli anemiya",
+        "Dəmirdefisitli anemiya",
+        "β-talassemiya",
+        "Minkovski-Şoffar anemiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "103. Ən çox talassemiya xəstəsi aşağıdakı ölkələrdə rast gəlir:",
+      "options": [
+        "Şimali Avropa və şimalı Amerika ölkələrində",
+        "Cənubi Avropa və cənubi Amerika ölkələrində",
+        "Avstraliyada",
+        "Rusiyada",
+        "Afrika və Cənubi-Şərqi Asiya ölkələrində"
+      ],
+      "correct": 4
+    }
+  ]
+}

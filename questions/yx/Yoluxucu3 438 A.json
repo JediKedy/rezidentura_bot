@@ -1,0 +1,4822 @@
+{
+  "questions": [
+    {
+      "question": "1. Qara yaranın törədicisidir:",
+      "options": [
+        "B. anthracis",
+        "B. mirabilis",
+        "В. burgdorferi",
+        "B. cаnis",
+        "B. bovis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Qara yaranın yoluxma yoludur:",
+      "options": [
+        "təmas",
+        "cinsi",
+        "hemotransfuziya",
+        "parenteral",
+        "transmissiv"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Qara yarada infeksiya mənbəyi deyil:",
+      "options": [
+        "ev quşları",
+        "mal-qara",
+        "atlar",
+        "marallar",
+        "dəvələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Qara yara törədicisinin toksinidir:",
+      "options": [
+        "ekzotoksin",
+        "endotoksin",
+        "enterotoksin",
+        "neyrotoksin",
+        "sitotoksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Qara yarada ən çox zədələnən toxuma:",
+      "options": [
+        "dəri və dərialtı toxuma",
+        "periferik limfa vəziləri",
+        "müsariqə limfa vəziləri",
+        "qaraciyər hüceyrələri",
+        "sinir hüceyrələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Qara yarada xoranın əsas xüsusiyyəti deyil:",
+      "options": [
+        "ağrılı olur",
+        "irinləmir",
+        "ağrısız olur",
+        "qartmaqla örtülür",
+        "yerində çapıq qalır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Qara yarada immunitet:",
+      "options": [
+        "davamlı",
+        "tipospesifik",
+        "qısa müddətli",
+        "qeyri-steril faza",
+        "yaranmır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Qara yaranın kliniki formasıdır:",
+      "options": [
+        "dəri, septiki",
+        "karbunkuloz, urogenital",
+        "ödematoz,  kolitik",
+        "erizipilloid, hepatolienal",
+        "bulloz, astenovegetativ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Qara yara karbunkulunun ən çox yerləşdiyi nahiyə:",
+      "options": [
+        "üz, əllər",
+        "yuxarı ətraf, qarın",
+        "döş, gövdə",
+        "üz, döş",
+        "baş, qarın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Qara yara karbunkulunun fərqli xüsusiyyəti:",
+      "options": [
+        "ağrının olmaması",
+        "irinli ifrazat",
+        "ağrılı olması",
+        "qabıqlanma verməsi",
+        "piqmentləşmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Qara yaranın dəri formasının ən çox rast gələn variantıdır:",
+      "options": [
+        "karbunkuloz",
+        "ödematoz",
+        "bulloz",
+        "erizipeloid",
+        "fleqmanoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Qara yaranın karbunkuloz formasına aid simptom:",
+      "options": [
+        "Stefanski",
+        "Kurvuazye",
+        "Rozenberq",
+        "Ortner",
+        "Qovorov-Qodelye"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Qara yarada spesifik müalicə üsuludur :",
+      "options": [
+        "immunoqlobulinoterapiya",
+        "vaksinoterapiya",
+        "hormonoterapiya",
+        "vitaminoterapiya",
+        "fizioterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Qara yarada tətbiq olunan seroloji reaksiya:",
+      "options": [
+        "qeyri – düz hemaqlütinasiya reaksiyası",
+        "komplementin birləşmə reaksiyası",
+        "aqlütinasiya reaksiyası",
+        "polimeraza zəncirvari reaksiya",
+        "mikroaqlütinasiya, lizis reaksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Qara yaranın diaqnozunda istifadə olunmur:",
+      "options": [
+        "parazitoloji",
+        "bioloji",
+        "bakteroskopik",
+        "qeyri – düz hemaqlutinasiya reaksiyası",
+        "bakterioloji"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Qara yarada ən effektli preparat:",
+      "options": [
+        "penisillin",
+        "biseptol",
+        "levomizol",
+        "butadion",
+        "metronidazol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Qara yara bu xəstəliklə diferensasiya olunmur:",
+      "options": [
+        "fleqmona",
+        "tularemiya",
+        "qizil yel",
+        "taun",
+        "stafilokok mənşəli karbunkul"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Qara yara karbunkulunda qartmağın rəngi:",
+      "options": [
+        "qara",
+        "sarımtıl - yaşıl",
+        "qırmızı",
+        "qəhvəyi",
+        "qonur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Qara yaranın patanatomik dəyişikliklərinə aid deyil:",
+      "options": [
+        "hepatositlərin hemolizi",
+        "dəridə qara yara karbunkulu",
+        "bağırsağın seroz – hemorragik iltihabı",
+        "hemorragik traxeit",
+        "limfadenit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Qara yaranın ağırlaşması ola bilməz:",
+      "options": [
+        "infeksion – allerqik miokardit",
+        "bağırsaq parezi",
+        "infeksion - toksiki şok",
+        "mədə - bağırsaq qanaxması",
+        "peritonit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. Qızıl yelin törədicisidir:",
+      "options": [
+        "β – hemolitik streptokoklar",
+        "qızılı stafilokoklar",
+        "proteylər",
+        "yersinialar",
+        "mirabilislər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Qızıl yelin infeksiya mənbəidir:",
+      "options": [
+        "xəstə insan",
+        "pişikimilər",
+        "ev quşları",
+        "gəmiricilər",
+        "qara mal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Qızıl yelin yoluxma yoludur:",
+      "options": [
+        "zədələnmiş dəri və selikli qişa",
+        "alimentar",
+        "cinsi yolla",
+        "transplansentar",
+        "aerogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Qızıl yeldə immunitet:",
+      "options": [
+        "yaranmır",
+        "davamlı immunitet",
+        "qeyri – steril fazaya keçir",
+        "1- 2 ay müddətində",
+        "tipospesifik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Qızıl yelin klinik formasına aid deyil:",
+      "options": [
+        "hemorragik",
+        "eritematoz - bulloz",
+        "bulloz - hemorragik",
+        "eritematoz",
+        "eritematoz - hemorragik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Qızıl yelin müalicəsində tətbiq olunmur:",
+      "options": [
+        "qan kocürmə",
+        "nitrofuran törəmələri",
+        "timalin",
+        "aloe",
+        "antibiotiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Qızıl yeldə zədələnir:",
+      "options": [
+        "dəri",
+        "ağciyər",
+        "göz",
+        "beyin",
+        "qaraciyər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Qızıl yelin irinli fəsadlarına aid deyil:",
+      "options": [
+        "infeksion – toksiki şok",
+        "pnevmoniya",
+        "fleqmona",
+        "flebitlər",
+        "sepsis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Qızıl yel diferensasiya olunmur:",
+      "options": [
+        "neyrodermitlərlə",
+        "felinozla",
+        "osteomielitlə",
+        "qara yara ilə",
+        "fleqmona ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Birincili və təkrar qızıl yeldə məsləhət görülmür:",
+      "options": [
+        "rifampisin",
+        "penisillin",
+        "oksasillin",
+        "seftrion - L",
+        "tetrasiklin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Qızıl yelin daha çox lokallaşdığı nahiyə:",
+      "options": [
+        "üzdə, ətraflarda",
+        "sağrı nahiyəsində",
+        "barmaqların arasında",
+        "qarının dərisində",
+        "döş qəfəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Qızıl yelin kliniki formalarıdir:",
+      "options": [
+        "birincili, residiv verən, təkrari",
+        "birincili, ikincili, fasiləli",
+        "birincili, ikincili, fasiləsiz",
+        "fasiləli, fasiləsiz, residivləşən",
+        "ikincili, fasiləli, təkrar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Qızıl yelin profilaktikasında tətbiq olunur:",
+      "options": [
+        "bisillin - 5",
+        "etambutol",
+        "izoniazid",
+        "rifampisin",
+        "interferon"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34. Qızıl yel aiddir :",
+      "options": [
+        "xarici örtük infeksiyalarına",
+        "bağırsaq infeksiyalarına",
+        "tənəffüs infeksiyalarına",
+        "virus infeksiyalarına",
+        "transmissiv infeksiyalara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Qızıl yelin residivinə xasdı:",
+      "options": [
+        "I – li ocaq nahiyəsində lokallaşır, 2 ilə qədər",
+        "başqa nahiyəli ocaqda lokallaşır, 2 ildən sonra",
+        "ən çox yuxarı ətraflarda lokallaşır, 5 ilə qədər",
+        "ən çox aşağı ətraflarda lokallaşır, 5 ildən sonra",
+        "II – li ocaq nahiyəsində lokallaşır, 3 ilədək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Qızıl yelin yerli müalicəsində istifadə olunur::",
+      "options": [
+        "furasilin",
+        "xloramin",
+        "lizol",
+        "vinilin",
+        "Vişnevski məlhəmi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Qızıl yelin residivlərində ən çox işlədilən antibiotik:",
+      "options": [
+        "oksasillin",
+        "qentamisin",
+        "kanamisin",
+        "streptomisin",
+        "rifampisin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Qızıl yeldə infeksiya mənbəyi olmur:",
+      "options": [
+        "qarın yatalağlı  xəstə",
+        "skarlatinalı  xəstə",
+        "anginalı  xəstə",
+        "pnevmoniyalı  xəstə",
+        "furunkulyozlu  xəstə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Tetanusun spesifik müalicə vasitəsidir:",
+      "options": [
+        "antitoksik zərdab",
+        "sedativ preparatlar",
+        "anatoksin",
+        "trankvlizatorlar",
+        "tubokurarinlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Tetanusun yoluxma faktorudur:",
+      "options": [
+        "torpaq",
+        "boyat xörək",
+        "çiy su",
+        "təzə qan",
+        "insan və heyvan ekskrementləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. Tetanusda yoluxmaya səbəb olur:",
+      "options": [
+        "kor yara",
+        "irinlənmiş yara",
+        "dərinin geniş zədələnməsi",
+        "hematoma",
+        "qanaxma verən yaralar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42. Tetanusa qarşı planlı peyvənd alanlara yaralandıqda vurulur:",
+      "options": [
+        "anatoksin",
+        "antitoksin",
+        "immunoqlobulin",
+        "anatoksin və antitoksin",
+        "antitoksin və antibiotik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Tetanusun kliniki forması deyil:",
+      "options": [
+        "xroniki forma",
+        "yayılmış forma",
+        "qalxan tetanus",
+        "başın tetanusu",
+        "bulbar tetanus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Tetanusun çox rast gələn formasıdır:",
+      "options": [
+        "enən tetanus",
+        "yerli tetanus",
+        "yeni doğulmuşların tetanusu",
+        "qalxan tetanus",
+        "residiv verən tetanus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. Tetanusun erkən kliniki əlamətidir:",
+      "options": [
+        "trizm",
+        "tetanik qıcolma",
+        "tənəffüs çatışmazlığı",
+        "qızdırma",
+        "taxikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Tetanus törədicisinin patogenetik faktoru:",
+      "options": [
+        "ekzotoksin",
+        "endotoksin",
+        "fermentlər",
+        "enterotokssin",
+        "sitotoksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Tetanusun daimi əlamətidir:",
+      "options": [
+        "skelet əzələlərinin toniki yiğılması",
+        "sardonik gülüş",
+        "trizm",
+        "qızdırma",
+        "sınıq və çıxıqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Tetanusda ürək – damar dəyişikliklərinə aiddir:",
+      "options": [
+        "taxikardiya və arterial hipertenziya",
+        "taxikardiya və arterial hipotenziya",
+        "taxikardiya və venoz təzyiqin düşməsi",
+        "bradikardiya və arterial hipotenziya",
+        "bradikardiya və venoz təzyiqin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Tetanusun ağır gedişini gostərir:",
+      "options": [
+        "tetanik qıcolmanın sayı",
+        "tonik qıcolmanın intensivliyi",
+        "iri sümüklərin sınması",
+        "əzələlərin cirilması",
+        "vətərin sümüküstlüyündən qopması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Tetanusda yaranın cərrahi işlənməsinin məqsədi:",
+      "options": [
+        "yaranın aerasiyası",
+        "sağalmanın sürətləndirilməsi",
+        "kobud çapıgların profilaktikası",
+        "qanaxmanın profilaktikası",
+        "residivlərin profilaktikası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Opistotonus vəziyyəti nədir:",
+      "options": [
+        "gövdənin arxaya əyilməsi",
+        "ənsə əzələlərinin rigidliyi",
+        "qarın əzələlərinin bərkiməsi",
+        "ayaqların tam açılması",
+        "qolların gövdəyə sıxılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. Tetanusun ikincili ağırlaşmasına aiddir:",
+      "options": [
+        "pnevmoniya",
+        "iri sümüklərin sınığı",
+        "iri oynaqların çıxığı",
+        "tənəffüsün dayanması",
+        "ürəyin dayanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Tetanusda immunitet:",
+      "options": [
+        "yaranmır",
+        "qısamüddətli olur",
+        "davamlı olur",
+        "residiv verəndə yaranır",
+        "kriptogen olanda yaranır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. Tetanusda aktiv immunitet yaradır:",
+      "options": [
+        "anatoksin",
+        "antitoksin",
+        "immunoqlobulin",
+        "spazmolizin",
+        "hemolizin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Tetanusda zədələnmir:",
+      "options": [
+        "onurğa beyninin arxa buynuzları",
+        "onurğa beyninin ön buynuzları",
+        "hərəki kəllə - beyin sinirlərinin mərkəzləri",
+        "retikulyar formasiya",
+        "beyin sütunu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Tetanusda antitoksin zərdabın dozası təyin edilərkən nəzərə alınır:",
+      "options": [
+        "xəstənin bədən çəkisi",
+        "xəstəliyin ağırlığı",
+        "kliniki forma",
+        "xəstəliyin dövrü",
+        "ağırlaşmalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Tetanusda sağalmanın ilk təzahürüdür:",
+      "options": [
+        "tetanik qıcolmanın itməsi",
+        "toniki qıcolmanın itməsi",
+        "udmanın bərpa olunması",
+        "ağzın açılması",
+        "sidik ifrazının bərpa olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Tetanusda patogenetik müalicə vasitəsidir:",
+      "options": [
+        "tubokurarin",
+        "disinon",
+        "anatoksin",
+        "antitoksin",
+        "immunoqlobulin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Tetanusun diaqnozunda istifadə edilir:",
+      "options": [
+        "kliniki və epidemioloji məlumatlar",
+        "kliniki məlumatlar və qanın ümumi analizi",
+        "kliniki məlumatlar və qanın əkilməsi",
+        "qanın və sidiyin əkilməsi",
+        "qanın əkilməsi və seroloji reaksiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. Tetanuslu xəstəni başqa müalicə müəssisəsinə köçürərkən əvvəlcə:",
+      "options": [
+        "neyroplegik qarışıq yeridilir",
+        "antitoksin zərdab vurulur",
+        "immunoqlobulin vurulur",
+        "kifayət qədər maye köçürülür",
+        "yara birincili cərrahi işlənilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Tetanusu botulizimdən fərqləndirir:",
+      "options": [
+        "tonik qıcolma",
+        "disfaqiya",
+        "tənəffüs pozğunluğu",
+        "huşun itməməsi",
+        "sidik ifrazının dayanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Tetanusu quduzluğa oxşadır:",
+      "options": [
+        "qıcolma tutmaları",
+        "toniki qıcolma",
+        "opistotonus",
+        "sardonik gülüş",
+        "trizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63. Toksoplazmozun törədicisi aiddir:",
+      "options": [
+        "parazitlərə",
+        "bakteriyalara",
+        "göbələklərə",
+        "spiroxetlərə",
+        "borrelialara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Toksoplazmalar çoxalırlar:",
+      "options": [
+        "cinsi və qeyri-cinsi yolla",
+        "yalnız cinsi yolla",
+        "yalnız qeyri-cinsi yolla",
+        "eninə bölünmə yolu ilə",
+        "toxumada persistensiya etməklə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Toksoplazmozun əsas mənbəyi:",
+      "options": [
+        "pişiklər",
+        "qaramal",
+        "itlər",
+        "insan",
+        "quşlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Toksoplazmozun yoluxma yolu :",
+      "options": [
+        "alimentar",
+        "cinsi",
+        "hava - damcı",
+        "transfuzion",
+        "təmas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Toksoplazmozda  zədələnmir:",
+      "options": [
+        "cinsiyyət üzvləri",
+        "sinir sistemi",
+        "limfa düyünləri",
+        "gözün qişaları",
+        "qaraciyər və dalaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Toksoplazmozun daha çox rast gələn klinik forması:",
+      "options": [
+        "latent",
+        "xroniki",
+        "kəskin",
+        "ikincili xroniki",
+        "generalizə edən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Kəskin toksoplazmozun əsas əlamətləri :",
+      "options": [
+        "qızdırma, dəridə səpgilər, hepatosplenomeqaliya",
+        "qızdırma, sarılıq, ishal",
+        "artrit,  baş ağrısı,  meningeal sindrom",
+        "artralgiya, sarılıq, ishal",
+        "sarılıq, böyrək çatışmazlığı , bronxit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Xroniki toksoplazmozun əsas əlamətləri:",
+      "options": [
+        "subfebril qızdırma, artralgiya, limfadenit",
+        "pnevmoniya, tənəffüs çatışmazlığı, ishal",
+        "yüksək qızdırma, dəridə səpgilər,qusma",
+        "əzələ-oynaq ağrıları, ishal, susuzlaşma",
+        "hepatolienal sindrom  parotit, artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Xroniki toksoplazmozun hemoqram göstəriciləri :",
+      "options": [
+        "leykositlərin sayı,  Hb və EÇS dəyişmir",
+        "leykositoz, eritropeniya və EÇS yüksəlməsi",
+        "leykopeniya, EÇS ləngiməsi və eritrositoz",
+        "leykositoz, neytropeniya, EÇS yüksəlməsi",
+        "leykositoz, imfasitoz, EÇS ləngiməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Toksoplazmozda dölün yoluxmasına səbəb olan klinik forma:",
+      "options": [
+        "kəskin",
+        "xroniki",
+        "latent",
+        "birincili-xroniki",
+        "ikincili-xroniki"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Toksoplazmozun diaqnozu üçün geniş tətbiq olunan muayinə üsulları:",
+      "options": [
+        "seroimmunoloji üsullar",
+        "qanın əkilməsi",
+        "sidiyin əkilməsi",
+        "nəcisin əkilməsi",
+        "dəridaxili sınaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Toksoplazmozun mualicəsində istifadə olunan preparatlar:",
+      "options": [
+        "antibiotiklər və antiparazitar preparatlar",
+        "penisillinlər və sulfanilamidlər",
+        "ftorxinolonlar və sulfanilamidlər",
+        "antihelmintlər və antibiotiklər",
+        "antihelmintlər və antimikotiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Toksoplazmozun diaqnostikasında tətbiq olunan seroloji reaksiya:",
+      "options": [
+        "Sebin-Feldman reaksiyası",
+        "Vidal reaksiyası",
+        "Vasserman reaksiyası",
+        "Paul-Bunnel reaksiyasi",
+        "mikroaqlutinasiya reaksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Toksoplazmoza aid olmayan əlamətlər:",
+      "options": [
+        "orxit, epididimit",
+        "limfadenit, mezadenit",
+        "miozit, mialgiya",
+        "xorioretinit, uveit",
+        "nevrit, nevralgiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Toksoplazmoza yoluxma ehtimalı yüksək olan hamilələr:",
+      "options": [
+        "qanında İgG olmayanlar",
+        "qanında İgM çox olanlar",
+        "qanında İgG çox olanlar",
+        "qanında İgM və İgG olanlar",
+        "əvvəllər toksoplazmoz keçirənlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Toksoplazmozun profilaktikasına aiddir:",
+      "options": [
+        "pişiklə az təmas",
+        "xəstə ilə az təmas",
+        "yağlı qidaların qəbulu",
+        "xloridin qəbulu",
+        "qan köçürmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Qazanılma toksoplazmozun qalıq əlamətlərinə aid deyil:",
+      "options": [
+        "ağıl zəifliyi",
+        "ipoxondriya",
+        "gormə zəifliyi",
+        "diensefal sindrom",
+        "astenik sindrom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Toksoplazmozun mualicəsində istifadə olunmur:",
+      "options": [
+        "yod preparatları",
+        "sulfadimezin",
+        "xloridin",
+        "tetrasiklin",
+        "vitaminlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Anadangəlmə toksoplazmozun klinik təzahürü deyildir:",
+      "options": [
+        "ürək qüsurları",
+        "xorioretinit",
+        "hidrosefaliya",
+        "mikrosefaliya",
+        "beyində kalsinatlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. Toksoplazmoz üçün xarakterik olmayan sinir pozğunluğu:",
+      "options": [
+        "parkinsonizm",
+        "ipoxondriya",
+        "epilepsiyaya bənzər tutma",
+        "parez və paresteziya",
+        "astenik sindrom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. Prion xəstəliyinin törədicisidir:",
+      "options": [
+        "protein prionlar",
+        "stafilokoklar",
+        "Borde – Janqu çöpləri",
+        "viruslar",
+        "salmonellalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84. Prion xəstəliyinin əsas yoluxma mexanizmi :",
+      "options": [
+        "alimentar",
+        "perkutan",
+        "fekal - oral",
+        "transmissiv",
+        "hava - damcı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Prion xəstəliyində törədicinin giriş qapısı:",
+      "options": [
+        "dəri və selikli qişalar",
+        "burun - udlaq",
+        "burun - qırtlaq",
+        "ağız - qırtlaq",
+        "ağız – udlaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86. Prion xəstəliyi zamanı daha çox zədələnən sistem:",
+      "options": [
+        "mərkəzi sinir",
+        "tənəffüs",
+        "endokrin",
+        "həzm",
+        "limfoid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Prion xəstəliyi üçün xarakterikdir:",
+      "options": [
+        "transmissiv ensefalopatiya",
+        "sirkulyator ensefalopatiya",
+        "meninqoensefalopatiya",
+        "gənə ensefaliti",
+        "virus ensefaliti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Prion xəstəliyi zamanı beyin yarımkürələrində baş verir:",
+      "options": [
+        "süngərvarı  ensefalit",
+        "periferik  hemodinamikanın  pozulması",
+        "baş  beyin  ödemi",
+        "tənəffüs sisteminin  iflici",
+        "yarım  kəskin  sklerozlaşan  panensefalit:"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Prion xəstəliyinin klinikası üçün xarakterikdir:",
+      "options": [
+        "nevroloji simptomlar",
+        "kataral əlamətlər",
+        "sarılıq önü dövr",
+        "qaraciyər, dalağın böyüməsi",
+        "qanda leykositlərin və EÇS-in artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Prion xəstəliyinin müalicəsi:",
+      "options": [
+        "patogenetik və simptomatik",
+        "etiotrop və simptomatik",
+        "fermentlər və vitaminlər",
+        "ürək qlikozidləri və hepatoprotektorlar",
+        "sidik qovucular və öd qovucular"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Prion xəstəliyi zamanı hərarət:",
+      "options": [
+        "normal",
+        "dalğavarı",
+        "daimi",
+        "zəiflədən",
+        "üzücü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92. Anginanın əsas törədicisidir:",
+      "options": [
+        "S. pyogenes",
+        "S. pnevmoniae",
+        "S. epidermidis",
+        "S. aureus",
+        "B. pertussis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93. Anginanın yoluxma yolu:",
+      "options": [
+        "hava-damcı",
+        "transmissiv",
+        "məişət",
+        "inokulyativ",
+        "parenteral"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Anginanın klinik formalarına aid deyil:",
+      "options": [
+        "herpangina",
+        "kataral",
+        "follikulyar",
+        "lakunar",
+        "nekrotik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. Anginanın klinik formalarına aiddir:",
+      "options": [
+        "lakunar angina",
+        "tifoz angina",
+        "Lüdviq anginası",
+        "Simanovski-Vensan anginası",
+        "herpangina"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Anginada yerli iltihabın əsas xarakter xüsusiyyəti:",
+      "options": [
+        "irinli",
+        "hemorragik",
+        "fibrinoz",
+        "krupoz",
+        "seroz - hemorragik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. Anginanın vacib klinik simptomları:",
+      "options": [
+        "kəskin başlanqıc, yüksək qızdırma, boğazda ağrının artması",
+        "tədrici başlanqıc, subfebril qızdırma, boğazda zəif qızartı",
+        "udlaq nahiyyəsində toxumanın ödemi",
+        "boyunda dərialtı toxuma ödemi",
+        "badamcıqlar üzərində fibrinoz ərp"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Anginanın fəsadları:",
+      "options": [
+        "paratonzilyar abses",
+        "polinevrit",
+        "perikardit",
+        "pnevmoniya",
+        "frontit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Anginanın diaqnostikasına aiddir:",
+      "options": [
+        "əsnək yaxmasının bakterioloji müayinəsi",
+        "qanın bakterioloji müayinəsi",
+        "virusoloji müayinə",
+        "ekspress diaqnostik müayinə",
+        "hemaqlütinasiyanın tormozlanma reaksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Anginanın terapiyasına aiddir:",
+      "options": [
+        "antibakterial",
+        "desensibilizəedici",
+        "hemakoaqulyasiyanı tənzimləyici",
+        "turşu-qələvi balansını tənzimləyici",
+        "dietoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Angina diferensasiya edilir:",
+      "options": [
+        "difteriya, skarlatina, qızılça",
+        "difteriya, ornitoz, epidemik parotit",
+        "kəskin respirator xəstəlik, ornitoz, vərəm",
+        "qrip, vərəm, epidemik parotit",
+        "skarlatina, kəskin respirator xəstəlik, legionelloz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. Anginanın müalicə preparatlarına aiddir:",
+      "options": [
+        "eritromisin, penisillin",
+        "eritromisin, xinqamin",
+        "penisillin, prednizalon",
+        "rifampisin, xinqamin",
+        "prednizalon, rifampisin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. İİV – infeksiyasının risk qrupuna aiddir:",
+      "options": [
+        "homoseksuallar",
+        "subay qadınlar",
+        "subay kişilər",
+        "hamilələr",
+        "uşaqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. İİV – infeksiyasının yoluxma yollarıdır:",
+      "options": [
+        "parenteral, cinsi",
+        "alimentar, cinsi",
+        "aerogen, cinsi",
+        "kontakt, alimentar",
+        "transmissiv, aerogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. İİV – infeksiyasında bu  limfa düyünləri böyüyür:",
+      "options": [
+        "periferik",
+        "mediastinal",
+        "müsariqə",
+        "qasıq",
+        "mezenterial"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. İİV – infeksiyasının əsas kliniki əlamətlərindəndir:",
+      "options": [
+        "uzun müddətli qızdırma",
+        "qıcolma tutmaları",
+        "disfagiya",
+        "oftolmoplegiya",
+        "sakroileit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. İİV – infeksiyasının törədiciləri aiddir:",
+      "options": [
+        "retroviruslara",
+        "rotoviruslara",
+        "arboviruslara",
+        "pikarnoviruslara",
+        "enteroviruslara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108. İİV – infeksiyasının törədiciləri çoxalır:",
+      "options": [
+        "limfositlərdə",
+        "eritrositlərdə",
+        "neytrofillərdə",
+        "bazofillərdə",
+        "trombositlərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. İİV – infeksiyasına qoşulmur:",
+      "options": [
+        "flaviviruslar",
+        "parvoviruslar",
+        "sitomeqaloviruslaar",
+        "zoster varisella virusu",
+        "Epşteyn – Barr virusları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. İİV – infeksiyasında pnevmoniyanı ən çox törədən göbələkdir:",
+      "options": [
+        "pnevmosistlər",
+        "kandidalar",
+        "kripdosporidilər",
+        "aspergillalar",
+        "histoplazmalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. İİV – infeksiyasının əsas əlaməti deyil:",
+      "options": [
+        "sarılıq",
+        "qızdırma",
+        "ishal",
+        "arıqlama",
+        "limfopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. İİV – infeksiyasını yoluxdurur:",
+      "options": [
+        "qan və sperma",
+        "qan və ağız suyu",
+        "sperma və sidik",
+        "ərzaq və su",
+        "ağız suyu və qöz yaşı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113. İİV – infeksiyasının müalicəsində işlədilir:",
+      "options": [
+        "zidovudin",
+        "qlükantim",
+        "plakvenil",
+        "niklozamid",
+        "xloksil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. İİV – infeksiyasının kliniki  forması deyil:",
+      "options": [
+        "dəri forması",
+        "ağciyər forması",
+        "sinir forması",
+        "mədə - bağırsaq forması",
+        "qızdırmalı forma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115. İİV – infeksiya ilə assosiyasiya edən xəstəlikdir:",
+      "options": [
+        "infeksion mononukleoz",
+        "epidemik parotit",
+        "tetanus",
+        "malariya",
+        "səpgili yatalaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. İİV – infeksiyası ilə eyni yoluxma mexanizmə malikdir:",
+      "options": [
+        "parenteral virus hepatitləri",
+        "enteral virus hepatitləri",
+        "adenovirus hepatitləri",
+        "toksoplazmoz",
+        "tif – paratif xəstəlikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. İİV – infeksiyasında opportunist xəstəliklər törətmir:",
+      "options": [
+        "ortomiksoviruslar",
+        "herpes virusları",
+        "protozoalar",
+        "salmonellalar",
+        "göbələklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118. İİV - infeksiyasının  reseptor hüceyrələridir :",
+      "options": [
+        "kolorektal epiteliositlər",
+        "hepatositlər",
+        "silindirik epitellər",
+        "epidermis",
+        "endoteliositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119. IİV – infeksiyasınada rast gələn onkoloji xəstəliklər:",
+      "options": [
+        "limfoma",
+        "epitelioma",
+        "angioma",
+        "lipomatoz",
+        "adenoma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120. İİV – infeksiyasının nəticəsi olur:",
+      "options": [
+        "ölüm",
+        "sağalma",
+        "xronikləşmə",
+        "residivlər",
+        "əlillik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. IİV – infeksiyasında herpes infeksiyasının təzahürüdür:",
+      "options": [
+        "Kapoşi sarkoması",
+        "Vilson hepatiti",
+        "Bazedov xəstəliyi",
+        "sulu xərçəng - noma",
+        "hemangioma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122. İİV – infeksiyasının diaqnozunu təsdiq edir:",
+      "options": [
+        "virus antigeni və RNT -si",
+        "virus anticismi DNT -si",
+        "yalnız virus anticismi",
+        "JgM sinif anticisim",
+        "JgG sinif anticisim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. İİV – infeksiyasının risk qrupuna aid deyil:",
+      "options": [
+        "tək cinsi tərəfdaşı olanlar",
+        "çox cinsi tərəfdaşı  olanlar",
+        "qan  köcürülənlər",
+        "orqan  köçürülənlər",
+        "plazma  əvəzedici  köçürülənlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. İİV – infeksiyasının əsas kliniki təzahürləridir:",
+      "options": [
+        "qızdırma və limfadenopatiya",
+        "stomatit və larıngit",
+        "sarılıq və dəri qaşınması",
+        "keratokonynktivit və qızdırma",
+        "qızdırma və dəri səpgisi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. İİV – infeksiyasında çox rast gələn xəstəliklərdir:",
+      "options": [
+        "infeksion və onkoloji",
+        "ginekoloji və endokrin",
+        "ürək – damar və ağciyər",
+        "endokrinoloji və damar",
+        "dəri və stomatoloji"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126. İİV – infeksiyasının müalicəsində istifadə olunmur:",
+      "options": [
+        "aminarson",
+        "didanozin",
+        "nevirapin",
+        "sakvinavir",
+        "hidroksikarbomidlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127. Difteriya bu infeksiyalara aiddir:",
+      "options": [
+        "tənəffüs",
+        "transmissiv",
+        "virus",
+        "bağırsaq",
+        "xarici örtük"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128. Difteriyada infeksiya mənbəyi:",
+      "options": [
+        "xəstə insan və bakteryagəzdiricilər",
+        "qansoran həşəratlar",
+        "xəstə heyvanlar",
+        "xəstə su quşları",
+        "sinantrop gəmiricilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129. Udlaq difteriyasında yerli iltihabi proses:",
+      "options": [
+        "fibrinoz",
+        "irinli",
+        "krupoz pnevmoniya",
+        "xoralı zədələnmə",
+        "nekrotik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130. Difteriyada ən çox təsadüf olunan klinik forma:",
+      "options": [
+        "udlaq difteriyası",
+        "dəri, yara difteriyası",
+        "göz difteriyası",
+        "qırtlaq difteriyası",
+        "burun difteriyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131. Udlaq difteriyasının kataral formasına aiddir:",
+      "options": [
+        "badamcıqların  hiperemiyası  və  ödemi",
+        "badamcıqlarin kəskin sianotik ödemi",
+        "udqunma zamanı boğazda çox kəskin ağrılar",
+        "boyunun  dərialtı  toxumasının  ödemi",
+        "səsin batması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Udlaq difteriyasının yayilmiş formalarının klinik simptomlarına aiddir:",
+      "options": [
+        "qızdırıma, badamcıqlar, damaq qövsləri və dilçək üzərində ərp, limfa düyünlərinin böyüməsi",
+        "üzün hiperermiyası, boyun nahiyyəsində ödem, oyanıqlıq, taxikardiya",
+        "davamlı yüksək qızdırma, yalnız badamcıqlarda ərp, qarın və boyun nahiyyəsində ağrılar",
+        "udqunma zamanı boğazda kəskin ağrılar, qızdırma, qusma, limfa düyünlərinin azca böyüməsi",
+        "irinli limfadenit,  periadenit, səsin batması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133. Difteriyanın toksiki formasına aiddir:",
+      "options": [
+        "yüksək qızdırma, boyn toxumasının ödemi, badamcıqların kəskin ödemi",
+        "traxeobronxial simptomlar, qızdırma, regionar limfadenit",
+        "qusma, ishal, badamcıqların kəskin ödemi",
+        "burun-dodaq üçbucağının sianozu, tıntınlıq, boyun nahiyyəsində ödem",
+        "subfebril qızdırma, boyun dərisinin kəskin hiperemiyası, bəlğəmli öskürək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134. Difteriyanın spesifik terapiyasına aiddir:",
+      "options": [
+        "seroterapiya",
+        "desensibilizəedici terapiya",
+        "infuzion terapiya",
+        "dezintoksikasion terapiya",
+        "ağız-udlağın yerli müalicəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135. Difteriyanın diaqnostikasında vacib müayinə metodu:",
+      "options": [
+        "bakterioloji",
+        "seroloji",
+        "bioloji",
+        "dəri allergik sınaq",
+        "instrumental"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136. Difteriyanın spesifik fəsadı:",
+      "options": [
+        "infeksion toksiki miokardit",
+        "dehidratasion şok",
+        "kardiogen şok",
+        "allergik miokardit",
+        "peritonzilyar abses"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137. Difteriyanın subtoksiki formasının klinik simptomlarına aiddir:",
+      "options": [
+        "boyunda dərialtı toxuma ödeminin birtərəfli olması",
+        "boyunda dərialtı toxuma ödeminin ikitərəfli olması və körpücük sümüyününə çatması",
+        "boyunda ödemin müəyyən edilməməsi",
+        "boyunda ödemin körpücük sümüyündən aşağıya yayılması",
+        "çox güclü intoksikasiya əlamətlərinin olması,   ağız udlaqda yerli iltihabi dəyişikliklərin olmaması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138. Hipertoksiki forma difteriyada intoksikasiya simtomplarına aiddir:",
+      "options": [
+        "hipertermiya, qıcolmalar, kollaps, huşsuz vəziyyət",
+        "hipertermiya, hemorrargik şok, kollaps, hərəki narahatlıq",
+        "hipotermiya, kollaps, parezlər, qusma",
+        "hipotermiya, hemorrargik şok , huşsuz vəziyyət",
+        "hipertermiya, güclü baş ağrısı , qusma ,qan təzyiqinin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139. Difteriyanın tosiki formasının II-ci dərəcəsində boyun toxuması ödeminin yayılması:",
+      "options": [
+        "körpücük sümüyünədək",
+        "körpücük sümüyündən aşağı",
+        "boyunun yarısınadək",
+        "döş qəfəsinin yuxarısınadək",
+        "boyunun cənəaltınadək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140. Difteriyanın atipik formalarına aiddir:",
+      "options": [
+        "kataral, hipertoksiki, hemorrargik",
+        "kataral, toksiki, subtoksik",
+        "subtoksik, hipertoksiki, yayılmış",
+        "toksiki, yayılmış, kataral",
+        "adacıqlı, hemorrargik, yayılmış"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141. Difteriyanın hemorragik formasına aiddir:",
+      "options": [
+        "ərpə qan hopması, dəriyə çoxsaylı qansızmalar, burun və diş ətindən qanaxma",
+        "badamcıqların sarımtıl ərplə örtülməsi, ərpin kəskin hüduda malik olması",
+        "badamcıqlarda ərpin olmaması, onların kəskin hipermiyası, ödemi",
+        "yüksək qızdıma, əzələ, sümük və oynaqlarda ağrı, burun qanaxması",
+        "yüksək qızdıma,baş ağrıları, zökəm əlamətləri, burun qanaxması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142. Difteriya inağının mərhələlərinə aiddir:",
+      "options": [
+        "kataral, stenotik, asfiksiya",
+        "disfonik, hemorrargik, artralgik",
+        "kataral, stenotik, hemorrargik",
+        "disfonik, hərəki oyanıqlıq, artralgik",
+        "asfiksiya, hərəki oyanıqlıq, sianotik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Difteriyanın spesifik ağırlaşmasına aid deyil:",
+      "options": [
+        "pankreatit",
+        "miokardit",
+        "mononevritlər",
+        "polinevritlər",
+        "nefrotik sindrom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144. Difteriyada erkən miokardit xəstəliyinin bu həftəsində baş verir:",
+      "options": [
+        "birinci həftənin sonu, ikinci həftənin əvvəlində",
+        "ücüncü- dördüncü həftədə",
+        "ücüncü həftənin əvvəlində",
+        "dördüncü həftənin sonu, 5 - ci həftənin əvvəlində",
+        "ikinci həftənin sonunda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145. Udlaq difteriyası diferensasiya olunmur:",
+      "options": [
+        "qızılça inağı ilə",
+        "streptokokk anginası",
+        "Simanovski-Vensen anginası ilə",
+        "infieksion mononukleozla",
+        "tularemiyanın anginoz-bubon foramsı ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146. Difteriyanın toksiki forması diferensasiya olunur:",
+      "options": [
+        "paratonzilyar abses, infieksion mononukleoz, epidemik parotit",
+        "yalançı inağ , infieksion mononukleoz , streptokokk anginası",
+        "paratonzilyar abses, tularemiyanın anginoz-bubon forması, yalançı inağ",
+        "epidemik parotit, streptokokk anginası, Simanovski-Vensen anginası",
+        "nekrotik angina, tularemiyanın anginoz-bubon forması, Simanovski-Vensen anginası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. Sodokunun törədicisidir:",
+      "options": [
+        "Spirillium minor və Streptobacillus monoliformis",
+        "Spirillum minoz və streptococcus piogenes",
+        "Streptobacilus monoliformis və staphylococus aureus",
+        "Spirillurm minor və staphylococcus epidermidis",
+        "Streptococcus pneumoniae və Streptococcus pyogenes"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148. Sodokuda müşahidə olunur:",
+      "options": [
+        "dişlənən yerdə ilkin affekt",
+        "qaraciyər və dalağın böyüməsi",
+        "qaraciyər sirrozu",
+        "pankreatit",
+        "ağ ərpli dil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. Sodokunun əsas yoluxma mənbəyi:",
+      "options": [
+        "siçovul",
+        "at",
+        "pişik",
+        "balıq",
+        "inək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. Sodokuya aid olmayan simptom:",
+      "options": [
+        "ishal",
+        "titrətmə",
+        "qızdırma",
+        "limfadenit",
+        "əzələ ağrısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151. Sodokuda periferik qanın dəyişiklikləri :",
+      "options": [
+        "eozinofiliya",
+        "trombositoz",
+        "Hb artması",
+        "limfopeniya",
+        "leykopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152. Sodokunun istifadə olunan əsas laborator diaqnoz üsulu:",
+      "options": [
+        "qanın qalın damlasının mikroskopiyası",
+        "qanın əkilməsi",
+        "sidiyin əkilməsi",
+        "ödün əkilməsi",
+        "nəcisin mikroskopiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153. Sodoku əsasən diferensə edilir:",
+      "options": [
+        "felinozla",
+        "tetanusla",
+        "brusellozla",
+        "qara yara ilə",
+        "qarın yatalağı ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154. Sodokunun ağırlaşmasıdır:",
+      "options": [
+        "beyin absesi",
+        "sirroz",
+        "pnevmoniya",
+        "plevrit",
+        "leykoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Sodokunun mualicəsində təyin olunur:",
+      "options": [
+        "penisillin",
+        "peyvənd",
+        "vitamin kompleksi",
+        "deksametazon",
+        "fizioterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156. Sodokunun profilaktikasında təyin olunur:",
+      "options": [
+        "tetrasiklin",
+        "peyvənd",
+        "A və E vitaminləri",
+        "immunoqlobulin",
+        "ozonoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157. Hemorragik qızdırmalar bu infeksiyalar qrupuna aiddir:",
+      "options": [
+        "viruslara",
+        "bakteriyalara",
+        "rikketsiozlara",
+        "parazitlərə",
+        "göbələklərə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158. Böyrək sindromlu hemorragik qızdırmanın törədicisi aiddir:",
+      "options": [
+        "bunyavirus",
+        "toqavirus",
+        "arenavirus",
+        "filovirus",
+        "flavivirus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159. Böyrək sindromlu hemorragik qızdırmanın mənbəyidir:",
+      "options": [
+        "gəmiricilər",
+        "insan",
+        "quşlar",
+        "heyvanlar",
+        "nаməlum"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160. Böyrək sindromlu hemorragik qızdırmanın ilə daha çox insanın yoluxması baş verir:",
+      "options": [
+        "hava - toz",
+        "cinsı",
+        "perkutan",
+        "xəstə ilə kontakta",
+        "transmissiv"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161. Böyrək sindromlu hemorragik qızdırmanın prodromal dövrü üçün xarakterik deyil :",
+      "options": [
+        "sarılıq",
+        "mialgiya",
+        "udma vaxtı diskomfort",
+        "subfebrilitet",
+        "asteniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162. Böyrək sindromlu hemorragik qızdırmanın qızdırma dövrünə xarakter deyil:",
+      "options": [
+        "dəri səpgisi",
+        "yüksək qızdırma",
+        "hemorragik sindrom",
+        "güclü baş ağrısı, mialgiya",
+        "beldə ağrı, fotofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163. Böyrək sindromlu hemorragik qızdırmanın oliqourik dövrünə xarakter deyil:",
+      "options": [
+        "beldə ağrını olmaması",
+        "qan hayxırma, qan qusma",
+        "bel aörıları, oliguriya",
+        "subfebrilitet, dəri solğunluğu",
+        "ətrafların sianozu, qanama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164. Böyrək sindromlu hemorragik qızdırmanın poliurik dövrünə xarakter deyil:",
+      "options": [
+        "arterial hipertenziya",
+        "poliuriya",
+        "vəziyyətin yaxşılaşması",
+        "nikturiya",
+        "hipoizostenuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165. Böyrək sindromlu hemorragik qızdırmanın diurezin kəskin azalması  fonunda patoqnomonik əlaməti:",
+      "options": [
+        "proteinuriya",
+        "hipoizostenuriya",
+        "makrohematuriya",
+        "urobilinuriya",
+        "qlukozuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166. Böyrək sindromlu hemorragik qızdırmanın əksər hallarda ölümün səbəbi:",
+      "options": [
+        "böyrək eklampsiyası",
+        "infeksion toksiki şok",
+        "hipovolemiya",
+        "beyin koması",
+        "miokardın infarktı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167. Böyrək sindromlu hemorragik qızdırmanın hemoqrammasında xarakterik dəyişikliklər:",
+      "options": [
+        "leykositoz, neytrofiloz, EÇS yüksəlməsi",
+        "normal EÇS , eozinofiliya, limfopeniya",
+        "bazofiliya, anizositoz, poykilositoz",
+        "eozinopeniya, EÇS azalması, neytropeniya",
+        "eritropeniya, leykopeniya, anizositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168. Böyrək sindromlu hemorragik qızdırmanın xəstələrin müalicəsi aparılır:",
+      "options": [
+        "patogenetik, simptomatik",
+        "etiotrop, spesifik",
+        "spesifik, simptomatik",
+        "seroterapiya, antibiotikoterapiya",
+        "etiotrop, vaksinoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169. Böyrək sindromlu hemorragik qızdırmanın profilaktikası üçün aparılır:",
+      "options": [
+        "deratizasiya",
+        "dezinseksiya",
+        "spesifik",
+        "aparılmır",
+        "vaksinasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170. Böyrək sindromlu hemorraqik qızdırmanın əsas diaqnostik müayinə metodu:",
+      "options": [
+        "seroloji",
+        "bioloji",
+        "virusoloji",
+        "dəri – allerqik sınağı",
+        "histoloji"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171. Omsk hemorraqik qızdırmanın törədicisi bu qrupa aiddir:",
+      "options": [
+        "arboviruslara",
+        "bunyaviruslara",
+        "arenoviruslara",
+        "retroviruslara",
+        "filoviruslara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "172. Omsk hemorraqik qızdırmanın infeksiya mənbəyinə görə bu qrupa aiddir:",
+      "options": [
+        "zoonozlara",
+        "antroponozlara",
+        "zooantroponozlara",
+        "protozoonozlara",
+        "saprozoonozlara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "173. Omsk hemorraqik qızdırmanın əsas yoluxma yollarıdır:",
+      "options": [
+        "kontakt, transmissiv",
+        "alimentar, su",
+        "hava – damcı, dəri",
+        "aerogen, toz",
+        "cinsi, kriptogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "174. Omsk hemorraqik qızdırmanın hemoqrammasında xarakterik dəyişikliklər:",
+      "options": [
+        "leykopeniya, trombositopeniya",
+        "leykositoz, eritropeniya",
+        "EÇS azalması, plazmositopeniya",
+        "eozinofiliya, leykositoz",
+        "bazofiliya, poykilositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "175. İnfeksiya mənbəyinə görə Krım hemorraqik qızdırması aiddir:",
+      "options": [
+        "zoonozlara",
+        "antroponozlara",
+        "saprozoonozlara",
+        "protozoonozlara",
+        "zooantroponozlara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "176. Krım hemorraqik qızdırmanın yoluxma yolları:",
+      "options": [
+        "kontakt, transmissiv",
+        "alimentar, aerogen",
+        "aerogen, su",
+        "cinsi, hava - damcı",
+        "kriptogen, alimentar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "177. Sarı qızdırma bu infeksiyalar qrupuna aiddir:",
+      "options": [
+        "virus",
+        "bakterial",
+        "rikketsioz",
+        "parazitar",
+        "kandidoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "178. Sarı qızdırma bu infeksiyalara aiddir:",
+      "options": [
+        "xüsusi təhlükəli",
+        "təhlükəsiz",
+        "ləng",
+        "karantin olmayan",
+        "az təhlükəli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179. Sarı qızdırmanın şəhər ocaqlarında infeksiya mənbəyi:",
+      "options": [
+        "insan",
+        "ağcaqanadlar",
+        "quşlar",
+        "balıqlar",
+        "torpaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "180. Sarı qızdırmanın hiperemiya mərhələsinə aid deyil:",
+      "options": [
+        "hipotermiya, subfebril qızdırma",
+        "yüksək qızdırma, hipotermiya",
+        "üşütmə, mialgiya",
+        "üzün hiperemiyası, baş ağrısı",
+        "oyanıqlıq, fotofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "181. Sarı qızdırmanın qızğın dövründə hemoqramma dəyişiklikləri:",
+      "options": [
+        "leykositoz, trombositopeniya",
+        "leykopeniya, eritrositoz",
+        "eozinofiliya, bazofiliya",
+        "limfopeniya, eritropeniya",
+        "normositoz, trombositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182. Sarı qızdırmada biokimyəvi müayinədə nəticələri:",
+      "options": [
+        "hiperbilirubinemiya, azotemiya, fermentemiya",
+        "xolesterinemiya, qlikemiya, hipokaliemiya",
+        "natriemiya, hipobilirubinemiya, proteinemiya",
+        "hipokreatinemiya, hipokaliemiya, qlikemiya",
+        "hipoazotemiya, qlikemiya, hiponatriemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "183. Sarı qızdırmanın venoz durğunluq mərhələsinə xarakterik deyil:",
+      "options": [
+        "hipertoniya, poliuriya",
+        "sarılıq, hemorraqik səpgi",
+        "qanlı qusma, melena",
+        "oliguriya, anuriya",
+        "qanaxma, hipotoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "184. Sarı qızdırmada aralıq sahib:",
+      "options": [
+        "ağcaqanadlar",
+        "birələr",
+        "gənələr",
+        "bitlər",
+        "milçəklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "185. Sarı qızdırmada immunitet:",
+      "options": [
+        "davamlı",
+        "zəif",
+        "qısamüddətli",
+        "yaranmır",
+        "geyri - steril"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "186. Sarı qızdırmanın yoluxma yolu:",
+      "options": [
+        "perkutan",
+        "transplasentar",
+        "cinsi",
+        "alimentar",
+        "hava - damcı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "187. Sarı qızdırmanı diferensiasiya edirlər:",
+      "options": [
+        "malariya, hemorragik qızdırma, leptospiroz",
+        "vəba, dizenteriya, salmonelloz",
+        "amöbiaz, difreriya, bruselloz",
+        "sepsis, qızıl yel, angina",
+        "virus diareyası, dabaq, tetanus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "188. Sarı qızdırmanın əsas laborator diaqnoz üsülları:",
+      "options": [
+        "virusoloji, seroloji",
+        "koprokultura, urinokultura",
+        "bioloji, dəri allergik",
+        "likvoroloji, biokimyəvi",
+        "parazitoloji, dəri allergik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189. Sarı qızdırmanın müalicə üsulları:",
+      "options": [
+        "patogenetik, simptomatik",
+        "etiotrop, simptomatik",
+        "spesifik, seroterapiya",
+        "antibiotikoterapiya, kimyəvi terapiya",
+        "balneoterapiya, antibiotikoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. Sarı qızdırmanın profilaktik üsulu:",
+      "options": [
+        "vaksinasiya",
+        "antibiotiklərin istifadəsi",
+        "kimyəvi preparatların istifadəsi",
+        "deratizasiya",
+        "dezinfeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "191. Sarı qızdırmanın spesifik profilaktikası:",
+      "options": [
+        "attenuir vaksin",
+        "kombioteks vaksin",
+        "EV vaksini",
+        "Çernoxvostov vaksini",
+        "Qayski – Elbert vaksini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "192. Sulu çiçəyin törədicisi:",
+      "options": [
+        "herpes virus",
+        "paramiksovirus",
+        "adenovirus",
+        "enterovirus",
+        "toqovirus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "193.  Sulu çiçəyinə xas olan səpgi:",
+      "options": [
+        "vezikuloz",
+        "ləkəli - papuloz",
+        "hemorragik",
+        "urtikar",
+        "nöqtəvari"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194. Sulu çiçəyin spesifik profilaktikası:",
+      "options": [
+        "aparılmır",
+        "qammaqlobulin",
+        "diri vaksin",
+        "anatoksin",
+        "ölü vaksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "195. Sulu çiçəyinə aid tipik fəsad:",
+      "options": [
+        "ensefalit",
+        "sonsuzluq",
+        "miokardit",
+        "otit",
+        "limfadenit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "196. Sulu çiçəyinin ötürülmə mexanizmi:",
+      "options": [
+        "hava - damcı",
+        "alimentar",
+        "təmas",
+        "transmissiv",
+        "fekal – oral"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "197. Sulu çiçəkli xəstə yoluxucu deyil:",
+      "options": [
+        "axırıncı səpginin əmələ gəlməsindən 5 gün sonra",
+        "kliniki əlamətlərin qızğın dövründə",
+        "inkubasion dövrün axırıncı günündə",
+        "xəstəliyə digər infeksiya qoşularsa",
+        "xəstədə kəmərvarı dəmrov aşkar edilərsə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198. Sulu çiçəyinin xarakter klinik formasıdır:",
+      "options": [
+        "tipik",
+        "sarılıq önü",
+        "hemorragik",
+        "qanqlioz",
+        "visceral"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199. Sulu çiçəyinin etiotrop müalicəsinə aiddir:",
+      "options": [
+        "asiklovir",
+        "antibiotik",
+        "delagil",
+        "remantadin",
+        "qlükantim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "200. Sulu çiçək ensefaliti üçün xarakterikdir:",
+      "options": [
+        "beyin əlamətləri",
+        "meningeal əlamətlər",
+        "limfodenit",
+        "splenomeqaliya",
+        "pnevmoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "201. Sulu çiçəyin kliniki diaqnozu üçün əhəmiyyət kəsb edir:",
+      "options": [
+        "vezikulyoz səpgi",
+        "rozeolyoz səpgi",
+        "papulyoz səpgi",
+        "hemorraqik səpgi",
+        "pustulyoz səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202. Sulu çiçəkdə səpgi olmur:",
+      "options": [
+        "ovucda, ayağın altında",
+        "ətraflarda",
+        "başın tüklü hissəsində",
+        "kürək nahiyəsində",
+        "qarın nahiyəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "203. Sulu çiçəyi zamanı əsas morfoloji dəyişikliklər baş verir:",
+      "options": [
+        "dəri və selikli qişalarda",
+        "yuxarı tənəffüs yollarında",
+        "qaraciyər və dalaqda",
+        "limfoid sistemdə",
+        "mərkəzi sinir sistemində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "204. Sulu çiçəkdə fəsillik:",
+      "options": [
+        "qış – yaz",
+        "yay - payız",
+        "sporadik hallar",
+        "payız",
+        "yaz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "205. Sulu çiçəyi zamanı istifadə edilmir:",
+      "options": [
+        "kortikosteroidlər",
+        "vitaminlər",
+        "qan və qanəvəzedici preparatlar",
+        "iri molekullu kolloid məhlullar",
+        "fermentlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "206. Felinozun törədicisi:",
+      "options": [
+        "Afipia felis",
+        "Vibro cholerae",
+        "Brusella suis",
+        "Proteus vulqaris",
+        "Bacilus cereus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207. Felinozun atipik formasıdır:",
+      "options": [
+        "göz",
+        "bağırsaq",
+        "dəri-selikli qışa",
+        "qastritik",
+        "tuberkuloid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "208. Felinozda müşahidə edilir:",
+      "options": [
+        "regionar limfadenit",
+        "kataral qastrit",
+        "atrofik qastrit",
+        "xoralı kolit",
+        "nekrotik pankreatit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "209. Felinozda dəridə əmələ gəlir:",
+      "options": [
+        "papula",
+        "qabıq",
+        "çapıq",
+        "xora",
+        "eroziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "210. Felinozda ən çox böyüyən limfa vəziləri :",
+      "options": [
+        "dirsək, qoltuqaltı, boyun",
+        "boyun, qasıq, ənsə",
+        "qasıq, qoltuqaltı, çənə altı",
+        "çənə altı, ənsə, qulaqarxası",
+        "boyun, qasıq, mezenterial"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "211. Felinozda əsas sindrom:",
+      "options": [
+        "hepatolienal",
+        "kolit",
+        "dispeptik",
+        "kataral",
+        "artralgik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "212. Felinoz diferensasiya edilir:",
+      "options": [
+        "taun, tularemiya",
+        "qara yara, salmonelyoz",
+        "dabaq, qrip",
+        "qızılca , vəba",
+        "sulu çiçək, tetanus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "213. Felinozun törədiciləri bu heyvanlarda aşkar edilir:",
+      "options": [
+        "pişiklər",
+        "itlər",
+        "qara mal",
+        "donuzlar",
+        "quşlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "214. Felinozun irinli ağırlaşmalarında müalicə aparılır:",
+      "options": [
+        "cərrahi",
+        "immunoterapiya",
+        "vaksinasiya",
+        "vaksinoterapiya",
+        "seroterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "215. Xroniki forma felinoz üçün xarakterdir:",
+      "options": [
+        "residivlər",
+        "reinfeksiya",
+        "superinfeksiya",
+        "ko - infeksiya",
+        "nozokomial infeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "216. Dabağın törədicisi bu virus ailəsinə daxildir:",
+      "options": [
+        "pikarnoviridae",
+        "ortomixsoviridae",
+        "paramixoviridae",
+        "retroviridae",
+        "rabdaviridae"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "217. Dabaqda immunitet:",
+      "options": [
+        "davamlı",
+        "davamsız",
+        "antitoksik",
+        "qeyri – steril",
+        "antibakterial"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "218. Dabaq müşahidə edilir:",
+      "options": [
+        "qoşadırnaqlı heyvanlarda",
+        "təkdırnaqlı heyvanlarda",
+        "gəmiricilərdə",
+        "sürünənlərdə",
+        "yırtıcı heyvanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "219. Dadağın yoluxma faktorlarıdır:",
+      "options": [
+        "çiy süd, kəsmik",
+        "qatıq, duzlu pendir",
+        "konservləşmiş tərəvəzlər",
+        "şirniyyat məhsulları",
+        "kolbasa məhsulları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "220. Dabağa tutulurlar:",
+      "options": [
+        "sağıcılar",
+        "çəltik əkənlər",
+        "quşculuq təsərrüfatında çalışanlar",
+        "qənnadi istehsalında işləyənlər",
+        "balıqçılıqla məşqul olanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "221. Dabağın klinik formalar:",
+      "options": [
+        "dəri, selikli qişa, dəri-selikli qışa",
+        "dəri, dəri- bubon, göz bubon",
+        "yerli, yayılmış, toksiki",
+        "yerli, residiv verən, fasiləsiz",
+        "toksiki, kataral, yayılmış"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "222. Dabaq zamanı selikli qişalarda görkəmli əlamət:",
+      "options": [
+        "aftoz stomatit",
+        "irinli angina",
+        "fleqmanoz angina",
+        "xoralı faringit",
+        "qanqrenoz larıngit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "223. Dabağın klinik gedişi formaları:",
+      "options": [
+        "kəskin, silinmiş, uzun sürən",
+        "kəskin, xroniki, subklinik",
+        "xroniki, residiv verən , fasiləsiz",
+        "yerli, yayılış, toksiki",
+        "kataral, fleqmanoz, qanqrenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "224. Dabağda vezikuloz – eroziv dəyşiliklərin yeri:",
+      "options": [
+        "ağızın selikli qışası, əl və ayağın dərisi",
+        "ağızın selikli qışası, nazik bağırsaq",
+        "burunun selikli qışasında, konyuktiva",
+        "gözün selikli qışasında, orta qulaq",
+        "yuxarı tənəffüs yollarında, yoğun bağırsaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225. Dabaqda selikli qışaların dəyişilikləri :",
+      "options": [
+        "hiperemiya, ödem, suluq",
+        "hiperemiya, suluq, çapıq",
+        "ödem, nekroz, qanqrena",
+        "xora, çapıq, piqmentasiya",
+        "səpgi nekroz, qanqrena"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "226. Dabağın hematoloji göstəriciləri :",
+      "options": [
+        "leykopeniya, eozinofiliya",
+        "leykositoz, trombositopeniya",
+        "monositoz, trombositoz",
+        "limfositoz, EÇS –in enməsi",
+        "eozinofiliya, eritrositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "227. Dabağda ikincili infeksiya ilə ağırlaşmalar:",
+      "options": [
+        "pnevmoniya, sepsis, miokardit",
+        "bronxit, enterit, kolit",
+        "qastrit, enterit, pankreatit",
+        "nefrit, uretrit, sistit",
+        "pankreatit, hepatit, orxit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228. Dabaq zamanı uşaqlarda müşahidə edilən sindrom:",
+      "options": [
+        "hepatolienal",
+        "kolit",
+        "meningeal",
+        "kataral",
+        "artralgik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229. Dabağın atipik formalarının diaqnozu:",
+      "options": [
+        "seroloji reaksiyalara",
+        "hemotoloji göstəricilər",
+        "koproloji göstəricilər",
+        "qanın biokimyəvi göstəricilərinə",
+        "sidiyin ümumi müayinəsinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "230. Dabağın diaqnostikasında tətbiq edilən seroloji reaksiyalar:",
+      "options": [
+        "komplimentin birləşmə reaksiyası, passiv hemaqlutinasiya reaksiyası",
+        "komplimentin birləşmə reaksiyası, Kumbs reaksiyası",
+        "hemaqlutinasiya reaksiyası, Rayt reaksiyası",
+        "Hoff- Bauer, Li - Davidson",
+        "Xeddelson, Rozbenqal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "231. Dabaq diferensasiya edilir:",
+      "options": [
+        "aftoz stomatitlə",
+        "allergik rinitlə",
+        "toksiki difteriya ilə",
+        "kataral faringitlə",
+        "qara yara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232. Dabağın əsas müalicə üsulu:",
+      "options": [
+        "simptomatik və yerli",
+        "etiotrop və yerli",
+        "patogenetik və etiotrop",
+        "antibiotikoterapiya",
+        "vaksinoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "233. Dabaq zamanı ağızda göynəməni azaltmaq üçün tətbiq edilir:",
+      "options": [
+        "anestezin, novokain",
+        "rivanol, furasilin",
+        "novokain, hydrogen peroksid",
+        "lidokain, hidrogen peroksid",
+        "anestezin, kalium permanqanat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "234. Dabaqda antibiotikoterapiyaya göstəriş:",
+      "options": [
+        "irinli ağırlaşmalar",
+        "meninqit",
+        "suluqlar əmələ gəldikdə",
+        "otit",
+        "ensefalit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "235. Gənə ensefaliti əsas rezervuarı və keçiriciləridir:",
+      "options": [
+        "İxodes persulcatus, İxodes ricimis",
+        "Pediculus humanus corporis,birə",
+        "Pediculus humanus caputis, Culex pipiens",
+        "İxodes persulcatus, Aedes japonicus",
+        "İxodes ricimis, Culex tritaeniarhynhus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "236. Gənə ensefalitini çox vaxt bu aylarda rast gəlinir:",
+      "options": [
+        "yaz - yay",
+        "payız - qış",
+        "qış- yaz",
+        "yay - payız",
+        "yaz – payız"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "237. Klinik xüsusiyyətlərinə görə gənə ensefalitinin formaları:",
+      "options": [
+        "qızdırmalı, meningeal, meningoensefalitik, poliradikulonevritik",
+        "sarılıqlı, meningeal, artritik, poliradikulonevritik",
+        "qızdırmasız, poliomielit, poliensefalit, artritik",
+        "sarılıqsız, meningeal, qızdırmasız, meningoensefalitik",
+        "qızdırmalı, paralitik, poliensefalit, miastenik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "238. Yüksək qızdırma, güclü baş ağrı, başın hərəkəti zamanı ağrının artması, baş gicəllənmə, ürəkbulanma, qusma, göz almalarında ağrı,işıqdan qorxma, gənə ensefalitinin bu formasına aiddir:",
+      "options": [
+        "meningeal",
+        "poliradikulonevrit",
+        "xroniki",
+        "qızdırmalı",
+        "proqredient"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "239. Gənə ensefalitinin seroloji diaqnostikasında istifadə olunmur:",
+      "options": [
+        "qarşılaşan immunoelektroforez",
+        "komplementin birləşmə reaksiyası",
+        "hemaqqlütinasiya reaksiyası",
+        "neytrallaşdırma reaksiyası",
+        "immunoferment anticismin  reaksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "240. Gənə ensefaliti diferensasiya olunmur:",
+      "options": [
+        "quduzluqla",
+        "seroz meningitlə",
+        "poliomielitlə",
+        "beyin şişləri ilə",
+        "beyin absesi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "241. Gənə ensefalitinin müalicəsində işlədilir:",
+      "options": [
+        "donor immunoqlobulini",
+        "anatoksin",
+        "nitrofuran preparatları",
+        "bakteriofaqlar",
+        "antiparazitar preparatlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "242. Ağcaqanad ensefalitinin rezervuarı:",
+      "options": [
+        "vəhşi məməlilər və vəhşi quşlar",
+        "ev siçovulları və tarakanlar",
+        "su quşları və gəmiricilər",
+        "gənələr və birələr",
+        "vəhşi məməlilər və gəmiricilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "243. Ağcaqanad ensefalitinin əsas keçiricilərinə aiddir:",
+      "options": [
+        "Culex və Aedes ağcaqanadları",
+        "Anopheles ağcaqanadları",
+        "bitlər və birələr",
+        "payız milçəyi və hünülər",
+        "tarakan və taxtabitilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244. Ağcaqanad ensefalitinin serodiaqnostikasına aid deyil:",
+      "options": [
+        "heldə presipitasiya reaksiyası",
+        "komplementin birləşmə reaksiyası",
+        "qeyri - düz hemaqqlütinasiyanın tormozlanma reaksiyası",
+        "neytrallaşdırma reaksiyası",
+        "qeyri – düz immunoflüoressensiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "245. Ağcaqanad ensefalitinin müalicəsində işlədilmir:",
+      "options": [
+        "bronxolitiklər",
+        "rekonvalessent zərdab",
+        "hiperimmun at zərdabı",
+        "qammaqlobulin",
+        "kortikosteroidlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "246. Ağcaqanad ensefalitinin simptomlarıdır:",
+      "options": [
+        "üzün, boyunun və skleranın qızarması, üşütmə, başda, beldə, ətraflarda ağrı, ürək bulanma, qusma, əzələ tonusunun artması",
+        "üzün hiperimiyası, sklera və konyuktiva kapilyarlarının genişlənməsi, polimorf bolluca səpki, Rozenberq simptomu",
+        "boyun, çiyin, kürək və bel əzələlərində ağrılar, işıqdan qorxma, yuxarı ətraf əzələləri tonusunun azalması",
+        "yüksək qızdırma, diffuz şəkilli güclü baş ağrı, qusma, meningial simptomlar, patoloji reflekslər",
+        "şiddətli üşütmə, yüksək qızdırma, baş ağrı, baldır əzələrində ağrı, böyrəklərin zədələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247. Gənə ensefalitinin poliradikulonevritik forması üçün xarakterik simptomlar: 1) ishal, sol qalça çuxurunda ağrı  9) yüksək qızdırma, profuz tərləmə 2) qusma, epiqastral nahiyyədə ağrı 3) qarışqa yerişi şəkilində paresteziya 10) xolestaz sindromu 4) sinir sütünları boyunca ağrılar 11) dispeptik,astenoveqetativ sindromlar 5) Qovorov – Qodelye simptomu  12) intoksikasiya və kataral sindromlar 6) Lasseq simptomu   13) Stefanski simptomu 7) Konçalovski simptomu   14) artritlər, miozitlər 8) Padalka simptomu   15) hidrofobiya, aerofobiya",
+      "options": [
+        "3, 4, 5;",
+        "1, 9, 15;",
+        "2, 5, 14 ;",
+        "7, 12, 13 ;",
+        "8, 10, 11"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248. İnfeksion mononukleozda infeksiya mənbəyi:",
+      "options": [
+        "xəstə insanlar",
+        "ev quşları",
+        "ev heyvanları",
+        "vəhşi heyvanlar",
+        "çöl quşları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249. İnfeksion mononukleozun müalicə üsulu deyil:",
+      "options": [
+        "rehidratasiya",
+        "desensibilizasiya",
+        "dezintoksikasiya",
+        "vitaminoterapiya",
+        "hormonoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "250. İnfeksion mononukleoza xas olan hemoqramma:",
+      "options": [
+        "atipik  mononuklearlar,  leykositoz, limfositoz",
+        "leykopeniya, limfositoz, monositoz",
+        "leykopeniya, limfopeniya, neytpofilyoz",
+        "atipik mononuklearlar, EÇS-in kəskin yüksəlməsi, neytrofilyoz",
+        "leykopeniya, atipik mononuklearlar, EÇS-in ləngiməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251. İnfeksion mononukleoza xas sindrom:",
+      "options": [
+        "hepatolieneal",
+        "kolitik",
+        "artralgik",
+        "hemorrargik",
+        "astenovegetativ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "252. İnfeksion mononukleozun törədicisinə aiddir:",
+      "options": [
+        "Epşteyn- Barr virusları",
+        "sadə herpes virusları",
+        "kəmərləyici dəmrov virusları",
+        "sitomeqaloviruslar",
+        "Lassa virusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "253. İnfeksion mononukleoza xas olan əlamətlər:",
+      "options": [
+        "qızdırma, angina, hepatosplenomeqaliya, limfadenopatiya",
+        "qızdırma, limfadenopatiya, güclü tərləmə, hepatosplenomeqaliya",
+        "qızdırma, öskürək, konyunktivit, hepatomeqaliya, qusma",
+        "qızdırma, qarında ağrı, hepatosplenomeqaliya, ishal",
+        "qızdırma, intoksikasiya, zökəm əlamətləri, meningizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "254. İnfeksion mononukleoza xas olmayanı seşin:",
+      "options": [
+        "limfa düyünləri bir-biriləri ilə və ətraf toxumalarla birləşir.",
+        "limfa düyünləri simmetirik böyüyür",
+        "limfa düyünlərinin hərəkətli olub, ətraf toxuma ilə birləşmir",
+        "əsasən çənəaltı, arxa boyun, damaq limfa düyünləri böyüyür",
+        "limfadenopatiya ilə bağlı limfanqait müşahidə edilmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255. İnfeksion mononukleoz ərpi üçün xarakterikdir:",
+      "options": [
+        "suda dağılır",
+        "qopardıqda qanayır",
+        "əzilmir",
+        "suda batır",
+        "qopmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256. Xəstə udqunma zamanı güclənən boğaz ağrıları, hərarətin 390C-dək yüksəlməsi şikayətləri ilə xəstəxanaya daxil olmuşdur. Obyektiv müayinədə lakunar angina, faringit, əsasən boyun limfa düyünlərinin böyüməsi, hepatosplenomeqaliya, sklera və selikli qişaların subikteriklikliyi müəyyən edilir. Qanda ümumi analizi: mülayim leykositoz. Ilkin diaqnoz:",
+      "options": [
+        "infeksion mononukleoz",
+        "yersinioz, yayılmış forma",
+        "lakunar angina",
+        "xroniki tonzillitin kəskinləşməsi",
+        "kəskin virus hepatiti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257. İnfeksion mononukleozun törədicisinin aid olduğu qrup:",
+      "options": [
+        "herpesviruslar",
+        "arboviruslar",
+        "arenoviruslar",
+        "filoviruslar",
+        "bunyaviruslar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "258. İnfeksion mononukleoza xasdır:",
+      "options": [
+        "poliadenopatiya",
+        "hippokrat sifəti",
+        "eynək simptomu",
+        "paltaryuyan əllər",
+        "düyü həlimli nəcis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259. İnfeksion mononukleoz virusları həm də törədir:",
+      "options": [
+        "burun-udlaq karsinoması, Berkit limfoması",
+        "neonatal herpes, keratokonyuktiv, herpanangina",
+        "oral-faringeal herpes, qurşaqlı uçuq, kəmərləyici dəmrov",
+        "ensefalit, aseptik meningit, epidemik mialgiya",
+        "parotit, neonatal herpes, virus qastroenteriti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "260. İnfeksion mononukleoz virusları çoxalır:",
+      "options": [
+        "B - limfositlərdə",
+        "T - limfositləridə",
+        "neytrofillərdə",
+        "trombositlərdə",
+        "eritrositlərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "261. İnfeksion mononukleozun əsas yoluxma yolunu seçin:",
+      "options": [
+        "hava-damcı, təmas",
+        "qan köçürmə, transmissiv",
+        "fekal-oral, parenteral",
+        "hava-damcı, fekal-oral",
+        "alimentar, qan köçürmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "262. İnfeksion mononukleozun patogenezində ardıcıllıq: 1) virusların daxil olması 2) virusların limfogen yolla regional limfa düyünlərinə gətirilməsi 3) virusemiya, hematogen yolla yayılma 4) infeksion-allergik dəyişikliklər 5) immunitetin inkişafı -sağalma.",
+      "options": [
+        "1,2,3,4,5 ;",
+        "1,3,4,5,2;",
+        "1,2,4,5,3;",
+        "2, 3,4,5,1;",
+        "1,3,5,4,2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "263. İnfeksion mononukleoza aid olmayan diaqnostik üsul:",
+      "options": [
+        "Askoli termopresipitasiya reaksiyasi",
+        "kapsid antigeninə qarşı İgG antitelləri",
+        "heterohemaqqlütinasiya reaksiyası",
+        "kapsid antigenə qarşı İgM antitelləri",
+        "virusun nüvə antigeninə qarşı antitellər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "264. İnfeksion mononukleozda müşahidə edilən sindrom:",
+      "options": [
+        "sarılıq",
+        "kolitik",
+        "kataral",
+        "hemorragik",
+        "dehidratasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "265. İnfeksion mononukleozun diaqnozunda istifadə edilən üsul:",
+      "options": [
+        "seroloji",
+        "bakterioloji",
+        "rentgenoloji",
+        "bioloji",
+        "dəri-allergik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "266. İnfeksion mononukleoza xasdır:",
+      "options": [
+        "qanda atipik mononuklearlar",
+        "hipogammaglobulinemiya",
+        "hipoxrom anemiya",
+        "EÇS-in kəskin yüksəlməsi",
+        "kəskin leykopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "267. İnfeksion mononukleozla diferensasiya olunmur:",
+      "options": [
+        "salmonelloz",
+        "QİÇS-in erkən əlamətləri",
+        "virus hepatitləri",
+        "adenovirus infeksiyası",
+        "udlaq difteriyasının yerli forması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "268. Quduzluq aiddir:",
+      "options": [
+        "virus etiologiyalı kəskin zoonoz neyroinfeksiyadır",
+        "virus etiologiyalı kəskin antropanoz neyroinfeksiyadır",
+        "bakteral etiologiyalı kəskin zoonoz neyroinfeksiyadır",
+        "bakterial etiologiyalı kəskin yara infeksiyadır",
+        "bakterial etiologiyalı kəskin antropanoz neyroinfeksiyadır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "269. Quduzluğun qızğın dövrü üçün xarakterik olmayanı:",
+      "options": [
+        "iflic",
+        "sialoreya",
+        "tərləmə",
+        "hidrofobiya",
+        "akustikofobiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "270. Quduzluğun prodormal dövründə müşahidə olunmur:",
+      "options": [
+        "qızdırma",
+        "səbəbsiz qorxu",
+        "həyəcan",
+        "tənəffüs pozğunluqları",
+        "dişləmə yerində iltihab dəyişiklikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "271. Quduzluqda infeksiya mənbəyi:",
+      "options": [
+        "vəhşi və ev heyvanları",
+        "xəstə insanlar və virusgəzdirənlər",
+        "virusgəzdirən insanlar və heyvanlar",
+        "xəstə insanlar və rekonvalessentlər",
+        "xəctə insanlar və vəhşi quşlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "272. Quduzluğun diaqnozunda tətbiq edilmr:",
+      "options": [
+        "elektroensefaloqrafiya, aqqlütinasiya reaksiyası",
+        "ağız suyu, gözyaşının immunoflüoressensiyası",
+        "beyin toxumasında Babeş-Neqri cismiciklərinin aşkar edilməsi.",
+        "bioloji sinaq - laboratot heyvanların yoluxdurulması",
+        "klinik-epidemioloji məlumatlar, histoloji müayinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "273. Quduzluğun yoluxma yolları:",
+      "options": [
+        "dişləmə, ağız suyu",
+        "alimentar",
+        "transmissiv, alimentar",
+        "alimtentar, cinsi",
+        "transmissiv, transfuzion"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "274. Xəstəxanaya daxil olan şiqellozlu xəstənin baldırında yara aşkar olunmuşdur. Anamnezdən məlum olmyşdur ki, 3 gün əvvəl tanımadıqları it dişləmişdir. Həkimə müraciət etməmişdir. Həkimin taktikası:",
+      "options": [
+        "antirabik vaksinanın vurulması",
+        "şigelloza görə vaksin vurmaq olmaz",
+        "şigellozun müalicəsindən sonra vaksin vurmaq olar",
+        "antirabik immunoqlobulin təyin edilməlidir",
+        "antibiotikoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "275. Quduzluqda immunitet:",
+      "options": [
+        "olmur",
+        "qeryi-steril",
+        "davamlı, ömrü boyu qalır",
+        "davamsız, qısa müddətli",
+        "çarpaz immunitet"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "276. Quduzluqda bu dövr olmur:",
+      "options": [
+        "rezidual dövr",
+        "inkubasion dövr",
+        "prodromal dövr",
+        "oyanıqlıq-qızğın dövr",
+        "paralitik dövr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "277. Antirabik vaksinanın vurulmasına ehtiyac yoxdur:",
+      "options": [
+        "quduz itə toxunduqda",
+        "dişləmiş it itdikdə",
+        "dişləmiş it öldükdə",
+        "naməlum və ya vəhşi heyvan dişlədikdə",
+        "dəriyə və selikli qişalara şübhəli heyvanın ağız suyu düşdükdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "278. Quduzluğa xas əlamət:",
+      "options": [
+        "hidrofobiya",
+        "trizm",
+        "strobizm",
+        "tenezm",
+        "ekzantema"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "279. Quduzluğun törədicisi bu ailəyə mənsubdur:",
+      "options": [
+        "Rabdoviridae",
+        "Herpesviridae",
+        "Coronaviridae",
+        "Rinoviridae",
+        "Flaviviride"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "280. Quduzluğun iflic dövrünə xas olan variantı göstərin:",
+      "options": [
+        "huşun  aydınlaşması, psixomator oyanıqlığın çəkilməsi, xəstənin sakitləşməsi",
+        "hipotermiya, hidrofobiya, aerofobiya, fotofobiya",
+        "aqressivlik, əzələ hipertonusu, tonik-klonik qcolmalar",
+        "dəri hiperesteziyaları, hiperkauziya, hiperalgeziya, hiperosmiya",
+        "spesifik müalicə nəticəsində sağalma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "281. Quduzluğun profilaktikası üçün əhəmiyyətlidir:",
+      "options": [
+        "antirabik vaksinanin vurulması",
+        "asiklovirin təyin olunması",
+        "interferon təyini",
+        "xəstənin təcrid olunması",
+        "yaranın birincili işlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "282. Quduzluğun profilaktikasıda əhəmiyyətsizdir:",
+      "options": [
+        "dişləmədən 1 il sonra revaksinasiyanın aparılması",
+        "diyşləyən heyvanın 10 gün müddətində müşahidəsi",
+        "antirabik immunoqlobulinin və vaksinin yeridilməsi",
+        "yaranın ilkin işlənməsi",
+        "preventiv peyvənd"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "283. Quduzluğa uyğun gəlməyən variantı seçin:",
+      "options": [
+        "infeksya mənbəyi xəstə insanlar və virusgəzdirənlərdir",
+        "törədicisi virusdur",
+        "törədicinin əsas rezervuarı ət yeyən heyvanlardır",
+        "ev heyvanları da infeksia mənbəyi ola bilərlər",
+        "xəstə heyvanın ağız suyunun zədələnmiş dəriyə düşməsi yoluxmaya səbəb ola bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "284. Quduzluğun baş verməsində istisna olunan variant:",
+      "options": [
+        "xəstə insanın ağız suyunun dəri üzərinə düşməsi",
+        "hava-damcı yolu ilə yoluxma",
+        "xəstə heyvanın ağız suyunun dəriyə düşməsi",
+        "xəstə heyvanın dişləməsi",
+        "xəstə heyvanın ağız suyunun selikli qişaya düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "285. Quduzluq  virusuna xas olmayanı  göstərin:",
+      "options": [
+        "qızdırdıqda məhv olmurlar",
+        "\"küçə virusu\" və \"fiksə olunmuş\" variantları vardır",
+        "aşağı temperturaya yaxşı dözürlər",
+        "RNT tərkiblidir",
+        "suriya dağ siçanlarında yetişdirilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "286. Quduzluqda müalicə tədbirləri:",
+      "options": [
+        "tam sakitlik, kənar qiciqlardan qoruma, fərdi nəzarət",
+        "yara nahiyyəsinin ilkin cərrahi işlənməsi",
+        "antirabik vaksinanın vurulması",
+        "antirabik immunoqlobulin vurulması",
+        "antibiotikoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "287. Quduzluğun prodromal dövrü üçün xarakterik deyildir:",
+      "options": [
+        "limfadenit",
+        "hiperesteziyalar",
+        "çapıqlaşmış dişləmə yerinin iltihablaşması",
+        "səbəbsiz qorxu, həyacan, depressya",
+        "yuxu pozğunluqları, dəhşətli yuxu görmələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "288. Epidemik parotit bu qrup infeksiyalardandır:",
+      "options": [
+        "tənəffüs",
+        "bağırsaq",
+        "transmissiv",
+        "antroponoz",
+        "zoonoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "289. Epidemik parotitin törədicisi aiddir:",
+      "options": [
+        "paramixovirus",
+        "enterovirus",
+        "herpesvirus",
+        "bunyavirus",
+        "taqovirus"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "290. Epidemik parotit viruslarının yoluxma yolu:",
+      "options": [
+        "aerogen",
+        "alimentar",
+        "transmissiv",
+        "transplasentar",
+        "təmas"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "291. Epidemik parotitdə əsasən zədələnir:",
+      "options": [
+        "sekretor vəzilər",
+        "qaraciyər",
+        "ağ ciyərlər",
+        "oynaqlar",
+        "böyrəklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "292. Epidemik parotitdə əsas enantemadır:",
+      "options": [
+        "Mursu simptomu",
+        "Koplik ləkəsi",
+        "Kiari - Avsin simptomu",
+        "Rozenberq enanteması",
+        "damaqda darıyabənzər səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "293. Epidemik parotitlə diferensə olunan xəstəlik:",
+      "options": [
+        "udlaq difteriyasının toksiki forması",
+        "tularemiyanın bubon forması",
+        "felinoz",
+        "sodoku",
+        "erlixioz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "294. Epidemik parotit virusu bunlarda olar:",
+      "options": [
+        "ağız suyu və qan",
+        "ağız suyu və sidik",
+        "qan və öd",
+        "sidik və qan",
+        "sidk və nəcis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "295. Epidemik parotitə xas ağırlaşmadır:",
+      "options": [
+        "pankreatit və seroz meningit",
+        "pankreatit və pankreolitiaz",
+        "artrit və kontraktura",
+        "sakroileit və tendovaginit",
+        "böyrək və qaraciyər çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "296. Epidemik parotitin əsas əlamətidir:",
+      "options": [
+        "qulaqətrafı vəzin böyüməsi",
+        "yüksək qızdırma",
+        "çeynəmənin ağrılı olması",
+        "orxit",
+        "pankreatit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "297. Epidemik parotitdə rast gəlir:",
+      "options": [
+        "Qiyen – Barre  sindromu",
+        "Kerte sindromu",
+        "Xant sindromu",
+        "Röyter sindromu",
+        "Reye sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "298. Epidemik parotiti  brusellyozdan fərqləndirmir:",
+      "options": [
+        "orxoepididimit",
+        "Mursu simptomu",
+        "pankreatit",
+        "sidikdə diastazanin artması",
+        "Qiyen – Barre sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "299. Epidemik parotitdə hemoqramma:",
+      "options": [
+        "normositoz, limfopeniya",
+        "leykositoz, limfopeniya",
+        "leykopeniya, limfositoz",
+        "leykositoz, neytrofiloz",
+        "leykositoz, limfositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "300. Epidemik parotitdə qanın bu fermenti artır:",
+      "options": [
+        "amilaza",
+        "aldolaza",
+        "xolinestereza",
+        "fosfokinaza",
+        "hialuronidaza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "301. Epidemik parotitdə udlaq difteriyasından fərqli olaraq rast gəlmir:",
+      "options": [
+        "limfadenopatiya",
+        "miokardit",
+        "nefrit",
+        "polinevrit",
+        "boyunun qalınlaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "302. Epidemik parotitin diaqnoz üsulu deyil:",
+      "options": [
+        "bioloji sınaq",
+        "virusoloji müayinə",
+        "qoşa zərdabla seroloji reaksiya",
+        "dəri zərdabla sınaq",
+        "klinik epidemioloji məlumatlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "303. Epidemik parotitin əsas müalicə üsuludur:",
+      "options": [
+        "patogenetik",
+        "etiotrop",
+        "cərrahi",
+        "simptomatik",
+        "fizioterapatik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "304. Epidemik parotitin əsas profilaktik üsuludur:",
+      "options": [
+        "diri vaksinli peyvənd",
+        "ölü vaksinlə peyvənd",
+        "immunoqlobulin yeridilməsi",
+        "xəstələrin təcrid olunması",
+        "karantin tədbirləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "305. Kəmərləyici dəmrov törədicisi  hansı tip herpes virusuna aiddir:",
+      "options": [
+        "III tip",
+        "V tip",
+        "VI tip",
+        "VIII tip",
+        "I,II tip"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "306. Kəmərləyici dəmrov mövsümülük:",
+      "options": [
+        "yaz-payız",
+        "yay fəsli",
+        "yaz-yay",
+        "yay –payız",
+        "xarakter deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "307. Kəmərləyici dəmrova kimlər yoluxur:",
+      "options": [
+        "yaşlılar və İİV infeksiyalılar",
+        "10 yaşa qədər uşaqlar",
+        "baytar həkimlər",
+        "60 yaşdan yuxarı qadınlar",
+        "cavan yaşlı kişilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "308. Kəmərləyici dəmrov rast gəlir:",
+      "options": [
+        "sulu çiçək keçirənlərdə",
+        "angina keçirənlərdə",
+        "İİV asosasiya olunmuş gruplar",
+        "rikketsioz keçirənlərdə",
+        "yüngül həyat tərzi keçirənlərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "309. Kəmərləyici dəmrovun risk qrupuna aiddir 1) ahıl yaşlılar 2) Şiş və qan xəstəliyi olanlar 3) hormonal, kimyəvi  və şüa terapiyası alanlar 4) cavan yaşlı kişilər 5) 12 yaşdan yuxarı uşaqlar",
+      "options": [
+        "1,2,3;",
+        "1,4,5;",
+        "2,3,5 ;",
+        "1,3,5;",
+        "3,4,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "310. Kəmərləyici dəmrovda patoloji anatomik dəyişiklərin səbəbi:",
+      "options": [
+        "onurğa beyni qanqlionlarında qalmış sulu çiçək virusu",
+        "yuxarı tənəffüs yolları selikli qışalarında yerli iltihabi dəyişikliklər",
+        "qanda dövr edən toksinlərin damar endotelisini zədələməsi",
+        "iltihabi proseslərin beyin yarımkürələri səthində yerləşməsi",
+        "system şəkilli endotelioz və endotel hüceyrələrinin sürətli proliferasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "311. Kəmərləyici dəmrov üçün xarakter başlanğıc:",
+      "options": [
+        "üşütmə, qızdırma, sinir boyu ağrı, qaşınma",
+        "mədə, bağırsaq pozğunluğu, qanlı ishal",
+        "üşütmə, boğaz ağrısı, udmanın çətinləşməsi",
+        "kataral, dispeptik, artralgik sindromlar",
+        "qızdırma, güclü baş ağrısı meningeal əlamətlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "312. Kəmərləyici dəmrov ücün xarakterik ekzantema:",
+      "options": [
+        "suluqcuqlar və ləkələrin sinir boyu yerləşməsi",
+        "rozeola və makula,  gövdədə yerləşir",
+        "qırmızı ləkə və rozeola, ətraflara yayılır",
+        "sancaq başı boyda 2-3günə itən səpgi üzdə olur",
+        "ulduzcuq formasında səpkilər ətraflarda və gövdədə olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "313. Kəmərləyici dəmrov üçün xarakter olmayan klinik əlamətlər:",
+      "options": [
+        "ürəkbulanma, qusma, qanlı ishal",
+        "intensive sinir ağrıları, dəri səpkiləri",
+        "qızdırma, trofik damar pozğunluqları",
+        "tük tökülməsi, qüclü tərləmə",
+        "konyunktivalar qızarır və şişir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "314. Kəmərləyici dəmrovun kliniki variantlarına aid deyil:",
+      "options": [
+        "fulminant",
+        "abortiv",
+        "bulloz",
+        "hemorragik",
+        "qanqrenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "315. Kəmərləyici dəmrov üçün xarakterik sindrom:",
+      "options": [
+        "Xant",
+        "bulbar",
+        "miastenik",
+        "oftalmoplegik",
+        "artralgik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "316. Kəmərləyici dəmrovun ağırlıq dərəcəsinin göstəriciləridir:",
+      "options": [
+        "səpginin yeri",
+        "intoksikasiya əlamətləri",
+        "səpginin miqdarı",
+        "dehidratasiya dərəcəsi",
+        "törədicinin daxil olduğu yer"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "317. Kəmərləyici dəmrova diaqnoz bu məlumatlara əsasən qoyulur:",
+      "options": [
+        "kliniki əlamətlər",
+        "lumbal punksiya",
+        "qan yaxması",
+        "hemokultura",
+        "biokimyəvi analiz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "318. Kəmərləyici dəmrovun müalicəsində islədilir:",
+      "options": [
+        "asiklovir",
+        "tetrasiklin",
+        "remantadin",
+        "lamivudin",
+        "delagil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "319. SMV infeksiyasının törədicisi herpes virus tipinə aiddir:",
+      "options": [
+        "VI tip",
+        "IV tip",
+        "III tip",
+        "VIII tip",
+        "I, II tip"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "320. SMV infeksiyasının mənbəyi və rezervüarı:",
+      "options": [
+        "latent virus gəzdirənlər",
+        "xəstə ev heyvanları",
+        "gəmiricilər",
+        "xəstə yırtıcılar",
+        "qoşadırnaqlı heyvanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "321. SMV tapılmır:",
+      "options": [
+        "sümük iliyində",
+        "ağız suyunda",
+        "süddə,uşaqlıq boynu sekretində",
+        "sidikdə və nəcisdə",
+        "toxuma şirəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "322. SMV infeksiyasının yoluxma yollarına aid deyil:",
+      "options": [
+        "alimentar",
+        "hava-damcı",
+        "təmas",
+        "cinsi",
+        "transplasenta"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "323. SMV infeksiyasının dölə kecməsi ehtimali:",
+      "options": [
+        "latent infeksiya kəskinləşdikdə",
+        "hamiləlik vaxtı latent formada",
+        "hamiləlik vaxtı İİV ə yoluxduqda",
+        "hamiləlik vaxtı travma aldıqda",
+        "hamiləlik vaxtı stres yaşadıqda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "324. SMV-yə trop orqan:",
+      "options": [
+        "ağız suyu vəziləri",
+        "sümük toxuması",
+        "hepatotrop",
+        "neyrotrop",
+        "əzələ toxuması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "325. SMV infeksiyasının giriş qapısı:",
+      "options": [
+        "tənəffüs yolları, cinsiyyət üzvlər və mədə-bağırsağın selikli qişaları",
+        "parenximatoz orqanlar, sümük iliyi",
+        "mərkəzi sinir sistemi, beyin hüceyrələri",
+        "regionar limfa düyünləri, dalaq, qaraciyər",
+        "ağ ciyərlər, dalaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "326. SMV infeksiyasının generalizəsinə səbəb: 1) interkurrent infeksiya 2) sitostatiklər 3) immunodepressantlarla müalicə 4) uzun müddətli antibiotikoterapiya 5) ev heyvanları ilə təmas 6) günəş şüalarının təsiri",
+      "options": [
+        "1,2,3;",
+        "2,4,5 ;",
+        "2,3,5 ;",
+        "2,5,6;",
+        "3,4,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "327. SMV infeksiyasının ən cox rast gələn forması:",
+      "options": [
+        "latent forma",
+        "kəskin mononukleoz forma",
+        "kəskin forma",
+        "anadangəlmə",
+        "xroniki sitomeqaliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "328. Kəskin forma SMV infeksiyasının kliniki kriteriyalarına aid deyil:",
+      "options": [
+        "sarılıq, qaşınma və hepatomeqalilya",
+        "ilk günlər qeyri düz qızdırma əyrisi",
+        "kataral əlamətlər, üşütmə, zəiflik",
+        "baş və əzələ ağrıları, dalaq böyüməsi",
+        "boyun, çənəaltı, qulaqaltı vəzilərin ağrıması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "329. SMV infeksiyasının ağırlaşmalarına aid deyil:",
+      "options": [
+        "hipoxrom anemiya",
+        "seqmentar pnevmaniya",
+        "plevrit, ensefalit",
+        "vegetativ damar çatışmazlığı",
+        "miokardit, artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "330. Anadangəlmə SMV infeksiyasının əlamətləri: 1) sarılıq, hepatosplenomeqaliya 2) hemorragik purpura 3) selikli qişalarda qansızma 4) qanqusma,  melena 5) göbək qanayır 6) hepatosplenomeqaliya 7) iri oynaqlarin zədələnməsi 8) kəskin böyrək çatmamazlığı",
+      "options": [
+        "1,2,3,4,5;",
+        "4,5,6;",
+        "3,6,7,8;",
+        "2,6,7,8;",
+        "1,6,8"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "331. Anadangəlmə SMV infeksiyasında hemoqramma:",
+      "options": [
+        "trombositopeniya, proqressiv anemiya, retikulositoz",
+        "leykopeniya, poykilositos, EÇS-in yüksəlməsi",
+        "leykositos, neytrifilyoz, EÇS norma",
+        "leykopeniya,neytropeniya, EÇS artır",
+        "leykopeniya,trombositoz,EÇS-in artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "332. SMV infeksiyasıyada dölün perinatal yoluxmasını göstərir:",
+      "options": [
+        "uşağın qanında 2-ci həftədən başlayaraq 6 aylığa qədər antigenin tapılması",
+        "ananın qanında hamiləlik vaxtı antgenin tapılması",
+        "uşağın qanında antitellərin tapılması",
+        "uşaq doğularkən dəlyanı mayedə anticisimlərin tapılması",
+        "uşaq doğularkən qanında SMV-nin antitellərin tapılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "333. SMV infeksiyasıyalı qadınlarda hamiləliyin gedişi: 1) I trimestrdə-12həftəyə  qədər düşük və amenorreya 2) II trimestrdə-12-27 həftələr döiün inkişaf qüsurları 3) III trimestrdə-28-360cı həftələr dölün antenatal ölümü 4) II trimestrdə yarımçıq doğuşlar 5) III trimestrdə düşüklər",
+      "options": [
+        "1,2,3;",
+        "1, 4,5;",
+        "1,2, 5;",
+        "1,3,5;",
+        "2,3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "334. İİV infeksiyalı şəxslərdə SMV infeksiyasının başlaması:",
+      "options": [
+        "uzun müddətli qızdırma,anoreksiya, gecə tərləməsi, mialgiya",
+        "üşütmə, qızdırma, tərləmə, proqressiv anemiya",
+        "kəskin baş ağrısı qızdırma qusma meningial əlamətlər",
+        "tədricən qalxan qızdirma,dəridə rozeolyoz səpkilər",
+        "qızdırma,ürək bulanma,qusma,qarında qğeılar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "335. Transplantasiyadan sonra SMV infeksiyasının təzahürləri:",
+      "options": [
+        "1-4 ay sonra qızdırma,leykopeniya, hepatit, pnevmoniya, kolit, retinit",
+        "şişlərin əmələ gəlməsi, hepatosplenomeqaliya  simptomu",
+        "titrətmə, qıcolma,sümük kovrəkliyi, sınıqlar, leykositoz",
+        "tutmaşəkilli qızdırma, proqressiv anemiya,kəskin böyrək çatmamazlığı",
+        "qızdırma hemorragik səpgilər,kəskin böyrək çatmamazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "336. SMV infeksiyasının diaqnozunu dəqiqləşdirən müayinələr:",
+      "options": [
+        "virusun əldə edilməsi, anticisim titrinin 4 dəfə artması, sitoloji müayinə",
+        "qanda antigenlərin müayinəsi, likvorun biokimyəvi müayinəsi",
+        "sümük iliyinin müayinəsi, qalın qan yaxması",
+        "ag ciyərin rentgenoloji müayinəsi,bəlğəmin müayinəsi",
+        "qaraciyər punktatının  İFA(immuno ferment analiz)  ilə müayinəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "337. SMV infeksiyası diferensasiya olunur:",
+      "options": [
+        "infeksion mononukleoz, legionelloz, atipik pnevmoniya",
+        "hemorragik qızdırmalar, səpgili yatalaq, sodoku xəstəliyi",
+        "virus hepatitləri, salmonelloz, qida toksikoinfeksiyaları",
+        "qrip, difterya, məxmərək, sulu çiçək",
+        "skarlatina, qızılca, epidemik parotit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "338. SMV infeksiyasının müalicəsində islədilən spesifik preparatlar:",
+      "options": [
+        "qansiklovir",
+        "delagil",
+        "ribavirin",
+        "remantadin",
+        "gentamisin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "339. Qızılcanın törədicisi:",
+      "options": [
+        "Polinosa morbillarum",
+        "Cytomeqalovirus hominis V tip",
+        "Varisella-herpes zoster",
+        "Bordetella pertussis",
+        "Haemophilus influensae"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "340. Qızılcanın mənbəyi:",
+      "options": [
+        "xəstə insan",
+        "xəstə ev və vəhşi heyvanlar",
+        "sağlam virusgəzdiricilər",
+        "qansoran buğumayaqlılar",
+        "qızılcanı keçirmişlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "341. Qızılcanın yoluxma yolları:",
+      "options": [
+        "hava-damcı",
+        "alimentar",
+        "hava-toz",
+        "kontakt-məişət",
+        "hemokontakt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "342. Qızılca virusunun etioloji rol oynadığı ləng infeksiya:",
+      "options": [
+        "yarımkəskin sklerozlaşan panensefalit",
+        "insanın immunodefisit virus infeksiyası",
+        "kuru xəstəliyi, inək quduzluğu",
+        "Qerstman-Ştreussler-Şeynker sindromu",
+        "fatal ailəvi yuxusuzluq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "343. Qızılcanın dövrləri:",
+      "options": [
+        "gizli, kataral, səpgi, sağalma",
+        "başlanğıc, kəskin, spazmatik",
+        "disfoniya, stenoz, asfiksiya",
+        "prodromal, oliqoanuriya, poliuriya",
+        "qızdırmalı, orqan zədələnmələri, bərpa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "344. Qızılcanın klinik formaları:",
+      "options": [
+        "tipik, atipik (mitiqləşmiş və s.)",
+        "kəskin, yarımkəskin, xroniki",
+        "ambulator, abortiv",
+        "latent, virusgəzdiricilik",
+        "silinmiş, subkliniki"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "345. Qızılcanın patoqnomonik əlaməti:",
+      "options": [
+        "yanağın selikli qişasında Koplik ləkələri",
+        "yüksək qızdırma və zökəm ilə kəskin başlanğıc",
+        "quru, əzabverici, «hürücü» öskürək, boğuq səs",
+        "gözyaşının çoxalması, işıqdan qorxma, konyunktivit",
+        "dəridə qeyri-düz kənarlı papulez-ləkəli səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "346. Qızılcanın kataral dövrünün klinik əlamətləri:",
+      "options": [
+        "qızdırma, rinit, konyunktivit, quru öskürək",
+        "normal dəri fonunda səpgilərin meydana çıxması",
+        "səpgilərin enən qaydada ardıcıllığı",
+        "dərinin piqmentləşməsi və cüzi kəpəkvari qabıqlanması",
+        "təngnəfəslik, taxikardiya, akrosianoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "347. Qızılcanın səpgi dövrünün klinik əlamətləri:",
+      "options": [
+        "kataral dövrün əlamətlərinin güclənməsi, səpgi",
+        "larinqotraxeobronxitin  olmaması",
+        "hərarətin normallaşması, öskürək və zökəm",
+        "Koplik ləkələrinin saxlanılması",
+        "ilk gündən ağız-udlaqda iri qırmızı ləkələrin əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "348. Qızılcada səpmənın xarakteri:",
+      "options": [
+        "mərhələ ilə yayılan, birləşməyə meyilli, ləkəli-papulez səpgi",
+        "seyrək, monomorf, döş və qarın nahiyəsində yerləşən rozeolez səpgi",
+        "polimorf, bolluca, rozeolez və ya rozeolez-petexial səpgi",
+        "sonradan nekrozlaşan ulduzvari hemorragik səpgi",
+        "qabırğaarası sinirlər boyunca vezikulez səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "349. Mitiqləşmiş qızılcanın klinik əlamətləri:",
+      "options": [
+        "yüngül gediş, Koplik ləkələrinin olmaması, mərhələsiz səpgi",
+        "qısalmış gizli və daha uzunmüddətli kataral dövr",
+        "yalnız diri qızılca vaksini almış şəxslərdə rast gəlməsi",
+        "passiv və aktiv profilaktika aparılmayan şəxslərdə rast gəlməsi",
+        "piqmentləşmənin gec itməsi, ifadəli qabıqlanma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "350. Böyüklərdə qızılcanın gediş xüsusiyyətləri:",
+      "options": [
+        "güclü intoksikasiya ilə ağır gediş, ağırlaşmaların tez-tez inkişafı",
+        "zəif intoksikasiya ilə yüngul gediş, ağırlaşmaların olmaması",
+        "Koplik ləkələrinin olmaması, seyrək dəri səpgiləri",
+        "səpgilərin qalxan qaydada ardıcıllığının mümkünlüyü",
+        "uşaqlara nisbətən kataral təzahürlərin kəskin nəzərə çarpması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "351. Qızılcada ən çox rast gələn və təhlükəli ağırlaşmalar:",
+      "options": [
+        "pnevmoniya, larinqit, meninqoensefalit",
+        "öd yollarının diskineziyası, xolesistit",
+        "kəskin böyrəküstü vəzi çatışmazlığı",
+        "həqiqi inaq, ağ ciyərlərin emfizeması",
+        "kəskin ürək-damar çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "352. Qızılcanın laborator müayinə üsulları:",
+      "options": [
+        "seroloji",
+        "allerqoloji",
+        "bioloji",
+        "urinokultura",
+        "koproqramma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "353. Qızılcanın qızılcayabənzər məxmərəkdən fərqli xüsusiyyətləri:",
+      "options": [
+        "ifadəli intokikasiya və kataral sindrom, Koplik ləkələri, səpginin mərhələliyi",
+        "ənsə, boyunarxası limfa düyünlərinin kəskin böyüməsi və ağrılı olması",
+        "səpginin piqmentasiya və qabıqlanma vermədən itməsi",
+        "səpginin tez yaılması və daha çox ətrafların açıcı səthində, sarğı və kürəkdə yerləşməsi",
+        "kataral dövrün olmaması, cüzi intoksikasiya əlamətləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "354. Qızılcanın skarlatinadan fərqli xüsusiyyətləri: 1) angina, regionar limfadenit 2) yüksək qızdırma ilə kəskin başlanğıc 3) nöqtəvari səpgi 4) Koplik ləkələri, ləkəli-papulez səpgi 5) Pastia simptomu 6) rinit, larinqit, konyunktivit",
+      "options": [
+        "2, 4, 6;",
+        "1, 2, 3;",
+        "3, 4, 5;",
+        "3, 5, 6;",
+        "1, 5, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "355. Ağırlaşmış qızılcanın müalicəsi:",
+      "options": [
+        "antibiotiklər, hormonal və dezintoksikasion terapiya",
+        "desensibilizəedici vasitələr, sitostatiklər",
+        "antiretrovirus vasitələr, immunomodulyatorlar",
+        "iltihab əleyhinə qeyri-steroid vasitələr",
+        "qızılca əleyhinə immunoqlobulin, qızılca vaksini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "356. Ağırlaşmamış qızılcanın müalicəsi: 1) antitoksik zərdablarla müalicə 2) ağız boşluğu və gözə qulluq, bol maye qəbulu 3) virus əleyhinə vasitələr, antibiotikoterapiya 4) bəlğəmgətiricilər, vitaminoterapiya 5) qıcolma əleyhinə və dehidratasion terapiya 6) antihistamin vasitələr",
+      "options": [
+        "2, 4, 6;",
+        "1, 2, 3;",
+        "4, 5, 6;",
+        "3, 5, 6;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "357. Qızılcanın aktiv profilaktikası:",
+      "options": [
+        "diri qızılca vaksini",
+        "qızılca əleyhinə immunoqlobulin",
+        "normal insan immunoqlobulini",
+        "qan və plazmanın köçürülməsi",
+        "stafilokokk əleyhinə immunoqlobulin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "358. Xəstə N., 21 yaşlı, hərarətin 400C-dək yüksəlməsi, baş ağrısı, yuxusuzluq, iştahanın azalması, bütün  bədəndə əzginlik, zökəm, quru öskürək, gözyaşı ifrazı, işıqdan qorxma əlamətləri ilə kəskin xəstələnmişdir. Yüksək qızdırma davam etmiş, öskürək güclənmiş və xəstəliyinin 5-ci günü üzdə, boyunda səpgilər əmələ gəlmişdir. Obyektiv: T-39,50C, ümumi halı orta ağır, huşu aydındır. Üz, boyun və gövdədə bolluca, birləşməyə meyilli, normal dəri fonunda parlaq qırmızı, ləkəli-papulez səpgi qeyd edilir. Üz şişkin, gözlər qızartılıdır. Ağ ciyərlərdə yayılmış quru xırıltılar eşidilir. İlkin diaqnoz:",
+      "options": [
+        "qızılca",
+        "qızılcayabənzər məxmərək",
+        "psevdovərəm",
+        "skarlatina",
+        "infeksion eritema"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "359. Qızılcayabənzər məxmərəyin törədicisi aiddir:",
+      "options": [
+        "viruslara",
+        "rikketsiyalara",
+        "bakteriyalara",
+        "ibtidailərə",
+        "spiroxetalara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "360. Qızılcayabənzər məxmərəyin yoluxma yolları:",
+      "options": [
+        "hava-damcı, vertikal",
+        "hemotranfuzion",
+        "alimentar, su",
+        "kontakt-məişət",
+        "transmissiv, cinsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "361. Qızılcayabənzər məxmərəkdə infeksiya mənbəyi: 1) xəstəlikdən sağalmışlar 2) manifest formalı xəstələr 3) sağlam virusgəzdiricilər 4) subklinik formalı xəstələr 5) anadangəlmə məxmərəkli uşaq 6) xroniki formalı xəstələr",
+      "options": [
+        "2, 4, 5:",
+        "1, 2, 3;",
+        "3, 4, 5;",
+        "1, 4, 6;",
+        "2, 3, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "362. Müasir zamanda anadangəlmə qızılcayabənzər məxmərək bu infeksiyalara aid edilir:",
+      "options": [
+        "ləng",
+        "latent",
+        "manifest",
+        "subklinik",
+        "mikstinfeksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "363. Məxmərək virusu hansı toxumaya yüksək tropluq göstərir:",
+      "options": [
+        "embrional",
+        "dərialtı birləşdirici",
+        "vəzi",
+        "ektodermal mənşəli",
+        "əzələ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "364. Qızılcayabənzər məxmərək diferensə edilir: 1) qızılca 2) epid. parotit 3) skarlatina 4) qarın yatalağı 5) qrip və KRVİ 6) infeksion mononukleoz",
+      "options": [
+        "1, 3, 6;",
+        "1, 2, 3;",
+        "3, 4, 5;",
+        "4, 5, 6;",
+        "2, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "365. Qızılcayabənzər məxmərəkdən sonra inkişaf edən ləng infeksiya:",
+      "options": [
+        "proqressivləşən panensefalit",
+        "qazanılmış məxmərək",
+        "yarımkəskin sklerozlaşan panensefalit",
+        "Kreysfeld-Yakob xəstəliyi",
+        "amiotrofik leykospongioz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "366. Ağırlaşmamış qızılcayabənzər məxmərəyin müalicəsi:",
+      "options": [
+        "simptomatik müalicə",
+        "qlükokortikosteroidlər",
+        "antivirus preparatları",
+        "antibiotikoterapiya",
+        "iltihab əleyhinə qeyri-steroid vasitələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "367. Qızılcayabənzər məxmərəyin klinik əlamətləri:",
+      "options": [
+        "zəif intoksikasiya və kataral əlamətlər, səpgi, limfadenopatiya",
+        "selikli-irinli bəlğəmlə tutmaşəkilli spazmatik öskürək",
+        "iştahanın azalması, qarında ağrı, ürəkbulanma, qusma, diareya",
+        "artralgiya, iri oynaqlar ətrafında polimorf səpgi",
+        "güclü intoksikasiya, kəskin ifadəli kataral əlamətlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "368. Qızılcayabənzər məxmərək səpgisinin xüsusiyyətləri:",
+      "options": [
+        "I-III gündən bədənə tez yayılan, kiçik ləkəli səpgi",
+        "səpginin yayılmasında mərhələliyin olması",
+        "səpgi yerində piqmentləşmə və qabıqlanma",
+        "səpginin yalnız ovuc və ayaqaltında olması",
+        "IV-V gündən birləşməyə meyilli, rozeolez səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "369. Qızılcayabənzər məxmərəkdə limfadenopatiyanın xüsusiyyətləri:",
+      "options": [
+        "ən çox ənsə və boyunarxası limfa düyünlərinin böyüməsi və ağrılı olması",
+        "ən çox çənəaltı, qoltuqaltı və qasıq limfa düyünlərinin böyüməsi",
+        "limfa düyünləri bir-biri ilə və ətraf toxuma ilə birləşir",
+        "limfa düyünləri xəmirvarı konsistensiyalı, kəskin ağrılıdır",
+        "limfa düyünləri irinləyir, yumşalır və deşilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "370. Anadangəlmə qızılcayabənzər məxmərəyin əsas klinik əlamətləri:",
+      "options": [
+        "Qreqq üçlüyü: katarakta, karlıq, ürək qüsurları",
+        "generalizə olunmuş poliadenopatiya və onun birtərəfliliyi",
+        "zəif nəzərə çarpan ümumi intoksikasiya təzahürləri",
+        "yuxarı tənəffüs yollarının kəskin iltihab əlamətləri",
+        "dəri səpgiləri, selikli qişalara qansızmalar, burun qanaxması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "371. Qızılcayabənzər məxmərəyinn böyüklərdə çox rast gələn və qorxulu ağırlaşmaları:",
+      "options": [
+        "artrit, ensefalit, meninqoensefalit",
+        "keratokonyunktivit, xorioretinit",
+        "hepatomeqaliya, dalağın partlaması",
+        "otit, sinusitlər, pnevmoniya",
+        "trombositopenik purpura"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "372. Qızılcayabənzər məxmərəkdə dölün zədələnmə səbəbləri:",
+      "options": [
+        "embrion hüceyrələrin mitotik aktivliyinin ləngiməsi, dölə birbaşa destruktiv təsir",
+        "T-limfositlərin miqdarının azalması və B-limfositlərin proliferasiyası",
+        "limfoid və retikulyar toxumanın hipoplaziyası",
+        "interferon hasilinin və I-li immun cavabın zəifləməsi",
+        "embrion hüceyrələrin mitotik aktivliyinin güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "373. Böyüklərdə qızılcayabənzər məxmərəyin klinik gediş xüsusiyyətləri:",
+      "options": [
+        "güclü intoksikasiya, artrit və meninqoensefalitlə ağır gediş",
+        "səpgilərin daha çox ətrafların bükücü səthində yerləşməsi",
+        "səpgilərin güclü qaşınma ilə müşayiət olunması",
+        "zəif intoksikasiya təzahürləri, normal hərarət",
+        "kataral əlamətlərin zəif nəzərə çarpması və ya olmaması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "374. Qızılcayabənzər məxmərəyin əsas laborator müayinə üsullarıdır:",
+      "options": [
+        "seroloji, immunoloji",
+        "uroqramma, hemoqramma",
+        "rentgenoloji, virusoloji",
+        "dəri-allergik və bioloji sınaq",
+        "qanın biokimyəvi və ümumi müayinəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "375. Qızılcayabənzər məxmərəkdə hemoqramma dəyişiklikləri:",
+      "options": [
+        "leykopeniya, nisbi limfomonositoz, plazmatik hüceyrələr",
+        "qanda HB-nin xeyli aşağı düşməsi, EÇS-n azalması",
+        "limfapeniya, monositopeniya, eozinofiliya",
+        "leykopeniya, limfomonostoz, atipik mononuklearlar",
+        "hiperleykositoz, EÇS-n xeyli yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "376. Qızılcayabənzər məxmərəyin qızılcadan fərqli xüsusiyyətləri:",
+      "options": [
+        "ilk gündən tez yayılan, kiçik ləkəli səpgi, polilimfadenit",
+        "dərinin piqmentləşməsi və kəpəkvari qabıqlanması",
+        "mədə-bağırsaq traktının zədələnmə əlamətləri",
+        "səpgilərin əvvəlcə üzdə, qulaqarxasında əmələ gəlməsi",
+        "III-V gündən papulez-ləkəli səpgi, onun mərhələliliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "377. Qızılcayabənzər məxmərəyin medikamentoz səpgidən fərqli xüsusiyyətləri: 1) I-III gündən bədənə tez yayılan kiçik ləkəli səpgi 2) ağırlaşmış allerqoloji anamnez 3) səpginin qızdırma və cüzi kataral təzahürlərlə eyni vaxtda əmələ gəlməsi   4) ləkəli-papulez və qaşınan urtikar səpgi 5) səpginin piqmentləşmə və qabıq vermədən itməsi 6) səpginin gec əmələ gəlməsi və onun polimorfluğu",
+      "options": [
+        "1, 3, 5;",
+        "2, 4, 6;",
+        "4, 5, 6;",
+        "2, 4, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "378. 7 yaşlı uşaqda hərarət 37,60C-dək yüksəlmiş, zəif zökəm və öskürəklə eyni vaxtda səpgi əmələ gəlmişdir. Səpgi əvvəlcə üzdə, boyunda görünmüş, sonra bir neçə saat ərzində bütün bədənə yayılmışdır. Obyektiv: ümumi halı orta ağır, huşu aydındır. Damağın azca hiperemiyası, konyunktiva damarlarının genişlənməsi, dəridə birləşməyən, kiçik ləkəli səpgi qeyd edilir. Boyunarxası, qulaqətrafı və ənsə limfa vəzləri xeyli böyüyüb, palpasiyada ağrılıdır. İlkin diaqnoz:",
+      "options": [
+        "qızılcayabənzər məxmərək",
+        "qızılca",
+        "çəhrayı dəmrov",
+        "allergik səpgi",
+        "enterovirus ekzanteması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "379. Skarlatinanın törədicisi:",
+      "options": [
+        "S. β- haemoliticus (qroup A)",
+        "S. epidermidis",
+        "S. saprophyticus",
+        "S. aureus",
+        "S. pneumoniae"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "380. Skarlatinanın yoluxma mexanizmi:",
+      "options": [
+        "aerogen, kontakt",
+        "fekal-oral, kontakt",
+        "hemokontakt, alimentar",
+        "vertikal, aerogen",
+        "transmissiv, alimentar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "381. Skarlatinanın mənbəyi:",
+      "options": [
+        "xəstə insan, bakteriyagəzdiricilər",
+        "xəstə ev və vəhşi heyvanlar",
+        "sinantrop gəmiricilər",
+        "qansoran buğumayaqlılar",
+        "yoluxmuş torpaq və su"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "382. Skarlatinanada patogenetik faktor:",
+      "options": [
+        "eritrogen ekzotoksin",
+        "neyrotoksin",
+        "enterotoksin",
+        "sitotoksin",
+        "endotoksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "383. Skarlatinanın patogenezində üstünlük təşkil edən komponent:",
+      "options": [
+        "toksiki",
+        "septiki",
+        "allergik",
+        "toksiki-allergik",
+        "bakterial"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "384. Ekstrabukkal skarlatinada giriş qapısı:",
+      "options": [
+        "yara, yanıq, doğuşdan və əməliyyatdan sonrakı səthlər, dəri",
+        "burun-udlaq və ağız-udlağın selikli qişası",
+        "yuxarı tənəffüs yollarının selikli qişası",
+        "mədə-bağırsaq traktının selikli qişası",
+        "göz və sidik-cinsiyyət sisteminin selikli qişası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "385. Skarlatinanın tipik ağır formasının variantları:",
+      "options": [
+        "toksiki, septiki, toksikoseptik",
+        "abdominal, subklinik",
+        "ekstrabukkal, xroniki",
+        "silinmiş, abortiv, kəskin",
+        "astenovegetativ, altralgik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "386. Skarlatinanın kardinal əlamətləri:",
+      "options": [
+        "qızdırma, kəskin tonzillit, səpgi, regionar limfadenit",
+        "bolluca selik ifrazatı ilə zökəm, öskürək",
+        "göz qapaqlarının ödemi, irinli konyunktivit",
+        "xəstəliyin ilk günündən güclü kataral əlamətlər",
+        "polimorf və mərhələli qızılcayabənzər səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "387. Skarlatinanın klinik təzahürlərinə aiddir:",
+      "options": [
+        "«alovlu əsnək», «moruğu dil», solğun burun-dodaq üçbucağı",
+        "qırmızı dermoqrafizm, nəm və soyuq dəri",
+        "qara ciyər və dalağın xeyli böyüməsi, ağrılı olması",
+        "qızarmış dəridə qansızmalar",
+        "dəridə irilövhəli qabıqlanmanın olmaması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "388. Skarlatina səpgisinin xüsusiyyətləri:",
+      "options": [
+        "ilk gündən dəridə bolluca, nöqtəvarı rozeola, Pastia simptomu",
+        "normal dəridə hemorragik səpgi",
+        "xəstəliyin 4-cü günündən iri ləkəli səpgi",
+        "təzyiq etdikdə səpginin itməməsi, «yenidən səpmə» fenomeni",
+        "səpgilərin birləşərək eritematoz sahələr əmələ gətirməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "389. Ekstrabukkal skarlatinanın əsas klinik xüsusiyyətləri:",
+      "options": [
+        "kəskin tonzillit və boyun limfadenitinin olmaması, səpginin giriş qapsından yayılması",
+        "səpgisiz tipik klinik mənzərə",
+        "səpgisiz imumi intoksikasiya təzahürləri",
+        "xəstəliyə xas bütün klinik təzahürlərin mövcud olması",
+        "xəstəlik əlamətlərinin zəif ifadəliliyi və qısamüddətlliliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "390. Skarlatinanın böyüklərdə klinik gediş xüsusiyyətləri:",
+      "options": [
+        "yüngül gedişli olur və ağırlaşmalar vermir",
+        "orta ağır gedişli və uzunsürən xarakterli olur",
+        "toksiki formada cərəyan edir, İTŞ-lə ağırlaşma verir",
+        "septiki formada cərəyan edir, irinli ağırlaşmalar verir",
+        "toksikoseptiki formada cərəyan edir, ürək çatışmazlığı verir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "391. Skarlatinanın ağırlaşmaları:",
+      "options": [
+        "toksiki, allergik və bakterial",
+        "keratokonyunktivit, rinofaringit",
+        "ağ ciyərlərin atelektazı, bronxoektaz",
+        "trombositopenik purpura, piodermiya",
+        "larinqotraxeobronxit, pnevmoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "392. Skarlatinanın retrospektiv diaqnozu üçün səciyyəvi əlaməti seçin:",
+      "options": [
+        "ovuc və ayaqaltının qabıqlanması",
+        "ifadəli və davamlı ağ dermaqrafizm",
+        "Pastia simptomunun uzunmüddətli saxlanılması",
+        "«ovuc simptomu»nun tezliklə itməməsi",
+        "ağ dermoqrafizmin qırmızı dermoqrafizmlə əvəz olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "393. Skarlatinanın laborator diaqnozu:",
+      "options": [
+        "əsnək və burun seliyinin bakterioloji müayinəsi",
+        "seroloji və seroimmunoloji reaksiyalar",
+        "göz möhtəviyyatının bakterioloji müayinəsi",
+        "qanın və likvorun bakterioloji müayinəsi",
+        "immun elektron mikroskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "394. Skarlatinada hemoqramma dəyişiklikləri:",
+      "options": [
+        "leykositoz, neytrofiloz, EÇS-n yüksəlməsi",
+        "leykopeniya, neytropeniya, EÇS-n azalması",
+        "limfositoz, monositoz, atipik mononuklearlar",
+        "aneozinofiliya, trombositopeniya, normal EÇS",
+        "qanda hemoqlobinin səviyyəsinin aşağı düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "395. Skarlatinanın məxmərəkdən fərqli klinik xüsusiyyətəri: 1) kiçik ləkəli səpgi 2) «alovlu damaq» 3) polilimfadenopatiya 4) qırmızı dermoqrafizm 5) «moruğu dil» 6) solğun burun-dodaq üçbucağı",
+      "options": [
+        "2, 5, 6;",
+        "1, 2, 3;",
+        "3, 4, 5;",
+        "4, 5, 6;",
+        "1, 4, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "396. Skarlatinanın psevdovərəmdən fərqli klinik xüsusiyyətlər: 1) ilk gündən dəridə nöqtəvarı səpgilər 2) «başlıq, əlcək, corab» simptomları 3) tonzillitin olmaması, terminal ileit 4) «alovlu əsnək», «moruğu dil», 5) güclü qaşınma ilə dəri səpgisnin polimorfizmi 6) ağ dermoqrafizm, solğun burun-dodaq üçbucağı",
+      "options": [
+        "1, 4, 6;",
+        "3, 4, 5;",
+        "4, 5, 6;",
+        "2, 3, 5;",
+        "3, 5, 6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "397. Skarlatinanın əsas müalicəsi:",
+      "options": [
+        "antibakterial terapiya: benzilpenisillin, makrolidlər",
+        "yerli fizioterapevtik proseduralar, lazer müalicəsi",
+        "öskürək əleyhinə preparatlar, qlükokortikosteroidlər",
+        "virus əleyhinə preparatlar: remantadin, ribavirin",
+        "interferonoterapiya, vaksinoteapiya, oksigenoterapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "398. Xəstə N., 9 yaşlı, xəstəliyinin 2-ci günü, yüksək hərarət (39,50C), boğazda ağrı, birdəfəlik qusma, səpgi, ümumi zəiflik şikayətləri ilə həkimə müraciət etmişdir. Obyektiv: ümumi halı orta ağır, huşu aydındır. Dəridə hiperemiyalaşmış fonda bolluca, nöqtəvarı səpgi, dəri büküşlərində zolaq şəklində səpgilər qeyd edilir (Pastia simptomu). Burun-dodaq üçbucağı solğun, əsnək parlaq hiperemiyalı, ödemli, dil moruğu rəngli, boyun limfa düyünləri böyümüş, zəif ağrılıdır. İlkin diaqnoz:",
+      "options": [
+        "skarlatina",
+        "qızılcayabənzər məxmərək",
+        "medikamentoz səpgi",
+        "psevdovərəmin skarlatinayabənzər forması",
+        "kataral angina"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "399. Yalançı vərəmin aid olduğu infeksiyalar:",
+      "options": [
+        "zoonoz",
+        "antroponoz",
+        "transmissiv",
+        "xarici örtük",
+        "tənəffüs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "400. Yalançı vərəmdə yoluxma yolu:",
+      "options": [
+        "alimentar",
+        "kontakt-məişət",
+        "transmissiv",
+        "vertikal",
+        "aerogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "401. Yalançı vərəmdə əsas infeksiya mənbəyi:",
+      "options": [
+        "sinantrop və vəhşi gəmiricilər",
+        "xəstə insan",
+        "bakteriyagəzdiricilər",
+        "vəhşi və ev quşları",
+        "ev heyvanları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "402. Yalançı vərəmin klinik gediş dövrləri:",
+      "options": [
+        "başlanğıc, qızğın, residivlər, sağalma",
+        "başlanğıc, səpgiyə qədər, səpgi, sağalma",
+        "qızdırmalı, orqan zədələnmələri, sağalma",
+        "depresiya, oyanma, iflic",
+        "başlanğıc, sarılıqönü, sarılıq, sağalma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "403. Yalançı vərəmin klinik formalarına aiddir:",
+      "options": [
+        "yerli, yayılmış",
+        "manifest, subklinik",
+        "kəskin, yarımkəskin",
+        "xroniki, residual",
+        "inapparant"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "404. Yalançı vərəmin yerli formasının variantları:",
+      "options": [
+        "intestinal, mezadenit, terminal ileit, apendisit",
+        "septiki, septilopiemik, ildırımsürətli",
+        "silinmiş, subklinik, latent, qarışıq",
+        "səpgili, artralgik, sarılıqlı, kataral",
+        "tipik, atipik, siklik, asiklik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "405. Yalançı vərəmin abdominal formasının qastroenterit variantının əlamətləri:",
+      "options": [
+        "qarnın sağ yarısında ağrı, ürəkbulanma, qusma, diareya",
+        "ikeosekal nahiyədə sancışəkilli ağrı",
+        "sağ qalça çuxurunda daimi və küt ağrı",
+        "qarında yayılmış tutmaşəkilli ağrı",
+        "sol qalça çuxurunda ağrı, qanlı-selikli nəcis ifrazı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "406. Yalançı vərəmdə kəskin terminal ileitin əlamətləri:",
+      "options": [
+        "qızdırma, diareya, ileosekal nahiyədə intensiv ağrı",
+        "“moruq jelesi” şəklində ishal, şüşəyəbənzər selik",
+        "normal hərarət, yoğun bağırsaq boyunca ağrı, qəbizlik",
+        "az miqdarlı, tez-tez, horravari, selikli-qanlı ishal",
+        "qarında periodik ağrı, ürəkbulanma, qusmа, ishal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "407. Yalançı vərəmdə mezadenit və apendisitin əlamətləri:",
+      "options": [
+        "qızdırma, diareya, qusma, ürəkbulanma, sağ qalça çuxurunda ağrı",
+        "epiqastral nahiyədə ağrı, qıcqırma, ürəkbulanma ilə qusma",
+        "nəzərə çarpan susuzlaşma, dəri turqorunun zəifləməsi",
+        "yüksək hərarət, baş ağrısı, başgicəllənmə, yuxusuzluq",
+        "göbək ətrafında ağrı, üfunətli, çoxkütləli yaşılımtıl ishal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "408. Yalançı vərəmin yayılmış formasının əlamətləri:",
+      "options": [
+        "yüksək qızdırma, səpgi, güclü intoksikasiya, ağır gediş",
+        "dizurik təzahürər, oynaqlarda ağrı və dəyişikliklər",
+        "dispeptik əlamətlər, distal kolit sindromu",
+        "zəif ifadəli kataral təzahürlər, ağır intoksikasiya",
+        "profuz nəcis ifrazı, ağır dehidratasiya və demineralizasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "409. Yalançı vərəmin səpgili formasının əlamətləri:",
+      "options": [
+        "qızdırma, intoksikasiya, skarlatinayabənzər səpgi",
+        "normal hərarət, vezikulez səpgi",
+        "yüksək hərarət, pustulez səpgi",
+        "ulduzvari hemorragik səpgi",
+        "inyeksiya yerində hemorragiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "410. Yalançı vərəmin artralgik formasının əlamətləri:",
+      "options": [
+        "yüksək qızdırma və intoksikasiya fonunda poliartrit",
+        "normal hərart və bel nahiyəsində küt ağrı",
+        "artralgiya, ostalgiya, fibrozit, sellülit",
+        "miozit, ifadəli intoksikasiya əlamətləri",
+        "uzunmüddətli febril qızdırma, “uçucu” oynaq ağrıları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "411. Yalançı vərəmin sarılıqlı formasının əlamətləri:",
+      "options": [
+        "sarııq, xoliuriya, qaraciyərin böyüməsi",
+        "hemorragik sindrom, normal biokimyəvi sınaqlar",
+        "ümumu zəiflik, ürəkbulanma, qusma",
+        "iştahanın azalması, qarında kəskin ağrı",
+        "splenomeqaliya, sol qabırğaltında ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "412. Yalançı vərəmdə toksik-allergik sindrom:",
+      "options": [
+        "səpgi, artralgiya, “moruğu” dil",
+        "hepatolienal sindrom, qəhvəyimtil dil",
+        "qısamüddətli qızdırma, ifadəli intoksikasiya",
+        "uzunmüddətli qızdırma, “təbaşir” dil",
+        "meningizm təzahürləri, təmiz dil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "413. Yalançı vərəmdə səpginin xüsusiyyətləri:",
+      "options": [
+        "“başlıq, əlcək, corab”simptomları ilə nöqtəvari səpgi",
+        "normal dəri fonunda qızılcayabənzər səpgi",
+        "eritema fonunda petexiya və qansızmalar",
+        "seyrək, rozeolez-petexial səpgi",
+        "bolluca vezikulez-pustulez səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "414. Yalançı vərəmdə xəstələrin çox vaxt cərrahi müdaxiləyə məruz qaldıqları klinik formalar:",
+      "options": [
+        "kəskin terminal ileit, mezadenit, appendisit",
+        "qastroenterokolit, qastroenterit, enterokolit",
+        "artralgik, səpgili, sarılıqıı",
+        "septiki, hepatit, kataral",
+        "qarışıq, yayılmış, intestinal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "415. Yalançı vərəmin spesifik laborator diaqnoz üsulları:",
+      "options": [
+        "bakterioloji, seroloji",
+        "koproqramma, uroqramma",
+        "likvoroloji, biokimyəvi",
+        "dəri-allergik və bioloji sınaqlar",
+        "hemoqramma, koaquloqramma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "416. Yalançı vərəmdə hemoqramma dəyişiklikləri:",
+      "options": [
+        "leykositoz, eozinofiliya, EÇS-in yüksəlməsi",
+        "leykopeniya, eozinopeniya, EÇS-in ləngiməsi",
+        "aneozinofiliya, normal EÇS",
+        "trombositopeniya, neytropeniya",
+        "Hb-nin səviyyəsinin aşağı düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "417. Yalançı vərəmin yersiniozdan fərqli xüsusiyyətləri:",
+      "options": [
+        "skarlatinayabənzər səpgi sindromunun üstınlük təşkil etməsi",
+        "polimorf səpginin daha çox nəzərə çarpması",
+        "diareya sindromunun daha çox nəzərə çarpması",
+        "appendisit, mezadenit və ileitin daha aydın nəzərə çarpması",
+        "sarılıq sindromunun nisbətən az nəzərə çarpması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "418. Yalançı vərəmin skarlatinadan fərqli xüsusiyyətləri: 1) kəskin tonzillit, regionar lmfadenit 2) “başlıq, əlcək, corab”simptomları ilə nöqtəvari səpgi 3) solğun burun-dodaq üçbucağı 4) ileosekal nahiyədə ağrı, artralgiya 5) qaraciyər və dalağın böyüməsi 6) alovlu əsnək, moruğu dil",
+      "options": [
+        "2, 4, 5;",
+        "1, 2, 3;",
+        "3, 4, 5;",
+        "4, 5, 6;",
+        "1, 3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "419. Bağırsaq yersiniozunun aid olduğu infeksiyalar:",
+      "options": [
+        "bağırsaq",
+        "təbii ocaqlı",
+        "tənəffüs",
+        "transmissiv",
+        "xarici örtük"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "420. Bağırsaq yersiniozun yoluxma mexanizmi:",
+      "options": [
+        "fekal-oral",
+        "transmissiv",
+        "parenteral",
+        "vertikal",
+        "aerogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "421. Bağırsaq yersiniozunda əsas infeksiya mənbəyi hesab edilir:",
+      "options": [
+        "kənd təsərrüfatı heyvanları",
+        "qansoran buğumayaqlılar",
+        "sağlam bakteriyagəzdiricilər",
+        "vəhşi və ev quşları",
+        "xronik formalı xəstələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "422. Bağırsaq yersiniozunun klinik formalrına aiddir:",
+      "options": [
+        "yerli, yayılmış, bakteriyagəzdirmə",
+        "tipik, atipik, lаtеnt",
+        "silinmiş, abortiv, xroniki",
+        "ambulator, ildırımsürətli",
+        "fasiləsiz, fasiləli, uzunsürən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "423. Bağırsaq yersiniozunun yerli formasına aiddir:",
+      "options": [
+        "qastrointestinal, abdominal",
+        "sarılıqlı, sarılıqsız",
+        "səpgili, qarışıq",
+        "artralgik, kataral",
+        "septiki, meningit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "424. Bağırsaq yersiniozunun qastrointestinal formasının klinik variantları:",
+      "options": [
+        "qastroenterokolit, qastroenterit, enterit",
+        "appendisit, mezadenit, emterokolit",
+        "septiki, artralgik, səpgli",
+        "sarılıqlı, kataral, qarışıq",
+        "meningit, qastrit, appendikulyar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "425. Bağırsaq yersiniozunun abdominal formasının klinik variantları:",
+      "options": [
+        "terminal ileit, mezadenit, appendisit",
+        "qastroenterokolit, səpgili",
+        "kataral, artralgik, mezadenit",
+        "kəskin appendisit, sarılqlı",
+        "kəskin enterit, qastroenterit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "426. Bağırsaq yersiniozunun yayılmış formasının variantları:",
+      "options": [
+        "sarılıqlı, səpgili, artralgik, septiki, qarışıq",
+        "qastroenterokolit, qastroenterit, enterit",
+        "kəskin və xroniki bakteriyagəzdiricilik",
+        "appendisit, qastroenteroklit",
+        "terminal ileit, mezadenit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "427. Bağırsaq yersiniozunun qastrointestinal formasının klinik əlamətləri:",
+      "options": [
+        "kəskin başlanğıc, qızdırma, qarında ağrı, qusma, diareya",
+        "tədrici başlanğıc, sağ qabırğaaltında sancışəkilli ağrı",
+        "qızdırma, intoksikasiya, oynaqlarda güclü ağrı",
+        "zəif intoksikasiya, yaşılımtıl nəcis ifrazı",
+        "qəfləti başlanğıc, “moruq jelesi” tipində nəcis ifrazı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "428. Bağırsaq yersiniozunun abdominal formasının klinik əlamətləri:",
+      "options": [
+        "ileosekal nahiyədə intensiv ağrı, qızdırma, diareya",
+        "sağ qabırğaaltı nahiyədə küt ağrı",
+        "göbək ətrafında cüzi ağrı",
+        "sol qalça çuxurunda sancışəkilli ağrı",
+        "epiqastral nahiyədə sızıldayıcı ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "429. Bağırsaq yersiniozunun septiki formasının əsas klinik əlamətləri:",
+      "options": [
+        "yüksək qızdırma, səpgi, hepatosplenomeqaliya",
+        "qısamüddətli qızdırma, şoxdəfəlik qusma",
+        "oynaqlarda güclü ağrı, dalğavari qğzdırma",
+        "güclü intoksikasiya, dizurik hallar",
+        "zəif intoksikasiya, subfebril hərarət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "430. Bağırsaq yersiniozunda bağırsaqdankənar toksik-allergik simptomlar:",
+      "options": [
+        "səpgi, üz və boynun hiperemiyası, artralgiya",
+        "qaraciyər və dalağın böyüməsi, hemorragiyalar",
+        "miasteniya, meningeal simptomlar, arefleksiya",
+        "qarında daimi ağrı, ürəkbulanma, qusma",
+        "intoksikasiya təzahürləri ilə kəskin başlanğıc"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "431. Bağırsaq yersiniozunda spesifik laborator diaqnoz üsulları:",
+      "options": [
+        "bakterioloji, seroloji",
+        "dəri-allergik və bioloji sınaqlar",
+        "koproqramma, uroqrqmma",
+        "endoskopik, likvoroloji",
+        "qanın biokimyəvi müayinəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "432. Bağırsaq yersiniozunda əsas bakterioloji müayinə üsulu:",
+      "options": [
+        "nəcis və qanın əkilməsi",
+        "ağız-udlaq seliyinin əkilməsi",
+        "burun-udlaq seliyinin əkilməsi",
+        "OBM-nin əkilməsi, mielokultura",
+        "duedonal möhtəviyyatın əkilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "433. Bağırsaq yersiniozunda seroloji diaqnoz üsulları:",
+      "options": [
+        "aqlütinasiya və qeyri-düz hemaqlütinasiya reaksiyaları",
+        "lateks aqlütinasiya və neytraladırma reaksiyaları",
+        "Sebin-Feldman və komplementin birləşmə reaksiyaları",
+        "Rayt, Xeddеlson və Rozbenqal reaksiyaları",
+        "Paul-Bünner və Hoff-Bauer reaksiyaları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "434. Bağırsaq yersiniozunda hemoqramma dəyişiklikləri:",
+      "options": [
+        "neytrofil leykositoz, EÇS-in yüksəlməsi",
+        "leykopeniya, limfositopeniya, EÇŞ-in azalması",
+        "qanda plazmatik hüceyrələrin əmələ gəlməsi",
+        "aneozinofiliya, neytropeniya, bazofiliya",
+        "limfositoz, monositoz, eritropeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "435. Bağırsaq yersiniozunun etiotrop müalicəsi: 1) levomisetin 2) metronidazol 3) aminoqlükozidlər 4) delagil 5) mebendazol 6) sefalosporinlər",
+      "options": [
+        "1, 3, 6;",
+        "2, 4, 5;",
+        "4, 5, 6;",
+        "1, 2, 5;",
+        "3, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "436. Bağırsaq yersiniozunda cərrahi əməliyyata göstəriş:",
+      "options": [
+        "“kəskin qarın” simtomokomleksi inkişaf etdikdə",
+        "yoğun baqırsaq boyunca aramsız ağrılar zamanı",
+        "epiqastral, göbək və sağ qalça çuxurunda ağrı olduqda",
+        "sol qabırğaaltı nahiyədə küt ağrı olduqda",
+        "sol qalça çuxurunda tutmaşəkilli ağrı zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "437. Bağırsaq yersiniozunun yalançı vərəmdən fərqli xüsusiyyətləri:",
+      "options": [
+        "diareya və regionar təzahürlərin üstünlük təşkil etməsi",
+        "skarlatinayabənzər səpginin mövcudluğu",
+        "residiv gedişə xeyli meyilli olması",
+        "septisemiyaya az meyilli olması",
+        "sarılıq sindromunun daha qabarıq olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "438. Bağırsaq yersiniozunun salmonellozdan fərqli xüsusiyyətləri: 1) bolluca, duru, üfunətli, köpüklü, yaşıl rəngli nəcis ifrazı 2) epiqastral nahiyə, göbək ətrafı və sağ qalça çuxurunda ağrı 3) xəstəliyin II-III həftəsində polimorf səpgi, poliartrit 4) periferik limfa düyünlərinin böyüməsi və ağrılı olması 5) qarında meteorizm,“salmonelloz üçbucağında” ağrı 6) enterit və intoksikasiya fonunda abdominal əlamətlər",
+      "options": [
+        "3, 4, 6;",
+        "1, 2, 3;",
+        "2, 3, 4;",
+        "4, 5, 6;",
+        "2, 3, 4"
+      ],
+      "correct": 0
+    }
+  ]
+}

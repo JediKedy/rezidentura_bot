@@ -1,0 +1,906 @@
+{
+  "questions": [
+    {
+      "question": "1. Yumaqcıq filtrasiyasının sürəti( YFS ) normada neçəyə bərabərdir?",
+      "options": [
+        "80-120-ml /dəq",
+        "20-30-ml /dəq",
+        "40-50-ml /dəq",
+        "10-15-ml /dəq",
+        "140-160-ml /dəq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Hipostenuriya nədir?",
+      "options": [
+        "sidiyin xüsusi çəkisi 1016-dən aşağıdır",
+        "Zimnitski sınağında bütün porsiyalarda sidiyin xüsusi çəkisi 1018-dən aşağıdr",
+        "Zimnitski sınağında bütüin porsiyalarda sidiyin xüsusi çəkisi monoton aşağıdır",
+        "sidiyin xüsusi çəkisi 1020-dən aşağıdır",
+        "sidiyin xüsusi çəkisi 1008-dən aşağıdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "3. İzostenuriya nədir?",
+      "options": [
+        "Sadalanların hamısı düzdür",
+        "Zmnitski sınağında bütünn porsiyalarda sidiyin xüsusi çəkisi 1016-dan aşağıdır",
+        "Zimnitski sınağında bütün porsiyalarda sidiyin xüsusi çəkisi 1018-dən aşağıdır",
+        "Sadalanların heç biri düz deyil",
+        "Zimnitski sınağında bütün porsiyalarda sidiyin  xüsusi çəkisi monoton aşagıdır 1010-1012"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "4. Mikroalbuminuriyada sidiklə albuminin ekskresiyasi hansi miqdardadır?",
+      "options": [
+        "150 -1000 mg/sut qədər",
+        "30 -150 mq/sut qədər",
+        "150 -300 mq/sut qədər",
+        "30-1000 mg/sut qədər",
+        "30 -300 mq/sut qədər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "5. Neçiporenko sınağı ilə nə təyin olunur?",
+      "options": [
+        "Kanalcıq reabsorbsiyasının miqdarı",
+        "Yumaqcıq filtrasiyasının miqdarı",
+        "Sidiyin xüsusi çakisinin miqdarı",
+        "Hematuriyanın və silindruriyanın dərəcəsi",
+        "Proteinuriyanun miqdarı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "6. Böyrək ödemləri haradan başlayır?",
+      "options": [
+        "Sifət (üz) nahiyyəsindən",
+        "Bel nahiyyəsindən",
+        "Așağı ətraflardan",
+        "Yuxarı ətraflardan",
+        "Qarın nahiyyəsindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Kasa- ləyən sisteminin genişlənməsi nəyə xarakterikdir?",
+      "options": [
+        "Sidik daşı xəstəliyinə",
+        "Qlomerulonefritə",
+        "KBÇ – na",
+        "XBÇ – na",
+        "Arterial hipertenziyaya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Angioqrafiya hansı xəstəliyə tutulan xəstələrdə istifadə olunur?",
+      "options": [
+        "Renovaskulyar hipertenziya",
+        "KBÇ",
+        "XBÇ",
+        "Renoparenximal hipertenziya",
+        "Qlomerulonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Gün ərzində pollakuriya zamanı sidik ifrazının sayı neçə dəfədir?",
+      "options": [
+        "5 dəfə",
+        "3 dəfə",
+        "4 dəfə",
+        "10 dəfə",
+        "6 dəfə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "10.  Fasies nefritica hansı xəstəliyə xarakter deyil?",
+      "options": [
+        "Amiloidoza",
+        "Feoxromasitomaya",
+        "Nefrotik sindroma",
+        "Kəskin qlomerulonefritə",
+        "Xroniki qlomerulonefritə"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. Normada sağlam insanın sidiyində eritrositlərin sayı nə qədər olur?",
+      "options": [
+        "Görmə sahəsində 9 - a qədər",
+        "Görmə sahəsində  10 - a qədər",
+        "Görmə sahəsində 5- ə qədər",
+        "Görmə sahəsində 8 - ə qədər",
+        "Görmə sahəsində 7 - ə qədər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "12. Normada sağlam insanın sidiyində leykositlərin sayı nə qədər olur?",
+      "options": [
+        "Görmə sahəsində 15 - ə qədər",
+        "Görmə sahəsində 10 -  a qədər",
+        "Görmə sahəsində 9 - a qədər",
+        "Görmə sahəsində 8 - ə qədər",
+        "Görmə sahəsində 5 - ə qədər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "13. Komputer tomoqrafiya metodu ilə nə təyin olunmur?",
+      "options": [
+        "Böyrəyin funksiyası",
+        "Böyrəklərin kistası",
+        "Böyrəklərin şişi",
+        "Böyrəklərin anomaliyası",
+        "Böyrəklərin daşı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. İkincili nefrotik sindrom hansı xəstəliklərdə yaranmır?",
+      "options": [
+        "Xronik qlomerulonefritdə",
+        "Qırmızı qurd eşənəyində",
+        "Kəskin pielonefritdə",
+        "Anadangəlmə fin tipli nefrotik sindromunda",
+        "Şəkərli diabetdə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "15. Sutka ərzində sidiklə xaric olan qanın formalı elemetlərini təyin edən sınaq hansıdır?",
+      "options": [
+        "Zimnitski sınağı",
+        "Kakovski- Addis sınağı",
+        "3 stəkan sınağı",
+        "Ambürje sınağı",
+        "Neçiporenko sınağı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "16. Sadalanan xəstəliklərin hansında yüksək proteinuriya müşahidə olunur?",
+      "options": [
+        "Polikistozda",
+        "Pielonefritdə",
+        "Lyupus- nefritdə",
+        "Amilodozda",
+        "Uratlı nefropatiyada"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "17. Nefrotik sindroma nə xarakterikdir?",
+      "options": [
+        "Hiperstenuriya",
+        "Hipostenuriya",
+        "Normostenuriya",
+        "İzostenuriya",
+        "Sadalananların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Uremik intoksikasiya ilə əlaqəsi yoxdur?",
+      "options": [
+        "Dəri qaşınması",
+        "Eritrositoz",
+        "Ürəkbulanma",
+        "Əzələ qıcolması",
+        "Qusma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. Nefrotik krizə xarakterik deyil?",
+      "options": [
+        "Hipertonik kriz",
+        "Qızılyel eritremasına oxşar eritrema",
+        "Kollaps",
+        "Anasarka",
+        "Abdominal  ağrılar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. XBÇ- nin başlanğıc əlaməti hansıdır:",
+      "options": [
+        "AT- nin artması",
+        "Poliuriya, polidipsiya",
+        "Hiperkalemiya",
+        "Asidoz",
+        "Qıcolma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "21. Qan zərdabında komplementin səviyyəsinin enməsi hansında olmur:",
+      "options": [
+        "Berje xəstəliyində",
+        "Lüpus- nefrit zamanı",
+        "Mezangiokapilyar  qlomerulonefritdə",
+        "Krioglobulinemiya zamanı qlomerulonefritdə",
+        "Kəskin poststreptokokklu qlomerulonefritdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Nefrotik sindromda dəri örtüklərinin rəngi necə olur:",
+      "options": [
+        "Sianozlu",
+        "Torpaq rəngli",
+        "Sarımtıl rəngli",
+        "Avazımış ( mumaabənzər )",
+        "Qırmızı rəngli"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "23. Sidikdə aktiv leykositlərin sayı hansı xəstəlikdə artır?",
+      "options": [
+        "Sklerodermiyada",
+        "Şəkərli diabetin kəskinləşməsində",
+        "Feoxromasitomada",
+        "Pielonefritin kəskinləşməsində",
+        "Dermatomiozitlərdə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Qanda sidik cövhərinin artması nə ilə əlaqədar deyil?",
+      "options": [
+        "Arterial hipertenziya ilə",
+        "Yüksək katabolizm ilə",
+        "Böyrək çatışmazlığı il",
+        "Diuritetiklərin artıq dərəcədə istifadəsi il",
+        "Susuzlaşma ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Tez proqressivləşən qlomerulonefritin hansı əlamətlərinə əsasən Qudpasçer sindromu haqqında düşünmək olar?",
+      "options": [
+        "Bütün sadalananlar",
+        "Qanhayxırma",
+        "Hematuriya",
+        "Yumaqcıqların bazal membranına qarşı anticisimlərin aşkarlanması",
+        "Dəmir defisitli anemiya və bəlğəmdə siderofaqların aşkarlanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Postrenal kəskin böyrək çatışmazlığının səbəbi hansıdır?",
+      "options": [
+        "Kardiogen şok",
+        "Nekrotik papillit",
+        "Sepsis",
+        "Hipovolemiya",
+        "Yanıqlar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "27. Xəstələrdə eşitmənin zəifləməsi nə zaman müşahidə olunur?",
+      "options": [
+        "Alport sindromunda",
+        "Xroniki qlomerulonefritdə",
+        "Debre- Toni- Fankon sindromunda",
+        "Fosfat- diabetdə",
+        "Xroniki pielonefritdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Glomerulonefritin patogenezində hansı faktor iştirak edir?",
+      "options": [
+        "Sadalananların hamısı",
+        "İmmun iltihab",
+        "Yumaqcığın filtrasiya səthində antigen- antitel kompleksinin çökməsi",
+        "Kapillyarlarda mikrotrombların əmələ gəlməsi",
+        "Metabolik faktorlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Xronik qlomerulonefritin təhlükəli ağırlaşmasına aid deyil?",
+      "options": [
+        "Hiperkalemiya",
+        "Kəskin sol mədəcik çatışmazlığı",
+        "Anemiya",
+        "Eklampsiya",
+        "Kəskin böyrək çatışmazlığı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "30. Angiotenzin II- nin böyrəyə təsiri səhvdir?",
+      "options": [
+        "Yumaqcıq filtrasiyasını azaldır",
+        "Yumaqcıq filtrasiyasını artırır",
+        "Yumaqcıq hidrostatik təzyiqi artırır",
+        "Efferent arteriolanı daraldır",
+        "Afferent arteriolanı daraldır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Makrohematuriya xarakterik deyil?",
+      "options": [
+        "Böyrəklərin amiloidozuna",
+        "Kəskin qlomerulonefritdə",
+        "Böyrəklərin infarktına",
+        "Böyrəklərin Polikistozuna",
+        "Böyrək sancısına"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Poliuriya müşahidə olunmur:",
+      "options": [
+        "Xronik böyrək çatışmazlığının terminal mərhələsində",
+        "Böyrək diabetində",
+        "Sidikqovucu qəbulunda",
+        "Kəskin böyrək çatışmazlığının bərpqa mərhələsində",
+        "Çoxlu miqdarda maye qəbulunda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Crush- sindrom inkişaf edir:",
+      "options": [
+        "Amiloidozda",
+        "Podaqrada",
+        "Travmada",
+        "Polikistozda",
+        "Vərəmdə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "33. Normada sidikdə olan silindr hansı ola bilər?",
+      "options": [
+        "Dənəli",
+        "Mumabənzər",
+        "Eritrositar",
+        "Piyli",
+        "Hialin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "34. Sidiyin turşlanmasına hansı məhsullar səbəb olur?",
+      "options": [
+        "Ət",
+        "Süd",
+        "Meyvələr",
+        "Tərəvəz",
+        "Çörək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Poliuriya hansıdır?",
+      "options": [
+        "Sutkalıq diurez 1. 5 l - ə bərabər olduqda",
+        "Sutkalıq diurez 500 ml - ə bərabər olduqda",
+        "Sutkalıq diurez 1 l - ə bərabər olduqda",
+        "Sutkalıq diurez 2l – dən artıq olduqda",
+        "Sutkalıq diurez 2 l – dən az olduqda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "36. Makrohematuriya hansında olmur?",
+      "options": [
+        "İg A nefropatiyasında",
+        "Glomerulonefritdə",
+        "Böyrəkdaşı xəstəliyində",
+        "Böyrəklərin şişi xəstəliyində",
+        "Amiloidozda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "37. Amiloid substansiyası nədir?",
+      "options": [
+        "Zülal",
+        "Karbohidrat",
+        "Lipid",
+        "Qatılaşmış duzlar",
+        "Qatılaşmış bakteriyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Böyrək amiloidozunun əsas əlamətlərinə aid deyil:",
+      "options": [
+        "Hematuriya",
+        "Ödemlər",
+        "Hipoproteinemiya",
+        "Hipoalbuminemiya",
+        "Proteinuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Makroqlossiya və qansızma- eynək əlaməti hansı xəstəliyin əlamətidir?",
+      "options": [
+        "AL- amiloidozunun",
+        "Böyrək polikistozunun",
+        "Lüpus- nefritin",
+        "Böyrək vərəminin",
+        "Uratlı nefropatiyanın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Xroniki qlomerulonefritin müalicəsi zamanı qlükokortikoidlə müalicəyə göstəriş:",
+      "options": [
+        "Hipertenziya",
+        "Sidik sindromu",
+        "Nefrotik sindrom",
+        "Böyrək çatışmazlığı",
+        "İnfeksiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "41. Amiloidoz təsadüf olunan xəstəliklər: \n1) Revmatoid artrit, \n2) Periodik xəstəlik, \n3) Vərəm, \n4) Bronxoektaziya xəstəliyi, \n5) Xronik pielonefrit",
+      "options": [
+        "1, 2, 5",
+        "2, 5",
+        "1, 3, 4, 5",
+        "1, 2, 3, 4",
+        "1, 2, 5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "42. Böyrək kolikasının USM əlaməti hansıdır:",
+      "options": [
+        "Böyrəkdə dairəvi exoneqativ törəmə",
+        "Böyrəyin toplayıcı sistemində hipoexogen törəmə",
+        "Böyrəkdə daş, kasa- ləyən sistemininn və sidik axarının genişlənməsi",
+        "Böyrəyin ölçüsünün azalması",
+        "Böyrəyin parenximasının qeyri- həmcinsliyi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "43. Kinsaid- smith sxemi nədən ibarətdir:",
+      "options": [
+        "6 ay müddətində qlükokortikoid+sitostatik+heparin+kurantil",
+        "6 ay müddətində per os qlükokortikoid+sitostatik",
+        "Metilprednizalon+siklofosfan+puls terapiya şəklində 3ay ərzində",
+        "Metilprednizalonla puls terapiya, sonra 6 ay müddətində per os prednixzalon",
+        "6 ay müddətində per os xlorbutin və metilprednizalonla puls terapiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "44. Böyrək daşı xəstəliyinə xarakterik deyil:",
+      "options": [
+        "Fosfaturiya",
+        "Oksaluriya",
+        "Uraturiya",
+        "Qlükozuriya",
+        "Sistinuriya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "45. Makrohematuriyanın mənşəyini müəyyən etmək üçün ilk öncə nədən başlamaq lazımdır:",
+      "options": [
+        "Böyrəklərin və sidik kisəsinin USM- dən",
+        "Sistoskopiyadan",
+        "Ekskretor uroqrafiyadan",
+        "Sidiyin ümumi analizindən",
+        "Radioizotop renoqrafiyadan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Bağırsaqların selikli qişasının və selikaltı təbəqənin biopsiyası hansı xəstəliyin diaqnostikasında vacibdir:",
+      "options": [
+        "Polikistozun",
+        "Amiloidozun",
+        "Vərəmin",
+        "Uratlı nefropatiyanın",
+        "Pielonefritin"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "47. Normada böyrəkərin uzunluğu neçə santimetrdir:",
+      "options": [
+        "20 sm",
+        "3 sm",
+        "5 sm",
+        "12 sm",
+        "30 sm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "48. Tubulopatiyanın etilogiyası hansıdır:",
+      "options": [
+        "Podositin ayağının birləşməsidir",
+        "Anadangəlmə böyrək anomaliyasıdır",
+        "Mikrobdur",
+        "Reflüks nefropatiyadır",
+        "Kanalcıq membranın transport defektidir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "49. Fokal seqmentar qlomerulosklerozun klinik mənzərəsinə xarakterik deyil:",
+      "options": [
+        "Daha xoş gedişli qlomerulonefrit",
+        "Proteinuriya",
+        "Nefrotik sindrom",
+        "Tezproqressivləşən gediş",
+        "Arterial təzyiqin yüksək olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Kəskin böyrək çatışmazlığında diurezin bərpa olunması dövrünə nə xarakterikdir:",
+      "options": [
+        "İzostenuriya",
+        "Poliuriya",
+        "Sidiyin xüsusi çəkisinin artması",
+        "Sadalananların hamısı",
+        "Sadalananların heç biri"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "51. Dializli amiloidozda amiloid daha çoc harada yığılır?",
+      "options": [
+        "Sümük toxumasının sinovial qişasında",
+        "Böyrəklərdə",
+        "Ürəkdə",
+        "Qaraciyərdə",
+        "Beyində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. AL- amiloidozda sələf- zülal hansıdır?",
+      "options": [
+        "Transferrin",
+        "Betta 2- mikroqlobulinlər",
+        "Zərdab A – zülalı",
+        "İmmunoqlobulinlərin yüngül zəncirləri",
+        "Lizosim"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "53. Nikturiya hansı xəstəliyin erkən əlamətidir?",
+      "options": [
+        "Xronik böyrək çatışmazlığının",
+        "Kəskin pielonefritin",
+        "Kəskin qlomerulonefritin",
+        "Sistitin",
+        "Kəskin böyrək çatışmazlığının"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. Arterial hipertenziya hansına xarakterikdir?",
+      "options": [
+        "Mezangial nefrit üçün",
+        "Membranoz nefropatiya üçün",
+        "Berje xəstəliyi üçün",
+        "Mezengiokapilyar nefrit üçün",
+        "Lipoidli nefroz üçün"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "55. Pielonefritin qeyri-invaziv diaqnostika metodu hansıdır?",
+      "options": [
+        "Böyrəklərin USM",
+        "MRT",
+        "Ekskretor uroqrafiya",
+        "Radioaktiv stintiqrafiya",
+        "KT"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Neçiporenko sinağında hansı elementlərin sayı hesablanır?",
+      "options": [
+        "Bütün sadalanan elementlər",
+        "Leykositlərin sayı",
+        "Eritrositlərin sayı",
+        "Silindirlərin sayı",
+        "Sadalananlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Yumaqcıq bazal membranın elektrik yükü hansıdır?",
+      "options": [
+        "Neytral",
+        "Müsbət",
+        "Mənfi",
+        "Kortikal nefronlarda müsbəətdir",
+        "Yukstamedulyar nefronlarda müsbətdir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "58. Aşağıda göstərilən mülicə sxemlərinin hansı hestasion pielonefritə optimaldır?",
+      "options": [
+        "Amoksiklav, kanefron, nospha forte",
+        "Siprofloksacin, kanefron, nospha forte",
+        "Tetraciklin, kanefron, furosemid",
+        "Amoksiklav, hipotiazid",
+        "Bütün sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. Vazorenal hipertenziyanın daha informativ diaqnostika metodları hansılardır?",
+      "options": [
+        "Zimnitski sınağı",
+        "Qanın lipid spektrının təyini",
+        "Ekskretor uroqrafiya",
+        "Sidiyin ümumi analizi",
+        "Böyrək arteriyasının USM dopleroqrafiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "60. Birincili hiperparatireozda qan zərdabında olan dəyişikliklər hansılardır?",
+      "options": [
+        "Kalsium qalxır, fosfor enir",
+        "Kalsium qalxır, fosfor qalxır",
+        "Kalsium enir, fosfor qalxır",
+        "Kalsium enir, fosfor enir",
+        "Kalsium enir, kalium enir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Amiloidoz zamanı transtiretin zülalı hansı orqanda sintez olunur?",
+      "options": [
+        "Mədəaltı vəzidə",
+        "Böyrəkdə",
+        "Qaraciyərdə",
+        "Damarlarda",
+        "Bağırsaqda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "62. Amiloidozda nefrotik sindromun nəticəsi necə olur?",
+      "options": [
+        "Sitostatiklərlə asanlıqla aradan götürülür",
+        "Steroidlərlə asanlıqla aradan götürülür",
+        "Nadir hallarda rast gəlinir",
+        "Xronik böyrək çatışmazlığı inkişaf edərsə yox olur",
+        "Xronik böyrək çatışmazlığı inkişaf edirsə saxlanılır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Aşağıda sadalananlardan ikincili amiloidoza səbəb deyil?",
+      "options": [
+        "Mieloma",
+        "Vərəm",
+        "AXOX",
+        "Revmatoidli artrit",
+        "Sifilis"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "64. Lüpus- nefritə məxsus olan laborator göstərici hansıdır?",
+      "options": [
+        "Leykopeniya",
+        "Anemiya",
+        "EÇS artması",
+        "LE - hüceyrələr",
+        "Nativ RNT - yə qarşı anticisimlər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "65. Ultrafiltrasiya prosesi harada keçir?",
+      "options": [
+        "Böyrək yumaqcıqlarında",
+        "Proksimal qıvrım kanalcıqda",
+        "Proksimal düz kanalcıqda",
+        "Distal kanalcıqda",
+        "Henle ilgəyində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. İnulinin klirensi nəyə bərabərdir?",
+      "options": [
+        "100 - ə bərabərdir",
+        "YFS – dən aşağıdır",
+        "YFS  - dən yuxarıdır",
+        "0 – a bərabərdir",
+        "Yumaqcıq filtrasiyasının sürətinə ( YFS ) bərabərdir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Urat duzları hansı mühitdə çöküntü verir?",
+      "options": [
+        "Sidiyin reaksiyasından asılı deyil",
+        "Sidiyin qələvi reaksiyasında",
+        "Sidiyin neytral reaksiyasında",
+        "Bütün sadalananlarda",
+        "Sidiyin turş reaksiyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. Fosfat duzları hansı mühitdə çöküntü verir?",
+      "options": [
+        "Sidiyin qələvi reaksiyasında",
+        "Sidiyin neytral reaksiyasında",
+        "Sidiyin turş reaksiyasında",
+        "Bütün sadalananlarda",
+        "Sidiyin reaksiyasından asılı deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Neçiporenko sınağında hansı miqdar sidikdə elementlərin sayı hesablanır?",
+      "options": [
+        "10 ml sidikdə",
+        "5 ml sidikdə",
+        "1 ml sidikdə",
+        "50 ml sidikdə",
+        "100 ml sidikdə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "70. Hipostenuriya hansı xəstəliyə xarakterikdir?",
+      "options": [
+        "Xronik böyrək çatışmazlığına",
+        "Diabetik nefropatiyanın başlanğıc mərhələsinə",
+        "Paraneoplastik nefropatiya",
+        "Uratlı nefropatiya",
+        "Sistitə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Nefrotik sindromun diaqnostik kriteriyalarına nə aid deyil?",
+      "options": [
+        "Hipoalbuminemiya",
+        "Hiperxolesterinemiya",
+        "3, 5 q/sut proteinuriya",
+        "Kreatinininemiya",
+        "Hiperlipidemiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "72. Böyrəklərin biopsiyası birindən başqa hansı hallarda əvəz olunmazdır?",
+      "options": [
+        "Böyrəklərin polikistozunun diaqnostikasında",
+        "Nekrozlaşmış sistem vaskulitlərinin diaqnostikasında",
+        "Antifosfolipid sindromlu nefropatiyaların diaqnostikasında",
+        "Böyrəklərin amiloidozunun diaqnostikasında",
+        "İnterstisial tubulopatiyanın diaqnostikasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Sadalanan proteinuriyanın hansı forması funksional proteinuriyaya aid deyildir?",
+      "options": [
+        "Alimentar",
+        "Kanalcıqların həddən artıq protein ilə yüklənməsi",
+        "Fiziki gərginlik",
+        "Ortostatik",
+        "Yüksək hərarətin olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "74. Zimnitski sınağı ilə nə təyin olunur?",
+      "options": [
+        "Sidiyin xüsusi çəkisi",
+        "Yumaqcıq filtrasiyasının sürəti",
+        "Effektiv böyrək qan axını",
+        "Kanalcıq reabsorbsiyasının miqdarı ( həcmi )",
+        "Böyrəklərin ölçüləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. Böyrəklərin konsentrasion funksiyasının öyrənilməsinin daha yayılmış sınağı hansıdır?",
+      "options": [
+        "Zimnitski sınağı",
+        "3 stəkan sınağı",
+        "Ambürje sınağı",
+        "Neçiporenko sınağı",
+        "Yürüş sınağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Pielonefritin xarakterik laborator əlamətlərinə nə aid deyil?",
+      "options": [
+        "Mikrohematuriya",
+        "Bakteriuriya",
+        "Leykosituriya",
+        "Azotemiya",
+        "Proteinuriya ( 1-2 qr/ sut )"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "77.  Xroniki qlomerulonefritin hansı klinik variantında arterial təzyiqin qalxması xarakterikdir?",
+      "options": [
+        "Hematurik",
+        "Latent",
+        "Nefrotik",
+        "Qarışıq",
+        "Bütün sadalananlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "78. Sistem sklerodermiya zamanı böyrəklərin hansı növ zədələnməsi daha ağır sayılır?",
+      "options": [
+        "Həqiqi sklerodermik böyrək",
+        "Xroniki nefritin nefrotik forması",
+        "Xroniki qlomerulonefritin hipertonik forması",
+        "Xroniki nefritin latent forması",
+        "Xroniki nefritin hematurik forması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Diabetik nefropatiyanın ilkin klinik əlamətləri hansıdır?",
+      "options": [
+        "Baldırların şişməsi",
+        "Arterial hipertoniya",
+        "Proteinuriya 0, 5 q/ l qədər",
+        "Sidiyin xüsusi çəkisinin enməsi",
+        "Mikroalbuminuriya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Aşağıda göstərilənlərin hansı podaqrik nefropatiyanın klinik variantlarına aid deyil?",
+      "options": [
+        "Tez inkişaf edən qlomerulonefrit",
+        "Kəskin urat nefropatiyası",
+        "Xroniki interstisial nefrit",
+        "Böyrək daşı xəstəliyi",
+        "İkincili pielonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. İg A – nefropatiya hansı morfoloji varianta uyğundur?",
+      "options": [
+        "Mezangioproliferativ qlomerulonefritə",
+        "Membranoz nefropatiyaya",
+        "Minimal dəyişikliklərlə qlomerulonefrit",
+        "Mezangiokapillyar qlomerulonefritə",
+        "Ekstrakapilyar proliferativ qlomerulonefritə"
+      ],
+      "correct": 0
+    }
+  ]
+}

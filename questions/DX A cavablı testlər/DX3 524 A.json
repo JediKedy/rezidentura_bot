@@ -1,0 +1,6088 @@
+{
+  "questions": [
+    {
+      "question": "1. Revmatoid artrit (RA) hansı xarakterli oynaq xəstəliyidir?",
+      "options": [
+        "iltihabı",
+        "degenerativ",
+        "metabolik",
+        "reaktiv",
+        "spondiloartritlə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2. Revmatoid artritdə hansı oynaq zədələnir?",
+      "options": [
+        "proksimal falanqaarası oynaqları",
+        "distal falanqaarası oynaqları",
+        "birinci daraq falanqaarası oynağı",
+        "onurganın boyun hissəsi oynaqları",
+        "onurganın bel hissəsini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3. Revmatoud artritdə hansı simptom erkən diqnoz qoymağa kömək edir? a) oynaqlarda lateral kistlərin olması; b) axill vətərində palpasiyada ağrı; c) səhər hərəkətsizlik; d) dərialtı düyünlər; e) falanqarası oynaqlarda ödem. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4. Revmatoid artritin aktivliyini göstərir: a) EÇS-in artması; b) 1 saatdan çox səhər hərəkətin məhdudlaşması; c) ALT-nin qalxması; d) Heberden düyünləri; e) ASL-0 yüksək titri. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5. Revmatoid artritdə sinovial mayenin xarakterik xüsusiyyəti:",
+      "options": [
+        "mayenin iltihabi xarakterdə olması",
+        "hemorragik ekssudat",
+        "mayedə Ca-pirofosfat kristallarının olması",
+        "mayedə urat kristallarının olması",
+        "mayenin qeyri-iltihab xarakterli olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6. Revmatoid artrit zamanı dəri zədələnmələrinə aiddir:",
+      "options": [
+        "dərialtı düyünlər, xırda nöqtəli hemorragik səpgi",
+        "striyalar, həlqəvari eritema",
+        "düyünlü eritema",
+        "annulyar səpgi, keratodermiya",
+        "almacıqlarda kəpənək şəklində səpgi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7. Revmatoid artritin müalicəsində metotreksat nə vaxt istifadə olunur?",
+      "options": [
+        "sistem zədələnmələrlə gedən yüksək aktivlikli RA",
+        "RA-nın başlanğıc mərhələsi, minimal fəallıq",
+        "əsasən oynaqların zədələnməsi ilə gedən forma",
+        "monoartrit şəklində inkişaf edən forma",
+        "ahıl yaşlı pasiyentlərdə və əsasən oynaqların zədələnməsi ilə gedən RA"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Revmatoid artritin müalicəsində bioloji agentlərin təyininə əsas göstəriş:",
+      "options": [
+        "başqa bazis preparatlarının zəif effektivliyi",
+        "mono-oliqoartrit şəklində gedən RA",
+        "oynaq ankilozları",
+        "əsasən oynaqların zədələnməsi ilə gedən forma",
+        "RA başlanğıc mərhələsi, minimal fəallıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9. Revmatoid artritli xəstədə müşahidə olunur: a) oynaq nahiyyəsində qızartı; b) Buşar düyünləri; c) barmaqlar “durna boynu” tipində; d) oynaqlarda ulnar deviasiya; e) oynaqda xırçıltı. Düzgün variantı seçin:",
+      "options": [
+        "c,d",
+        "a,b",
+        "b,c",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10. Revmatoid artritə xarakterdir: a) səhərlər hərəkətin məhdudlaşması; b) oynaqların simmetrik zədələnməsi; c) distal falanqaarası oynaqların zədələnməsi; d) oynaq nahiyyəsində hiperemiyanın olması; e) gecənin birinci yarısında oynaqlarda agrının olması. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11. Revmatoid artritin rentgenoloji göstəriciləri: a) osteoporoz; b) eroziya; c) osteofitoz; d) onurgaarası ossifikasiya; e) birtərəfli sakroileit. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Faqositlərin sinovial mayedə yüksək dərəcədə artması hansı xəstəlikdə rast gəlir?",
+      "options": [
+        "revmatoid artrit",
+        "osteoartroz",
+        "Bexterev xəstəliyi",
+        "fibromialgiya",
+        "Titse sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13. Revmatoid artritin bazis terapiyasına aiddir: a) tauredon; b) metotreksat; c) aspirin; d) prednizolon; e) ibuprofen. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14. Revmatoid artrit zamanı qanda aşkar olunan immunoloji dəyişiklik:",
+      "options": [
+        "HLA-DR4",
+        "HLA B27",
+        "CH50",
+        "ikispirallı DNT-ə qarşı anticismlər",
+        "kardilopinə qarşı anticismlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15. Revmatoid artritin Şteynbrokerə görə neçə rentgenoloji mərhələsi var?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2",
+        "6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16. Sirkulyasiya edən immun komlekslər hansı xəstəlikdə təyin edilir?",
+      "options": [
+        "revmatoid artrit",
+        "psoriatik artrit",
+        "sistem sklerodermiya",
+        "kəskin revmatik qızdırma",
+        "podaqra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17. Revmatoid artrit zamanı ən çox hansı oynağın zədələnməsinə rast gəlinir?",
+      "options": [
+        "proksimal falanqalararası oynaqlar",
+        "boyun fəqərələrin oynaqları",
+        "pəncənin birinci falanqa oynağı",
+        "distal falanqalararası oynaqları",
+        "bel-oma fəqərə oynaqları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18. Revmatoid artrit zamanı ağciyərlərin zədələnməsinin ən çox hansı forması rast gəlinir?",
+      "options": [
+        "adheziv plevrit",
+        "qanhayxırma",
+        "pnevmoniya",
+        "fibrozlaşdırıcı alveolit",
+        "bronxoektaziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19. Revmatoid artrit zamanı böyrəyin zədələnməsini aşkar etmək üçün informativ müayinə üsulu:",
+      "options": [
+        "böyrəyin biopsiyası",
+        "izotopR-qrafiya",
+        "kontrast uroqrafiya",
+        "USM",
+        "Zimnitski sınağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20. Revmatoid artritin diqnostik meyarlarına hansılar daxildir?",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.bədən temperaturunun yüksəlməsi;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.oynaqların simmetrik zədələnməsi;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.distal falanqalararası oynaqların zədələnməsi;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.oynaqlar üzərində qızartı;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.səhərlər buxovlanma sindromu;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.ağrıların efemer xarakter daşıması;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "7.üç və daha çox oynaqların zədələnməsi Düzgün variantı seçin:",
+      "options": [
+        "2, 5, 7",
+        "1, 2, 6",
+        "1, 3, 7",
+        "2, 4, 6",
+        "1, 4, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21. Revmatoid artritin I mərhələsinin rentgen əlamətləri:",
+      "options": [
+        "oynaqətrafı osteoporoz",
+        "subxondral osteoskleroz",
+        "osteofitlər",
+        "birtərəfli sakroileit",
+        "oynaq qığırdağının dağılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22. Seropozitiv revmatoid artrit nədir?",
+      "options": [
+        "qan zərdabında RF olur",
+        "qan zərdabında ASL-O tapılır",
+        "qan zərdabında C-reaktiv zülal olur",
+        "qan zərdabında RF olmur",
+        "qan zərdabında LE-hüceyrələr olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23. Revmatoid artrit zamanı ürəyin ən çox hansı qapağı zədələnir?",
+      "options": [
+        "mitral qapaq",
+        "üçtaylı qapaq",
+        "aortal qapaq",
+        "ağ ciyər arteriyası qapağı",
+        "heç bir qapaq zədələnmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24. Revmatoid artritin II mərhələsinin rentgenoloji əlamətini göstərin:",
+      "options": [
+        "oynaq başında tək-tək eroziya və oynaq yarığının daralması",
+        "subxondral osteoskleroz",
+        "osteofitlər",
+        "osteoporoz",
+        "oynaq səthlərində çoxlu kistaların olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25. Erkən revmatoid artritin müalicəndə birinci sıra preparatlar hansılardır:",
+      "options": [
+        "qeyri steroid iltihabəleyhinə dərmanlar",
+        "kortikosteroidlər",
+        "delagil",
+        "sitostatiklər",
+        "qızıl preparatları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26. Uzun müddət davam edən revmatoid artritin xarakterik ağırlaşması:",
+      "options": [
+        "amiloidoz",
+        "damarların aterosklerozu",
+        "karbohidrat mübadiləsinin pozulması",
+        "mikoz",
+        "porfiriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27. Revmatoid faktor nədir?",
+      "options": [
+        "autoantitel",
+        "antigen",
+        "autoantigen",
+        "zülal",
+        "dimer molekulası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28. Revmatoid vaskulitin əsas ağırlaşması:",
+      "options": [
+        "burun qanaxması",
+        "annulyar səpgilər",
+        "arterial hipertenziya",
+        "allopesiya",
+        "hiperlipoproteidemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29. Revmatik poliartritə xarakterdir: a) oynaqların davamlı deformasiyası; b) oynaqların davamsız deformasiyası; c) iri və orta oynaqların zədələnməsi; d) uçucu ağrı; e) qeyri steroid iltihab əleyhinə dərmanların qəbulundan sonra agrının itməsi. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30. Felti sindromunun əsas üç kliniki əlaməti:",
+      "options": [
+        "artrit, leykopeniya, splenomeqaliya",
+        "sklerit, Şeqren sundromu, monoartrit",
+        "hepatomeqaliya, trombositopeniya, eozinofiliya",
+        "seroneqativ proses, Kaplan sindromu, vaskulit",
+        "leykositoz, anemiya, oliqoartrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31. Reyter sindromu zamanı laborator analizdə hansı patologiya daha çox rast gəlinir?",
+      "options": [
+        "uretradan götürülmüş yaxmada xlamidiyanın tapılması",
+        "EÇS-in yüksəlməsi",
+        "proteinuriya",
+        "RF-nin aşkar olunması",
+        "trombositopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32. Artroza hansı əlamətlər xarakterdir? a) mexaniki ağrı; b) oynaqda şişkinlik; c) oynaqda temperaturun qalxması; d) oynaqda xırçıltı; e) zədələnmiş oynaqda hiperpiqmentasiya. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33. Aşagıdakılardan hansı ağrının iltihabı xarakter olmasını göstərir? a) oynaqda deformasiya; b) oynaqlarda xışıltı; c) oynaqlarda şişkinlik; d) oynaq dərisində hipertermiya; e) oynaga agırlıq düşəndə agrı. Düzgün variantı seçin:",
+      "options": [
+        "c,d",
+        "a,b",
+        "c,b",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34. Osteoartroz zamanı Buşar düyünləri harada əmələ gəlir?",
+      "options": [
+        "proksimal falanqaarası oynaqlarda",
+        "distal falanqaarası oynaqlarda",
+        "diz oynaqlarında",
+        "birinci daraq falanqaarası oynaq",
+        "dirsək oynaqlarında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Osteoartrozda rentgenoloj dəyişiklər hansıdır? a) osteoporoz; b) oynaqlarda eroziyaların olması; c) osteofitoz; d) oynaq yarıgının daralması; d) osteoskleroz. Düzgün variantı seçin :",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36. Osteoartroza xarakter deyil:",
+      "options": [
+        "ən çox I daraq falanqa oynagı zədələnir",
+        "rentgenoloji olaraq osteoskleroz, osteofit və oynaq yarıgının daralması",
+        "iltihabı əlamətlər olmur",
+        "oynaqlarda deformasiya",
+        "mexaniki agrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37. Ostreoartrozda hansı oynaqın zədələnməsi olur? a) falanqaarası; b) diz; c) bud-çanaq; d) daraq-falanqa; e) mil-bilək. Düzgün variantı seçin:",
+      "options": [
+        "b,c",
+        "a,b",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38. Osteoartroz zamanı patoloji prosesin ən çox əlilliyə gətirən lokalizasiyası hansıdır?",
+      "options": [
+        "bud-çanaq oynaqları",
+        "diz oynaqları",
+        "əllərin distal falanqalararası oynaqları",
+        "çiyin oynaqları",
+        "aşıq-daban"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39. Heberden düyünləri hansı oynaqların osteoartrozunda rast gəlir?",
+      "options": [
+        "distal falanqalararası oynaqlarda",
+        "proksimal falanqalararası oynaqlarda",
+        "diz oynaqlarında",
+        "mil-bilək oynaqlarında",
+        "əl darağı-falanqa oynaqlarında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Buşar düyünləri hansı oynaqların osteoartrozunda rast gəlir?",
+      "options": [
+        "proksimal falanqalararası oynaqlarda",
+        "bud-çanaq oynaqlarında",
+        "mil-bilək oynaqlarında",
+        "distal falanqalararası oynaqlarda",
+        "diz oynaqlarında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41. Osteoartrozda klinik əlaməti seçin: a) diz və budçanaq oynagında “start agrılar”ı; b) Heberden düyünləri; c) kiçik oynaqlarda və topuqda səhərlər hərəkətin məhdudlaşması; d) tofusların olması; e) oynaqlarda ulnar deviasiya. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42. 58 yaşlı xəstə qadın uzun müddətdir osteoartrozdan əziyyət çəkir. Xəstə hərəkətə başlayanda və pilləkəni çıxanda diz oynağında kəskin ağrılar olur, bəzən xəstənin diz oynağı tam açılmır. Belə halda oynağın açılmamasının səbəbi nədir?",
+      "options": [
+        "oynaq siçovulu",
+        "podaqra",
+        "oynaq başının sınığı",
+        "reaktiv sinovit",
+        "oynaq yarığının daralması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Osteoartrozlu xəstənin qanın ümumi analizində hansı patologiya müşahidə olunur?",
+      "options": [
+        "normal olur",
+        "leykopeniya",
+        "eritrositoz",
+        "trombositopeniya",
+        "leykositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44. Podaqra tofusu:",
+      "options": [
+        "oynaqlarətrafı toxumalarda urat və amorf kütlələrin toplanması",
+        "toxumalarda xolesterinin toplanması",
+        "dərialtı toxumanın bərkləşməsi",
+        "toxumalarda Ca-un çökməsi",
+        "dərialtı iltihabi qranuloma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45. Podaqranın diaqnozunda əsas meyarları: a) Buşar düyünləri; b) ikitərəfli sakroiliet; c) tofusa şübhə olduqda; d) hiperurikemiya; e) falanqa-bilək oynaqında şişkinlik və agrı. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46. Səhərə yaxın saatlarda oynaq ağrıları tutmaları hansı xəstəlik üçün xarakterdir:",
+      "options": [
+        "podaqra",
+        "revmatoid artrit",
+        "osteoartroz",
+        "psotiatik artrit",
+        "reaktiv artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Podaqra xəstəliyi zamanı qanda qalxır:",
+      "options": [
+        "sidik turşusu",
+        "antistreptolizin-O",
+        "ikisiprallı antitei-DNK",
+        "antitel Scl-70",
+        "antitel antisintetaza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48. Hansı preparat sidik turşusunun ifrazını tormozlayır:",
+      "options": [
+        "allopurinol",
+        "voltaren",
+        "retobolil",
+        "insulin",
+        "aspirin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49. Podaqra diaqnozu qoyulur: a) oynaqlarda mexaniki ağrı; b) səhər hərəkətsizlik; c) daraqfalanqa oynaqında artrit; d) qanda sidik turşusunun miqdarının artması; e) rentgenoloji müayinədə deşikaçan (qıfılaçan) simptomu. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "a,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Tofus nədir?",
+      "options": [
+        "toxumada uratların toplanması",
+        "toxuma da olan xolesterin",
+        "osteofit",
+        "qranulemanın iltihabı",
+        "dərialtı hüceyrələrin yıgılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51. Padaqra artritinin kəskin mərhələsində hansı preparat təyin etmək olmaz? a) sulfasalizin; b) allopurinol; c) prednizolon; d) indometasin e) kolxisin. Düzgün variantı seçin:",
+      "options": [
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52. Kolxisini qəbul etdikdə yaxşı nəticə hansı xəstəlik üçün diaqnostik test hesab olunur?",
+      "options": [
+        "podaqra üçün",
+        "revmatoid artrit üçün",
+        "Reyter xəstəliyi üçün",
+        "osteoartroz",
+        "sistem sklerodermiya üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Podaqranı hansı amillər daha da kəskinləşdirir?",
+      "options": [
+        "spirtli içki və ət xörəklərinin qəbulu",
+        "uzun müddət piyada gəzmək",
+        "çoxlu mineral sular içmək",
+        "oynağa yüngül travma",
+        "uzun müddət ayaq üstə durmaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54. 50 yaşlı xəstə kişi gün ərzində çoxlu ət xörəyi və spirtli içki qəbul etdikdən sonra sağ ayağının I barmağında şiddətli ağrı meydana çıxmış, dərisi tutqun göy rəng almışdır. Xəstəyə ilkin diaqnoz qoymaq üçün hansı müayinə üsulu informativdir?",
+      "options": [
+        "qanda sidik turşusunun təyini",
+        "qanda DNT-yə qarşı antitellərin təyini",
+        "LE-hüceyrələrin təyini",
+        "C-reaktiv zülalın təyini",
+        "RF-ın təyini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Podaqra artritinin kəskin dövründə hansı preparatı təyin etmək olmaz?",
+      "options": [
+        "allopurinol",
+        "kolxisin",
+        "prednizolon",
+        "diklofenak",
+        "nimesil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56. Podaqra zamanı böyrəklər zədələndikdə böyrəyin hansı xəstəliyi rast gəlir?",
+      "options": [
+        "böyrək amiloidozu",
+        "tubulo-interstisial nefrit",
+        "böyrək daşı xəstəliyi",
+        "xroniki qlomerulonefrit",
+        "xroniki böyrək xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57. Qırmızı qurd eşeneyində oynaq sindromuna (QQE) aiddir; a) kontrakturanın inkişafı; b) böyük oynaqların zədələnməsi; c) kiçik oynaqların zədələnməsi; d) mialgiyanın olması; e) artralgiya və artrtin olması. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58. Qırmizı qurd eşeneyinə aid olan klassik triada: a) nefrit; b) kardit; c) dermatit; d) artrit; e) poliserozit. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59. QQE zamanı hansı simptomokompleks xəstəliyin proqnozunu müəyyən etməyə daha çox kömək edir?",
+      "options": [
+        "vaskulit",
+        "artrit",
+        "kardit",
+        "dəri eriteması",
+        "nevrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60. Qırmızı qurd eşeneyində böyrəklərin zədələnməsinə xarakterdir:",
+      "options": [
+        "qlomerulonefrit",
+        "amiloidoz",
+        "böyrəkdaşı xəstəliyi",
+        "pielonefrit",
+        "papilyar nekroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61. Sistem qırmızı qurd eşeneyində dəri dəyişikliyinə hansı aid deyil:",
+      "options": [
+        "dərinin ödemi və solgunlaşması (maskalanmış sifət)",
+        "kapillyarit",
+        "üzdə eritrematoz dermatit (kəpənək simptomu)",
+        "fotosensibilizasiya",
+        "keçəllik (dazlıq)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62. Hansı hematoloji dəyişiklik qırmızı qurd eşənəyinə xasdır? a) eritrositoz; b) hemolitik anemiya; c) leykopeniya; d) leykositoz; e) trombositoz. Düzgün variantı seçin:",
+      "options": [
+        "b,c",
+        "a,b",
+        "c,d",
+        "a,b,c",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63. Aşağıdakı laborator göstəricilərdən hansı QQE üçün xarakterikdir?",
+      "options": [
+        "DNT-yə qarşı antitelin titrinin yüksəlməsi",
+        "eritrositoz",
+        "trombositoz",
+        "hiperqammaqlobulinemiya",
+        "sial turşusunun miqdarının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64. Grest-sindroma xarakterdir: a) kardit; b) eroziya; c) Reyno sindromu; d) sklerodaktiliya; e) teleangiektaziya. Düzgün variantı seçin:",
+      "options": [
+        "c,d,e",
+        "a,b",
+        "b,c",
+        "c,d",
+        "a,b,c"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65. Sistem sklerodermiyada ağciyərlərdə dəyişikliklər hansı formada özünü büruzə verir?",
+      "options": [
+        "pnevmoskleroz",
+        "plevrit",
+        "pnevmoniya",
+        "bronxoektaziya",
+        "bronxit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66. Sistem sklerodermiyada hansı ürək qapağı daha tez zədələnir?",
+      "options": [
+        "mitral",
+        "aortal",
+        "üçtaylı",
+        "ağciyər arteriyası qapağı",
+        "müşahidə olunmur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67. Sistem sklerodermiyada ürəkdə hansı dəyişiklik baş verir?",
+      "options": [
+        "miokardioskleroz",
+        "miokardit",
+        "kardiomiopatiya",
+        "qulaqcığın miksoması",
+        "miokardiodistrofiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68. Sistem sklerodermiyanın erkən kliniki əlamətləri:",
+      "options": [
+        "Reyno sindromu, dəri və oynaq zədələnmələri",
+        "Reyno sindromu, damar və mədə-bağırsaq zədələnmələri",
+        "Reyno sindromu, böyrək və sinir sisteminin zədələnmələri",
+        "Reyno sindromu, ürək və ağciyərlərin zədələnmələri",
+        "Reyno sindromu, damar və endokrin vəzlərin zədələnmələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69. Sistem sklerodermiyanın inkişafında HLA sisteminin hansı lokusları daha böyük əhəmiyyət daşıyır?",
+      "options": [
+        "HLA-DR 5, HLA-DR 3, HLA-DR 2",
+        "HLA-DR 3, HLA-DR 4, HLA-DR1",
+        "HLA-DR B1, HLA-DR2, HLA-B27",
+        "HLA-B 27, HLA-B 35, HLA-B 24",
+        "HLA-DR 5, HLA-DR 4, HLA-B 27"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70. Sistem sklerodermiya dəri zədələnməsinin ardıcıllığı:",
+      "options": [
+        "bərk ödem, indurasiya, atrofiya",
+        "bərk ödem, maserasiya, atrofiya",
+        "maserasiya, atrofiya, indurasiya",
+        "bərk ödem, hipertrofiya, atrofiya",
+        "hipertrofiya, atrofiya, maserasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Sklerodermiyanın diffuz formasında dəri bədənin əsasən hansı hissələrində zədələnir?",
+      "options": [
+        "gövdə və ətrafların proksimal hissələri",
+        "üz, əl barmaqları və dabanlar",
+        "gövdə və üz",
+        "üz",
+        "əl barmaqları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Həqiqi sklerodermik böyrək yarandığı zaman seçim preparatı hansıdır?",
+      "options": [
+        "angiotenzinçevirici fermentin inhibitoru",
+        "beta-blokatorlar",
+        "nativ plazma",
+        "qlükokortikosteroidlər",
+        "sitostatiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73. Sistem sklerodermiya zamanı inkişaf edən Tibyerji-Veysenbax sindromu:",
+      "options": [
+        "periartikulyar toxumaların kalsinozu",
+        "dərialtı toxumada inkişaf edən nekroz",
+        "əllərin dərialtı toxumasında tofusların inkişafı",
+        "dərialtı iltihabi qranuloma",
+        "barmaqların sosiska şəklində şişkinləşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Sistem sklerodermiyda ürək-damar sisteminin zədələnməsi hansı səbəbdən olur?",
+      "options": [
+        "iriocaqlı kardioskleroz",
+        "mitral stenoz",
+        "aortal çatmamazlıq",
+        "eksudativ perikardit",
+        "septik endokardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75. QQE zamanı böyrəklərin zədələnməsi özünü hansı formada biruzə verir?",
+      "options": [
+        "qlomerulonefrit",
+        "pielonefrit",
+        "amioloidoz",
+        "papilyar nekroz",
+        "böyrəkdaşı xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. QQE I aktivlik dərəcəsinin laborator göstəriciləri:",
+      "options": [
+        "Hb 120q/l və daha çox",
+        "EÇS 30-40mm/saat",
+        "fibrinogen 5q/l",
+        "LE-hüceyrələri 10-dan çox",
+        "DNT-yə qarşı antitel 1:64"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. QQE III aktivlik dərəcəsinin klinik göstəriciləri:",
+      "options": [
+        "eksudativ perikardit",
+        "cuzi arıqlama",
+        "poliartralgiya",
+        "adheziv plevrit",
+        "eksudativ eritema"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Sistem sklerodermiyanın əsas diaqnostik əlaməti:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.Reyno sindromu;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.limfoadenopatiya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.sklerodermik dəri;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.poliartralgiya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.teleangioektaziya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.osteoliz",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "7.polimiozit. Düzgün variantı seçin:",
+      "options": [
+        "1,3,6",
+        "1,2,7",
+        "3,4,7",
+        "1,4,6",
+        "1,5,7"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79. Sistem qırmızı qurdeşənəyinin klassik triada əlamətləri:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.artrit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.qlomerulonefrit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.miokardit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.dermatit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.endokardit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.serozit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "7.pnevmonit Düzgün variantı seçin:",
+      "options": [
+        "1,4,6",
+        "1,3,7",
+        "4,5,7",
+        "2,3,6",
+        "3,5,6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80. Sistem qırmızı qurdeşənəyində dəridə dəyişikliklər hansı formada olur?",
+      "options": [
+        "kəpənəkşəkilli eritema",
+        "üzüyəbənzər eritema",
+        "məxmərək səpgiləri",
+        "papula və rozeola şəklində eritema",
+        "depiqmentasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81. Sistem sklerodermiya zamanı kollagenin əmələ gəlməsini ləngidən dərman preparatı:",
+      "options": [
+        "D-penisilamin",
+        "indometasin",
+        "diklofenak",
+        "metotreksat",
+        "remikeyd"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82. Sistem sklerodermiyanın əsas diaqnostik laborator göstəricisi:",
+      "options": [
+        "anti SKL-70 və antisentromer antitel",
+        "EÇS-in yüksəlməsi",
+        "RF",
+        "DNT-yə qarşı antitel",
+        "LE-hüceyrələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83. SSD yardımçı əlamətlərini göstərin:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.kalsinoz;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.teleangioktaziya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.osteoliz;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.limfadenopatiya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.trofik pozulmalar;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.sklerodermik daktiliya Düzgün variantı seçin:",
+      "options": [
+        "2,4,5",
+        "1,2,5",
+        "3,4,6",
+        "2,3,5",
+        "1,4,6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84. 38 yaşlı xəstə qadın əllərin tez-tez soyumasından, keyləşməsindən, bud və baldır nahiyəsində dərinin bərkiməsindən, udma aktının pozulmasından şikayət edir. Müayinə zamanı əlin dərisi soyuq, bərk və şişkindir. Bud və baldır nahiyəsinin dərisini sıxdıqda büküşlər əmələ gəlmir. Əlin distal falanqalarının uclarında kiçik çapıqlar görünür. Xəstənin diaqnozunu təyin edin:",
+      "options": [
+        "sistem sklerodermiya",
+        "düyünlü poliarteriit",
+        "Reyno sindromu",
+        "sistem qırmızı qurdeşənəyi",
+        "revmatoid artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Ən cox sistem sklerodermiyada zədələnir:",
+      "options": [
+        "üz və bilək",
+        "çiyinlər və baldır",
+        "baş və gövdə",
+        "kürək və qarın",
+        "dirsək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86. Angilozlaşdırıcı spondiloartritin əsas əlaməti. Düzgün variantı seçin:",
+      "options": [
+        "fizioloji fəqərə əyriliklərin hamarlaşması",
+        "fəqərələrdə osteofitlərin əmələ gəlməsi",
+        "subxondral osteoskleroz",
+        "fəqərələrdə spontan sınıqların baş verməsi",
+        "fəqərəarası diskdə baş verən degenerativ dəyişiklik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87. Aşağıdakı xəstəliklərdən hansı orta diametrli damarların zədələnməsini göstərir?",
+      "options": [
+        "düyünlü poliarteriit",
+        "Şenleyn-Henox purpurası",
+        "leykositoplastik dəri vaskuliti",
+        "Takayasu arteriiti",
+        "Horton xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88. Düyünlü poliarteriit zamanı ürəkdə hansı patologiya aşkar edilir:",
+      "options": [
+        "koronarit",
+        "quru perikardit",
+        "kardioskleroz",
+        "fibroplastik endokardit",
+        "miokardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89. Vegener xəstəliyi zamanı əsas müalicə preparatı:",
+      "options": [
+        "siklofosfamid",
+        "plakvenil",
+        "delagil",
+        "metotreksat",
+        "diklofenak"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90. Reaktiv artrit zamanı ən çox hansı oynaqlar zədələnir?",
+      "options": [
+        "aşağı ətraf oynaqları",
+        "mil-bilək oynağı",
+        "əl darağı-falanqa oynağı",
+        "bud-çanaq oynağı",
+        "dirsək oynağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91. Podaqrada ən çox hansı oynaq zədələnir?",
+      "options": [
+        "ayağın I ayaqdarağı-falanqa oynağı",
+        "mil-bilək oynağı",
+        "bud-çanaq oynağı",
+        "proksimal falanqalararası oynaq",
+        "diz oynağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92. 60 yaşlı xəstə qadını son üç ildə diz oynağında ağrı narahat edir. Ağrı hərəkətə başlayanda və pilləkəni qalxarkən daha da artır. Xəstənin oynağına baxanda oynağın həcminin böyüməsi müəyyən edilir. Rentgenoqrammada diz oynağına oynaq yarığının daralması və osteofitlər aşkar edilir.Xəstəyə hansı diaqnozu qoyardınız?",
+      "options": [
+        "qonartroz",
+        "revmatoid artrit",
+        "Bexterev xəstəliyi",
+        "Reyter sindromu",
+        "psoriatik artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93. Osteoartroz zamanı rentgenoqrammada hansı xarakterik dəyişiklik görünür?",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.osteoporoz;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.oynaq yarığının daralması;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.osteofitlər;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.subxondral osteoskleroz;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.oynaq səthində çoxlu eroziyalar;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.ankiloz. Düzgün variantı seçin:",
+      "options": [
+        "2,3,4",
+        "1,3,5",
+        "1,2,6",
+        "2,4,6",
+        "3,5,6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Çarqa-Stross xəstəliyinin diaqnostik meyarlarını göstərin:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.astma;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.oynaqlarda ağrı;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.ağciyərlərdə infiltrat;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.dəridə eritematoz səpgilər;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.eozinofiliya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.periferik neyropatiya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "7.proteinuriya. Düzgün variantı seçin:",
+      "options": [
+        "1,3,5",
+        "1,6,7",
+        "3,4,5",
+        "2,5,6",
+        "4,6,7"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95. Düyünlü poliarteriitdə periferik sinir sisteminin zədələnməsinin əsas xüsusiyyəti:",
+      "options": [
+        "asimmetrik zədələnmə",
+        "simmetrik zədələnmə",
+        "sürətlə inkişaf edir",
+        "vətər refleksi yüksəlir",
+        "hərəki pozğunluq baş vermir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96. Dermatomiozitin müalicəsində aşağıdakı dərmanlardan hansı əsas preparat hesab olunur?",
+      "options": [
+        "prednizolon",
+        "delagil",
+        "voltaren",
+        "kolxisin",
+        "korinfar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97. 25 yaşlı xəstə diz və aşıq-daban oynaqlarında şişkinlik, ağrı şikayətləri ilə həkimə müraciət etmişdir. Anamnezində müəyyən olur ki, xəstə 3 həftə əvvəl kəskin bağırsaq infeksiyası keçirmişdir. Xəstəyə ilkin diaqnoz qoyun:",
+      "options": [
+        "reaktiv artrit",
+        "podaqra",
+        "revmatik polartrit",
+        "revmatoid artrit",
+        "hemorragik vaskulit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98. Şenleyn- Henox xəstəliyinin diaqnostik meyarlarını göstərin:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.dəridə purpuralar;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.oynaqlarda ağrı;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.temperaturun yüksəlməsi;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.xəstənin yaşı 20-dən azdır;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.aşağı ətraflarda ödem;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.abdominal ağrı;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "7.bəlğəmli öskürək. Düzgün variantı seçin:",
+      "options": [
+        "1,4,6",
+        "2,5,6",
+        "1,3,7",
+        "1,5,7",
+        "1,3,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Vegener qranulomatozunun diaqnostik meyarlarını göstərin:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.burun və ağız boşluğunda iltihab;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.temperaturun yüksəlməsi;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.abdominal ağrı;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.sidikdə dəyişiklik;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.poliartralgiya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.biopsiya məlumatı. Düzgün variantı seçin:",
+      "options": [
+        "1,4,6",
+        "2,4,5",
+        "1,5,6",
+        "2,3,4",
+        "2,4,6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100. Sistem dermatomiozitin əsas diaqnostik əlaməti:",
+      "options": [
+        "ətrafların proksimal əzələlərinin zəifliyi",
+        "ətrafların proksimal əzələlərinin ağrıları",
+        "ətrafların proksimal əzələlərinin gərginliyi",
+        "ətrafların proksimal əzələlərinin qıcolmaları",
+        "ətrafların proksimal əzələlərinin titrəmələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101. Sistem dermatomiozit zamanı ən çox rast gəlinən dəri zədələnməsi:",
+      "options": [
+        "heliotrop səpgi",
+        "annulyar səpgi",
+        "digital nekroz",
+        "dəri tofusları",
+        "dərialtı düyünlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102. Sistem dermatomiozitdə həzm sisteminin zədələnməsi hansı kliniki əlamətlə özünü biruzə verir?",
+      "options": [
+        "disfagiya",
+        "bağırsaq keçməməzliyi",
+        "disbakterioz",
+        "mədə xorası",
+        "12-barmaq bağırsağın xorası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103. Hansı oynaqlarda sinovial maye olmur?",
+      "options": [
+        "amfiartrozlarda",
+        "ellipsli oynaqlarda",
+        "yastı oynaqlarda",
+        "diartrozlarda",
+        "yəhərvari oynaqlarda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104. Oynaq qığırdağının qalınlığı normada nə qədər olur?",
+      "options": [
+        "1-7 mm",
+        "1 sm",
+        "2 sm",
+        "3 sm",
+        "0-3 mm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105. Kuşelevski simptomu hansı patologiyada təyin edilir?",
+      "options": [
+        "sakroileit",
+        "koksartroz",
+        "qonartroz",
+        "qonartrit",
+        "podaqra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. Revmatoidli artritin müalicəsində bazis preparatı kimi hansı daha geniş istifadə olunur?",
+      "options": [
+        "sulfasalazin",
+        "delagil",
+        "azatioprin",
+        "D-penisilamin",
+        "krizanol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107. Dermatomiozitli xəstələrdə ölümün ən çox rast gələn səbəbi:",
+      "options": [
+        "udma aktının pozulması ilə əlaqədar qida kütlələrilə aspirasiya",
+        "böyrək çatmamazlığı",
+        "ürək çatmamazlığı",
+        "ağciyər arteriyasının tromboemboliyası",
+        "miokard infarktı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108. Bexterev xəstəliyində ürək-damar sisteminin zədələnməsi EKQ-də özünü necə göstərir?",
+      "options": [
+        "Morqani-Adams-Stoks sindromu ilə inkişaf edən tam AV-blokada",
+        "His dəstəsi ayaqcığının blokadası",
+        "WPW-sindromu",
+        "miokard infarktı",
+        "sol və sağ mədəciyin hipertrofiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. Bexterev xəstəliyinin əsas kliniki əlamətləri:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.dermatit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.uveit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.vaskulit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.aftoz stomatit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5.arterial hipertenziya;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "6.artrit;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "7.cinsi orqanların aftozlu yaraları. Düzgün variantı seçin:",
+      "options": [
+        "2,4,7",
+        "1,3,5",
+        "4,5,6",
+        "3,6,7",
+        "3,5,6"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110. Antifosfolipid sindromun əsas göstəricisi:",
+      "options": [
+        "mənfi yüklənmiş fosfolipidlərə qarşı autoanticismlər",
+        "qanda sirkulyasiya edən immun komlekslər artır",
+        "qanda sirkulyasiya edən immun komlekslər azalır",
+        "qanda İgA miqdarı artır",
+        "qanda komplementin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111. Onurğa sütununun boyun şöbəsinin osteoxondrozunun birinci əsas əlaməti:",
+      "options": [
+        "servikal diskalgiya",
+        "lumbalgiya",
+        "vətər reflekslərinin azalması",
+        "əzələ atrofiyası",
+        "visseral sindromlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112. Qlukozamin-sulfat tərkibli preparatların tətbiqinin əsas əks-göstərişi:",
+      "options": [
+        "fenilketonuriya",
+        "arterial hipertoniya",
+        "ürəyin işemik xəstəliyi",
+        "mədənin xora xəstəliyi",
+        "xroniki qastrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113. Arteriola və venulaların zədələnməsi hansı sistemli vaskulit üçün xarakterikdir?",
+      "options": [
+        "Şenleyn-Henox xəstəliyi",
+        "Takayasu xəstəliyi",
+        "düyünlü poliarteriit",
+        "Bexçet xəstəliyi",
+        "gicgah arteriiti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Obstruksiyaedici tromboangitin əsas etioloji amili:",
+      "options": [
+        "tütün qəbulu",
+        "virus",
+        "bakteriya",
+        "arterial hipertenziya",
+        "alkoqolun qəbulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115. Obliterasiyaedici tromboangiitin əsas kliniki əlamətləri:",
+      "options": [
+        "növbələşən axsaqlıq, Reyno sindromu, miqrasiyaedici flebit",
+        "baş ağrıları, dəri səpkiləri, dərin tromboflebit",
+        "aşağı ətrafların işemiyası, səthi tromboflebit, tromboemboliya",
+        "damarların aterosklerotik dəyişiklikləri, aşağı ətrafların işemiyası",
+        "Reyno sindromu, dərin tromboflebit, tromboemboliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116. Hemorragik vaskulit ən çox kimlərdə rast gəlinir?",
+      "options": [
+        "16 yaşa qədər uşaqlarda",
+        "10-30 yaş arasında qadınlarda",
+        "50 yaşdan yuxarı qadınlarda",
+        "30 yaşdan yuxarı kişilərdə",
+        "20-30 yaş arası kişilərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117. C-reaktiv zülal hansı hüceyrələrdə sintez olunur?",
+      "options": [
+        "hepatositlərdə",
+        "leykositlərdə",
+        "eozinofillərdə",
+        "osteofitlərdə",
+        "limfositlərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118. Densitometriya nə üçün istifadə olunur?",
+      "options": [
+        "sümüklərin sıxlığını təyin etmək üçün",
+        "sümüklərdə patoloji sınıqları təyin etmək üçün",
+        "sümüklərdə anatomik dəyişiklikləri təyin etmək üçün",
+        "sümüklərin arxitektonikasını təyin etmək üçün",
+        "subxondral osteosklerozu təyin etmək üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119. Birincili və ikincili Reyno sindromunun diaqnozunu hansı instrumental üsulla təyin etmək olur?",
+      "options": [
+        "kapillyarskopiya",
+        "rentgenoqrafiya",
+        "kompyuter tomoqrafiya",
+        "ultrasəs müayinə",
+        "densitometriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120. Trombositoz hansı xəstəliyin diaqnostik göstəricisi sayılır?",
+      "options": [
+        "Kavasaki xəstəliyi",
+        "sistem sklerodermiya",
+        "dermatomiozit",
+        "Bexterev xəstəliyi",
+        "kəskin revmatik qızdırma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121. Krioqlobulinlərin neçə tipi aşkar olunur?",
+      "options": [
+        "3",
+        "6",
+        "2",
+        "1",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122. İnsan immunoqlobulinlərinin əsas hissəsini hansı sinif təşkil edir?",
+      "options": [
+        "İgG",
+        "İgM",
+        "İgA",
+        "İgE",
+        "İgD"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. Felti sindromunda qanın ümumi analizində hansı dəyişiklik aşkar olunur?",
+      "options": [
+        "leykopeniya",
+        "leykositoz",
+        "monositoz",
+        "trombositoz",
+        "limfopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. Kəskin faza zülallarına komplementin hansı komponentləri aiddir?",
+      "options": [
+        "C3,C4",
+        "C2, C1r",
+        "CH50, C1s",
+        "C1q, C1s",
+        "C50, C1r"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. Kəskin faza zülallara nə aiddir?",
+      "options": [
+        "haptoqlobin, seruloplazmin, C-reaktiv zülal",
+        "C-reaktiv zülal, difenilamin reaksiyası, ANA",
+        "C-reaktiv zülal, fibrinogen, DNT-yə qarşı AT",
+        "seromukoid, C-reaktiv zülal, ANA",
+        "seromukoid, ANA, fibrinogen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126. Felti sindromunun əsas ağırlaşması:",
+      "options": [
+        "baldırda trofik xoralar",
+        "leykositoz",
+        "ANA-nın artması",
+        "hektik tipli hərarət",
+        "uveit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127. Psevdoseptik sindromun əsas əlaməti:",
+      "options": [
+        "hektik tipli hərarət",
+        "aftoz stomatit",
+        "asimmetrik sakroileit",
+        "uveit",
+        "baldırda trofik xoralar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128. Böyüklərdə Still sinromunun əsas əlaməti:",
+      "options": [
+        "boğaz ağrısı, eritematoz-papulyoz səpkilər, artrit",
+        "Reyno sindromu, digital arteriit, qlomerulonefrit",
+        "eritrositoz, RF-un pozitiv, ANA artması",
+        "amiloidoz, revmatoid düyünlər, anemiya",
+        "leykopeniya, miokardit, disproteinemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129. Kuşelyovski simptomu hansı oynaqların zədələməsindən xəbər verir?",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1.fəqərə sütunu oynaqları;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2.simfizin;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3.oma-qalça oynaığını;",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4.ileo-sakral birləşmələri. Düzgün variantı seçin:",
+      "options": [
+        "4",
+        "1,3",
+        "2,4",
+        "1,3,4",
+        "3,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130. Proksimal və tənəffüs əzələlərinin zədələnməsi daha çox xarakterdir:",
+      "options": [
+        "dermatomiozit",
+        "miozit",
+        "rabdomioliz",
+        "lovastatin qəbulu",
+        "hipotireoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131. Aşağıdakı xəstəliklərin hansında göz qapaqlarının zədələnməsi diaqnostik meyarlardan biridir?",
+      "options": [
+        "dermatomiozit",
+        "revmatizm",
+        "revmatik polimialgiya",
+        "sistem qırmızı qurdeşənəyi",
+        "sistem sklerodermiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Dermatomiozitin patoqnomonik göstəricilərindən biri:",
+      "options": [
+        "\"heliotrop\" eritemalı yuxarı göz qapağının paraorbital ödemi və Hottron sindromu (daraq-falanqa",
+        "bədənin açıq hissələrinin eriteması",
+        "poykilodermiya",
+        "alopesiya",
+        "Reyno sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133. Dermatomiozitdə əsas patolqnostik göstərici seçmək olar: a) paraorbital ödem; b) yuxarı hissədə purpur-melavoy eritema; c) bilək falanqa və falanqaarası oynaqlarda kəskin eritemanın olması; d) vaskulit “kəpənəklər”; e) üzükvari eritema. Düzgün variantı seçin:",
+      "options": [
+        "a,b,c",
+        "a,b",
+        "b,c",
+        "c,d",
+        "c,d,e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134. Dermatomiozitin müalicəsində hansı preparat işlədilir?",
+      "options": [
+        "prednizolon",
+        "azatioprin",
+        "korinfar",
+        "delaqil",
+        "kolxisin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135. Dəmirdefisitli anemiyaya xarakterdir:",
+      "options": [
+        "hipoxromiya, mikrositoz, zərdabın dəmirbirləşdirmə qabiliyyətinin artması",
+        "hipoxromiya, mikrositoz, sternal sideroblastın olması",
+        "hipoxromiya, mikrositoz, hədəfəbənzər eritrositlər",
+        "hipoxromiya, mikrositoz, zərdabın dəmirbirləşdirmə qabiliyyətinin azalması",
+        "hipoxromiya, mikrositoz, Desferal sınağının müsbət olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136. Sadalananlardan hansı B12 defisitli anemiya ücün doğrudur:",
+      "options": [
+        "qastroektomiyadan sonra yaranır",
+        "daxili faktorun sekresiyasının pozulmasının irsi olduğu güman edilir",
+        "xəstələrin coxunun qan zərdabında mədənin parietal hüceyrələrinin sitoplazmasına qarşı anticismlər",
+        "xəstəlik həmişə autoimmundur",
+        "bütün xəstələrdə daxili faktora qarşı anticismlər tapılır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137. Bilirubinin səviyyəsinin mülayim yüksəlişi xarakterdir:",
+      "options": [
+        "B12 defisit anemiyaya",
+        "dəmirdefisitli anemiyaya",
+        "kəskin gedişli autoimmun hemolitik anemiyaya",
+        "irsi sferositozun kriz dövrünə",
+        "Markiafava- Mikele xəstəliyinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138. Sümük iliyindənüvəni əhatə edən dəmir qranulalı çoxlu miqdarda sideroblastların tapılması hansı hal üçün xarakterdir?",
+      "options": [
+        "sideroaxrestik anemiya",
+        "dəmirdefisitli anemiya",
+        "talassemiya",
+        "oraqvari hüceyrə anemiyası",
+        "irsi sferositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139. Qadınlarda anamnestik bilgilərə əsasən dəmirdefisitli anemiyanın əsassəbəbini göstərin:",
+      "options": [
+        "çox saylı doğuş",
+        "mədənin rezeksiyası",
+        "nefrektomiya",
+        "hiposekretor qastrit",
+        "oral kontraseptiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140. Dəmirdefisitlianemiyahansıvəziyyətlərdəmeydanaçıxabilər:",
+      "options": [
+        "bütünsadalananhallarda",
+        "mədədəəməliyyat",
+        "residivləşənqanitirmə",
+        "bağırsağınxronikixəstəliyi",
+        "hamiləlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141. Qan zərdabının ümumi dəmirbirləşdirmə qabiliyyəti sadalananlardan hansının dəmirlə doyma dərəcəsini ifadə edir?",
+      "options": [
+        "transferrinin",
+        "hemin",
+        "ferritinin",
+        "qlobinin",
+        "sideroblastların"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142. Mədə-bağırsaq traktı ilə qanitirmənin ən informativ müayinə üsulu:",
+      "options": [
+        "radioaktiv xromla aparılan müayinə",
+        "Veber sınağı",
+        "Qreqersen sınağı",
+        "nəcisdə dəmirin miqdarının təyini",
+        "fibroqastroskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Dəmir çatmamazlıgının əlaməti:",
+      "options": [
+        "saçların tökülməsi",
+        "ikteriklik",
+        "qaraciyərin böyüməsi",
+        "limfatik düyünlərin böyüməsi",
+        "paresteziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144. Dəmirdefisitli anemiyanın müalicə prinsiplərinə aid edilir: 1) vaxtında qanın köçürülməsi; 2) qanitirmənin səbəbinin mümkün dərəcədə aradan qaldırılması; 3) dəmirin uzunmüddətli yeridilməsi; 4) uzun müddət dəmirin per os təyin edilməsi.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1, 2",
+        "2,3",
+        "1, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145. Orqanizmdə dəmirin əsas hissəsi haradan sorulur?",
+      "options": [
+        "12 barmaq və nazik bağırsaqlardan",
+        "çənbər bağırsağın enən hissəsindən",
+        "mədədən",
+        "qalça bağırsaqdan",
+        "kor bağırsaqdan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146. Sutka ərzində nə qədər dəmir sorulur?",
+      "options": [
+        "2,0- 2,5 mq",
+        "0,5- 1,0 mq",
+        "4,0- 4,5 mq",
+        "10,0- 12,0 mq",
+        "7,0- 8,0 mq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. B12-defisitli anemiyalı xəstənin əsas şikayəti hansıdır?",
+      "options": [
+        "dildə yanğı",
+        "döş sümüyünün arxasında ağrı",
+        "axsama",
+        "yaxındangörmə",
+        "ürəkbulanma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148. B12-defisitli anemiyanın xarakter əlaməti:",
+      "options": [
+        "yüksək rəng göstəricisi",
+        "leykositoz",
+        "EÇS- in sürətlənməsi",
+        "hipertrombositoz",
+        "limfositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. B12-defsitli anemiyanındiaqnostikasında kifayətdir:",
+      "options": [
+        "meqaloblastik qanyaranma",
+        "hiperxrom, hiporegenerator, makrositar anemiya və atrofik qastrit",
+        "hiperxrom, hiporegenerator, makrositar anemiya, eritrositlərdə Jolli cisimcikləri və Kebot",
+        "hipoxrom, hiporegenerator, makrositar anemiya",
+        "hiperxrom, hiporegenerator, makrositar anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. B12-defisitli anemiyalı xəstənin müalicə taktikası:",
+      "options": [
+        "ömür boyu aparılır",
+        "hemoqlobinin səviyyəsi normallaşana qədər",
+        "1 il",
+        "3 ay",
+        "ildə 2 dəfə 3 aylıq kurslarla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151. Hemolizin göstəricisi deyil:",
+      "options": [
+        "rəng göstəricisinin aşağı olması",
+        "dalağın böyüməsi",
+        "zərdab dəmirinin miqdarının artması",
+        "sidikdə urobilinin miqdarının artması",
+        "retikulositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152. Hemolitik anemiyanın hansı formasında eritrositlərin hipoxromiyası aşkar oluna bilər:",
+      "options": [
+        "talassemiya",
+        "Markiafavi-Mikeli xəstəliyi",
+        "marş hematuriyası zamanı mexaniki hemoliz",
+        "irsi mikrosferisitoz",
+        "QQE zamanı autoimmun hemolitik anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153. Anemik komanın səbəbləri: 1) autoimmun hemolitik anemiya; 2) dizeritropoetik anemiya; 3) B12 defisitli anemiya; 4) limfaqranulomatoz.",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "2, 4",
+        "1, 4",
+        "2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154. Meqaloblast anemiyanın əsas laborator göstəricisi hansıdır?",
+      "options": [
+        "eritrositlərin hiperxromiyası",
+        "eritrositlərin mikrositozu",
+        "qlükozuriya",
+        "hiperurikemiya",
+        "leykositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155. Hemofiliya A hansı laxtalanma faktorunun irsi defisitidir?",
+      "options": [
+        "VIII",
+        "IX",
+        "X",
+        "VII",
+        "V"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156. Hemofiliya B hansı laxtalanma faktorunun irsi defisitidir?",
+      "options": [
+        "IX",
+        "X",
+        "VIII",
+        "VII",
+        "V"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157. Hədəfvari eritrositlər hansı xəstəlik üçün xarakterdir:",
+      "options": [
+        "talassemiya",
+        "dəmirdefisitli anemiya",
+        "sideroaxrestik anemiya",
+        "oraqvari hüceyrə anemiyası",
+        "irsi sferositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158. Aplastik anemiya üçün xarakterdir: 1) qaraciyər və dalaq böyüməyib; 2) qaraciyər və dalaq böyüyüb; 3) limfa düyünləri böyüməyib; 4) limfa düyünləri böyüyüb.",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "2, 4",
+        "2, 3",
+        "1, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159. Aplastik anemiyanın xarakter əlamətini göstərin:",
+      "options": [
+        "pansitopeniya",
+        "hipoxromeritrositlər",
+        "anizo- poykilositoz",
+        "makrositozeritrositllər",
+        "qan zərdabında dəmirin miqdarının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160. Xronik benzol intoksikasiyası zamanı anemiyanın hansı forması müşahidəedilir:",
+      "options": [
+        "aplastik",
+        "hemolitik",
+        "dəmirdefisitli",
+        "DNT və RNT-nin sintezinin pozulması ilə gedən",
+        "meqaloblast"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161. Böyüklərdə xəstəliyin ilk mərhələlərində dalağın böyüməsi xarakterdir:",
+      "options": [
+        "hemolitik anemiya",
+        "dəmirdefisitli anemiya",
+        "miyelom xəstəliyi",
+        "ağır zəncirlər xəstəliyi",
+        "meqaloblast anemiya üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162. Hemolitik anemiya zamanı anuriya və böyrək çatışmazlıgı:",
+      "options": [
+        "damardaxili hemoliz zamanı olur",
+        "heç vaxt olmur",
+        "hemolitik – uremik sindromda olur",
+        "həmişə olur",
+        "hüceyrədaxili hemoliz zamanı olur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163. 18 yaşlı oğlanda uşaqlıqdan travmadan sonra hematomalar, burun qanaxmaları müşahidə olunur. Stasionara idman dərsindən sonra diz oynağın dayaranan ağrı şikayəti ilə daxil olub.Diz oynağı şişgindir, kəskin ağrılıdır, hərəkət məhdudluğu var. Sizin diaqnozunuz:",
+      "options": [
+        "hemofiliya",
+        "revmatoid artrit",
+        "kəskin revmatik qızdırma",
+        "Şenleyn-Henox xəstəliyi",
+        "reaktiv artrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164. Al qırmızı dil cox zaman təsadüf olunur:",
+      "options": [
+        "meqaloblast anemiyada",
+        "trombositopeniyada",
+        "amiloidozda",
+        "Qoşe xəstəliyində",
+        "miyelom xəstəliyində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165. Üzün, qulaqların,ovucun göy-tünd qırmızı rəngi hansı xəstəlik ücünxarakterdir:",
+      "options": [
+        "eritremiya",
+        "miyelom xəstəliyi",
+        "Qoşe xəstəliyi",
+        "hemorragik vaskulit",
+        "limfoqranulomatoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166. Leykozların təsnifi nəyə əsaslanır?",
+      "options": [
+        "xəstəliyin hüceyrə substratının yetişgənlik dərəcəsinə görə",
+        "anamnestik məlumatlara",
+        "xəstəliyin klinik təzahürlərinə",
+        "xəstənin yaşam müddətinə",
+        "müalicənin effektivliyinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167. Kəskin leykoza şübhə olduqda hansı müayinə aparılmalıdır?",
+      "options": [
+        "sternal punksiya",
+        "limfa düyünlərinin biopsiyası",
+        "dalağın punksiyası",
+        "retikulositlərin sayılması",
+        "dalağın və qara ciyərin USM"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168. Kəskin leykoz üçün xarakterik deyil:",
+      "options": [
+        "eritrositoz",
+        "leykositoz (leykemik variant zamanı blastlar hesabına)",
+        "leykopeniya (aleykemik variant) qızdırma və infeksion ağırlaşmalarla",
+        "trombositopeniya hemorragik sindromla",
+        "trepanobiopsiya zamanı sümük iliyinin blastmetaplaziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169. Hansı əlamət kəskin leykoz diaqnozunu təsdiq edir?",
+      "options": [
+        "periferik qanda blastemiya",
+        "xoralı- nekrotik zədələnmə",
+        "limfa düyünlərinin böyüməsi",
+        "anemiya",
+        "hemorragiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170. 27 yaşlı oğlan dəridə və selikli qişalarda olan qansızmalardan şikayətlənir. Qanda: Hb- 100 q/l, eritrositlər- 3,1 mln., leykositlər- 41 min.* Leykemik ağız* müşahidə olunur. Trombosit- 15 min, EÇS- 46 mm/s. Diaqnoz?",
+      "options": [
+        "kəskin leykoz",
+        "leykemoid reaksiya",
+        "hemofiliya",
+        "aplastik anemiya",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171. Kəskin leykozlu xəstələrdə nekrotik enteropatiyanın xüsusiyyətləri: 1) yüksək qızdırma; 2) diareya; 3) Iliosekal nahiyənin palpasiyası zamanı çalxalanma küyü və curultu; 4) aqranulositoz; 5) hepatomeqaliya",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 3, 5",
+        "2, 4, 5",
+        "1,2, 4",
+        "1, 2, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "172. İonlaşdırıcı şüalanma hansı xəstəliyin səbəbi ola bilər?",
+      "options": [
+        "kəskin mieloblast leykoz",
+        "limfosarkoma",
+        "limfoqranulomatoz",
+        "xronik limfoleykoz",
+        "mielom xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "173. Xəstədə anemiya, trombositopeniya və periferik qanda blast hüceyrələr aşkar olunur. Güman edilən diaqnoz:",
+      "options": [
+        "kəskin leykoz",
+        "eritremiya",
+        "aplastik anemiya",
+        "B12 defisitli anemiya",
+        "idiopatik trombositopenik purpura"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "174. Botkin- Qumprext hüceyrələri hansı xəstəlik zamanı aşkar edilir:",
+      "options": [
+        "xronik limfoleykoz",
+        "xronik miyeloleykoz",
+        "kəskin miyeloblast leykoz",
+        "mielom xəstəliyi",
+        "meqaloblast anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "175. Kəskin leykozun hansı variantı üçün DLS-nun erkən inkişafı xarakterdir:",
+      "options": [
+        "kəskin promiyelositar leykoz",
+        "kəskin limfoblast leykoz",
+        "kəskin miyeloblast leykoz",
+        "kəskin monoblast leykoz",
+        "kəskin eritromieloz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "176. Əhəmiyyətli dərəcədə arıqlama daha çox xarakterdir:",
+      "options": [
+        "limfoproliferativ xəstəliklərdə",
+        "mieloproliferativ xəstəliklərdə",
+        "Kuli xəstəliyinə",
+        "dəmirdefisitli anemiyada",
+        "hemorragik vaskulit üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "177. Əgər xəstənin eritrositləri 7 mln.,leykositləri 13000, trombositləri 600000 olarsa, hansı xəstəlikdən şübhələnmək olar?",
+      "options": [
+        "eritremiya",
+        "xronikmielo leykoz",
+        "infeksion neytrofilyoz",
+        "xroniklimfo leykoz",
+        "ikincili eritrositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "178. Limfoqranulomatozlu xəstədə boyun və qoltuqaltı limfa düyünləri böyümüşsə,xəstəliyin hansı mərhələsidir:",
+      "options": [
+        "III mərhələ",
+        "O mərhələ",
+        "I mərhələ",
+        "II mərhələ",
+        "IV mərhələ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179. Xronik limfoleykoz:",
+      "options": [
+        "autoimmune konfliktdən yaranan sitopenik sindromdur",
+        "ən cox rast gəlinənf orması T- hüceyrə leykemiyasıdır",
+        "əsasən qanyaranmanın bütün sıra hüceyrələrinin inkişafı tormozlanır",
+        "qanda leykositlərin miqdarı nadir hallarda 30000 ötür",
+        "limfa düyünlərinin böyüməsi xarakter deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "180. Hematosarkomalarda xəstəliyin ilk mərhələlərində limfa düyünlərinin xarakteristikası:",
+      "options": [
+        "bərk elastik konsistensiyalı, kəskin ağrılı",
+        "*taxta* bərkliyi",
+        "yumşaq, ağrısız",
+        "bir- biri və dəri ilə bitişmiş",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "181. Residivləşən herpes labialis hansı xəstəlik üçün xarakterdir?",
+      "options": [
+        "limfoproliferativ xəstəliklər",
+        "meqaloblast anemiya",
+        "aplastik anemiya",
+        "miyelom xəstəliyi",
+        "dəmirdefisitli anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182. ECS- in ləngiməsi (3mm/s-dan az) nə zaman müşahidə oluna bilər?",
+      "options": [
+        "eritrositoz",
+        "Qoşe xəstəliyi",
+        "krioqlobulinemiya",
+        "talassemiya",
+        "dəmirdefisitli anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "183. Sidikdə hemosiderinin aşkarlanması ən cox xarakterdir:",
+      "options": [
+        "damardaxili hemoliz",
+        "hüceyrədaxili hemoliz",
+        "xronik böyrək catışmazlığının terminal mərhələsi",
+        "siklofosfan qəbulundan yaranan hemorragik sistit",
+        "talassemiya üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "184. Genlərin mutasiyasına səbəb olan amillər: 1) infraqırmızı şüalanma; 2) ionlaşdırıcı şüalanma; 3) ağır metallar; 4) alkiləediçi kimyəvi preparatlar.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "2, 3",
+        "1,4",
+        "1,2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "185. Xronik mieloleykozun inkişaf etmiş mərhələsində periferik qanın xarakter xüsusiyyətləri 1) metamielositlərə qədər sola meyllik; 2) limfositlərinsayının artması; 3) bazofil-eozinofil assosiasiya; 4) plazmoblast tip hüceyrələrin yaranması.",
+      "options": [
+        "1,3",
+        "2, 3",
+        "2, 4",
+        "1,4",
+        "1,2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "186. Limfoqranulomatozun diaqnostikaslnda əsas müayinə metodu:",
+      "options": [
+        "limfoid toxumanın mikroskopik müayinəsi",
+        "qanın müayinəsi (hemoqramma,biokimyəvi müayinə)",
+        "ssintiqrafiya",
+        "limfoqrafiya",
+        "KT və NMR- tomoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "187. Eritremiya zamanı tromboembolik fəsadların patogenetik mexanizmləri hansıdır: 1) cərəyan edən eritrosit kütləsının , qanın qatılığının artması, qan cərəyanının ləngiməsi; 2) trombositoz; 3) trombositlərin funksional xüsusiyyətlərinin pozulması; 4) plazma hemostazının aktivləşməsi.",
+      "options": [
+        "1,2, 3",
+        "1, 3",
+        "2, 4",
+        "3, 4",
+        "1, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "188. Hemorragik diatezə xas olan xüsusiyyətləri göstərin (Şenleyn- Henox xəstəliyi): 1) keçirilmiş streptokokk yaxud virus infeksiyasından sonra yaranması; 2) antitrombositar anticismlərin olması; 3) qarışıq krioqlobulinemiya, həmçininRevmatoid faktor, soyuq övrə və Kvinke ödemi Reyno sindromu ilə birgə davamlı gedişli olması; 4) arterial, venoz trombozlar, trombositopeniya, yalançı müsbət Vasserman reaksiyası,DNT- yə qarşı anticismlərin sintezi.",
+      "options": [
+        "1,3",
+        "2, 3",
+        "2, 4",
+        "1,4",
+        "1,2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189. DLS-un klinik təzahürləri hansıdır: 1) angiomatoz tip hemorragik sindrom; 2) hematom- petexial tip hemorragik sindrom; 3) petexial- göyərmə tipli hemorragik sindrom; 4) tromboz əlamətləri.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1,2",
+        "1,4",
+        "3,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190. DLS- da hemostazda baş verən dəyişikliklər hansıdır: 1) hipo- yaxud hiperkoaqulyasiya, fibrinogen- fibrinin deqradasiyası məhsullarının olması,fibrinolizin aktivliyinin sönməsi; 2) hipertrombositoz; 3) trombositopeniya və fibrinogenin azalması; 4) trombositlərin ristomisin- aqlyutinasiyasının olmaması, fibronektinin azalması.",
+      "options": [
+        "1, 3",
+        "1,2",
+        "2,4",
+        "1,4",
+        "2,3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "191. DLS- un müalicəsində istifadə olunur: 1) aminokapron turşusu və fenilin; 2) təzə dondurulmuş plazma; 3) streptokinaza; 4) heparin.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1,2",
+        "1,4",
+        "3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "192. Hemorragik vaskulitlərin diaqnostikasının əsas meyarları: 1) klinik gedişatın xüsusiyyətləri; 2) qanın ümumi müayinəsi və koaquloqramma; 3) dərininhistoloji müayinəsinin nəticələri; 4) qanda immuno komplekslərin səviyyəsi.",
+      "options": [
+        "1,3",
+        "1, 2",
+        "2,4",
+        "1,4",
+        "2,3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "193. Xəstədə pansitopeniya, hiperbilirubinemiya və dalağın böyüməsi müəyyən edilir. Güman edilən diaqnoz:",
+      "options": [
+        "autoimmun pansitopeniya",
+        "irsi sferositoz",
+        "talassemiya",
+        "B12 defisitli anemiya",
+        "idiopatik trombositopenik purpura"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194. Hemorragik vaskulitin xarakter əlaməti:",
+      "options": [
+        "qanaxmanın vaskulit-purpur tipi",
+        "qanaxmanın hematom tipi",
+        "laxtalanma zamanının uzanması",
+        "protrombin indeksinin azalması",
+        "trombositopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "195. Eritrositlərin osmotik davamlığının azalması hansı xəstəlik üçünxarakterdir:",
+      "options": [
+        "Minkovski- Şoffar xəstəliyi",
+        "autoimmun hemolitik anemiya",
+        "talassemiya",
+        "paroksizmal gecə hemoqlobinuriyası",
+        "sideroaxrestik anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "196. Xəstədə limfa düyünləri, dalaq böyüyüb, limfositozla leykositoz müşahidəedilir.Sizin diaqnozunuz:",
+      "options": [
+        "xronik limfoleykoz",
+        "limfoqranulomatoz",
+        "kəskin limfoblast leykoz",
+        "xronik mieloleykoz",
+        "eritremiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "197. Xəstədə teleangioektaziyalar, burun qanaxmaları müşahidə olunur, lakinhemostazın müayinəsi zamanı heç bir dəyişiklik müəyyən edilmir. Hansı xəstəlikdən şübhələnmək olar:",
+      "options": [
+        "Randyu-Osler xəstəliyi",
+        "hemofiliya",
+        "Villebrand xəstəliyi",
+        "Verlhof xəstəliyi",
+        "cavablar doğru deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198. 68 yaşındakı xəstədə bir neçə aydır ki, boyun, qoltuq, qasıq limfa düyünləri böyüyüb. Əhvalı kafidir. Qanın müayinəsi: Hb- 100 q/l, eritrositlər- 3,5 mln/ml, leykositlər - 17,6 min/ml, bunların 60%- i limfositlərdir.Diaqnoz:",
+      "options": [
+        "xronik limfoleykoz",
+        "limfoqranulomatoz",
+        "kəskin limfoleykoz",
+        "limfosarkoma",
+        "infeksion mononukleoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199. Paroksizmal gecə hemoqlobinuriyası üçün xarakter deyil:",
+      "options": [
+        "müsbət Kumbs sınağı",
+        "hemolitik anemiya",
+        "tromboz",
+        "hemosiderinuriya",
+        "müsbət Hem sınağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "200. 25 yaşındakı qız uşaqlıqdan ətrafların dərisində yaranan və izsiz keçib gedən papulyoz- hemorragik səpgilərdən əziyyət çəkir. Xəstəliyin növbəti kəskinləşməsi səbəbindən xəstəxanaya daxil olub. Qanın müayinəsi: koaqulyasion hemostaz və qanaxma zamanı dəyişilməyib. Qaytan və çimdik simptomu müsbətdir. Diaqnoz?",
+      "options": [
+        "hemorragik vaskulit (Şenleyn- Henox xəstəliyi)",
+        "hemofiliya",
+        "trombositopeniya",
+        "trombositopatiya",
+        "Randyu- Osler xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "201. EÇS-nin yüksəlməsi hansı xəstəlik üçün xas deyil:",
+      "options": [
+        "polisitemiya (Vakez xəstəliyi)",
+        "hipernefroid xərçəng",
+        "mədəaltı vəzin cisminin (quyruğunun) şişi",
+        "pielonefrit",
+        "mielom xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202. 35 yaşındakı xəstə sağ boyun limfa düyünlərinin böyüməsindən, tərləmədən, dəri qaşınmasından şikayət edir. Bir neçə həftədir ki, xəstədir. Müayinəzamanı üzvlərdə dəyişiklik aşkarlanmadı, ancaq limfositlərin miqdarı 12%təşkil edir. Diaqnoz?",
+      "options": [
+        "limfoqranulomatoz",
+        "kəskin limfoleykoz",
+        "xronik limfoleykoz",
+        "vərəm limfadeniti",
+        "infeksion mononukleoz."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "203. Xəstədə pansitopeniya, biluribinin yüksəlməsi və dalağın böyüməsi var.Hansı xəstəlik ola bilər?",
+      "options": [
+        "autoimmun pansitopeniya",
+        "irsi sferositoz",
+        "talessemiya",
+        "B12 defsitli anemiya",
+        "Markiafav-Mikell xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "204. Trombositar-damar hemostazının pozulmasını hansı göstərici müəyyən edir?",
+      "options": [
+        "qanaxma müddətinin təyini",
+        "laxtalanma müdətinin təyini",
+        "trombinin təyini",
+        "plazminogenin təyini",
+        "fibrinolizin təyini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "205. Hemorragik vaskulitə xarakterdir:",
+      "options": [
+        "vaskulit-purpur tip qanaxma",
+        "hematom qanaxma",
+        "laxtalanma müddətinin uzanması",
+        "protrombin indeksinin azalması",
+        "trombositopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "206. Hemolizin inkişaf etməsinin əlaməti deyil:",
+      "options": [
+        "neytrofillərin hiperseqmentasiyası",
+        "qeyri-düz biliirubinin artması",
+        "retikulositlərin miqdarının artması",
+        "zərdab dəmirinin miqdarının artması",
+        "eritrositlərin ömrünün qısalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207. İdiopatik trombositopenik purpura zamanı nə baş verir?",
+      "options": [
+        "sümük iliyində meqakariositlərin miqdarı artır",
+        "qaraciyərin böyüməsi xarakterdir",
+        "periferik limfa düyünləri böyüyür",
+        "sümük iliyində meqakariositlərin miqdarı azalır",
+        "dalağın böyüməsi xarakterdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "208. Antikoaqulyant terapiyanın fəsadlarına aşağıdakılardan hansı aid deyil?",
+      "options": [
+        "qanaxma müddətinin uzanması",
+        "qanın laxtalanma müddətinin uzanması",
+        "qanaxmanın güclənməsi",
+        "heparin trombositopeniyası",
+        "antitrombin III defisitinin dərinləşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "209. Hemorragik vaskulit üçün nə xarakterdir?",
+      "options": [
+        "purpura-vaskulit tipli qanaxma",
+        "trombositar-damar hemostazının pozulması",
+        "orta kalibirli arteriyaların zədələnməsi",
+        "iri kalibirli arteriyaların zədələnməsi",
+        "hematom tipli qanaxma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "210. DDL-sindromu hansı hallarda meydana çıxa bilər?",
+      "options": [
+        "bütün sadalanan hallarda",
+        "yayılmış infeksiyalarda",
+        "şokun bütün növlərində",
+        "yanıqlar zamanı",
+        "damardaxili hemoliz zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "211. Hemofiliyanın diaqnostikasında aşağıdakılardan hansı əhəmiyyət kəsb edir?",
+      "options": [
+        "aktivləşmiş hissəvi tromboplastin vaxtının təyini",
+        "plazminogenin təyini",
+        "protrombinin təyini",
+        "fibrinogenin təyini",
+        "qanaxma müddətinin təyini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "212. Trombositopenik purpurada hemoqrammada trombositopeniyadan başqa daha hansı dəyişikliklər baş verir?",
+      "options": [
+        "anemiya",
+        "neytrofillərin hiperseqmentasiyası",
+        "limfositopeniya",
+        "monositoz",
+        "sola meyillilik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "213. Qaraciyər sirrozu olan xəstədə çəkilmiş diş yerindən qanaxma var. Trombosit 18,0x109/l, protr. miq. 85%, fibrinogen 3,5 qr/l. Qanaxmanın səbəbi nədir?",
+      "options": [
+        "trombositopeniya",
+        "müştərək K-vitaminindən asılı faktorların defisiti",
+        "trombositopatiya",
+        "sadalananların heç biri düz deyil",
+        "intoksikasiya mənşəli damar daxili laxtalanma sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "214. Bu xəstəliklərin hansında trombositlərin parçalanması nəticəsində trombositopeniya baş verir?",
+      "options": [
+        "qırmızı qurd eşənəyi",
+        "kəskin mieloblast leykoz",
+        "meqakariositar leykoz",
+        "vit. B12 defisiti",
+        "aplastik anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "215. Bu xəstəliklərin hansında trombositopeniya trombositlərin sekvestrasiyası nəticəsində baş verir?",
+      "options": [
+        "trombositopenik purpurada",
+        "aplastik anemiyada",
+        "leykozlarda",
+        "Fankoni anemiyasında",
+        "vit. B12 defisitli anemiyada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "216. Hemorragik diatezə xas olan xüsusiyyətləri göstərin (Şenleyn- Henox xəstəliyi): 1) keçirilmiş streptokokk yaxud virus infeksiyasından sonra yaranması; 2) antitrombositar anticismlərin olması; 3) qarışıq krioqlobulinemiya, həmçinin revmatoid faktor, soyuq övrə və Kvinke ödemi Reyno sindromu ilə birgə davamlı gedişli olması; 4) arterial, venoz trombozlar, trombositopeniya, yalançı müsbət Vasserman reaksiyası,DNT- yə qarşı anticismlərin sintezi.",
+      "options": [
+        "1,3",
+        "2, 3",
+        "2, 4",
+        "1,4",
+        "1,2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "217. DLS- da hemostazda baş verən dəyişikliklər hansıdır: 1) hipo- yaxud hiperkoaqulyasiya, fibrinogen- fibrinin deqradasiyası məhsullarının olması,fibrinolizin aktivliyinin sönməsi; 2) hipertrombositoz; 3) trombositopeniya və fibrinogenin azalması; 4) trombositlərin ristomisin- aqlyutinasiyasının olmaması, fibronektinin azalması.",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "2, 4",
+        "1, 4",
+        "2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "218. Aşağıdakılardan hansı öd kisəsi sancıları üçün daha xarakterikdir?",
+      "options": [
+        "sağ qabırğa altında olan kəskin ağrılar",
+        "qusma",
+        "qızdırma",
+        "diareya",
+        "bunlardan hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "219. Xroniki daşsız xolesistitli xəstədə remissiya fazası üçün xarakterikdir:",
+      "options": [
+        "bunlardan heç biri",
+        "qıcqırma",
+        "diareya ilə qəbzliyin bir-birini əvəzləməsi",
+        "yağlı qidanın yaxşı həzm olunması",
+        "kəmərvari ağrılar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "220. 52 yaşlı xəstə sağ qabırğa altında ağrı və dartılma hissini qeyd edir. Sarılıq yoxdur, bədən hərarəti normaldır. Ker simptomu “+”-dir. Ehtimal olunan diaqnoz:",
+      "options": [
+        "xroniki xolesistitin kəskinləşməsi",
+        "xroniki pankreatit",
+        "öd kisəsinin hiperkinetik diskeneziyası",
+        "xroniki hepatit",
+        "bunlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "221. Xolesistoqrafiyaya əks göstərişdir:",
+      "options": [
+        "yoda qarşı idiosinkraziya",
+        "yağların həzm olunmaması",
+        "viruslu hepatitdən sonra",
+        "öddaşı xəstəliyi",
+        "bunların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "222. Kalkulyoz xolesistitin diaqnozunda hansı müayinə metodu həlledicidir:",
+      "options": [
+        "USM",
+        "duodenal zondlama",
+        "xolesistoqrafiya",
+        "mədənin rentgenoskopiyası",
+        "retroqrad pankreato-xolangioqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "223. Anamnezdə aşağıdakılardan hansının olması birincili sklerozlaşan xolangit diaqnozunu təsdiqləyir:",
+      "options": [
+        "qeyri spesifik xoralı kolit",
+        "revmatoid artrit",
+        "öd kisəsində keçirilmiş əməliyyatlar.",
+        "alkoqolizm",
+        "ağciyərlərin vərəmi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "224. Aşağıdakılardan birincili sklerozlaşmış xolanqit üçün birindən başqa hamısı düzgündür:",
+      "options": [
+        "müalicəsi öd axarları ilə bağırsaq arasında qoyulan cərrahi anastomozdan ibarətdir",
+        "xəstələrin 30%-i xoralı kolit və ya Kron xəstəliyindən əziyyət çəkir",
+        "diaqnoz endoskopik retroqrad xolanqioqrafiyayla təsdiq olunur",
+        "xəstəlik daha çox kişilərdə rast gəlir",
+        "erkən mərhələdə simptomlar aşkar olunmadıqda diaqnozu yalnız qanda qələvi fosfatazanın artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225. Xolangit üçün daha xarakterik olan kliniki simptomları göstərin:",
+      "options": [
+        "febril temperatur üşütmə ilə, qaraciyərin böyüməsi, sarılıq, leykositoz",
+        "yağlı qida qəbulundan sonra sağ qabırğaaltı nahiyədə yaranan ağrılar, ürəkbulanma, qusma",
+        "sarılıqla müşahidə olunan sağ qabırğaaltı nahiyədə ağrı tutmaları, rəngsizləşmiş nəcis, tünd sidik",
+        "qısamüddətli epiqastral ağrı, qusma, ishal",
+        "sağ qabırğaaltı nahiyədə küt ağrılar, acı gəyirmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "226. Öd durğunluğuna bunlardan hansı səbəb deyil?",
+      "options": [
+        "diareya",
+        "qida rejiminin pozulması",
+        "hamiləlik",
+        "az fiziki aktivlik",
+        "psixoemossional amillər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "227. Aşağıda sadalanan patoloji halların hansılarının diaqnostikasında venadaxili xolanqioqrafiya informativ sayılır:",
+      "options": [
+        "xoledoxun terminal hissəsinin daralması",
+        "xroniki aktiv hepatit",
+        "xroniki kalkulyoz xolesistit",
+        "Jilber sindromu",
+        "sepsis"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228. Xroniki pankreatiti ən çox yaradan səbəb?",
+      "options": [
+        "alkoqol",
+        "xroniki virus infeksiyası",
+        "öddaşı xəstəliyi",
+        "əlavə cəki",
+        "hiperlipedemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229. Xroniki pankreatitin yaranmasında hansı etioloji səbəb dominant sayılır:",
+      "options": [
+        "xroniki alkoqolizm",
+        "xroniki qastroduodenit",
+        "duodenostaz",
+        "öddaşı xəstəliyi",
+        "xroniki xolesistit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "230. Xroniki pankreatitin kəskinləşməsinin diaqnostikasında ən informativ laborator göstərici:",
+      "options": [
+        "amilazanın qanda və diastazanın sidikdə səviyyəsi",
+        "leykositoz",
+        "aminotransferazaların qanda səviyyəsi",
+        "qələvi fosfatazanın səviyyəsi",
+        "hiperqlikemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "231. Mədəaltı vəz fermentlərinin aktivliyini azaldan dərman:",
+      "options": [
+        "trasilol",
+        "antasidlər",
+        "xolinolitiklər",
+        "simetidin",
+        "trazikor"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232. Aşagıdakılardan hansı mədəaltı vəzin xarici sekresiyasının çatmamazlıgına səbəb deyil?",
+      "options": [
+        "şəkərli diabet",
+        "bədən çəkisinin azalması",
+        "steatoreya",
+        "polifekaliya",
+        "hipovitaminoz əlamətləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "233. Xroniki pankreatiti kəskinləşdirir:",
+      "options": [
+        "yağlı qidanın qəbulu, alkohol",
+        "soyuqlama, KRVİ",
+        "siqaret,zülal qidası",
+        "stress, yorulma",
+        "soyuqlama, stress"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "234. Hansi xəstəlik zamanı kəmərləyici ağrı olur:",
+      "options": [
+        "pankreatit",
+        "qastrit",
+        "hepatit",
+        "xolesistit",
+        "kolit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "235. Xroniki pankreatitdə aşağıdakı sindromlar olur:",
+      "options": [
+        "ağrı, dispeptik əlamətlər",
+        "anemik,hiperplastik",
+        "hipertonik, ödemli",
+        "hipertonik, nefrotik",
+        "nefrotik, ödemli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "236. Pankreatiti yaradan xora ağırlaşması:",
+      "options": [
+        "penetrasiya",
+        "qanaxma",
+        "perforasiya",
+        "pilorostenoz",
+        "qeyd olunanlardan hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "237. Xroniki pankreatitin ağırlaşması",
+      "options": [
+        "şəkərli diabet",
+        "öddaşı xəstəliyı",
+        "qaraciyər sirrozu",
+        "xora",
+        "qeyd olunanların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "238. Pankreatit zamanı qanda müşahidə edilir:",
+      "options": [
+        "amilazanın artması",
+        "zülalın artması",
+        "amilazanın azalması",
+        "xolesterinin azalması",
+        "kreatininın artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "239. Mədəaltı vəzin ekzokrin funksiyasını əks etdirən daha düzgün testi seçin",
+      "options": [
+        "sekretin-pankreozimin testi",
+        "D-ksiloza testi",
+        "qan zərdabında tripsinin, lipazanın və amilazanın aktivliyinin göstəriciləri",
+        "amilaza-kreatinin koeffisienti",
+        "koproloji müayinələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "240. Pankreatit zamanı sidikdə müşahidə edilir:",
+      "options": [
+        "diastazanın artması",
+        "zülalın artması",
+        "bilirubinin artması",
+        "urobilinin artması",
+        "qlükoza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "241. Xroniki pankreatit zamanı nəcis olur:",
+      "options": [
+        "yaglı",
+        "qara rəngdə",
+        "qanlı",
+        "ağ rəngdə",
+        "melena"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "242. Xroniki pankreatitin obyektiv müayinəsinə aid deyil?",
+      "options": [
+        "Botkin nöqtəsində ağrı",
+        "Şoffer zonasında ağrı",
+        "Kera noqtəsində ağrı",
+        "Quberqriç-Skulskı zonasında ağrı",
+        "Meyo-Robsın nöqtəsində ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "243. Sadalananlardan hansı xroniki pankreatit üçün xarakter deyil?",
+      "options": [
+        "sulu diareya",
+        "abdominal ağrı",
+        "steatoreya",
+        "kreatoreya",
+        "diabet"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244. Xroniki pankreatitdə aqrı sindromu zamanı hansı istifadə olunmur:",
+      "options": [
+        "morfin",
+        "atropin",
+        "novokain",
+        "baralqin",
+        "promedol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "245. Diareya bu xəstəlikdə tez-tez rast gəlinən simptomdur:",
+      "options": [
+        "xroniki pankreatit",
+        "12 barmaq bağırsaq xorası",
+        "öd kisəsi daşı xəstəliyi",
+        "yoğun bağırsaq şişləri",
+        "qida borusu diskineziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "246. Xroniki pankreatit zamanı aşağıdakı nömrəli pəhriz məsləhətdir:",
+      "options": [
+        "2",
+        "5",
+        "7",
+        "10",
+        "1"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247. Amiloreya, kreatoreya, steatoreya müşahidə olunur:",
+      "options": [
+        "pankreatitdə",
+        "hepatitdə",
+        "xolesistitdə",
+        "qastritdə",
+        "kolitdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248. Aşağıdakı hansı hallarda daha çox xroniki residivləşən pankreatit rast gəlinir?",
+      "options": [
+        "xolelitiaz",
+        "xora xəstəliyi",
+        "postqastro-rezeksion sindrom",
+        "xroniki kolit",
+        "lyamblyoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249. Aşağıdakılardan hansının təsiri altında mədəaltı vəzi şirə və bikarbonatın sekresiyasını artırır?",
+      "options": [
+        "sekretin",
+        "xolesistokinin",
+        "atropin",
+        "süd",
+        "askorbin turşusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "250. Xroniki pankreatitin diaqnostikasında aşağıdakılardan hansı ən əhəmiyyətli hesab olunur?",
+      "options": [
+        "sekretin pankreozimin testi",
+        "mədəaltı vəzi sintiqrofiyası",
+        "nəcisdə yağın təyin olunması",
+        "bütün sadalanan üsullar",
+        "bunlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251. 44 yaşlı qadın xəstə qarının yuxarı hissəsində olan sol qabırğaaltına irradiasiya edən intensiv ağrılardan, iştahsızlıqdan, gəyirmədən və ürəkbulanmadan şikayət edir. Belə ağrılar ildə 1-2 dəfə təkrarlanır. 4 il bundan əvvəl öddaşı xəstəliyindən əməliyyat olunmuşdur. 6 aydan sonra eyni tutmalar, mötədil sarılıq və sidikdə amilazanın yüksəlməsi ilə baş vermişdir. Təkrari laparotomiyada öd yollarında daş aşkarlanmamışdır. Son illər dayanıqlı qəbizlik əmələ gəlmişdir. Obyektiv olaraq: skleranın subikterikliyi, qarının ön divarında əməliyyatdansonraki çapıq izi vardır. Xoledoxopankreatik sahədə və Meyo-Robson nöqtəsində ağrı qeyd olunur. Qan analizində: leykositlər 6,7x10/9 l, formul dəyişməmişdir, EÇS=18 mm/saat. Hansı xəstəliyin kəskinləşməsi duşunulur:",
+      "options": [
+        "xroniki pankreatit",
+        "xroniki hepatit",
+        "xroniki xolangit",
+        "xroniki qastrit",
+        "xroniki qeyri-spesifik xorasız kolit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "252. Xroniki pankreatitin kəskinləşməsi zamanı qarının palpasiyasında qeyd olunur:",
+      "options": [
+        "mədəaltı vəzinin proyeksiyasında ağrı",
+        "göbək nahiyyəsində ağrı",
+        "sağ qabırğa altında ağrı",
+        "qarnı palpasiya etmək mümkün deyil",
+        "Ker nöqtəsində ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "253. Xroniki pankreatitin müalicəsi zamanı əvəzedici terapiya kimi tətbiq edilir:",
+      "options": [
+        "panzinorm",
+        "no-şpa",
+        "morfin",
+        "xolosas",
+        "baralqin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "254. Xroniki pankreatitin konservativ müalicəsınə daxil deyil?",
+      "options": [
+        "kortikosteroid",
+        "dieta",
+        "ferment preparatı",
+        "analqetik",
+        "sandostatin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255. Qaraciyərin kiçik düyünlü sirrozunun səbəbi:",
+      "options": [
+        "alkohol qəbulu",
+        "keçirilmiş virus hepatiti",
+        "öd çıxarıcı yolların xəstəliyi",
+        "piyli hepatoz",
+        "bütün qeyd olunan səbəblər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256. Qaraciyər sirrozu üçün hansı simptom xarakterik deyil:",
+      "options": [
+        "kəskin ağrı",
+        "dispepsiya",
+        "asteno-vegetativ sindrom",
+        "meteorizm",
+        "portal hipertenziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257. Qaraciyərin sirrozu zamanı assitin əmələ gəlməsinə səbəb deyil:",
+      "options": [
+        "leykosit və trombositin azalması",
+        "aldosteron katabalizmin pozulması",
+        "hipoalbunemiya",
+        "limfaproduksiyanın artması ilə olan portal hipertenziya",
+        "renin və anqiotenzin katobalizmin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "258. Parenximatoz sarılıq müşahidə edilmir:",
+      "options": [
+        "Minkofski-Şoffar xəstəliyində",
+        "virus hepatitində",
+        "qaraciyər xərçəngində",
+        "qaraciyər sirrozunda",
+        "bütün qeyd edilən xəstəliklərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259. Dəri qaşınması, konyuqəolunmuş bilirubinin, qələvi fosfataza, xolesterinin artması aşağıdaki sindrom üşün xarakterikdir:",
+      "options": [
+        "qaraciyərin daxili xolestazı",
+        "qaraciyər hüceyrəvi sarılıq",
+        "Kriqler -Nayar sindromu",
+        "hemolitik sarılır",
+        "Jilber sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "260. Alfa fetoproteinin səviyyəsinin artması hansı xəstəlik zamanı əhəmiyyətlidir:",
+      "options": [
+        "hepatosellulyar xərçəng",
+        "xroniki hepatit",
+        "qaraciyər exinokokku",
+        "kəskin virus hepatiti",
+        "bütün qeyd edilən xəstəliklərdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "261. Mexaniki sarılıq zamanı qanın biokimyəvi analizində xarakterikdir:",
+      "options": [
+        "konyuqə olunmuş hiperbilirubinemiya, qələvi fosfatazanın atrması",
+        "qeyri- konyuqə olunmuş hiperbilirubinemiya, ALaT, ASaT artması",
+        "konyuqə olunmuş hiperbilirubinemiya, ALaT, ASaT, xolesterinin artması",
+        "qeyri- konyuqə olunmuş hiperbilirubinemiya",
+        "bütün qeyd olunanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "262. Hemolitik sarılıq özünü göstərir:",
+      "options": [
+        "qeyri- konyuqə olunmuş hiperbilirubinemiya ilə",
+        "konyuqə olunmuş hiperbilirubinemiya, ALaT, ASaT, LDQ artması",
+        "qeyri- konyuqə olunmuş hiperbilirubinemiya, ALaT, ASaT LDQ artması",
+        "konyuqə olunmuş hiperbilirubinemiya",
+        "bütün qeyd olunanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "263. Leykoformulanın sola meyilliyi, neytrofillərin toksik dənəliliyi olan hepatomeqaliyalı xəstədə hektik qızdırma aşağıdakinı göstərir:",
+      "options": [
+        "qaraciyər absesi",
+        "kəskin virus hepatiti",
+        "xroniki virus hepatiti",
+        "xolestatik hepatit",
+        "sirroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "264. Qaraciyər sirrozu diaqnozunu hansı metod dəqiqləşdirir:",
+      "options": [
+        "biopsiya",
+        "biokimyəvi tədqiqat",
+        "USM",
+        "skanlaşma",
+        "KT"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "265. Portal hipertenziyada hansı əlamət xarakterik deyil:",
+      "options": [
+        "sarılıq",
+        "assit",
+        "meduza başı",
+        "babasil",
+        "qida borusu venaların varikoz genişlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "266. Xolestazın biokimyəvi göstəriciləri aşağdakilardır:",
+      "options": [
+        "bilirubinin, qələvi fosfatazanın artması, hiperxolesterinemiya",
+        "disproteinemiya, timol və sulema sınağlarının dəyişməsi",
+        "ALaT, ASaT, LDQ4,LDQ5 artması",
+        "amilaza miqdarının artması",
+        "ALaT, ASaT artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "267. Ocaqlı hepatomeqaliyaya aid deyil:",
+      "options": [
+        "alkoqol hepatiti",
+        "qaraciyərin absesı",
+        "qaraciyərin exinokokku",
+        "qaraciyərin şişi və ya metastazı",
+        "qaraciyərin kistası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "268. Qaraciyər xəstəliyi zamanı aşağıdaki nömrəli pəhriz məsləhətdir:",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7",
+        "2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "269. Aşağıdakılardan hansı dəyişikliklərxolestaz sindromu üçün xarakter deyil?",
+      "options": [
+        "konyuqə olunmamış hiperbilirubinemiya",
+        "qamma-qlütamil-trans-peptidazanın səviyyəsinin artması.",
+        "hiperxolesterinemiya",
+        "qələvi fosfotazanın səviyyəsinin artması",
+        "5 – nukleotidazanın səviyyəsinin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "270. Birincili biliar sirrozun ilkin (manifest) əlamətlərinə aiddir :",
+      "options": [
+        "dəri qaşınması",
+        "assit",
+        "venaların varikoz genəlməsi",
+        "sarılıq",
+        "splenomeqaliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "271. Hansı metod hepatomeqaliyanın səbəbinin dəqiqləşdirilməsində daha informativdir.",
+      "options": [
+        "qaraciyərin biopsiyası",
+        "USM",
+        "qan zərdabında qələvi fosfotazanın səviyyəsinin təyin olunması",
+        "qaraciyərin radioizotop skanlaşdırılması",
+        "selektiv angioqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "272. Mitoxondrial antitellərin mövcudluğu xarakterdir:",
+      "options": [
+        "birincili biliar sirroz",
+        "kəskin hepatit A",
+        "alkoqol sirrozu",
+        "Konovalov-Vilson xəstəliyi",
+        "kəskin hepatit B"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "273. Xroniki hepatit və qaraciyər sirrozunu differensasiya etmək üçün informativ müayinə metodu:",
+      "options": [
+        "qaraciyərin biopsiyası",
+        "radionuklid müayinəsi (sintiqrafiya)",
+        "ultrasəs müayinəsi (sonoqrafiya)",
+        "qaraciyərin və öd kisəsinin rentgenoqrafiyası",
+        "kompyuter rentgen tomoqrafiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "274. Transudativ assitdə adekvat olmayan müalicə üsulu:",
+      "options": [
+        "sərhədsiz Na qəbulu",
+        "yataq rejimi",
+        "diuretiklərin istifadəsi",
+        "parasentez",
+        "albumin və poliqlyukin infuziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "275. Qaraciyər sirrozu zamanı ödemlər üçün birindən başqa hamısı xarakterikdir:",
+      "options": [
+        "hipertrixoz",
+        "assitlə müştərək olması",
+        "venoz kollateralların inkişafı",
+        "sarılıq",
+        "hörümçəyəbənzər angioma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "276. Qaraciyər sirrozunun göstəriciləri:",
+      "options": [
+        "bütün sadalananlar",
+        "hepatosplenomeqaliya",
+        "disproteinemiya",
+        "“damar ulduzcuğları”",
+        "assit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "277. Qaraciyər sirrozu xroniki hepatitdən aşağıdakı əlamətə görə fərqlənir:",
+      "options": [
+        "porto-kaval və kava-kaval anastomozun mövcudluğuna görə",
+        "xolestatik sindroma görə",
+        "xolemiya sindromuna görə",
+        "parenximatoz sarılığa görə",
+        "sitolitik sindroma görə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "278. Hansı göstəriciyə görə qaraciyər şişini qaraciyər sirrozundan fərqləndirmək olar:",
+      "options": [
+        "alfa-fetoproteinin səviyyəsinin artmasına görə",
+        "sarılıq",
+        "düyünlü qaraciyərə görə",
+        "aminotransferazanın səviyyəsinin artmasına görə",
+        "bilirubinin artmasına görə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "279. Qaraciyər sirrozu zamanı hemorragik sindromun əsas yaranma səbəbi:",
+      "options": [
+        "qaraciyər tərəfindən laxtalanma faktoru olan protrombin və fibrinogenin yaranmasının pozulması",
+        "periferik qanda trombositlərin miqdarının azalması",
+        "damar divarının immun komplekslər tərəfindən zədələnməsi",
+        "öz trombositlərinə qarşı autoantitellərin yaranması",
+        "sadalananların hamısı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "280. Aşağıda sadalananlardan hansı qaraciyər daxili xolistaz zamanı artır?",
+      "options": [
+        "qələvi fosfataza",
+        "bromsulfalein sınağının göstəricilərinin artması",
+        "γ-qlobulinlər",
+        "aminotransferaza",
+        "fosfat turşusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "281. Qaraciyər sirrozunun əsas səbəbi:",
+      "options": [
+        "virus hepatiti",
+        "dəmir mübadiləsinin pozulması (hemoxromatoz)",
+        "uzunmüddətli xolestaz",
+        "qan dövranı çatışmazlığı",
+        "həzmin pozulması sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "282. Qaraciyər sirrozunun diaqnostikasında əsas müayinə:",
+      "options": [
+        "bunlardan heç biri",
+        "Timol sınağı",
+        "aminotransferazanın miqdarı",
+        "bilirubinin miqdarı",
+        "bromsulfalein sınağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "283. Aşağıdakılardan hansı portal sirrozun ağırlaşması deyil:",
+      "options": [
+        "xolesistit",
+        "qida borusu venaların varikoz qanaxması",
+        "qaraciyər şişi",
+        "qanaxma",
+        "ensefalopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "284. Hepatomeqaliya, splenomeqaliya və melena nədən şübhələnməyə əsas verir:",
+      "options": [
+        "qida borusu venalarının qanaxması",
+        "12 barmaq bağırsaq xorasının qanaxması",
+        "mezenteral arteriyanın trombozu",
+        "qeyri-spesifik xoralı kolit",
+        "mədə xorasının qanaxması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "285. Qaraciyər sirrozu zamanı assitin yaranma səbəbi hansıdır:",
+      "options": [
+        "sadalananlardan hamısı",
+        "ikincili hiperaldosteronizm",
+        "hipoalbuminemiya",
+        "portal hipertenziya",
+        "sadalananlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "286. Stabil davam edən postnekrotik sirroz diaqnozu qoyulmuş 42 yaşlı qadında qəflətən ağırlaşma baş vermişdir, qadında qıcolmalar, huşun itməsi, artan sarılıq əmələ gəlmişdir. Ağırlaşmanın səbəbini hansı müayinə ilə təyin etmək olar:",
+      "options": [
+        "plazmada ammonyakın təyini",
+        "bromsulfalein sınağı",
+        "saya əzələyə qarşı antitellər",
+        "γ-qlobulinin təyini",
+        "α-fenoproteinin miqdarının təyini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "287. Qaraciyər sirrozlu xəstədə qaraciyər komasının səbəbi aşağıdakılardan hansı ola bilər?",
+      "options": [
+        "sadalananlardan hamısı",
+        "qida borusu varikoz genəlmiş venaların qanaxması",
+        "tiazid diuretiklərin qəbulu",
+        "uzunmüddətli barbituratların qəbulu",
+        "bunlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "288. Qaraciyər koması təhlükəsi zamanı aşağıdakılardan hansı pəhrizdə məhdudlaşdırılmalıdır?",
+      "options": [
+        "zülal",
+        "karbohidrat",
+        "yağlar",
+        "maye",
+        "mineral duzlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "289. Portal sirroz zamanı qida borusu varikoz genişlənmiş venaların qanaxmasının qarşısını alma tədbirlərinə aiddir:",
+      "options": [
+        "bunların hamısı",
+        "venadaxili vazopressin yeridilməsi",
+        "balonlu zondla obturasion tamponada",
+        "ε-Aminokapron turşusunun vurulması",
+        "təzə dondurulmuş qanın köçürülməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "290. Qaraciyər sirrozunun patogenezinədə rol oynamır:",
+      "options": [
+        "antidiuretik hormonun parçalanmasının artması",
+        "qaraciyərdən venoz qanın axımının blokadası ilə əlaqədar limfa sintezinin artması",
+        "plazmanın kolloid-osmotik təzyiqinin azalması",
+        "boş venanın sıxılması zamanı qaraciyərdən venoz axının pozulması",
+        "qanda estrogenlərin səviyyəsinin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "291. Portal hipertenziya sindromuna aşağıdakılardan biri aid deyil:",
+      "options": [
+        "ginekomastiya",
+        "splenomeqaliya",
+        "assit",
+        "ödem",
+        "mədənin kardial hissəsinin venalarının genəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "292. Hansı simptom əsasında xroniki hepatitin qaraciyər sirrozuna keçməsini ehtimal etmək olar:",
+      "options": [
+        "portal hipertenziya sindromu",
+        "sitoliz sindromu",
+        "xolestaz sindromu",
+        "qaraciyərin sintetik funksiyasının azalması",
+        "hemorraqik sindrom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "293. Qaraciyərin hansı xəstəliyində cuzi hepatomeqaliya olur:",
+      "options": [
+        "kəskin virus hepatitində",
+        "hepatoma zamanı",
+        "birincili hemoxromatoz zamanı",
+        "durğunluq ürək çatızmazlığında",
+        "Badda-Kiari xəstəliyi və simptomunda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "294. Mexaniki sarılığın səbəbi ola bilməz:",
+      "options": [
+        "qaraciyərin birincili biliar sirrozu",
+        "xoledoxolitiaz",
+        "fater məməciyinin strikturu",
+        "mədəaltı vəzinin baş hissəsinin şişi",
+        "ikincili biliar sirroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "295. Sadalanan simptomlardan hansı qaraciyərin biliar sirrozunun daha erkən əlamətidir:",
+      "options": [
+        "dəri qaşınması",
+        "diş ətindən qanaxma",
+        "AST və ALT-nin yüksəlməsi",
+        "dalağın böyüməsi",
+        "xolinesterazanın səviyyəsinin azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "296. Qaraciyər daxili xolestaz haqqında hansı göstəricinin artması xəbər verir:",
+      "options": [
+        "qələvi fosfotazanın artması",
+        "bromsulfalein sınağı",
+        "γ-qlobulinin səviyyəsi",
+        "aminotrasferazanın səviyyəsi",
+        "turş fosfatazanın səviyyəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "297. Qeyri-spesifik xoralı kolitin əsas şikayətləri:",
+      "options": [
+        "qarın nahiyəsində ağrılar, tezləşmiş duru ishal və ya qəbizlik",
+        "qıcqırma",
+        "arterial təzyiqin yüksəlməsi",
+        "gəyirmə",
+        "qusma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "298. Xroniki kolit üçün xarakterikdir:",
+      "options": [
+        "anamnezdə tez-tez dizenteriya qeyd olunur",
+        "ağır gedişatı zamanı B12 çatışmazlığı olur.",
+        "xəstəliyin patogenezindədisaxaridoz çatışmazlığı rol oynayır",
+        "kəskinləşmə dövründə polifekaliya olur",
+        "bütün sadalananlar düzdür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "299. Xroniki kolit üçün daha xarakterikdir:",
+      "options": [
+        "dayanıqlı qəbizliyə görə kolonoskopiya aparılmalıdır",
+        "selikli qişanın xoralı zədələnməsi xarakterikdir",
+        "xəstəliyin kəskinləşməsi zamanı kortikosteroidlər təyin olunur",
+        "xəstəliyin tez-tez rast gəlinən səbəbi helmintozlardır",
+        "sadalananlar hamısı düzdür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "300. Xoralı kolitin ağırlaşmalarına aiddir:",
+      "options": [
+        "bütünsadalananlar",
+        "toksikidilatasiya",
+        "yoğunbağırsağınperforasiyası",
+        "bağırsaqqanaxması",
+        "yoğunbağırsağınxərçəngi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "301. Qeyri-spesifik xoralı kolitin müalicəsi aşağıdakıdır:",
+      "options": [
+        "bütün sadalananlar",
+        "ishaləleyhinə",
+        "immunodepressantlar",
+        "bağırsaq mikroflorasını normallaşdıran",
+        "iltihabəleyhinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "302. Xoralı kolitin müalicəsində istifadə olunan dərman preparatı:",
+      "options": [
+        "bütün sadalananlar",
+        "loperamid",
+        "mesalazin",
+        "prednizalon",
+        "metotreksat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "303. Qeyri-spesifik xoralı kolitdə cərrahi müdaxilə üçün mütləq göstəriş:",
+      "options": [
+        "bütün sadalananlar",
+        "yoğun bağırsağın toksiki dilatasiyası",
+        "perforasiya",
+        "maliqnizasiya",
+        "qeyri-effektiv hemostatik terapiya nəticəsində yaranan qanaxma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "304. Aşağıdakı müayinə üsullarından hansı qeyri-spesifik xoralı kolitin diaqnostikasında daha informativdir:",
+      "options": [
+        "rektoromonoskopiya",
+        "nəcisdə gizli qanın təyini",
+        "irriqoskopiya",
+        "nəcisin mikrobioloji analizi",
+        "fizikal müayinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "305. Qeyri-spesifik xoralı kolitin qeyri-aktiv fazasının rektoskopik əlaməti:",
+      "options": [
+        "pozulmuş damar şəkli",
+        "selikli qişanın qeyri-iradi qanaxması",
+        "kontakt qanaxması",
+        "fibroz ərpin olması",
+        "xoraların olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "306. Qeyri-spesifik xoralı kolitin müalicəsi zamanı antibiotikoterapiya istifadə olunur:",
+      "options": [
+        "ağırlaşmanın qarşısının alınması üçün",
+        "residivlərin profilaktikası üçün",
+        "uzun müddət",
+        "qanaxma zamanı",
+        "xəstəliyin uzun gedişi zamanı və residiv hallarında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "307. Qeyri-spesifik xoralı kolitin ən xarakterik əlamətini göstərin:",
+      "options": [
+        "tezləşmiş qanlı ishal",
+        "qarın nahiyəsində yayılmış ağrı",
+        "poliartralgiya",
+        "düyünlü eritema",
+        "duru nəcisin olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "308. Bağırsaq dispepsiyalarına aid deyil:",
+      "options": [
+        "aerofaqiya",
+        "qəbizlik",
+        "meteorizm",
+        "ishal",
+        "ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "309. Diareya və bağırsaq qanaxması çox vaxt bu xəstəliyin başlanğıcında olur:",
+      "options": [
+        "qeyri spesifik yaralı kolit",
+        "Kron xəstəliyı",
+        "xroniki enterit",
+        "SPRU",
+        "bütün qeyd edilənlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "310. Xroniki enterit və kolitin etioloji səbəbini göstərin:",
+      "options": [
+        "qeyd olunan bütün səbəblər",
+        "infeksiya",
+        "ibtidailərin invaziyası",
+        "helmint invaziyası",
+        "alimentar faktor"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "311. Qeyri spesifik yaralı kolitdə selikli qişada aşağıdaki dəyişikliklər olur:",
+      "options": [
+        "qeyd olunan bütün hallarda",
+        "hiperemiya, ödem, kontakt qanaxma",
+        "ödemli və hiperemik selikli qişanın xoralaşması",
+        "selikli qisanın şəklinin itməsi, psevdopoliplər",
+        "qeyd olunan əlamətlərin heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "312. Qeyri spesifik xoralı kolit differensasiya edilir:",
+      "options": [
+        "qeyd olunan bütün xəstəliklərlə",
+        "kəskin dizenteriya ilə",
+        "yoğun bağırsaq xərçəngi ilə",
+        "kron xəstəliyi ilə",
+        "qeyd olunan xəstəliklərrin heç biri ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "313. 20 yaşlı sağlam kişidə qəflətən qanlı ishal, qarın nahiyəsində tutmaşəkilli ağrılar və qızdırma baş vermişdir. Xəstəliyindən bir neçə həftə sonra o həkimə müraciət etmişdir. Proktosiqmoskopiya zamanı selikli qişanın qanaxması aşkar olunmuşdur.Ehtimal olunan diaqnoz:",
+      "options": [
+        "xoralı kolit",
+        "işlədicilərdən çox istifadə etmə",
+        "psevdomembranoz kolit",
+        "virus qastroenteriti",
+        "kollagen koliti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "314. Qeyri-spesifik xoralı kolitin əsas klinik simptomu:",
+      "options": [
+        "hamısı aiddir",
+        "qarında agrı",
+        "nəcisdə qan",
+        "diareya",
+        "anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "315. Kron xəstəliyinin ağırlaşması:",
+      "options": [
+        "hamısı düzdür",
+        "svişvə fistulanın yaranması",
+        "bagırsaq qanaxması",
+        "toksiki meqakolon",
+        "bagırsaq keçməməzliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "316. Qeyri-spesifik xoralı kolit üçün xarakterdir:",
+      "options": [
+        "tez-tez qanla qarışıq duru stul",
+        "göbəkətrafı nahiyyədə ağrı",
+        "qəbizlik",
+        "qusma",
+        "ürəkbulanma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "317. Hansı simptom xoralı kolitin klinikası üçün xarakterikdir?",
+      "options": [
+        "müntəzəm olan qanlı nəcis",
+        "qarında yayılmış ağrılar",
+        "ishal",
+        "düyünlü eritema",
+        "artralgiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "318. Yaralı kolitin bağırsaqdan kənar simptomu:",
+      "options": [
+        "hamısı aiddir",
+        "iridosiklit",
+        "eritema",
+        "artrit",
+        "sakroileit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "319. Kron xəstəliyinin əsas müalicəsinə daxil deyil:",
+      "options": [
+        "miotrop spazmolitik",
+        "5-aminosalisil turşusu(sulfasalazin, mesalazin)",
+        "qlükokortikoid",
+        "metronidazol",
+        "immunodepresant (siklosporin, azatiopirin)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "320. Göbək ətrafında ağrı aşağıdaki xroniki xəstəlik zamanı aşkarlanır:",
+      "options": [
+        "enterit",
+        "kolit",
+        "pankreatit",
+        "xolesistit",
+        "hepatit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "321. İshal zamanı pəhriz:",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "322. Qəbizlik zamanı pəhriz:",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4",
+        "10"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "323. Qəbizlik zamanı məsləhət bilinir:",
+      "options": [
+        "çuğundur",
+        "ağ çörək",
+        "noxud",
+        "kartof",
+        "süd"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "324. S-varı bağırsaq iltihabı zamanı ağrı lokalizasiya olunur:",
+      "options": [
+        "sol qalça nahiyəsində",
+        "sağ qabırğaaltı",
+        "ğöbələtrafı",
+        "sağ qalça nahiyəsində",
+        "epiqastral"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "325. Xroniki kolitdə nəcis olur",
+      "options": [
+        "az, sulu",
+        "təmiz qanla qarışıq",
+        "solğun (rəngsiz)",
+        "qara (tünd) rəngdə",
+        "melena"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "326. İrriqoskopiya:",
+      "options": [
+        "rentgen kontrast müayinəsidir",
+        "US müayınəsidir",
+        "rentgenolojı müayinədir",
+        "endoskopik müayınədir",
+        "biopsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "327. İrriqoskopiya ilə yoxlanılır:",
+      "options": [
+        "yoğun bağırsaq",
+        "12 barmaq bağırsaq",
+        "mədə",
+        "qida borusu",
+        "nazik bağırsaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "328. Testlərdən hansı malabsorbsiya sindromunun diaqnostikası üçün etibarlıdır:",
+      "options": [
+        "D-ksilozatesti",
+        "qlükozaya tolerantlıq testi",
+        "Şillinqtesti",
+        "yoğun bağırsağın rentgenoloji müayinəsi",
+        "laktulozaya tolerantlıq testi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "329. Yoğun bağırsağın biopsiyası zamanı əldə olunan hansı məlumat xoralıkolit diaqnozunu təsdiqləyir:",
+      "options": [
+        "aşağıdakıların hamısı",
+        "kriptaların absesi",
+        "selikli qişanı əhatə edən iltihabi dəyişikliklər",
+        "qalıq epitelinin reaktiv hiperplaziyası",
+        "qədəhvari hüceyrələrin sayının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "330. Nəcisdə həll olunmamış əzələ liflərin tapılması nəyin əlamətidir:",
+      "options": [
+        "kreatoreyanın",
+        "amiloreyanın",
+        "melenanın",
+        "steatoreyanın",
+        "diareya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "331. Nəcisdə neytral piyin tapılması nəyin əlamətidir:",
+      "options": [
+        "steatoreyanın",
+        "amiloreyanın",
+        "kreatoreyanın",
+        "melenanın",
+        "diareya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "332. Nəcisdə parçalanmamış nişastanın tapılması:",
+      "options": [
+        "amiloreya",
+        "diareya",
+        "kreatoreya",
+        "steatoreya",
+        "melena"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "333. Qara rəngli nəcis:",
+      "options": [
+        "melena",
+        "amiloreya",
+        "kreatoreya",
+        "steatoreya",
+        "diareya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "334. Aşağıdakı xəstəliklərdən hansı Kron xəstəliyinin bağırsaqdan kənar əlamətlərinə aid deyil:",
+      "options": [
+        "miokardit",
+        "perixolangit",
+        "düyünlü eritema",
+        "poliartrit",
+        "irit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "335. İşemik kolit zamanı proses daha cox lokalizasiya olunur.",
+      "options": [
+        "çənbər bağırsağın dalaq əyriliyi nahiyəsində",
+        "kor bağırsaqda",
+        "düz bağırsaqda",
+        "s-vari bağırsaqda",
+        "çənbər bağırsağın qaraciyər əyriliyində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "336. ”Yağlı” diareya üçün xarakterik deyil",
+      "options": [
+        "sulu defekasiya",
+        "sıyığa bənzər defekasiya",
+        "sutkada 2-4 dəfə defekasiya",
+        "gil şəklində defekasiya",
+        "steatoreya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "337. Qanda antimitoxondral antitel hansı üçün xarakterikdir:",
+      "options": [
+        "birincili biliar sirroz",
+        "kəskin hepatit",
+        "alkohol sirrozu",
+        "Konovalov-Vilson xəstəliyi",
+        "hemoxromatoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "338. Xronik xolesistit üçün hansı simptom xarakterik deyil:",
+      "options": [
+        "Mendel simptomu",
+        "Kera simptomu",
+        "Vasilenko-Lepen simptomu",
+        "Myüssi simptomu",
+        "Ortner simptomu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "339. Qaraciyərin sirrozu xronik hepatitdən fərqlənir:",
+      "options": [
+        "portakaval və kava-kaval anostomozun olması ilə",
+        "sitolitik sindromun olması ilə",
+        "xolestatik sindromun olması ilə",
+        "xolemiyanın olması ilə",
+        "parenximatoz sarılığın olması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "340. Qanda hansı biokimyəvi dəyişiklıklər mexanikı sarılıq üçün xarakterikdir:",
+      "options": [
+        "konyuqasiya olmuş hiperbilirubinemiya, qələvi fosfatazanın artması",
+        "konyuqasiya olmuş hiperbilirubinemiya,",
+        "konyuqasiya olmamış hiperbilirubinemiya, ALT və AST-nin artması",
+        "konyuqasiya olmamış hiperbilirubinemiya",
+        "ALT və AST-nin daha çox artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "341. Kurvazye somptomu hansı tip sarılıqda olur:",
+      "options": [
+        "qaraciyər altı",
+        "qaraciyər üstü",
+        "Qara ciyər daxili",
+        "Hemolitik",
+        "Parenximatoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "342. Makronodulyar sirrozda əsas önə çıxan simptom hansıdır:",
+      "options": [
+        "qaraciyər hüceyrə çatışmazlığı",
+        "portal hipertenziya",
+        "xolestaz",
+        "sarılıq",
+        "assit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "343. Mikronodulyar sirrozda əsas önə çıxan simptom hansıdır:",
+      "options": [
+        "portal hipertenziya",
+        "qara ciyər hüceyrə çatışmazlığı",
+        "xolestaz",
+        "sarılıq",
+        "assit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "344. Xəstədə öd kolikasından sonra sarılıq və yüksək qışzdırma başlamışdır . Qan analizində EÇS 50 mm/saat, Leykositoz-16 min. Daha çöx ehtimal olunan səbəb:",
+      "options": [
+        "xolangit",
+        "Badda-Kiari sindromu",
+        "Jilber sindromu",
+        "hemoxromtoz",
+        "Konovalov-Vilson xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "345. Xronik xolesistitin kəskinləşməsində seçim dərman:",
+      "options": [
+        "antibiotiklər",
+        "xoleretiklər",
+        "hipolipidemik dərmanlar",
+        "analgetiklər",
+        "spazmolitiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "346. Öd kisəsinin diskineziyası zamanı istifadə olunan müayinələr: 1) Duodenal zondlama, 2) Qanın klinik analizi, 3) USM, 4) Dinamik xolesinsitoqrafiya, 5) Qara ciyərin funksional probası.",
+      "options": [
+        "1,3,4",
+        "2,4",
+        "2,3,5",
+        "2,4,5",
+        "1,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "347. Öd kisəsinin disfunksiyasının birincili etioloji səbəbi hansılardır: 1) Öd kisəsinin saya əzələlərinin patoıogiyası, 2) Hormonal pozğunluq. 3) Şəkərli diabet, 4) Öd kisəsinin reseptorlarının neyrohormonal stimulyasiyaya həssaslığının azalması. 5) Qara ciyər patologiyası.",
+      "options": [
+        "1, 4",
+        "1, 4, 5",
+        "1, 3, 5",
+        "2, 4",
+        "1, 3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "348. Ağır qaraciyər ensefalopatiyası zamanı hansı terapiya səhvdir:",
+      "options": [
+        "albumin infuziyası",
+        "neomisin",
+        "laktuloza",
+        "hemosorbsiya",
+        "amonyakin qanda azaldilması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "349. Xəstədə qaraciyər sirrozu, böyrək və oynaqlarda dəyişiliklər müşahidə olunur. Müayinə zamanı eritrositlərin hemolizi, gözdə Kayzer-Fleyşer halqaları, psixi dəyişiliklər aşkar olunmuşdur. Ehtimal olunan xəstəıik:",
+      "options": [
+        "Vilson-Konovalov",
+        "hemoxromatoz",
+        "medikamentoz hepatit",
+        "xroniki C virus hepatit",
+        "heptosellular karsinoma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "350. Vilson-Konovalov xəstəliyində əsa smüalicə preparatı:",
+      "options": [
+        "D-penisillamin",
+        "askorbin turşusu",
+        "ursodeoksixol turşusu",
+        "tiaminxlorid",
+        "fenobarbital"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "351. HBV- infeksiyasının hansı markeri peyvəndlənmiş insanlarda müəyyən olunur:",
+      "options": [
+        "anti-HBs (HbsAb)",
+        "HbcAg",
+        "HBV-DNA",
+        "HbeAg",
+        "anti-HBc (HbcAb)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "352. PZR vasitəsi ilə aşkar olunur:",
+      "options": [
+        "HBV DNT",
+        "HBsAg",
+        "HBeAg",
+        "HbsAb",
+        "HBcAb"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "353. Xroniki pielonefrit:",
+      "options": [
+        "böyrək ləyəni və kasacıqlarının qeyri-spesifik iltihabi xəstəliyiidir",
+        "böyrək yumaqcıqlarının zədələnməsidir",
+        "böyrək parenximasının spesifik xəstəliyidir",
+        "böyrək yumaqcıqlarının kistoz-fibrotik dəyişikliyidir",
+        "böyrək yumaqcıqların ikitərəfli zədələnməsi ilə gedən autoimmun xəstəlikdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "354. Aşağıda göstərilən flora daha çox hallarda pielonefritin inkişafına səbəb olur:",
+      "options": [
+        "bağırsaq çöpləri",
+        "streptokokk",
+        "klebsiella",
+        "anaerob bakteriyalar",
+        "viruslar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "355. Pielolonefrit üçün sidik sindromunun hansı göstəriciləri xarakterikdir?",
+      "options": [
+        "leykosituriya və bakteriuriya",
+        "hematuriya və proteinuriya",
+        "hematuriya və leykosituriya",
+        "proteinuriya və bakteriuriya",
+        "hematuriya və bakteriuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "356. Xronik pielonefrit üçün xarakter deyil:",
+      "options": [
+        "makrohematuriya",
+        "leykosituriya",
+        "protenuriya",
+        "anemiya",
+        "bakteriuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "357. Xroniki pielonefrit üçün xarakter deyil:",
+      "options": [
+        "sidikdə Bens-Cons zülalı",
+        "yüksək hərarət",
+        "silindruriya",
+        "sidiyin xüsusi çəkisinin azalması",
+        "mikrohematuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "358. Pielonefrit zamanı əsaslı diaqnoz qoyulur:",
+      "options": [
+        "bakteriuriya",
+        "sidik ifrazının ağrılı olması",
+        "EÇS qalxması",
+        "bel nahiyyəsində ağrı",
+        "titrətmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "359. Xroniki pielonefritdə sidiyin ümumi analizində ola bilər:",
+      "options": [
+        "leykosituriya",
+        "oksalaturiya",
+        "silindruriya",
+        "hematuriya",
+        "massiv proteinuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "360. Xronik pielonefritin ağırlaşmasıdır:",
+      "options": [
+        "xroniki böyrək çatızmazlığı",
+        "amiloidoz",
+        "böyrək vərəmi",
+        "böyrəkdaşı xəstəliyi",
+        "böyrək şişi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "361. Sidiydə bakteriyanın miqdarının nə qədər olması bakteriuriya diaqnozunun qoylmasına əsas verir?",
+      "options": [
+        "1*105",
+        "1*102",
+        "1*103",
+        "1*104",
+        "4*104"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "362. Neçiporenko sınagına görə sağlam adamda 1ml sidikdə nə qədər leykosit olur?",
+      "options": [
+        "4*103",
+        "1*102",
+        "2*102",
+        "1*103",
+        "4*104"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "363. Neçiporenko sınagına görə saqlam adamda 1ml sidikdə nə qədər eritrosit olur?",
+      "options": [
+        "1*103",
+        "2*103",
+        "4*103",
+        "1*104",
+        "1*105"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "364. Xroniki pielonefritin mualicəsində istifadə olunur:",
+      "options": [
+        "antibiotik",
+        "immunodepressant",
+        "vitaminlər",
+        "qlükokortokosteroidlər",
+        "interferon"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "365. Xroniki pielonefritin müalicəsində istifadə olunmur:",
+      "options": [
+        "kortikostreoid",
+        "antibiotik",
+        "nitrofuran",
+        "sulfanilamid",
+        "8-oksixinol törəməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "366. Pielonefritin müalicəsi zamanı aşağıdakı sulfanilamid preparatları daha məqsədəuyğundur:",
+      "options": [
+        "biseptol, sulfapiridazin",
+        "biseptol, sulfadimezin",
+        "biseptol, streptosid",
+        "streptosid, sulfapiridazin",
+        "sulfadimezin, sulfapiridazin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "367. Pielonefritin müalicəsi zamanı sidiyin turşu reaksiyasının qələvi reaksiyasına dəyişdirilməsinin optimal üsulu:",
+      "options": [
+        "zülallı və bitki mənşəli qidaların növbəliliyi",
+        "soda və askorbin turşusunun daxil edilməsi",
+        "xlorid turşusu və antasidlərin tətbiq edilməsi",
+        "zülallı qidanın məhdudlaşdırılması və antasidlərin daxil edilməsi",
+        "bitki mənşəli və zülallı qidaların məhdudlaşdırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "368. Latent gedişli pielonefrit zamanı qıcıqlandırıcı testlərin aparılması aşağıdakı üsullarla mümkündür:",
+      "options": [
+        "prednizolon daxil edilməsi, damardaxili pieloqrafiyanın həyata keçirilməsi",
+        "antibiotiklərin təyin edilməsi, prednizalon daxil edilməsi",
+        "su yükləmələrinin həyata keçirilməsi",
+        "antibiotiklərin təyin edilməsi",
+        "antibotiklərin təyin edilməsi, su yükləmələrinin həyata keçirilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "369. Xroniki pilenonefritin nəticəsi:",
+      "options": [
+        "xroniki böyrək çatışmazlığı",
+        "xroniki qlomerulonefrit",
+        "xroniki sistit",
+        "sağalma",
+        "kəskin qlomerulonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "370. Aşağıdakılardan hansına görə böyrəyin azotçıxarıcı funksiyasını təyin etmək olar:",
+      "options": [
+        "plazmada sidik cövhəri və kreatinin səviyyəsinə görə",
+        "plazmada zülalın və kreatinin səviyyəsinə görə",
+        "sidikdə zülalın və kreatinin səviyyəsinə görə",
+        "sidikdə sidik cövhəri və kreatinin səviyyəsinə görə",
+        "sidikdə sidik cövhəri və zülalın səviyyəsinə görə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "371. Böyrəklərin konsentrasion funksiyasını göstərən ən asan üsul:",
+      "options": [
+        "Zimniski sınağı",
+        "Neçiporenko sınağı",
+        "Amburje üsulu",
+        "Kakovski-Addis üsulu",
+        "Hovardüsulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "372. Böyrək funksiyasının qiymətləndirilməsində vasopressin sınağı nəyi təyin edir?",
+      "options": [
+        "böyrək kanalcıqların ADH həssaslığını",
+        "filtrasiya imkanlarını",
+        "böyrək kanalcıqların vazo pressinə həssaslığını",
+        "böyrək klirensini",
+        "azot-ifrazatfunksiyasını"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "373. Qeyri-bakterial leykosituriya, proteinuriya, hematuriya simptomları birlikdə olduqda hansı diagnoz haqqında fikirləşmək olar:",
+      "options": [
+        "interstisialnefrit",
+        "qlomerulonefrit",
+        "sistit",
+        "pielonefrit",
+        "dismetabolik nefropatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "374. Böyrək hipertenziyası inkişafının əsas mexanizmləri:",
+      "options": [
+        "renin sisteminin fəallaşması və aldosteron ifrazinin artması",
+        "plazma albuminlərinin itirilməsi və renin sisteminin fəallaşması",
+        "böyrəklərin filtrasiya funksiyasının pozulması",
+        "aldosteron ifrazının artması",
+        "renin sisteminin zəifləməsi və aldosteronun güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "375. Böyrək hipertenziyası üçün hansı arterial təzyiq dəyişiklikləri xarakterikdir:",
+      "options": [
+        "diastolik təzyiqin daha yüksək əhəmiyyətli yüksəlməsi",
+        "sistolik və diastolik təzyiqin bərabər ölçülü yüksəlməsi",
+        "sistolik təzyiqin yüksəlməsi və diastolik təzyiqin azalması",
+        "sistolik təzyiqin təcridli yüksəlişi",
+        "sistolik və diastolik təşyiqin aşağı düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "376. Xroniki böyrək çatışmazlığının səbəbidir:",
+      "options": [
+        "qırmızı qurd eşənəyi",
+        "birtərəfli pielonefrit",
+        "sistit",
+        "kəskin pielonefrit",
+        "böyrəyin bəsit kistası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "377. Xronik böyrək çatışmazlığının 1-ci mərhələsində yumaqcıq filtrasiyasının sürəti:",
+      "options": [
+        "80-120 ml/dəq",
+        "60-70 ml/dəq",
+        "30-59 ml/dəq",
+        "15-29 ml/dəq",
+        "15 ml/dəq-dən az"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "378. Xronik böyrək çatışmazlığının meyarıdır:",
+      "options": [
+        "qanda kreatininin səviyyəsinin yüksəlməsi",
+        "qanda sidik cövhərinin yüksəlməsi",
+        "hipokalemiya",
+        "hiperfosfatemiya",
+        "hiperkalsemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "379. Xronik böyrək çatışmazlığı zamanı hipokalsiemiyanın nəticəsi deyil:",
+      "options": [
+        "osteoartroz",
+        "fibroz osteit",
+        "osteomalyasiya",
+        "metastatik kalsifikasiya",
+        "osteoporoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "380. Xronik böyrək çatışmazlığının fəsadı deyil:",
+      "options": [
+        "xolesistit",
+        "perikardit",
+        "qastrit",
+        "psevdoperitonit",
+        "”sulu ağciyər” sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "381. Xronik böyrək çatışmazlığı zamanı müəyyən edilir:",
+      "options": [
+        "kreatinininemiya, hiperkalemiya, hipokalsemiya",
+        "hiperkalsemiya, hipokalemiya, kreatininemiya",
+        "kreatininemiya, hiponatremiya, hiperkalsemiya",
+        "hiperkalemiya, hipofosfatemiya, metabolik alkaloz",
+        "hipofosfatemiya, metabolik asidoz, hipokalsemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "382. Xroniki böyrək çatışmazlığı inkişaf edir:",
+      "options": [
+        "qlomerulonefrit zamanı",
+        "hepatit zamanı",
+        "pankreatit zamanı",
+        "sistit zamanı",
+        "kolit zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "383. Xroniki böyrək çatışmazlığı zamanı qanın analizində:",
+      "options": [
+        "kreatinin artır",
+        "kreatinin azalır",
+        "xolesterin azalır",
+        "zülal artır",
+        "bilirubin artır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "384. Xroniki böyrək çatışmazlığı zamanı müşahidə olunur:",
+      "options": [
+        "ürəkbulanma, qusma",
+        "taxikardiya, ekzoftalm",
+        "sidiyə getmə zamanı yanğı hissi, qarında ağrı",
+        "arterial təzyiqin və hərarətin enməsi",
+        "bradikardiya, hərarətin yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "385. Xroniki böyrək çatışmazlığı zamanı pəhrizdə azaldılır:",
+      "options": [
+        "zülal",
+        "yağlar",
+        "maye",
+        "karbohidrat",
+        "xörək duzu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "386. Xroniki böyrək çatışmazlıgında hansı biokimyəvi dəyişiklik olur?",
+      "options": [
+        "hiperkreatininemiya",
+        "hiperalbuminemiya",
+        "dislipidemiya",
+        "urobilinuriya",
+        "hiperbilurinemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "387. Xroniki böyrək çatışmazlıgında hemorragik sindromu nə müəyyən edir? a) trombositopeniya; b) trombositopatiya; c) protrombinin azalması; d) trombositin 4 faktorunun azalması; e) hiperkalemiya. Düzgün variantı seçin:",
+      "options": [
+        "a, b, e",
+        "c, e",
+        "c, d, e",
+        "a, c, e",
+        "a, c, d, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "388. Xroniki böyrək çatışmazlıgının terminal mərhələsi üçün yumaqcıq filtrasiyasının hansı səviyyəsi xarakterdir:",
+      "options": [
+        "5 ml/dəq",
+        "40 ml/dəq",
+        "30 ml/dəq",
+        "20 ml/dəq",
+        "15 ml/dəq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "389. Xroniki böyrək çatışmazlıgında dərinin tünd və sarı rəng alması nədən asılıdır?",
+      "options": [
+        "uroxrom ifrazının pozulması",
+        "düz bilurubinin qalxması",
+        "birləşmiş bilurubinin qalxması",
+        "konyuqirovinniy bilurubinın pozulması",
+        "bilurubin sekresiyasının pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "390. Xroniki böyrək çatışmazlıgında hansı antibiotik məqsədə uygundur? a) tetrasklin; b) penisillin; c) oksasillin; d) qentamisin; e) streptomisin;",
+      "options": [
+        "b, c",
+        "d, e",
+        "a, b",
+        "c, d, e",
+        "a, d"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "391. Xroniki böyrək çatışmazlıgında hansı antibakterial qrup preparatlar əks göstərişdir? a) vərəm əleyhinə dərmanlar; b) nitrofuran; c) qentamisin; d) yarımsintetik preparatlar; e) sefalosparinlər",
+      "options": [
+        "a, b, c",
+        "d, e",
+        "a, c",
+        "b, e",
+        "a, b, e"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "392. Xroniki böyrək çatışmazlıgında xəstəyə hansı sutkalıq qida rasionu təyin edilməlidir ki, öz zülalının parçalanmasının qarşısı alınsın?",
+      "options": [
+        "2500-3000 kkal",
+        "1200-1800 kkal",
+        "1800-2200 kkal",
+        "2200-2500 kkal",
+        "3000-3500 kkal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "393. Xronik böyrək çatızmazlığı zamanı hemodializə göstəriş deyil:",
+      "options": [
+        "kreatininin böyrək klirensi 30 ml/dəq",
+        "kreatininin böyrək klirensi 10-15 ml/dəq-dan az",
+        "qanda kreatininin səviyyəsinin 600-700 mkmol/l yüksək",
+        "ağır asidoz",
+        "uremiya simptomları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "394. Xronik böyrək çatışmazlığının proqram hemodializinə nisbi əks göstəriş:",
+      "options": [
+        "qaraciyər sirrozu",
+        "proqressiv arıqlama",
+        "ağır asidoz",
+        "kreatininin böyrək klirensi 10-15 ml/dəq az",
+        "qanda kteatininin səviyyəsinin 600-700 mkmol/l yüksək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "395. Renal böyrək çatışmazlıgında olmur:",
+      "options": [
+        "böyəkdən kənar obstruksiya",
+        "ekzogen intoksikasiya",
+        "böyrəkdə iltihab xəstəlik",
+        "böyrək damarlarının zədələnməsi",
+        "hemoliz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "396. Böyrəklərdə morfoloji dəyişikliklərin ən dəqiq müayinə üsulu hansıdır?",
+      "options": [
+        "böyrəklərin biopsiyası",
+        "damardaxili uroqrafiya",
+        "retroqrad pieloqrafiya",
+        "ultrasəs müayinə",
+        "kompyuter tomoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "397. Prednizalonla provakasiya sınağı istifadə olunur",
+      "options": [
+        "leykositlərin provakasiyası",
+        "gizli protenuriyanın olması",
+        "silindriuriyanın olması",
+        "qlükozanın diaqnostikası",
+        "böyrəklərin konsentrasion funksiyasını müəyyən etmək üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "398. Xroniki böyrək çatışmazlıgında təyin olunur:",
+      "options": [
+        "qanda kreatininin konsentrasiyasının qalxması",
+        "proteinuriyadan qabaq ödem",
+        "arterial təzyiq və sidikdə dəyişiklik",
+        "bakteriuriya",
+        "sidik turşusunun qanda qalxması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "399. Xroniki böyrək çatışmazlıgında hansı antibiotikdən orta dozada istifadə etmək olar?",
+      "options": [
+        "ampisillin",
+        "biseptol",
+        "tetrasiklin",
+        "qentomisin",
+        "tarivid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "400. Prerenal böyrək çatışmazlığında olmur:",
+      "options": [
+        "böyrək damarlarının zədələnməsı",
+        "ürək atımının azalması",
+        "sistem vazodilatasiya",
+        "susuzlaşma",
+        "toxumalarda mayenin sekvestrasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "401. Sidik cövhərinin hansı səviyyəsində (miqdarında) hemodializ aparılır?",
+      "options": [
+        "24 mmol/l",
+        "10 mmol/l",
+        "15 mmol/l",
+        "18 mmol/l",
+        "21 mmol/l"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "402. Selektiv proteinuriya nədir?",
+      "options": [
+        "aşağı molekulyar sıxlıqlı zülalın sidikdə olması",
+        "sidikdə zülalın miqdarın artması",
+        "sidikdə zülalın miqdarının azalması",
+        "yuxarı molekulyar sıxlıqlı zülalın sidikdə əmələ gəlməsi",
+        "sidikdə zülalın yuxarı və aşağı molekulyar sıxlıqda əmələ qəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "403. Qeyri selektiv proteinuriya aşağıdakılardan hansını təsdiqləyir?",
+      "options": [
+        "yumaqcıqların filtrasiyon tərkibinin kəskin pozulmasını",
+        "reabsorbsiyanın pozulmasını",
+        "eksresiyanın pozulmasını",
+        "sekresiyanın pozulmasını",
+        "interstisial toxumada iltihabi prosesini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "404. Aşağıdakılardan hansına görə böyrəyin azotcıxarıcı funksiyasını təyin etmək olar:",
+      "options": [
+        "plazmadasidikcövhərivəkreatininsəviyyəsinəgörə",
+        "plazmadazülalınvəkreatininsəviyyəsinəgörə",
+        "sidikdə zülalınvəkreatininsəviyyəsinəgörə",
+        "sidikdəsidikcövhərivəkreatininsəviyyəsinəgörə",
+        "sidikdəsidikcövhərivəzülalınsəviyyəsinəgörə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "405. Sidikkisəsi-sidik axarı reflyuksun diaqnostikasında hansı müayinə üsulu istifadə olunur?",
+      "options": [
+        "sistouretrografiya",
+        "damardaxiliurografiya",
+        "retroqradpielorafiya",
+        "ultrasəsmüaynə",
+        "kompyutertomoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "406. Böyrəkdə kistoz formalaşmasınin diaqnostikasında hansı müayinə üsulu istifadə olunur?",
+      "options": [
+        "ultrasəsmüayinə",
+        "dammardaxiliurografiya",
+        "retroqradpielografiya",
+        "sistouretrografiya",
+        "radionuklidmüayinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "407. Hansı xəstəlikdə sidiyin xüsusi çəkisi 1000 radələrində olur?",
+      "options": [
+        "şəkərsizdiabet",
+        "qlomerulonefrit",
+        "pielonefrit",
+        "interstisialnefrit",
+        "tubulopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "408. Böyrək hipertenziyası inkişafının əsas mexanizmləri:",
+      "options": [
+        "renin sisteminin fəallaşması və aldosteron məhsulunun güclənməsi",
+        "albuminlər plazmasının itirilməsi və renin sisteminin fəallaşması",
+        "böyrəklərin filtrasiya funksiyasının pozulması",
+        "aldosteron məhsulunun güclənməsi",
+        "renin sisteminin yatırılması və aldosteronun güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "409. Nefrotik sindroma aiddir:",
+      "options": [
+        "şişlər, proteinuriya, hiperxolesterinemiya",
+        "hematuriya, proteinuriya, hipoproteinemiya",
+        "leykosituriya, proteinuriya, hipoproteinemiya",
+        "hipertenziya, proteinuriya, hipoproteinemiya",
+        "şişkinliklər, hematuriya, leykosituriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "410. Nefritik sindroma aiddir:",
+      "options": [
+        "hipertenziya, sidik sindromu, əsasən üzdə olan solğunluq və şişkinliklər",
+        "disprotenemiya, hipertenziya, sidik sindromu",
+        "hipoproteinemiya, əsasən üzdə olan solgunluq və şişkinliklər",
+        "hipertenziya, ümumi şişkinliklər və hipertenziya",
+        "poliuriya, əsasən üzdə olan solgunluqlar və şişkinliklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "411. Aşağıdakı sidikqovucu preparatlar saluretiklərdirlər:",
+      "options": [
+        "furosemid, uregit",
+        "veroşpiron, furosemid",
+        "uregit, veroşpiron",
+        "mannit, uregit",
+        "furosemid, mannit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "412. Hansı sidikqovucu preparat aldosteronun antaqonistidir?",
+      "options": [
+        "veroşpiron",
+        "furosemid",
+        "uregit",
+        "mannit",
+        "bütün yuxarıda adları sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "413. Aşağıdakı preparat osmodiuretikdir:",
+      "options": [
+        "mannit",
+        "furosemid",
+        "veroşpiron",
+        "uregit",
+        "bütün yuxarıda adları sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "414. Onkotik təzyiqin aşağı düşməsi zamanı göstərilən preparat optimaldır:",
+      "options": [
+        "albumin",
+        "fizioloji məhlul",
+        "plazma",
+        "qlükoza",
+        "bütün yuxarıda adları sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "415. Etiologiyası periodik xəstəliyi olan amiloidozun müalicəsində kolxisin hansı dozada təyin olunur:",
+      "options": [
+        "sutkada 1,8-2 mq",
+        "sutkada 10-15 mq",
+        "sutkada 1.5 - 3 mq",
+        "sutkada 20 - 30 mq",
+        "sutkada 0.5 - 1 mq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "416. Hansı xəstəlik üçün yuxarı tənəffüs yollarının xoralınekrotik zədələnməsivə böyrəklərin zədələnməsi xarakterikdir:",
+      "options": [
+        "Veqenerqranulomatozu",
+        "amiloidoz",
+        "hemarragikvaskulit",
+        "dərmannefropatiyası",
+        "xronikiqlomerulonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "417. Göstərilənlərdə hansı sitostatiklərin əlavə təsirlərinə aid deyil:",
+      "options": [
+        "şəkərlidiabet",
+        "infeksion ağırlaşmalar",
+        "aqranulositoz",
+        "oliqo - azospermiya",
+        "leykopeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "418. Eritro poetinin təyininə əks göstərişlər hansılardır: 1) dərmana qarşı allergik həssaslıq 2) hipotoniya 3) hemaxromatoz 4) çətin tənzimlənən hipertenziya 5) nutritivestatusun pozulması",
+      "options": [
+        "1, 4",
+        "4, 5",
+        "1, 5",
+        "2, 4",
+        "2, 3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "419. Hansı system xəstəlikləri daha çox amiloidoza səbəb olur: 1) qırmızı qurdeşənəyi 2) revmatoid artrit 3) Bexterev xəstəliyi 4) düyünlüperiar teriit 5) Qudpastçer xəstəliyi",
+      "options": [
+        "2,3, 5",
+        "1, 2, 5",
+        "2, 3, 4",
+        "1, 3, 5",
+        "1,4,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "420. Diabetnefropatiysının müalicəsində aşağıdakılardan hansıları istifadə edilir: 1) qlükokortikoidlər 2) AÇF ingibitorları 3) sitostatiklər 4) yüksəkzülallıdieta 5) azzülallıdieta",
+      "options": [
+        "2, 5",
+        "2, 4",
+        "3, 5",
+        "1, 3",
+        "1, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "421. Diabet nefropatiyasının klinikaya qədər ki mərhələsində hansı əlamətlər olur: 1) nefrotiksindrom 2) mikro albuminuriya 3) hematuriya 4) yumaqcığın hiperfiltrasiyası 5) böyrək qan dövranının artması",
+      "options": [
+        "2, 4, 5",
+        "3, 4, 5",
+        "1, 2, 3",
+        "1, 3, 4",
+        "2, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "422. 53 yaşlıxəstə 2 ildirpsoriazdan əziyyət çəkir, eyni zamanda irioynaqlarda zədələnmə qeydolunur. Müayinə zamanı nefrotiksindrom müəyyən olunmuşdur Xəstənin müalicəsində hansı preparatlardan istifadə edilməsi düzgündür : 1) prednizolon 2) azatiopirin 3) kolxisin 4) dimetilsulfoksid 5) unitiol",
+      "options": [
+        "1, 3, 4,",
+        "2, 4, 5",
+        "1, 3, 5",
+        "2, 3, 5",
+        "3, 4,5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "423. Hansı halda təcilihe modializ müalicəsinə göstəriş vardır:",
+      "options": [
+        "yüksək hiperkaliemiya",
+        "metabolikalkaloz",
+        "anasarka",
+        "oliqouriya",
+        "ağır hipertenziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "424. Proqramlı hemodializalan xəstələrdə ən əlverişli dammar yolu hansıdır:",
+      "options": [
+        "AV-fistula",
+        "müvəqqətikateter",
+        "AV-protez+müvəqqətik ateter",
+        "permanentkateter",
+        "AV-protez"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "425. Vibrasiya hansı diapozonda olduqda vibrasiya xəstəliyinin inkişafında daha çox rol oynayır?",
+      "options": [
+        "16-250 Hz",
+        "16 Hz-ə qədər",
+        "63,5 – 500 Hz",
+        "500 – 700 Hz",
+        "700 – 1000 Hz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "426. Vibrasiya növlərindən hansı insanın bütün bədəni boyunca daha yaxşı yayılaraq orqanizmin bir çox orqan və sistemləri üçün rezonanslı hesab olunur?",
+      "options": [
+        "Aşağı tezlikli",
+        "Orta tezlikli",
+        "Yüksək tezlikli",
+        "Orta və yüksək tezlikli",
+        "Vibrasiyanın yayılması onun tezliyindən asılı deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "427. Vibrasiya xəstəliyi aşağıdakı pozuntularla cərəyan edir:",
+      "options": [
+        "Bütün sadalananlarda",
+        "Daxili orqanların funksiyalarının reflektor pozuntuları",
+        "Ürək-damar sistemi",
+        "Dayaq-hərəkət aparatı",
+        "Sinir sistemi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "428. Sadalanan əlamətlərdən hansı vibrasiya xəstəliyinin başlanğıc mərhələsi üçün xarakterik deyil?",
+      "options": [
+        "Ensefalopolinevropatiya",
+        "Serebral angiodistoniya",
+        "Periferik angidistoniya",
+        "Vegetativ-vestibulyar",
+        "Aşağı ətrafların sensor polinevropatiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "429. Sadalananlardan hansı lokal vibrasiyanın yaratdığı II dərəcəli vibrasiya xəstəliyinin əlamətlərinə daxil deyil?",
+      "options": [
+        "Generalizə edilmiş akroangiospazmlarla polinevropatiya",
+        "Yuxarı ətrafların vegetativ sensor polinevropatiyası",
+        "Əllərin davamlı vegetativ-trofik pozuntuları",
+        "Dayaq-hərkət apparatının distrofik pozuntuları",
+        "Boyun-çiyin pleksopatiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "430. Lokal vibrasiyanın yaratdığı I dərəcəli vibrasiya xəstəliyi zamanı kliniki təzahürlərin variantı hansldlr?",
+      "options": [
+        "Reyno sindromu",
+        "Rentgenoqramlarda qranulamatoz disseminasiya",
+        "Aşağı ətrafların distal şöbələrinin hipalgeziyası",
+        "Dəri örtüyünün ümumi hiperemiyası",
+        "Gözlərin torlu qişasının distrofik dəyişiklikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "431. Lokal vibrasiyanın yaratdığı II dərəcəli vibrasiya xəstəliyinin klinik əlamətlərinə hansı daxil deyil?",
+      "options": [
+        "Ayaq altında akrospazm tutmaları",
+        "Vibrasiya həssaslığı həddinin kobud artımı",
+        "Parlaq-sianotik, soyuq, nəm əl ovucları",
+        "Müsbət Pal əlaməti",
+        "Müsbət Boqolepov sınağı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "432. Lokal vibrasiyanın əmələ gətirdiyi vibrasiya xəstəliyinin latent dövrü nə qədərdir?",
+      "options": [
+        "Bir neçə il",
+        "72-96 saat",
+        "4-8 həftə",
+        "3-6 ay",
+        "Bir ilə qədər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "433. Lokal vibrasiyanın yaratdığı vibrasiya xəstəliyinin klinikönü əlamətinə nə aid deyil?",
+      "options": [
+        "Qan plazması xolinesterazının fəallığının aşağı düşməsi",
+        "Ağrı həssaslığı həddinin yüksəlməsi",
+        "Vibrasiya həssaslığı həddinin yüksəlməsi",
+        "Vazomotor pozuntular",
+        "Reoqrafik indeksin azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "434. Vibrasiya xəstəliyinin diaqnostikası zamanı algezimetriyanın köməyi ilə nəyi müəyyən edirlər?",
+      "options": [
+        "Ağrı hissiyatını",
+        "Dəri hərarətini",
+        "Dərinin elektrik müqavimətini",
+        "Vibrasiya həssaslığını",
+        "Əzələlərin fiziki təsirə gücü və dözümlülüyünü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "435. Sadalananlardan hansı vibrasiya xəstəliyinin kompleks patogenetik müalicəsinə daxil deyildir?",
+      "options": [
+        "Termotənzimləmə proseslərinin normallaşması",
+        "Mikrosirkulasiyanın və bütövlükdə periferik qan dövranın yaxşılaşması",
+        "Trofik pozuntuların aradan qaldırılması",
+        "Neyrodinamik pozuntuların normallaşması",
+        "Sensor-motor sisteminin funksiyalarının yaxşılaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "436. İstehsalat küyü nəticəsində eşitmənin itirilməsi dərəcsinin təsnifatı nəyə əsaslanır?",
+      "options": [
+        "Bütün sadalananlara",
+        "Klinik-audioloji məlumatların təhlilinə",
+        "Tonal audiometriyanın göstəricilərinə",
+        "Nitq audiometriyasının göstəricilərinə",
+        "Səs gücünün differasial qəbuletmə hüdudu göstəricilərinə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "437. Eşitmə qabiliyyətinin ikinci dərəcəli itirilməsi zamanı pıçıltı nitqinin eşidilməsinin metrlə olan göstəricisi hansıdır?",
+      "options": [
+        "2 (±1)",
+        "1 (±2)",
+        "1 (±0,5)",
+        "4 (±1)",
+        "3,5 (± 0,5)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "438. Peşə koxlear nevritinin digər etiologiyalı nevritlərdən differensial diaqnostiq fərq nədir?",
+      "options": [
+        "Peşə koxlear nevriti ilə keçirilmiş yoluxucu xəstəliklər (meningit, qripp, neyroinfeksiya) arasında",
+        "Peşə koxlear nevriti bir qayda olaraq tədricən inkişaf edir",
+        "Otoskeleroz peşə koxlear nevritindən fərqli olaraq daha çox gənc yaşlarında olan şəxslərdə, başlıca",
+        "Qeyri-peşə etiologiyalı koxlear nevriti adətən keçirilmiş yoluxucu xəstəliklə əlaqələndirilir",
+        "Peşə koxlear nevriti adətən ikitərəfli xarakter daşıyır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "439. Xarci və orta qulağın iltihablı xətəlikləri zamanı peşə küyündən müdafiə olunmaq üçün olan hansı fərdi müdafiə vasitəsi işlədilir?",
+      "options": [
+        "Tıxaclar",
+        "Qulaqcıqlar",
+        "Dəbilqə",
+        "Bütün sadalananlar",
+        "Sadalananlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "440. Peşə koxlear nevritin müalicəsi tədbirlərinə nə daxil deyil?",
+      "options": [
+        "Antibiotikoterapiya",
+        "Sedativ terapiya",
+        "Damar terapiyası",
+        "Metabolik terapiya",
+        "Stimullaşdırıcı terapiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "441. Sadalananlardan hansı kəskin şüa təsiri təsnifatına daxil deyil?",
+      "options": [
+        "Postradiasion ensefalomieloz",
+        "Kəskin şüa xəstəliyinin selebral forması",
+        "Kəskin şüa xəstəliyinin tipik forması",
+        "Kəskin şüa xəstəliyinin toksik forması",
+        "Kəskin şüa xəstəliyinin bağırsaq forması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "442. 1 Gr dozada radiasiya zamanı şüa xəstəliyi cərəyan edir:",
+      "options": [
+        "Qanəmələgətirmənin zədələnməsinin üstünlüyü ilə",
+        "Bağırsağın zədələnməsinin üstünlüyü ilə",
+        "Hemodinamik pozuntuların üstünlüyü ilə",
+        "Toksemik təzahürlərin üstünlüyü ilə",
+        "Beyin pozguntuları ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "443. 2000 – 8000 rad (20-80 Gr) dozada şüalanma zamanı şüa xəstəliyindən ölüm baş verir:",
+      "options": [
+        "V-VII gün ərzində",
+        "Ilk bir neçə saat ərzində",
+        "X-XIV gün ərzndə",
+        "XIV gündən sonra",
+        "Göstərilən dozada radiasiya zamanı proqnoz xoşdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "444. Hansı ionizəetməyən radio dalğaları daha böyük bioloji fəallığa malikdirlər?",
+      "options": [
+        "Mikrodalğalar (OYT)",
+        "Ultraqısa (ÇYT)",
+        "Dekametrli (QD)",
+        "Gektametrli (OD)",
+        "Kilometrli (UD)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "445. Sadalananlardan hansı lazer şüalanmasının təsirinə qarşı böhranlı hesab edilir?",
+      "options": [
+        "Gözlər və dəri örtüyü",
+        "Tük örtüyü və dırnaqlar",
+        "Qanyaranma sistemi",
+        "Damar sistemi",
+        "Eşitmə orqanları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "446. 50 Hz tezlikli elektromaqnit şüalanması təsirinin nəticəsi necə adlandırılır:",
+      "options": [
+        "Sənaye tezlikli elektromaqnit sahələri xəstəlikləri",
+        "Xroniki şüa xəstəliyi",
+        "Lazer şüalanmasının təsiri nəticəsində əmələ gələn xəstəliklər",
+        "Kəskin şüa xəstəliyi",
+        "Radiotezlikli diapozonda elektromaqnit şüalanmasının təsiri ilə yaranan xəstəliklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "447. Tozun təsirinin xarakterindən asılı olaraq neçə qrup pnevmokonioz ayırd edirlər?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "448. Pnevmokonioz növlərindən hansı silikatozlara aid edilir?",
+      "options": [
+        "Talkoz",
+        "Baritoz",
+        "Qrafitoz",
+        "Stanioz",
+        "Sideroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "449. Sərbəst silisium dioksid tozu ilə nəfəsalmadan yaranan pnevmokonioz necə adlanır?",
+      "options": [
+        "Silikoz",
+        "Silikatoz",
+        "Kaolinoz",
+        "Antrakoz",
+        "Asbestoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "450. Sadalananlardan hansı metallokoniozlara aid edilmir?",
+      "options": [
+        "Nefelinoz",
+        "Stanioz",
+        "Baritoz",
+        "Manqanokonioz",
+        "Stanioz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "451. Antrakosilikoz nə ilə yaranaır?",
+      "options": [
+        "Qarışıq toz ilə",
+        "Bitişik vəziyyətdə olan silisium dioksid tozu ilə",
+        "Metal tərkibli tozla",
+        "Sərbəst silisium dioksidə malik olmayan tozla",
+        "Üzvu tozla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "452. Olivinoz aid edilir:",
+      "options": [
+        "Silikatozlara",
+        "Asbetozlara",
+        "Silikozlara",
+        "Antrakozlara",
+        "Siderozlara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "453. Sərbəst silisium dioksidi tərkibli tozun təsirinin başlamasından pnevmokoniozun inkişafına qədər olan orta müddət nə qədər təşkil edir?",
+      "options": [
+        "10-15 il",
+        "7 il",
+        "3-5 il",
+        "2-3 il",
+        "1 ilə yaxın"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "454. Silikozun tez-tez rast gəlinən fəsadı hansıdır?",
+      "options": [
+        "Ağ ciyərlərin vərəmi",
+        "Ağ ciyərlərin xərçəngi",
+        "Bronxial astma",
+        "Ağciyər ürəyi",
+        "Ağ ciyərin kandidozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "455. Bissinioz pnevmokoniozların hansı qrupuna aid edilir?",
+      "options": [
+        "Pnevmokonioz deyil",
+        "Karbokoniozlara",
+        "Silikozlara",
+        "Silikatozlara",
+        "Metallokoniozlara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "456. Hansı peşə sahiblərində siderosilikoza daha tez-tez rast gəlinir?",
+      "options": [
+        "Dəmir-filiz sənayesi işçilərində",
+        "Elektrik qaynaqçılarında",
+        "Kömür mədənləri şaxtaçılarında",
+        "Sement sənayesi işçilərində",
+        "Cilalayıcılarda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "457. Daha çox fibrinogen təsirə malik olanlar kömürlər hansıdır?",
+      "options": [
+        "Antrasit kömürləri",
+        "Kokslaşdırıcı kömürlər",
+        "Uzunalovlu kömürlər",
+        "Qonur kömürlər",
+        "Fəallaşdırılan kömür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "458. Sadalanan pnevmokoniozların hansısının gedişi silikozlara daha çox oxşayır:",
+      "options": [
+        "Bütün sadalananların",
+        "Sadalananlardan heç birinin",
+        "Antrakosilikozun",
+        "Siderosilikozun",
+        "Siderosilikatozun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "459. Alveolyar-kapilyar membranın diffuziya qabiliyyətinin əhəmiyyətli dərəcədə pozulması xarakterik deyil:",
+      "options": [
+        "Asbestoz, berrilioz və digər hiperhəssas pnevmonitlər istisna olmaqla bütün pnevmokoniozlar üçün",
+        "Sideroz istisna olmaqla bütün pnevmokoniozlar üçün",
+        "Sideroz və silikatoz istisna olmaqla bütün pnevmokoniozlar üçün",
+        "Sideroz, silikatoz və siderosilikoz istisna olmaqla bütün pnevmokoniozlar üçün",
+        "Alveolyar-kapilyar membranın diffuziya qabiliyyətinin əhəmiyyətli dərəcədə pozulması bütün növ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "460. 70%-dən artıq sərbəst silisium dioksidinin tərkibli tozda MİK (mümkün icazəverilən konsentrasiyası) nə qədərdir?",
+      "options": [
+        "1 mq/m3",
+        "2 mq/m3",
+        "3 mq/m3",
+        "4 mq/m3",
+        "5 mq/m3"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "461. Silikoz və revmatizmin müştərəkliyi adlandırlır:",
+      "options": [
+        "Kaplan sindromu",
+        "Klayne – Levin sindromu",
+        "Asperger sindromu",
+        "Marfan sindromu",
+        "Jilber sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "462. Silikozun kollaqgenozlarla (sistemli qurdeşənəyi, sklerodermiya, dermatomiozit) müştərəkliyi adlandırılır:",
+      "options": [
+        "Erazmus sindromu",
+        "Turett sindromu",
+        "Takayasu sindromu",
+        "Vilson sindromu",
+        "Makleod sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "463. Asbestozun fəsadlarından daha tez-tez müşahidə ediləni:",
+      "options": [
+        "Ağ ciyər xərçəngi və plevranın mezotelioması",
+        "Bronxial astma",
+        "Xroniki bronxit",
+        "Ağ ciyərlərin vərəmi",
+        "Yuxarı əzaların polinevropatiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "464. Bissinoz inkişaf edir:",
+      "options": [
+        "Pambıq emalı sənayesi işçilərində",
+        "Şaxtaçılarda",
+        "Elektrik qaynaqçılarında",
+        "Cilalayıcılarda",
+        "Keramika sənayesi işçilərində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "465. Pnevmokoniozun növlərindən hansı çini-fayans sənayesi işçiləri üçün xarakterikdir?",
+      "options": [
+        "Silikosilikatoz",
+        "Silikoz",
+        "Siderosilikoz",
+        "Antrakosilikoz",
+        "Baritoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "466. Sadalanlardan hansı karbokoniozlara aid deyil:",
+      "options": [
+        "Talkoz",
+        "Antrakoz",
+        "Qrafitoz",
+        "His pnevmokoniozu",
+        "Bütün sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "467. İstehsalatda beriliumun orqanizmə daxil olmasının əsas yolu:",
+      "options": [
+        "İnhalyasiya yolu",
+        "Perkutan yolu",
+        "Peroral yolu",
+        "Selikli qişalardan rezorbsiya",
+        "Bütün sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "468. Elektrik qaynaqçılarında pnevmokoniozun inkişafına səbəb olan yüksəkdispersli aerozol tərkibi:",
+      "options": [
+        "Azot oksidi və ozon",
+        "Dəmir tozu",
+        "Səbəst silisium dioksidi",
+        "Manqan və xrom oksidləri",
+        "Bütün sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "469. Cilalıyıcıların pnevmokoniozunun klinikası, bir qayda olaraq, özünü göstərir:",
+      "options": [
+        "Bronxit və ağ ciyərlərin emfizeması əlamətləri ilə",
+        "Ağ ciyər vərəmini fəsadlaşmış forması ilə",
+        "Ağ ciyərlərin ağır qranulamatoz zədələnməsi ilə",
+        "Ağ ciyərin xərçənginin erkən inkişafı ilə",
+        "Əlamətlərsiz gediş ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "470. Toz bronxiti zamanı plovalentli sensibilizasiyanın qoşulması:",
+      "options": [
+        "Xəstəliyin gedişini ağırlaşdırır",
+        "Xəstəliyin klinki təzahürlərini azaldır",
+        "Xarici tənəffüs funksiyası göstəricilərini yaxşılaşdırır",
+        "Ağ ciyərlərdə kollagenəmələgətirməni azaldır",
+        "Qeyri-spesifik intoksikasiyanın əlamətidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "471. II dərəcli toz bronxiti olan xəstələrin əmək qabiliyyətinin ekspertizası zamanı tövsiyyələr hansılardır?",
+      "options": [
+        "İxtisas dəyişmənin zəruriliyi",
+        "Dinamik müşahidə və müalicə şərt ilə işin davam etdirilməsi mümkünlüyü",
+        "Əmək qabiliyyətinin tam itirilməsi",
+        "Sanatoriya-kurort müalicəsindən sonra işə davam etmə imkanı",
+        "Göstərilən xəstəlik forması zamanı əmək qabiliyyətinin itirilməsinin ekspertizası həyata keçirilmir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "472. Ağır formalı dekompressiya xəstəliyi zamanı kliniki əlamətlər özünü göstərir:",
+      "options": [
+        "Dekompressiya zamanı və ya onun bitməsinin ilk dəqiqələrindən",
+        "Dekompressiyadan 1-2 saat sonra",
+        "Dekompressiyadan 3-4 saat sonra",
+        "Dekompressiyadan 12-24 sat sonra",
+        "Təkrar dekompressiya zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "473. Kesson xəstəliyini yüngül formasının ilk əlamətləri:",
+      "options": [
+        "Dəri qaşınması, dəridə səpkilər, əzələ və oynaq ağrıları",
+        "Bədən hərarətinin artması, öskürək",
+        "Atsetilxolinesterazanın fəallıq səviyyəsinin aşağı düşməsi",
+        "Ətrafların iflici",
+        "“Ağ barmaqlar” sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "474. “Ağ barmaqlar” sindromu müşahidə edilir:",
+      "options": [
+        "Vibrasiya xəstəliyi zamanı",
+        "Dekompressiya xəstəliyi zamanı",
+        "Pestisidlərlə zəhərlənmə zamanı",
+        "Asbestozun fəsadlaşması halında",
+        "Elektromaqnit şüalanmasının təsiri altında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "475. Dekompressiya xəstəliyi zamanı vestibulyar pozuntular müşayət edilir:",
+      "options": [
+        "Ümumi zəifliklə",
+        "Baş gicəllənməsi ilə",
+        "Ürək bulanma və qusma ilə",
+        "Eşitmə qabiliyyəti və müvazinətin itirilməsi ilə",
+        "Bütün sadalananlarla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "476. Dekompressiya xəstəliyinin ağırlaşmalarına nə aid deyil:",
+      "options": [
+        "Reyno sindromu",
+        "Görmənin pozulması",
+        "Parezlərin, ifliclərin və paraplegeylərin inkişafı",
+        "Huşun itirilməsi",
+        "Pnevmotoraks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "477. Dekompressiya xəstəliyinin əsas müalicə metodu:",
+      "options": [
+        "Müalicəvi rekompressiya",
+        "Normobarik hipoksikasiya",
+        "Oksigen terapiyası",
+        "Oksigen-helium qarışığı ilə inhalyasiya",
+        "Qanın ultrafiltrasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "478. Dalğıclarda 40 metrdən artıq olan dərinliklərdə hava azotunun təsirinin kliniki əlamətləri özünü göstərir:",
+      "options": [
+        "Orqanizmə narkotik təsir ilə",
+        "Hiperoksiya ilə",
+        "Kesson xəstəliyi ilə",
+        "Orta qulağın barozədələnməsi ilə",
+        "Disbarizm təzahürləri ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "479. Təzyiq altında olan oksigenlə və ya yüksək parsial təzyiqli oksigenlə nəfəsalamada ağır zədələnmələr zamanı inkişaf edir:",
+      "options": [
+        "Sinir sisteminin zədələnməsi",
+        "İndifferent qazların narkoloji təsiri",
+        "Yüksəklik xəstəliyi",
+        "Kesson xəstəliyi",
+        "Ağ ciyərlərin fibrozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "480. Dalğıcın sıxılmış havadan istifadə etdiyi zaman dərinlik çox olmamalıdır:",
+      "options": [
+        "60 metrdən",
+        "50 metrdən",
+        "40 metrdən",
+        "30 metrdən",
+        "120 metrdən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "481. Dağ xəstəliyinin inkişaf etdiyi hüdudlar:",
+      "options": [
+        "Dəniz səviyyəsindən 2-5 km yüksəkdə",
+        "Dəniz səviyyəsindən 0,5 km yüksəkdə",
+        "Dəniz səviyyəsindən 1-2 km yüksəkdə",
+        "Dəniz səviyyəsindən 5-7 km yüksəkdə",
+        "Dəniz səviyyəsindən 7 km-dən artıq yüksəkdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "482. Dəniz səviyyəsindən 0,5 km-dən 2 km-ə qədər yüksəklikdə:",
+      "options": [
+        "Əzələ yükünə uyğunlaşma aşağı düşür",
+        "Dağ xəstəliyi inkişaf edir",
+        "Indifferent zonadır",
+        "İntelektual iş qabiliyyətinin aşağı düşməsi və itməsi baş verir",
+        "Fiziki iş qabiliyyətinin aşağı düşməsi və itməsi baş verir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "483. Yüksək dağlıq ərazilərdə dağ xəstəliyinin gedişat və xarakaterinin əlavə amilləri:",
+      "options": [
+        "Qidalanma spesifikası",
+        "Günəş radiasiyası",
+        "Havanın ionlaşması",
+        "Hərarət və rütubətliliyin kəskin dəyişmələri",
+        "Bütün yuxarıda sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "484. 3-4 km yüksəkliyə qalxan zaman dağ xəstəliyinə tam uyğunlaşmaq üçün tələb edilir:",
+      "options": [
+        "1-2 ay",
+        "2-3 gün",
+        "1 həftə",
+        "2-3 həftə",
+        "1-2 həftə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "485. Dağ xəstəliyinin optimal müalicə metodudur:",
+      "options": [
+        "Oksigenlə inhalyasiya",
+        "Normobarik hipoksikasiya",
+        "Bronsgenişləndirici vasitələrlə inhalyasiya",
+        "Antioksidant (E vitamini) preparatlarının təyin edilməsi",
+        "Qlükozanın C vitamini ilə damardaxili yeridilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "486. İsidici mikroiqlimin təsiri ilə əmələ gələn xəstəliklərə aid edilir:",
+      "options": [
+        "Bütün sadalananlar",
+        "Sdalananlardan heç biri",
+        "Kəskin sistilik vurma",
+        "Yarımkəskin istilik vurma",
+        "Xroniki istivurma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "487. Kəskin istilik vurma keçirmiş şəxslərdə tez-tez müşahidə edilir:",
+      "options": [
+        "İstiliyə tolerantlığın azalması",
+        "Yuxarı ətrafların vegetativ-sensor polinevropatiyası sindromu",
+        "Hiperhəssas pnevmonitlər",
+        "Səs apparatının xəstəlikləri",
+        "Ətrafların soyuq neyrovaskuliti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "488. III dərəcəli soyuma xarakterizə edilir:",
+      "options": [
+        "Dəri və dərialtı toxumanın nekrozu",
+        "Epidermisin səthi qatı zədələnməsi",
+        "Epidermisin bazal qatının köpükcüklərin əmələ gəlməsi ilə zədələnməsi",
+        "Yumşaq toxumaların zədələnməsi",
+        "Sümüklərin zədələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "489. Rütubətli mühitdə uzun müddətli soyuma zamanı dama pozuntularının inkişafı və proqressivləşməsi kişilərdə nəyin əmələ gəlməsinə səbəb olur:",
+      "options": [
+        "Occlussiv endarteriitin",
+        "Prostatitin",
+        "Orxitin",
+        "Vibrasiya xəstəliyin",
+        "Silikosilikatozun"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "490. Civə ilə xroniki peşə zəhərlənməsi zamanı hansı antidotun tətbiq edilməsi məqsədəuyğun sayılır?",
+      "options": [
+        "Unitiol",
+        "Tiosulfat natrium",
+        "Tetatsin-kalsium",
+        "Flumazenil (aneksat)",
+        "Difenin (fenition)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "491. Elementar (metal) civənin peroral qəbulu zamanı intoksikasiyanın ilkin əlamətləri nə olacaq?",
+      "options": [
+        "İntoksikasiya inkişaf etməyəcək",
+        "Kəskin qaraciyər çatışmamazlığı",
+        "Oynaq və ətraflarda ağrılar",
+        "Transaminaz fəallığın yüksəlməsi",
+        "Tremor"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "492. Civə buxarları ilə xroniki zəhərlənmənin əlamətlərinə daxil deyil:",
+      "options": [
+        "Alopesiya",
+        "Yaddaşın və diqqətin zəifləməsi",
+        "Əl barmaqları uclarının tremoru",
+        "Emosional qeyri-sabitlik",
+        "Böyrəklərin zədələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "493. Civənin üzvu birləşmələri ilə xroniki zəhərlənmə zamanı inkişaf edir:",
+      "options": [
+        "Minimat xəstəliyi",
+        "Still xəstəliyi",
+        "Marfan xəstəliyi",
+        "Menetriye xəstəliyi",
+        "Menyer xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "494. Civə ilə zəhərlənmənin patogenezi şərtlənir:",
+      "options": [
+        "Fermentlərin sulfhidril qruplarının birləşməsi ilə",
+        "Xolinesterazın fəallığının pozulması ilə",
+        "Qana hemolitik təsir ilə",
+        "Qanda methemoqlobinin yaranması ilə",
+        "Civənin toksik təsirinin patogenezi məlum deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "495. Peşə xəstəliklərinə hamısı aiddir, birindən başqa:",
+      "options": [
+        "Layela sindromu",
+        "Siderosilikoz",
+        "Cilalayıcıların pnevmonokiozu",
+        "Toz bronxiti",
+        "Dekompressiya xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "496. Sadalananlardan hansı üzvu fosfor pastisidlərinə aid deyildir?",
+      "options": [
+        "Lindan",
+        "Neosidol",
+        "Malation",
+        "Bİ-58",
+        "Dixlofos"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "497. LD50 150-500 mq/kq-lik üzvu fosfor pestisidləri aiddirlər:",
+      "options": [
+        "Mülayim toksik pestisidlərə",
+        "Fövqəladə toksik pestisidlərə",
+        "Yüksəktoksikli pestisidlərə",
+        "Aztoksikli pestisidlərə",
+        "Qeyri-toksik pestisidlərə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "498. Fövqəladə toksik pestisidlər sinfinə aiddir, birindən başqa:",
+      "options": [
+        "Sayfos",
+        "Armin",
+        "Matafos",
+        "Oktametil",
+        "Fosfakol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "499. Yüksəktoksikli pestisidlərə aiddirlər, birindən başqa:",
+      "options": [
+        "Bromofos",
+        "Metilmerkaptofos",
+        "Nitrotion",
+        "Fozalon",
+        "Fosfamid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "500. Mülayim toksikli pestisidlərə aiddirlər, birindən başqa:",
+      "options": [
+        "Sidial",
+        "Butifos",
+        "Karbofos",
+        "Xlorofos",
+        "Qardona"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "501. Gəmiricilərə qarşı mübarizə üçün təyin edilmiş pestisidlər adlandırlır:",
+      "options": [
+        "Rodentisidlər",
+        "Herbisidlər",
+        "Funqisidlər",
+        "İnsektisidlər",
+        "Algisidlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "502. Herbisid-pestisidlər nə ilə mübarizə üçün təyin edilir :",
+      "options": [
+        "Alaqlarla",
+        "Gənələrlə",
+        "Gəmiricilərlə",
+        "Yosunlarla",
+        "Həşaratlarla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "503. Bütün üzvu fosfor pestisidləri üçün ümumi olan:",
+      "options": [
+        "Lipofillik",
+        "LD50",
+        "Minimal toksiklik dozası",
+        "Mütləq toksiklik dozası",
+        "Hidrofillik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "504. Hansı pestisidlərlə zəhərlənmə zamanı “letal sintez” fenomeni müşahidə edilir:",
+      "options": [
+        "Metafos, karbofos, xlorofos",
+        "Bromofos",
+        "Dixlofos",
+        "Sayfos",
+        "Bütün sadalananlarla"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "505. Civə ilə xroniki peşə zəhərlənmələri zamanı dimerkaptolla yanaşı tətbiq edilməsi mümkün olan antidot :",
+      "options": [
+        "D-penisillamin",
+        "Dipiroksim",
+        "Asetilsistein",
+        "Atropin sulfatı",
+        "Flumazenil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "506. Üzvü fosfor pestisidləri sırasının toksik təsirləri mexanizmi nə ilə əlaqəlidir:",
+      "options": [
+        "Antixolinesteraz təsir ilə",
+        "Opium reseptorlarının blokadası ilə",
+        "Methemoqlobin əmələ gəlməsi ilə",
+        "Alfa-adrenoreseptorlarının fəallaşması ilə",
+        "Asetaldegidin qanda yığılması ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "507. Sadalananlardan hansı üzvu fosfor zəhərlənməsinin əlaməti deyildir?",
+      "options": [
+        "Midriaz",
+        "Bronxoreya",
+        "Hipersalivasiya",
+        "Bradikardiya",
+        "Mioz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "508. Üzvu fosfor pestisidləri ilə zəhərlənmələr zamanı xolinesteraz reaktivatoru qismində hansı preparatdan sitifadə edilir?",
+      "options": [
+        "Dipiroksim",
+        "Atropin",
+        "Prozerin",
+        "Fizostiqmin",
+        "Unitiol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "509. Sadalanan preparat qruplarından hansı antidot qismində üzvu fosfor pestisidləri ilə zəhərlənmələr zamanı istifadə edilir?",
+      "options": [
+        "Oksimlər",
+        "Barbituratlar",
+        "Benzodiazepinlər",
+        "B qrupu vitaminləri",
+        "Xolinomimetiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "510. Üzu fosfor pestisidləri ilə zəhərlənmə zamanı farmokoloji antidot qismində istifadə edilir:",
+      "options": [
+        "Atropin",
+        "Prozerin",
+        "Kalsium xlorid",
+        "Natrium tiosulfat",
+        "Nalokson"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "511. Qanda üzvu fosforstisidləri ilə zəhərlənmənin markerləridirlər:",
+      "options": [
+        "Xolinesterazın fəallığın aşağı düşməsi",
+        "Sulfurhemoqlobinin səviyyəsinin yüksəlməsi",
+        "Methemoqlobinin mövcudluğu",
+        "Plazmanın osmolyar dəyişiklikləri",
+        "Qamma – qlutamiltransferaza səviyyəsinin aşağı düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "512. Aşağı dozada pestisidlərin uzunmüddətli təsiri zamanı inkişaf edir:",
+      "options": [
+        "Bütün sadalananlar",
+        "Toksik anemiyanı",
+        "Neyrodissirkulyator disfunksiyanı",
+        "Toksik nefropatiyanı",
+        "Toksik hepatopatiyanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "513. Xlorlu pestisidlərlə xroniki peşə zəhərlənmələri zamanı tətbiq edilməsi məsləhət görülür:",
+      "options": [
+        "Antioksidantların",
+        "Xolinesterazın reaktivləşdiricilərinin",
+        "Mərkəzi xolinolitiklərin",
+        "Beta-blokatorların",
+        "Monoaminoksidazı ingibatorlarının"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "514. Sadalananlardan hansı xlor üzvi pestisdlərinə aid deyil?",
+      "options": [
+        "Neosidol",
+        "Lindan",
+        "DDT",
+        "Aldan",
+        "Dilor"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "515. DDT ilə peroral zəhərlənmə zamanı letal dozanı təşkil edir:",
+      "options": [
+        "500 mq/kq",
+        "50 mq/kq",
+        "5 mq/kq",
+        "0,5 mq/kq",
+        "0,05 mq/kq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "516. Xlor üzvu pestisidləri ilə xroniki zəhərlənmələr zamanı spesifik antidot hansıdır?",
+      "options": [
+        "Spesifik zərdab mövcud deyil",
+        "Dipiroksim",
+        "Dietiksim",
+        "Alloksim",
+        "Budoksim"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "517. Bütün xlor üzvu pestisidlərinin fərqləndirici cəhəti nədir?",
+      "options": [
+        "Ətraf mühitdə yüksək davamlılıq",
+        "Turşuların təsirinə aşağı davamlılıq",
+        "Aşağı lipotropluq",
+        "Xolinesterazın fəallığının ləngidilməsi",
+        "Orqanizmdən tez eliminasiya olma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "518. Xlor üzvu pestisidləri ilə zəhərlənmələrin kliniki şəklində müşahidə edirlər:",
+      "options": [
+        "Bütün sadalananlar",
+        "Qıcıqlandırıcı təsirlər",
+        "Narkoloji təsirlər",
+        "Qıcolma təsirləri",
+        "Parenximatoz orqanların zədələnməsini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "519. Parakvat pestisidi:",
+      "options": [
+        "Herbisiddir",
+        "Fosfor üzvu insektisididir",
+        "Zoosiddir",
+        "Rodentisiddir",
+        "Üzvu xlor insektisididir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "520. Neft məhsulları buxarlarının nəfəs yolları və dəri vasitəsi daxil olması zamanı onların orqanizmə təsirləri:",
+      "options": [
+        "Bütün sadalananlar",
+        "Qıcıqlandırıcı təsirlər",
+        "Narkotik təsirlər",
+        "Dəri-rezorbtiv təsirləri",
+        "Ümumi toksik təsirlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "521. Neftlə kəskin peroral zəhərlənmənin klinikasının inkişafı xarakterizə edilir:",
+      "options": [
+        "Toksik pnevmoniya",
+        "Pnevmokonioz",
+        "Reyno sindromu",
+        "Zərdab Xolinesteraz fəallığının aşağı düşməsi",
+        "Kəskin qaracuyər çatışmamazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "522. Neft məhsuları ilə xroniki intoksikasiyanın klinikası özünü göstərir:",
+      "options": [
+        "Sinir sisteminin funksional pozuntuları ilə",
+        "Damardaxili hemolizlə",
+        "Ekstrapiramid pozuntularla",
+        "Xolinolitik sindromla",
+        "Benzin pnevmoniyasının inkişafı ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "523. Dərinin xam neft ilə daimi çirklənməsi səbəb olur:",
+      "options": [
+        "Bütün sadalananlara",
+        "Dərinin keratoz dəyişikliklərinə",
+        "Epiteliom əmələ gəlməsinə",
+        "Dermatozlara və dermatitlərə",
+        "Teleangiektazyalarla olan davamlı eritemalara"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "524. Benzin pnevmoniyasının müalicəsində əsas rolu oynayır:",
+      "options": [
+        "Antibiotiklər",
+        "Antidotlar",
+        "Natrium tiosulfat",
+        "Oksimlər",
+        "Fizioterapiya"
+      ],
+      "correct": 0
+    }
+  ]
+}

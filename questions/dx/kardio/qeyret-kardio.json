@@ -1,0 +1,1408 @@
+{
+  "questions": [
+    {
+      "question": "1. Aortal çatışmazlıqda nəbzin xüsusiyyəti:",
+      "options": [
+        "Bradikardiya",
+        "Səyrici aritmiya",
+        "Zəif, yavaş",
+        "Tez qalxan, boşalan və sürətli",
+        "İrreqular"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "2. Sadalanan EKQ əlamətindən hansı hipertoniya xəstəliyi üçün xarakterikdir?",
+      "options": [
+        "İti uclu P dişi II,III-cü aparmada",
+        "Sol mədəciyin hipertrofiyası",
+        "His dəstəsinin sağ ayağının blokadası",
+        "His dəstəsinin sol ayağının blokadası",
+        "Geniş R dişi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. Revmatik qızdırma üçün xarakterik deyil?",
+      "options": [
+        "Etiologiyası B-hemolitik streptokokkdur",
+        "Aşof-Talalatev qranuloması olur",
+        "Anular eritma olur",
+        "Ürək qüsuru yaranır",
+        "Oynaqlar deformasiya edir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "4. Revmatik qızdırmanın böyük kriteriyası hansı deyil?",
+      "options": [
+        "Xoreya",
+        "Anular eritema",
+        "Kardit",
+        "Heberden düyünü",
+        "Dərialtı düyünlər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "5. QRS kompleksinin eninin 0,12 san- dan çox olması hansının əlamətidir:",
+      "options": [
+        "AV blokadanın",
+        "Sinoaurikulyar blokadanın",
+        "His dəstəsinin ayağının blokadası",
+        "Qulaqcıq ekstrasistoliyasının",
+        "Qulaqcığın hipertrofiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "6. Ürəyin elektrij oxunun istiqaməti, EKQ aparmalarının hansıları ilə müəyyən olunur:",
+      "options": [
+        "I və II",
+        "II və III",
+        "I və III",
+        "AVR və AVL",
+        "V1 və V4"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Qrexm-Stil küyü nəyin üzərində eşidilir?",
+      "options": [
+        "Aorta üzərində",
+        "Zirvədə",
+        "Botkin nöqtəsində",
+        "Xəncərvari çıxıntının əsasında * E) Ağciyət arteriyası üzərində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Kumbs küyü nəyin üzərində eşidilir?",
+      "options": [
+        "Aorta üzərində",
+        "Zirvədə",
+        "Botkin nöqtəsində",
+        "Xəncərvari çıxıntının əsasında",
+        "Ağciyər arteriyası üzərində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "9.Traubenin ikili tonu eşidilir:",
+      "options": [
+        "Anemiyada",
+        "Aortal çatışmazlıqda",
+        "Aortal stenozda",
+        "Mitral çatışmazlıqda",
+        "Mitral stenozda"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "10. I ton güclənir:",
+      "options": [
+        "Ağciyər emfizemasında",
+        "Aortal çatışmazlıqda",
+        "Aortal stenozda",
+        "Mitral çatışmazlıqda",
+        "Mitral stenozda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "11. Sol mədəciyin diastolik disfunksiyası nə zaman daha çox müşahidə olunur?",
+      "options": [
+        "hipertrofik kardiomiopatiya zamanı",
+        "dilatasion kardiomiopatiya zamanı",
+        "restriktiv və hipertrofik kardiomiopatiya zamanı",
+        "restriktiv kardiomiopatiya zamanı",
+        "sağ mədəciyin aritmogen displaziyası zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12. Qaraciyərin həqiqi pulsasiyası hansının əlamətidir:",
+      "options": [
+        "Böyük qan dövranında durğunluq",
+        "Qaraciyərin kardial sirrozu",
+        "Ağciyərin arterial hipertenziyası",
+        "Aortal qapaq çatışmazlığı",
+        "Üçtaylı qapaq çatışmazlığı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Nəbzin dolğunluğu daha çox xarakterizə edir:",
+      "options": [
+        "Maksimal AT",
+        "Ürəyin vurğu həcmini",
+        "Arteriyanın genişlənmə dərəcəsini",
+        "Ürək əzələsinin yığılması sürətini",
+        "Damar dəstəsinin enini"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "14. Nəbz defisiti olur:",
+      "options": [
+        "Aortal çatışmazlıqda",
+        "Aortal stenozda",
+        "Səyrici aritmiyada",
+        "Damar tonusu azaldıqda",
+        "Ürək əzələsi ağır zədələndikdə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "15. Qulaqcıq fibrilyasiyası üçün hansı xarakterikdir:",
+      "options": [
+        "Mədəcik kompleksinin sayı 130-dan artıq olması",
+        "Vaxtından qabaq mədəcik kompleksinin olması",
+        "P dişinin olmaması",
+        "QT intervalinin uzanması",
+        "Delta dalğasının olması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "16. I dərəcə AV blokada üçün hansı xaraktetikdir:",
+      "options": [
+        "QRS kompleksinin yox olması",
+        "PQ intervalının 0,20 san-dən yüksək olması",
+        "PQ intervalının 0,16 san-dən yüksək olması",
+        "AV dissosasiya",
+        "PQ intervalının 0,19 san -dən yüksək olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "17. Mədəcik ekstrasistoloyası üçün xarakterik əlamətlər hansılardır: \n1) Vaxtından qabaq QRS kompleksi \n2) Qeyri tam kompensator pauza \n3) Tam kompensator pauza \n4) QRS kompleksinin deformasiyası \n5) Vaxtından qabaq P dişi",
+      "options": [
+        "1,3,5",
+        "1,3,4",
+        "2,3,4",
+        "3,4,5",
+        "2,4,5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "18. Strajeskonun top tonu üçün xarakterikdir:",
+      "options": [
+        "erkən mədəcik ekstrasistoliyası",
+        "tam AV blokada",
+        "qulaqcıq titrəməsi",
+        "qulaqcıq səyriməsi",
+        "WPV sidromu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "19. Qallop(çapma) ritminin yaranma mexanizmuni göstərin:",
+      "options": [
+        "I tonun parçalanması",
+        "II tonun parçalanması",
+        "Mitral qapagğın açılma tonu",
+        "III və IV tonun patoloji güclənməsi",
+        "Trikuspidal qapağın açılma tonu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "20. Revmatizm keçirilən streptokok infeksiyasından sonra hansı müddətdə başlayır:",
+      "options": [
+        "1-2 il",
+        "4 gün",
+        "2-3 həftə",
+        "5 ay",
+        "6 həftə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "21. Kəskin revmatik qızdırmanın ilkin əlamətlərinə hansılar aiddir:\n1) Kiçik xoreya, \n2) Aorta üzərində diastolik küy, \n3) Artrit, \n4) Dairəvi eritema, \n5) Düyünlü eritema",
+      "options": [
+        "1,2,5",
+        "3,4",
+        "1,2,3",
+        "1,4",
+        "1,5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "22. Revmatik poliartritə hansılar xarakterikdir: \n1) Oynaqların davamlı deformasiyası, \n2) Oynaqların qeyri-davamlı deformasiyası, \n3) Böyük və kiçik oynaqların zədələnməsi, \n4) Ağrıların uçucu olması, \n5) Qeyri-steroid iltihab əleyhinə dərman qəbulundan sonra keçməsi:",
+      "options": [
+        "1,2,5",
+        "3,4,5",
+        "1,2,3",
+        "1,4",
+        "1,5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "23.Kiçik xoreyaya xarakterikdir: \n1) Streptokok infeksiyasından 7-10 gün sonra, \n2) baş ağrısı, \n3) əzələlətin hipotoniyası, \n4) mimiki əzələrin qıcolma yığılmaları, \n5) epilepsiya tutması",
+      "options": [
+        "1,2,5",
+        "3,5",
+        "1,2,3",
+        "3,4",
+        "1,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Normada ürəyin yuxarı nisbi kütlük hüdudu solda döş sümüyü yanı xətt üzrə yerləşmişdir:",
+      "options": [
+        "II qabırğa səviyyəsində",
+        "V qabırğada",
+        "III qabırğa səviyyəsində",
+        "IV qabırğada",
+        "VI qabırğada"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "25. Alternərdici nəbz olur:",
+      "options": [
+        "Aortal çatışmazlıqda",
+        "Aortal stenozda",
+        "Səyrici aritmiyada",
+        "Miokardın ağır zədələnməsində",
+        "Ürək blokadalarında"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "26. Nisbi kütlüyün sərhəddinin solda II qabırğaarası sahədə olması nəyi göstərir:",
+      "options": [
+        "Ağciyər atelrktazını",
+        "Sol qulaqcığın dilatasiyasını",
+        "Sol mədəciyin dilatasiyasını",
+        "Aortanın genişlənməsini",
+        "Ağciyər arteriyasının daralmasını"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "27. Böyük qan dövranında durğunluq ürəyin ölçüləri böyümədiyi halda və palpasiyada zirvə vurğusunun olmaması hansı üçün xarakterikdir:",
+      "options": [
+        "Ağciyər ürəyi",
+        "Konstriktiv perikardit",
+        "Kardiomiopatiya",
+        "Aortanın anevrizması",
+        "Revmatik ürək qüsuru"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "28. Parodoksal nəbz olur:",
+      "options": [
+        "Aortal çatışmazlıqda",
+        "Ürəyin blokadalarında",
+        "Konstriktiv perikarditdə",
+        "Səyrici aritmiyada",
+        "Miokardın ağır zədələnməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "29. Miokarditə ən çox səbəb olan virüs hansıdır:",
+      "options": [
+        "su çiçəyi virusu",
+        "qrip virusu",
+        "Ku qızdırması",
+        "Kəmərləyici dəmirov xətəliyinin virusu",
+        "Koksaki"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "30. Dressler sindromu hansı xəstəlikdə olur:",
+      "options": [
+        "miokarditdə",
+        "Miokard infarktında",
+        "Revmatoid artritdə",
+        "Sistem qırmızı qurd eşənəyində",
+        "Perikarditdı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "31. Mitral stenozda simptomlar qapağın hansı ölçüsündə başlayır:",
+      "options": [
+        "3,5 cm2",
+        "3 cm2",
+        "<1,5 cm2",
+        "<2 cm2",
+        "4 cm2"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Mitral stenoza hansı səbəb deyil:",
+      "options": [
+        "Revmatik miokardit",
+        "İnfeksion endokardit",
+        "Virus miokarditi",
+        "Anadangəlmə",
+        "Kalsifikasiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "33. Mitral stenozda hansı olur:",
+      "options": [
+        "Kontrast müayinədə, qida borusu böyük radius qövsü boyunca əyilir",
+        "Kontrast müayinədə, qida borusu kiçik radius qövsü boyunca əyilir",
+        "Sol mədəcik böyüyür",
+        "Qalxan aorta genişlənir",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "34. Mitral stenoz zamanı hansı əlamət müştərək mitral qapaq çatışmazlığı olduğunu göstərir:",
+      "options": [
+        "I tona yapışan yüksək tezlikli sistolik küy",
+        "Mitral qapağın açılma tonu",
+        "Yüksək I ton",
+        "Taxikardiya",
+        "Taxipnoe"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35. Üçtaylı qapağın üzvi zədələnməsinin səbəbi:",
+      "options": [
+        "Revmatizm",
+        "İnfeksion endokardit",
+        "Ebşteyn anomaliyası",
+        "Travma",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Üçtaylı qapağın çatışmazlığının klinik əlaməti deyil:",
+      "options": [
+        "Assit",
+        "Hepatomeqaliya",
+        "Ödem",
+        "Xəncərvari çıxıntının əsasında pansistolik küy",
+        "Ortopnoe"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "37. Verilən simptomlardan hansı ikisi infeksion endokardit diaqnozunu dəqiqləşdirir: \n1) Aortal qapaq çatışmazlığı, \n2) Qanın əkilməsinin müsbət nəticəsi, \n3) Qızdırma, \n4) Exokardioqrafiyada vegetasiyanın olması, \n5) Mikrohematuriya, \n6) EÇS-in qalxması",
+      "options": [
+        "2,5",
+        "3,5",
+        "1,2",
+        "2,4",
+        "5,6"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "38. İnfeksion  endokarditin dəri əlaməti hansıdır: \n1) Osler düyünü, \n2) Jenuya ləkəsi, \n3) Rota ləkəsi, \n4) Lukin ləkəsi, \n5) Anular eritema",
+      "options": [
+        "4,5",
+        "2,3,5",
+        "1,2",
+        "2,4",
+        "1,2,5"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "39. Miokardit hansı xəstəlik zamanı inkişaf etmir?",
+      "options": [
+        "Amiloidoz",
+        "Revmatoid artrit",
+        "Sistem qırmızı qurd eşənəyi",
+        "Revmatoid artrit",
+        "Düyünlü periarterit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40. Fibrinoz perikarditdə ağrının lokalizasiyası haradadır?",
+      "options": [
+        "döş qəfəsinin sağ tərəfində sağ ələ irradiasiya etməklə",
+        "epiqastriyada",
+        "epiqastral nahiyədə, döş qəfəsinin arxasında, döş qəfəsinin sol tərəfində, sol qola və boyuna irradasiya edir",
+        "döş qəfəsinin sol tərəfində",
+        "döş sümüyünün arxasında"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "41. Hansı anadangəlmə qüsur “Göy” qüsurlara aiddir:",
+      "options": [
+        "Qulaqcıqlararası çəpərin defekti",
+        "Mədəciklərarası çəpərin defekti",
+        "Aortanın koartikasiyası",
+        "Fallo tetradası",
+        "Aortanın stenozu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "42. Mitral requrgitasiya ən çox rast gəlinir: \n1) Hipertrofik kardiomiopatiya, \n2) Dilatasion kardiomiopatiya, \n3) Restriktiv kardiomiopatiya, \n4) Dishormonal miokardiodistrofiya, \n5) Sağ mədəciyin aritmogen displaziyasında",
+      "options": [
+        "1,2,3",
+        "2,3,4",
+        "1,2,3,4",
+        "1,3,4",
+        "1,2,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43. Konstruktiv perikarditdə baş verir:",
+      "options": [
+        "Venoz təzyiq azalır və arterial təzyiq artır",
+        "Venoz təzyiq artır və arterial təzyiq azalır",
+        "Venoz təzyiq və arterial təzyiq dəyişmir",
+        "Arterial təzyiq azalır",
+        "Venoz təzyiq azalır"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "44. Böyüklərdə anadangəlmə ürək qüsurunun hansı daha çox rast gəlinir:",
+      "options": [
+        "Eyzenmenger kompleksi",
+        "Mədəciklərarası çəpərin defekti",
+        "Epşteyn anomaliyası",
+        "Fallo tetradası",
+        "Qulaqcıqlararası çəpərin defekti"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "45. Kəskin infeksion endokarditin daha çox rast gəlinən törədicisi:",
+      "options": [
+        "Yaşılı steptokok",
+        "Stafilokok",
+        "Pnevmokok",
+        "Klebsiella",
+        "Xlamidiya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "46. Mitral stenoz üçün hansı auskultativ əlamət daha xarakterikdir:",
+      "options": [
+        "Mitral qapağın açılma tonu",
+        "Zirvədə I tonun zəifləməsi",
+        "Aorta üzərində II tonun zəifləməsi",
+        "Aorta üzərində II tonun aksenti",
+        "Ağciyər arteiriyası üzərində II tonun zəifləməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47. Hansı laborator əlamət kəskin revmatik qızdırmanın əlaməti deyil:",
+      "options": [
+        "EÇS-in artması",
+        "a2 və qamma qlobunin qanda artması",
+        "C-reaktiv zülalının artması",
+        "Trombositopeniya",
+        "Antistreptokok antitelinin titrinin artması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "48. Hansı mülahizə pulsus differns üçün səhvdir:",
+      "options": [
+        "Bir nəbzin əlin birində o birisinə nəzarən zəifləməsidir",
+        "Mitral stenozda olur",
+        "Körpücükaltı arteriyanın mexanik sıxılması hesabına olur",
+        "Aorta qövsünün anevrizmasında olur",
+        "O ürək fəaliyyətindən və damar sisteminin vəziyyətindən asılı deyil"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "49. Eksudativ perikarditdə hansı klinik dəyişiklik olmur?",
+      "options": [
+        "Yüksək AT",
+        "Ürəyin sərhəddinin bütün istiqamətdə genişlənməsi",
+        "Boyun venasının şişməsi",
+        "Sistolik AT-nin azalması",
+        "Aşağı nəbz təzyiqi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50. Konstruktiv perikarditin klinik əlamətinə hansı aid deyil?",
+      "options": [
+        "Venoz təzyiqin artması",
+        "Venoz təzyiqin azalması",
+        "Sistolik AT- nin azalması",
+        "Assit",
+        "Ürəyin ölçüsünün azalması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "51. Kəskin fibrinoz perikardit üçün xarakterik deyil?",
+      "options": [
+        "Bədən hərarətinin qalxması",
+        "Döş sümüyü arxasında ağrı",
+        "Perikardın sürtünmə küyü",
+        "Bradikardiya",
+        "Disfagiya, udğunduqda döş sümüyü arxasında ağrı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "52. Miokardit üçün daha xarakterik əlamətləri göstərin:",
+      "options": [
+        "Ürək nahiyyəsində ağrı, ürəkdöyünmə, təngənəfəslik",
+        "Ürək nahiyyəsində ağrı,ürəkdöyünmə, bayılma",
+        "Ürək nahiyyəsində ağrı, təngnəfəslik, assit",
+        "Ürək nahiyyəsində ağrı, quru öskürək",
+        "Ürək nahiyyəsində ağrı, quru öskürək, yüksək hərarət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53. Arterial hipertoniyada nəbz:",
+      "options": [
+        "Pulsus molis",
+        "Pulsus vaccus",
+        "Pulsus celer et altus",
+        "Pulsus durus",
+        "Pulsus plenus"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Pulsus parvus at rarus olur:",
+      "options": [
+        "Aortanın stenozunda",
+        "Aortal qapaq çatışmazlığında",
+        "Mitral stenozda",
+        "Mitral qapaq çatışmazlığında",
+        "Üçtaylı qapaq çatışmazlığında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55. Aortanın stenozunun cavan yaşlarda əsas səbəbi hansıdır:",
+      "options": [
+        "İnfeksion endokardit",
+        "Arterial hipertenziya",
+        "Revmatizm",
+        "Marfan sindromu",
+        "Ateroskleroz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "57. Hansı perikard boşluğunda maye üçün xarakterik deyil?",
+      "options": [
+        "Ürəyin ölçüsünün artması",
+        "Zirvə vurğusunun itməsi",
+        "Karlaşmış tonlar",
+        "Rentgendə ürək pulsasiyasının itməsi",
+        "Perikardın sürtünmə küyü"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Hansı simptom aortal stenoz üçün xarakterikdir:",
+      "options": [
+        "Dəri örtüyünün diffuz sianozu",
+        "Traubenin ikili tonu",
+        "Myüsse simptomu",
+        "Yuxu arteriyasının rəqsi",
+        "Dəri örtüyünün avazıması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "59. Mitral-aortal qüsur zamanı ağciyər venasında təztiqin artması ilk öncə nəyə aparır:",
+      "options": [
+        "Ağciyərin ödeminə",
+        "Ağciyər arteriyasının spazmına",
+        "Ağciyər arteriyasının sklerozuna",
+        "Sadalananların heç birisinə",
+        "Eyni vaxtda sadalananların hamısına"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "60. Mitral stenozun üstünlüyü ilə gedən, kombinə olunmuş mitral stenoz və aortal çatışmazlıq hansı patogenetik xüsusiyyətə malikdir:",
+      "options": [
+        "Mitral stenoz aortal qapağın hemidinamik yüklənməsini pisləşdirir",
+        "Mitral stenoz aortal qapağın çatışmazlığı zamanı sol mədəcik dekompensasiyasını sürətləndirir",
+        "Mitral stenoz sol mədəciyin hemodinamik yüklənməsini azaldır",
+        "Hamısı aiddir",
+        "Heç biri aid deyil"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "61. Ürək qüsurları zamanı ürək qlikozidləri hansı halda işlənir:",
+      "options": [
+        "Ürək çatışmazlığı aortal stenoz fonunda olduqda",
+        "Ürək çatışmazlığı aortal çatışmazlıq fonunda olduqda",
+        "Taxisistolik forma səyrici aritmiya olduqda",
+        "Sadalananların heç birində",
+        "Sadalananların hamısında"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "62. Mitral stenozda diastolik küy yaxşı eşidilir:",
+      "options": [
+        "Ayaq üstə durduqda",
+        "Dərin nəfəs aldıqda",
+        "Sol böyrü üstə uzanıb, nəfəs aldıqda",
+        "Sol böyrü üstə uzanıb, nəfəs verdikdə",
+        "Yuxarıdakıların hamısında"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "63. Arterial hipertenziyanın dərəcəsi hansı ilə müəyyən olunur:",
+      "options": [
+        "Krizlərin sayına görə",
+        "Risk faktorlarının olmasına görə",
+        "AT-nin səviyyəsinə görə",
+        "Hədəf üzvlərin zədələnməsinə görə",
+        "Assosiasiya olmuş xəstəliklərlə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "64. Aşağıdakılardan hansı II-li arterial hipertenziyanın səbəbi deyil?",
+      "options": [
+        "Böyrək xətəlikləri",
+        "Endokrin xəstəliklər",
+        "Qaraciyər xəstəlikləri",
+        "Hədəf üzvlərin zədələnməsinə görə",
+        "Assosiasiya olmuş xəstəliklərlə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "65. Aşağıdakılardan hansı arterial hipertenziyalı xəstənin ürək-damar riskini müəyyən etdikdə nəzərə alinmir:",
+      "options": [
+        "AT-nin səviyyəsi",
+        "Şəkərli diabet",
+        "Metabolik sindrom",
+        "AXOX",
+        "Papiros çəkmək"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "66. Hansı arterial hipertenziyanın assosiasiya olmuş klinik vəziyyəti deyil:",
+      "options": [
+        "İşemik beyin insultu",
+        "Hemorragik beyin insultu",
+        "Görmə sinirinin ödemi",
+        "Mitral qapaq prolapsı",
+        "Tranzitor işemik həmlə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "67. AT-nin III dərəcəsi hansı AT səviyyəsi ilə müəyyən olunur:",
+      "options": [
+        "170/110 mm.Hg",
+        "180/110 mm.Hg və yüksək",
+        "150/90 mm. Hg və yüksək",
+        "200/120 mm.Hg və yüksək",
+        "210/120 mm. Hg və yüksək"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "68. AT-nin I dərəcəsi hansı AT səviyyəsi ilə müəyyən olunur:",
+      "options": [
+        "130/80 – 149/89 mm. Hg",
+        "135/85 – 155/94 mm. Hg",
+        "140/90 – 159/99 mm. Hg",
+        "145/95 – 165/104 mm. Hg",
+        "150/99 – 170/109 mm.Hg"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "69. Antihipertenziv müalicədə hansı qeyri-rasional kombinasiya hesab olunur:",
+      "options": [
+        "B blokator və alfa blokator",
+        "AÇFİ və kalsium antaqonisti",
+        "B blokator və qeyri-dihidropiridin qrupu kalsium antaqonisti",
+        "AÇFİ və diuretik",
+        "AT II reseptoru blokatoru və diüretik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "70. Sağlam insanda Q dişi nəyi göstərir:",
+      "options": [
+        "Mədəciklərarası çəpərin oyanmasını",
+        "Sağ mədəciyin əsasının oyanmasını",
+        "Sol mədəciyin əsasının oyanmasını",
+        "Ürəyin elektrik sistolasını",
+        "Sol mədəciyin aktivləşmə müddətini"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71. Əgər xəstənin sidiyində yüksək adrenalin və noradrenalin tapılarsa aşağıdakı xəstəliklərdən hansı ehtimal oluna bilər:",
+      "options": [
+        "Feoxromositoma",
+        "İtsenko- Kuşinq xəstəliyi",
+        "İtsenko- Kuşinq sindromu",
+        "Birincili hiperaldosteronizm",
+        "Vazorenal hipertoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72. Əgər xəstənin qanında 2,5 mmol/l kalium tapılarsa aşağıdakı xəstəliklərdən hansı ehtimal oluna bilər:",
+      "options": [
+        "Feoxromositoma",
+        "İtsenko-Kuşinq xəstəliyi",
+        "İtsenko- Kuşinq sindromu",
+        "Birincili hiperaldosteronizm",
+        "Vazorenal hipertoniya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "73. Bədxassəli arterial hipertoniya üçün aşağıdakılardan hansı xarakterikdir?",
+      "options": [
+        "tor qişasının arteriyalarının zədələnməsi",
+        "aşağı ətraf damarlarının aterosklerozu",
+        "ürək ritminin pozulması",
+        "qanda lipidlərin artması",
+        "ürəkdə blokadaların əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74. Bədxassəli arterial hipertoniya xəstəliyi üçün xarakterik simptomlar hansılardır?",
+      "options": [
+        "göz dibinin ağır zədələnməsi",
+        "hipertonik ensefalopatiya",
+        "böyrəklərin funksiyalarının pozulması",
+        "bütün sadalananlar",
+        "yüksək arterial təzyiq ( 220/130 mm.c.süt.)"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "75. Aterosklerozun xarici əlaməti hansıdır:",
+      "options": [
+        "Ksantoma, ksantelezma, qüzehli qişada lipoid həlqəsi",
+        "Buşar düyünüü",
+        "Lukin-Libman ləkəsi",
+        "Osler düyünü",
+        "Düyünlü eritema"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76. Miokard infarktı keçirmiş xəstədə aşağı sıxlıqlı lipoproteidin məqsəd səviyyəsi:",
+      "options": [
+        "5 mmol/l",
+        "2,5 mmol/l-dən az",
+        "4,5 mmol/l-dən az",
+        "1 mmol/l",
+        "3 mmol/l-dən az"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77. Hansı xəstəlikdə miokardın oksigenə təlabatı ilə çatdırılması arasında uyğunsuzluq olur:",
+      "options": [
+        "Stabil gərginlik stenorkardiyası",
+        "Spontan stenokardiya",
+        "Proqressivləşən gərginlik stenokardiyası",
+        "İlk yaranan stenokardiya",
+        "Stenokardiyanın istənilən variantı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78. Konstriktiv sıxıcı perikarditin rentgenoloji əlaməti hansıdır: \n1) Ürək kölgəsində ürəyin böyüməsi və pulsasiya olmur, \n2) Ürək qövslərinin hamatlanması və differensasiyasının itməsi, \n3) Perikardın kirəcləşməsi, \n4) Bədən vəziyyəti dəyişdikdə zirvə vurğusunun yerinin dəyişməməsi",
+      "options": [
+        "1,2,3",
+        "1,3",
+        "2,4",
+        "1,2,3,4",
+        "1,2"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "79. Hansı auskultativ əlamət mitral qabaq prolapsı üçün xarakterik deyil:",
+      "options": [
+        "Gec sistolik küy",
+        "Flint küyü",
+        "Sistolik çıqqıltı fenomeni",
+        "Mezosistolik küy",
+        "Erkən sistolik küy"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "80. Variant stenokardiya üçün hansı düzdür:",
+      "options": [
+        "ST seqmentinin deprrssiyası",
+        "Ağrının fiziki hərəkət zamanı yaranması",
+        "İnfarkt miokarddan sonra yaranır",
+        "Səbəbi koronar damar spazmıdır",
+        "Təlabatın artması hrsabına olur"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "81. Dressler sindromu üçün hansı xarakterik deyil:",
+      "options": [
+        "Perikardit",
+        "Plevrit",
+        "Kəskin mədə xorası",
+        "Eozionofiliya",
+        "Bədən temperaturasının qalxması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "82. Prinsmetal stenokardiya üçün seçim dərmanı hansıdır:",
+      "options": [
+        "Prolonq nitratlar",
+        "Kalsium antaqonisti",
+        "B-blokator",
+        "Trombolitik",
+        "Statinlər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "83. AT-nin qolda artması və ayaqlarda azalması hansı xəstlik üçün xarakterikdir:",
+      "options": [
+        "Takayasu xəstəliyi üçün",
+        "Aortanın koartikasiyası üçün",
+        "Feoxromositoma üçün",
+        "İtsenko-Kuşinq xəstəliyi üçün",
+        "Kon sidromu üçün"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "84. 46 yaşlı xəstədə gecə döş sümüyü arxasında göynədici ağrı baş vermişdir. EKQ-də ST seqmentinin elevasiyası müəyyən olunmuşdur. Xəstədə verilənlərdən hansı birini ehtimal etmək olar:",
+      "options": [
+        "Prinsmetal stenokardiya",
+        "Təkrari miokard infarktı",
+        "İnfarkdan sonra anevrizma",
+        "Ağciyər arteriyasının tromboemboliyasl",
+        "Mitral qapaq prolapsı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85. Gərginlik stenokardiyası I FS: \n1) Ağrı səhər yuxudan qalxdıqda baş verir, \n2) Ağrı lap çox sürətli yeridikdə və qaçdıqda baş verir, \n3) Ağrı sürətlənmiş yeridikdə, yeməkdən sonra pilləkənlə qalxdıqda, soyuq havada və ya emosional stresdə baş verir, \n4) Veloerqometrdə 80 Watt yükdə baş verir, \n5) Ağrı 100-200 m məsafədə getdikdə və ya adi tempdə pilləkən qalxdıqda",
+      "options": [
+        "1,2",
+        "2,3,4",
+        "5",
+        "2,3,5",
+        "2"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "86.Gərginlik stenokardiyası II FS: \n1) Ağrı səhər yuxudan qalxdıqda baş verir, \n2) Ağrı lap çox sürətli yeridikdə və qaçdıqda baş verir, \n3) Ağrı sürətlənmiş yeridikdə, yeməkdən sonra pilləkənlə qalxdıqda, soyuq havada və ya emosional stresdə baş verir, \n4) Veloerqometrdə 80 Watt yükdə baş verir, \n5) Ağrı 100-200 m məsafədə getdikdə və ya adi tempdə pilləkən qalxdıqda",
+      "options": [
+        "1,2",
+        "2,3,4",
+        "5",
+        "2,3,5",
+        "3,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Gərginlik stenokardiyası III FS: \n1) Ağrı səhər yuxudan qalxdıqda baş verir, \n2) Ağrı lap çox sürətli yeridikdə və qaçdıqda baş verir, \n3) Ağrı sürətlənmiş yeridikdə, yeməkdən sonra pilləkənlə qalxdıqda, soyuq havada və ya emosional stresdə baş verir, \n4) Veloerqometrdə 80 Watt yükdə baş verir, \n5) Ağrı 100-200 m məsafədə getdikdə və ya adi tempdə pilləkən qalxdıqda",
+      "options": [
+        "1,2",
+        "2,3,4",
+        "2",
+        "2,3,5",
+        "5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "88. Gərginlik stenokardiyası IV FS: \n1) Ağrı səhər yuxudan qalxdıqda baş verir, \n2) Ağrı lap çox sürətli yeridikdə və qaçdıqda baş verir, \n3) Ağrı sürətlənmiş yeridikdə, yeməkdən sonra pilləkənlə qalxdıqda, soyuq havada və ya emosional stresdə baş verir, \n4) Veloerqometrdə 80 Watt yükdə baş verir, \n5) Ağrı 100 m- dən az məsafə getdikdə və ya sakitlikdə",
+      "options": [
+        "1,2",
+        "2,3,4",
+        "2",
+        "2,3,5",
+        "5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "89. Hansı EKQ aparmalarında ST seqmentinin qalxması ön-arakəsmə miokard infarktını göstərir:",
+      "options": [
+        "II, III, aVF, V 5 - V 6",
+        "II, III, aVF",
+        "V1 - V3",
+        "I, aVL, V 5- V 6",
+        "I, aVL, V 1- V 6"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "90. Hansı dərman ST seqmentinin qalxmaması ilə gedən kəskin koronar sindromunda istifadə olunmur:",
+      "options": [
+        "Aspirin",
+        "Trombolitik",
+        "Heparin",
+        "B - blokator",
+        "Nitratlar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "91. Miokard infarktının kəskin mərhələsində hansı olmur:",
+      "options": [
+        "Ağciyərin ödemi",
+        "Dressler sindromu",
+        "Kardiogen şok",
+        "Mədə bağırsaq traktının parezi",
+        "Ritm və keçiricilik pozğunluğu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "92. Abdominal variant gedişli miokard infarktı ən çox təsadüf olunur:",
+      "options": [
+        "Ön-arakəsmə divarın miokard infarktında",
+        "Arxa divarın infarktında",
+        "Ön-yan divarın miokard infarktında",
+        "Subendokardial miokard infarktda",
+        "Yan divarın miokard infarktında"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "93. Miokard infarktının müalicəsində heparin istifadə etdikdə, hansı göstəriciyə əsasən heparinoterapiya nəzarət olunur:",
+      "options": [
+        "Qanın laxtalanma müddəti",
+        "AHTV(PTT)",
+        "İNR",
+        "Trombositin sayı",
+        "Protrombin müddəti(PT)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94. Miokard infarktın EXO-KQ əlaməti hansıdır:",
+      "options": [
+        "Diffuz hiperkinez",
+        "Diffuz hipokinez",
+        "Lokal hiperkinez",
+        "Lokal akinez",
+        "Mitral qapaq çatışmazlığı əlaməti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123. Hansı klinik əlamətlər hipertrofik kardiomiopatiya üçün xarakterikdir:",
+      "options": [
+        "Döş sümüyünün sol kənarında III-IV qabırğarası sahədə nəfəs almanın sonunda, nitroqliserin qəbulundan sonra artan sistolik küy",
+        "Döş sümüyünün sol kənarında III-IV qabırğarası sahədə nitroqliserik qəbulundan sonra azalan sistolik küy",
+        "Sistolik küy boyuna örtülür",
+        "II ton aortada zəifləyir",
+        "Hamısı düzdür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124. Hansı fiziki əlamət sol mədəcik çatışmazlığı üçün xarakterikdir:",
+      "options": [
+        "Assit",
+        "Ortopnoe",
+        "Anoreksiya",
+        "Boyun venasının şişməsi",
+        "Ayaqlarda ödem"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125. X-i tapın",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1. Çox rast gəlinir",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2. Sistolik disfunksiya olur",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3. Ən çox sol mədəcik çatışmazlığı ilə müşayiət olunur",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4. Kameraların genişlənməsi olur",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5. Ürək transplantasiyası effektivdir",
+      "options": [
+        "Miokardit",
+        "Miokard infarktı",
+        "Restriktiv kardiomiopatiya",
+        "Dilatasion kardiomiopatiya",
+        "Hipertrofik kardiomiopatiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "126. X-i tapın:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1. Ən az rast gəlinir",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2. Diastolik disfunksiya olur",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3. Ən çox sağ mədəcik çatışmazlığı ilə müşayiət olunur",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4. Qulaqcıqlar çox genişlənir",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5. Amiloidoz ikincili səbəbidir",
+      "options": [
+        "Miokardit",
+        "Miokard infarktı",
+        "Restriktiv kardiomiopatiya",
+        "Dilatasion kardiomiopatiya",
+        "Hipertrofik kardiomiopatiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "127. X- i tapın:",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "1. Rast gəlinir",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "2. Diastolik disfunksiya",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "3. Aortal stenoz əlaməti olur",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "4. septum hipertrofiyalaşır",
+      "options": [],
+      "correct": 0
+    },
+    {
+      "question": "5. Müalicəsində nitratlar əks göstərişdir",
+      "options": [
+        "Miokardit",
+        "Miokard infarktı",
+        "Restriktiv kardiomiopatiya",
+        "Dilatasion kardiomiopatiya",
+        "Hipertrofik kardiomiopatiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "128. Boşluqlar kateterizasiya olduqda hansı kriteriyaya əsasən qulaqcıqlararası çəpərin defekti diaqnozu qoyulur:",
+      "options": [
+        "Sol qulaqcıqda təzyiqin artması",
+        "Sağ qulaqcıqda təzyiqin artması",
+        "Sağ qulaqcıqda qanın oksigenlə doymasının yüksək olması",
+        "Sağ mədəcikdə təzyiqin artması",
+        "Yuxarıdakıların hamısı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "129. Qulaqcıqlararası çəpərin defekti ostium secundum tip çəpərin hansı hissəsində yerləşir:",
+      "options": [
+        "Qulaqcıqlararası çəpərin yuxarı hissəsində",
+        "Qulaqcıqlararası çəpərin orta hissəsində",
+        "Qulaqcıqlararası çəpərin aşağı hissəsində",
+        "Mədəciklərarası çəpərin yuxarı hissəsində",
+        "Yuxarıdakıların heç birində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "130. Qulaqcıqlararası çəpərin defekti otium primum tip çəpərin hansı hissəsində yerləşir:",
+      "options": [
+        "Qulaqcıqlararası çəpərin yuarı hissəsində",
+        "Qulaqcıqlararası çəpərin orta hissəsində",
+        "Qulaqcıqlararası çəpərin aşağı hissəsində",
+        "Mədəciklərarası çəpərin yuxarı hissəsində",
+        "Yuxarıdakıların heç birində"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "131. Qulaqcıqlararası çəpərin defekti sinus venosus tip çəpərin hansı hissəsində yerləşir:",
+      "options": [
+        "Qulaqcıqlararası çəpərin yuxarı hissəsində",
+        "Qulaqcıqlararası çəpərin orta hissəsində",
+        "Qulaqcıqlararası çəpərin aşağı hissəsində",
+        "Mədəciklərarası çəpərin yuxarı hissəsinə",
+        "Yuxarıdakıların heç birində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132. Stenokardiya sindromu ən çox hansı xəstələr üçün xarakterkdir?",
+      "options": [
+        "hipertrofik və dilatasion kardiomiopatiya",
+        "dilatasion kardiomiopatiya",
+        "hipertrofik kardiomiopatiya",
+        "miokardiz zamanı",
+        "restriktiv kardiomiopatiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "133. Hipertrofik obstruktiv kardiomiopatiya başqa cür necə adlandırılır?",
+      "options": [
+        "idiopatik subaortal stenoz",
+        "mitral stenoz",
+        "aortanın koarktasiyası",
+        "mədəciklərarası çəpərin hipertrofiyası",
+        "aortal stenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134. Konstruktiv perikardit üçün xarakterik deyil: *a) Kardiomeqaliya",
+      "options": [
+        "Vurğu həcminin azalması",
+        "Parodoksal nəbz",
+        "Perikardın kalsinozu",
+        "Ürəyin ölçüsünün normal olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135. Sol mədəciyin çatışmazlığı ilə ağrlaşmış hipertonik krizlərin aradan qaldırılması üçün hansı preparat işlədilir?",
+      "options": [
+        "laziks",
+        "klofellin",
+        "finoptin",
+        "obzidan",
+        "strofantin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136. Miokardın dsfunksiyasının xarakterini müəyyən etmək üçün hansı müayinə metodu istifadə olunur?",
+      "options": [
+        "EKQ",
+        "Xolter monitoru",
+        "EXO-KQ",
+        "Rentgen",
+        "Koronaroqrafiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "137. XÜÇ-ün II A mərhələsi üçün hansı xarakterikdir?",
+      "options": [
+        "Ağır fiziki iş zamanı təngənəfəslik",
+        "Sakitlikdə təngənəfəslik",
+        "Tez yorulma",
+        "Hər hansı bir qan dövranında durğunluq",
+        "Hər iki qan dövranında durğunluq"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "138. Dəqiqəlik həcmin artması ilə müşayiət olunan XÜÇ hansı xəstəlik zamanı olur?",
+      "options": [
+        "Aortal stenoz",
+        "Aortal çatışmazlıq",
+        "Mitral çatışmazlıq",
+        "Tireotoksikoz",
+        "Pulmonar qapaq stenozu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "139. NSD zamanı ürəyin ölçüsü dəyişir:",
+      "options": [
+        "sola böyüyür",
+        "sağa böyüyür",
+        "dəyişmir",
+        "izolə olunmuş sol qulaqcıq böyüyür",
+        "ürək total olaraq böyüyür"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "140. Hansı fiziki əlamət sol mədəcik çatışmazlığı üçün xarakterikdir?",
+      "options": [
+        "Assit",
+        "Ortopnoe",
+        "Anoreksiya",
+        "Boyun venasının şişməsi",
+        "Ayaqlarda ödem"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "141. Hansı stenokardiya üçün xarakterik deyil:",
+      "options": [
+        "Ağrının aşağı çənəyə irradiasiyası",
+        "Ağrının fiziki iş zamanı yaranması",
+        "Ağrı 40 dəq-dən artıq olması",
+        "Tac damarların stenozuun olması",
+        "Ağrının hava çatışmazlığı ilə müşahidə olunması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "142. Hansı göstərici sistolik disfunksiyanı xarakterizə edir:",
+      "options": [
+        "AF<45 %",
+        "AF>60 %",
+        "Transmitral axının azalması",
+        "AF<55",
+        "AF>50"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143. Hansı göstərici diastolik disfunksiyanı xarakterizə edir:",
+      "options": [
+        "AF<45 %",
+        "AF>60 %",
+        "Transmitral axının azalması (E/A)",
+        "AF<55 %",
+        "AF>50 %"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "144. Miokard infarktı zamanı qanda troponinin normallaşmasının müddəti:",
+      "options": [
+        "2 həftədən sonra",
+        "2-3 gündən sonra",
+        "3 həftədən sonra",
+        "5-6 gündən sonra",
+        "8-12 gündən sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145. Dilatason kardiomiopatiya zamanı xarakterik klinik mənzərə:",
+      "options": [
+        "Total ürək çatışmazlığı",
+        "Gərginik stenokardiyası zamanı",
+        "Yalnız sol mədəcik çatışmazlığı",
+        "Yalnız sağ mədəcik çatışmazlığı",
+        "Yalnız ritm və keçiriciliyin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146. Dilatasion kardiomiopatiyalı xəstələrdə ürək kameralarının hansı böyüyür?",
+      "options": [
+        "ürəyin bütün kameraları, əsasən sol mədəcik",
+        "sol mədəcik",
+        "sol mədəcik, sol qulaqcıq",
+        "sağ mədəcik, sol qulaqcıq",
+        "sağ mədəciyin dilatasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147. Konstruktiv perikarditli xəstələrdə obyektiv müayinənin nəticəsi:",
+      "options": [
+        "Stok yaxalığı",
+        "Ürək tonlarının güclənməsi",
+        "Zirvə vurğusunun güclənməsi",
+        "Zirvədə sistolik küy",
+        "Ürəyin bütün sərhədlərinin böyüməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148. XÜÇ -ün klassik triadası:",
+      "options": [
+        "təngənəfəslik, zəiflik və ayaqlarda ödem",
+        "dərin tənəffüs zamanı döş qəfəsində ağrı, öskürək, təngənəfəslik",
+        "döş sümüyü arxasna ağırlıq, təngənəfəslik və ürəkdöyünmə",
+        "hepatomeqaliya, assit və portal hipertenziya",
+        "gecə təngənəfəslik, öskürək və ürəkdöyünmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149. XÜÇ zamanı yaşam müddətini artırır:",
+      "options": [
+        "AÇF inhibitorları və B- adrenoblokatorlar",
+        "diuretiklər və spironolakton",
+        "ürək qlikozidləri",
+        "antiaqreqantlar və qeyri-düz antikoaqulyantlar",
+        "periferik vazodilatatorlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150. Konstruktiv perikardit üçün xarakterik deyil:",
+      "options": [
+        "ürəyin tamponadası",
+        "mədəciklərin boşluğunun böyüməəsi",
+        "parodoksal nəz",
+        "perikardda kirəcləşmə",
+        "diastolik disfunksiya"
+      ],
+      "correct": 1
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "questions": [
+    {
+      "question": "1. AÇF inhibitorlarının spesifik yanaşı effekti hansıdır?",
+      "options": [
+        "Ürək döyüntüləri",
+        "Dəri səpqisi",
+        "Üzün qızarması",
+        "Aşağı ətraflarda ödem",
+        "Quru öskürək"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "2. Arterial hipertenziyalı xəstələrin müalicəsi zamanı AT-nin endirilməsinin məqsədli səviyyəsi hansıdır?",
+      "options": [
+        "Sistolik AT 150 mm c. s. kimi azalması",
+        "140/90 mm c. süt. -dan aşağı",
+        "Diastolik AT 94 mm c. s. dək azalması",
+        "AT 160/90 mm c. s. kimi tədricən azalması",
+        "AT 10% azalması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "3. Hansı preparat qrupu hipotenziv preparatların əsas qrupuna aid deyil?",
+      "options": [
+        "Diuretiklər",
+        "β-blokatorlar",
+        "Kalsium antaqonistləri",
+        "AÇF inhibitorları",
+        "Periferik vazodilatatorlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "4. Hansı hipotenziv preparat AÇF inhibitorlara aid deyil?",
+      "options": [
+        "Lizinopril",
+        "Ramipril",
+        "Kaptopril",
+        "Perindopril",
+        "Valsartan"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "5. Arterial hipertenziyanın müalicəsində hansı preparatların kombinasiyası daha səmərəlidır?",
+      "options": [
+        "β–adrenoblokator+kalsium antaqonist (verapamil)",
+        "β–adrenoblokator+ tiazid diuretikləri",
+        "AÇF inhibitoru + tiazid diuretikləri",
+        "β-blokator + kalsium antaqonist (diltiazem)",
+        "AÇF inhibitoru + α-adrenoblokator"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "6. Arterial hipertenziya zamanı hansı preparat qrupu qlükozaya tolerantlığı poza bilər?",
+      "options": [
+        "α-adrenoblokatorlar",
+        "AÇF inhibitorları",
+        "Tiazid diuretikləri",
+        "Angiotenzin II reseptorlarının blokatorları",
+        "Kalsium antaqonistləri"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "7. Sinus taxikardiyası ilə müşayiət olunan arterial hipertenziyanın müalicəsində seçim preparat hansıdır?",
+      "options": [
+        "AÇF inhibitorları",
+        "α1–adrenoblokatorlar",
+        "Nifedipin",
+        "β-blokatorlarlar",
+        "Diuretiklər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "8. Klonidinin hipotenziv təsiri nə ilə əlaqədardır?",
+      "options": [
+        "Beta-adrenoreseptorların blokadası",
+        "Qan plazmasında reninin miqdarının azalması",
+        "Beta 1-adrenoreseptorların stimulyasiyası",
+        "Beta 2-adrenoreseptorların stimulyasiyası",
+        "Mərkəzi sinir sisteminin alfa-adrenoreseptorlarının stimulyasiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "9. AÇF inhibitorlarının təsiri ilə əlaqədardır?",
+      "options": [
+        "Bradikinin səviyyəsinin azalması ilə",
+        "Konvertəedici fermentin stimulyasiyası ilə",
+        "Angiotenzin II reseptorlarının stimulyasiyası ilə",
+        "Angiotenzin 1-in angiotenzin 2-yə çevrilməsinin blokadası ilə",
+        "Angiotenzin II reseptorlarının blokadası ilə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "10. Anamnezində paroksizmal taxisistolik səyrici aritmiya olan arterial hipertenziyalı xəstələrin müalicəsində seçim preparatı hansıdır?",
+      "options": [
+        "ürək qlikozidləri",
+        "Diuretiklər",
+        "α-adrenoblokatorlar",
+        "AÇF inhibitorları",
+        "Verapamil"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "11. Hipertoniya xəstəliyi olan xəstədə xroniki obstruktiv bronxitin kəskinləşməsi əlamətləri olduğu zaman hansı preparat əks göstərişdir?",
+      "options": [
+        "Diltiazem",
+        "Amlodipin",
+        "Hipotiazid",
+        "Propranolol",
+        "Lozartan"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. Arterial hipertenziya müalicəsi zamanı qeyd olunan dərman preparatlarından hansı Reyno sindromunun əmələ gəlməsinə səbəb ola bilər?",
+      "options": [
+        "Periferik vazodilatatorlar",
+        "Diuretiklər",
+        "Beta-adrenoblokatorlar",
+        "Nitratlar",
+        "Kalsium antaqonistləri"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "13. Arterial hipertenziya ilə müşahidə edilən xroniki ürək çatmamazlığının müalicəsinin seçim preparatı hansıdır?",
+      "options": [
+        "Amlodipin",
+        "Verapamil",
+        "Ürək qlikozidləri",
+        "Diltiazem",
+        "Diuretiklər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Arterial hipertenziya ilə müşayət olunan miokard infarktı zamanı hipotenziv seçim preparatı hansıdır?",
+      "options": [
+        "Furosemid",
+        "Klonidin",
+        "Prazozin",
+        "Metoprolol",
+        "Nifedipin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "15. Əgər arterial hipertenziya şəkərli diabetlə müşayiət edilirsə seçim preparatına hansı aid deyil?",
+      "options": [
+        "Kalsium antaqonistlər",
+        "AÇF inhibitorlar",
+        "Klonidin",
+        "Tiazid diuretiklər",
+        "Vazodilatatorlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "16. Arterial hipertenziya zamanı hansı hallarda(aşağıda sadalananlardan) α- adrenoblokatorlar təyin edilir?",
+      "options": [
+        "Durğunluq ürək çatışmazlığı",
+        "UİX",
+        "Aritmiyalar",
+        "Aortal qüsurlar",
+        "Prostat vəzinin adenoması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "17. Arterial hipertenziya müalicəsi zamanı β-blokatorların əsas əks-göstərişi?",
+      "options": [
+        "Müştərək AH ilə ekstrasistoliya və mədəciklərin fibriyasiyasının yüksək riski",
+        "Mitral qapağın prolapsı",
+        "Müştərək AH ilə ÜİX",
+        "Kəskin ürək catışmazlığı",
+        "Müştərək AH ilə taxiaritmiyalar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "18. Arterial hipertoniya zamanı kalsium antaqonistlərinin yanaşı effekti deyildir?",
+      "options": [
+        "Qəbizlik",
+        "İstilik",
+        "Dərinin qızarması",
+        "Başgicəllənmə",
+        "Beyin qan dövranının pisləşməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "19. Arterial hipertoniya zamanı kalsium antaqonistlərin təyinatinda göstəriş nədir?",
+      "options": [
+        "Dərinin qızarması",
+        "İstilik",
+        "Başgicəllənmə",
+        "Qəbizlik",
+        "Beyin qandövranının pisləşməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "20. Arterial hipertenziya ilə müşayiət olunan sinus bradikardiyası və sinus düyünün zəyifləməsi sindromu zamanı hipotenziv seçim preparatı hansıdır?",
+      "options": [
+        "Diltiazem",
+        "Verapam",
+        "Klonidin",
+        "Beta-adrenoblokatorlar",
+        "AÇF inhibitorlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "21. Arterial hipertoniya zamanı AÇFİ təyinatinda göstəriş deyil?",
+      "options": [
+        "Müştərək AH ilə ürək çatışmazlığının əlamətləri",
+        "Müştərək AH ilə şəkərli diabet",
+        "Müştərək АН ilə sunus bradikardiya",
+        "Müştərək AH ilə ÜİX",
+        "Aorta dəliyin ağır stenozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Bayılmanın səbəbi ola bilər:",
+      "options": [
+        "Sol hemiblokada",
+        "RBBB",
+        "Tam AV blokada (lll dər)",
+        "1dər. AV blokada",
+        "LBBB"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "23. Arterial hipertoniya zamanı Lozartanın təyinatinda göstəriş hansıdır?",
+      "options": [
+        "Böyrək arteriyanın iki tərəfli stenozu",
+        "Hipertrofik kardiomiopatiya",
+        "Hiperkaliyemiya",
+        "Aorta dəliyin stenozu",
+        "Diabetik nefropatiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "24. Bayılmanın patofizioloji mexaniminə hansı ayiddir:",
+      "options": [
+        "Hipertenziya",
+        "AV blokada 1 dər.",
+        "RBBB",
+        "beyinin hipoperfuziyası",
+        "LBBB"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "25. Hansı preparatlar xroniki ürək çatışmazlığı zamanı bazis preparatlar qrupuna aid deyil?",
+      "options": [
+        "AÇF inhibitorları",
+        "Diuretiklər",
+        "Antiaritmik",
+        "β blokatorlar",
+        "Ürək qlikozidlər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "26. Hansı preparat XÜÇ zamanı əsas preparatların qrupuna aid deyil?",
+      "options": [
+        "AÇF inhibitorları",
+        "Torasemid",
+        "Spirinolakton",
+        "Diqoksin",
+        "Amiodaron"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "27. Xroniki ürək çatışmazlığı zamanı hansı qrup preparatlar qızıl standarta uyğundur?",
+      "options": [
+        "Ca antaqonistləri",
+        "Ürək qlikozidləri",
+        "Diuretiklər",
+        "β blokatorlar",
+        "AÇF inhibitorları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "28. Xroniki ürək çatışmazlığı zamanı AÇF inhibitorları təyinatında göstəriş:",
+      "options": [
+        "Hipokaliemiya",
+        "Hiperkaliemiya",
+        "XBÇ zamanı böyrək funksiyasının pozulması",
+        "Аncaq XÜÇ dekompensasiya mərhələsində",
+        "Xroniki ürək çatışmazlığı, ilkin mərhədən başlayaraq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "29. Xroniki ürək çatışmazlığı zamanı AÇF inhibitorları təyinatında əks göstəriş:",
+      "options": [
+        "Xroniki ürək çatışmazlığının ilkin mərhələsi (FS, I-II, NYHA )",
+        "Xroniki ürək çatışmazlığı arterial hipertoniya fonunda",
+        "Xroniki ürək çatışmazlığı şəkərli diabet fonunda",
+        "Xroniki ürək çatışmazlığı AV blokada və sinus düyünün zəifləməsi sindromunun fonunda",
+        "İki tərəfli böyrək arteriyasının stenozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "30. Xroniki ürək çatışmazlığı zamanı ürək qlikozidlərin əks göstərişi?",
+      "options": [
+        "Supraventrekulyar taxikardiyası",
+        "Sol mədəciyin dilatasiyası",
+        "Sol mədəciyin disfunksiya əlamətdəri (AF <40%)",
+        "Sinus taxikardiyası",
+        "Paroksizmal mədəcik taxikardiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Xroniki ürək çatışmazlığı zamanı diqoksinin saxlayıcı dozası?",
+      "options": [
+        "1mg",
+        "0,75 mg",
+        "1,5mg",
+        "0,125-0. 25 mg",
+        "0,5mg"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Xroniki ürək çatışmazlığı zamanı ürək qlikozidlərin terapevtik effekti hansıdır?",
+      "options": [
+        "Hiperkalsiyemiya",
+        "Hipokalsiyemiya",
+        "Üzün hiperemiyasının azalması",
+        "Hipotenziv effekt",
+        "Təngnəfəsliyin və ödemlərin azalması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. β adrenoblokatorların təsirlərinə aid deyil:",
+      "options": [
+        "Mənfi dromotrop effekt",
+        "Mənfi inotrop effekt",
+        "Antiaritmik effekt",
+        "Müsbət inotrop effekt",
+        "Mənfi xronitrop effekt"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "34. Lipofil (yağda əriyən) β adrenoblokatorlara hansı aid deyil?",
+      "options": [
+        "Propranolol",
+        "Betaksolol",
+        "Metaprolol",
+        "Atenolol",
+        "Karvedilol"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "35. Xroniki ürək çatışmazlığı zamanı β adrenoblokatorların təyinatında əks-göstəriş:",
+      "options": [
+        "Xroniki ürək çatışmazlığı ÜİX fonunda",
+        "Xroniki ürək çatışmazlığı arterial hipertoniya fonunda",
+        "Xroniki ürək çatışmazlığı HKMP fonunda",
+        "Xroniki ürək çatışmazlığı sistolik disfunksiya ilə(AF 40%az)",
+        "Xroniki ürək çatışmazlığı, ağır dərəcəli AV blokada ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "36. Ağciyər xəstəliyi ilə müşayiət olunan xroniki ürək çatışmazlığı zamanı hansi β adrenoblokator daha məsləhətdir?",
+      "options": [
+        "Timolol",
+        "Labetolol",
+        "Nadolol",
+        "Propronalol",
+        "Bisoprolol"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "37. Xroniki ürək çatışmazlığı müalicəsi zamanı metaprololun ilkin dozası hansıdır?",
+      "options": [
+        "10 mq. sut",
+        "3,125 mq. sut",
+        "50 mq. sut",
+        "12,5 mq. sut",
+        "1,25 mq. sut"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "38. Nəzərəçarpan xroniki ürək çatışmazlığı zamanı (FS III-IV) və səyrici aritmiyanin daimi formasında hansı dərman secim preparatı deyildir?",
+      "options": [
+        "Ürək qlikozidləri",
+        "Diuretiklər",
+        "Anqiotenzin II reseptorların antaqonistləri",
+        "α –adrenoblokator",
+        "AÇF inhibitoru"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "39. Xroniki diastolik ürək çatışmazlığı müaliicəsi zamanı hansı qrup preparatlar əks göstərişdir?",
+      "options": [
+        "Kalsiy antaqonistləri",
+        "βadrenoblokator",
+        "Spironolakton",
+        "Ürək qlikozidləri",
+        "AÇF inhibitorları"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "40. Mitral stenoz fonunda seçim preparatlara aid deyil?",
+      "options": [
+        "Verapamil",
+        "Propranolol",
+        "Diuretiklər",
+        "AÇF inhibitoru",
+        "Antikoaqulyantlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "41. Хroniki ürək çatışmazlığı zamanı ağır dərəcəli aortal stenoz fonunda seçim preparatlara aid deyil?",
+      "options": [
+        "Spirinolacton",
+        "Dopamin",
+        "Amiodaron",
+        "Ürək qlikozidləri",
+        "β adrenoblokator"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Хroniki ürək çatışmazlığı zamanı mitral çatışmazlığı fonunda seçim preparatlara aid deyil?",
+      "options": [
+        "Diuretiklər",
+        "Diqoksin",
+        "α -adrenoblokatorlar",
+        "AÇF",
+        "Vazodilotatorlar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "43. Хroniki ürək çatışmazlığı zamanı aortal çatışmazlıq fonunda seçim preparatlara aid deyil?",
+      "options": [
+        "Ürək qlikozidləri",
+        "Vazodilotatorlar",
+        "ACF",
+        "Diuretiklər",
+        "Klonidin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "44. Хroniki ürək çatışmazlığı olan xəstələrdə metoprololun maksimal gündəlik dozası?",
+      "options": [
+        "50 mq",
+        "150 mq",
+        "100 mq",
+        "300 mq",
+        "200 mq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "45. Нansı preparat imtina sindromuna malikdir:",
+      "options": [
+        "alfa adrenoblokator",
+        "Antikoaqulyant",
+        "Kalsiy antaqonistləri",
+        "β adrenoblokator",
+        "AÇF inhibitorları"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "46. Хroniki ürək çatışmamazlığı müalicə zamanı ilqəkli diuretikların əks qöstərişi:",
+      "options": [
+        "Hipertonik kriz çatışmamazlığı",
+        "Arterial hipertenziya",
+        "Хroniki ürək çatışmamazlığı ödemin inkişafı ilə",
+        "Urolitiaz xəstəliyi",
+        "Kəskin sol mədəciyin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "47. Hansı preparat sidik qovucu təsiri daha güclüdür ?",
+      "options": [
+        "Diakarb(asetazolamid )",
+        "Spirinolakton",
+        "Hipotiazid",
+        "İndopamid",
+        "Furosemid"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "48. Aşağıda göstərilənlərdən hansı sinus taxikardiyasının səbəbi deyil?",
+      "options": [
+        "Septik şok",
+        "Anemiya",
+        "Qızdırma",
+        "Pulmonar emboliya",
+        "Hipotireoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "49. Aşağıda göstərilənlərdən hansı mədəciküstü aritmiyalara aid deyil?",
+      "options": [
+        "Qulaqcıq taxikardiyası",
+        "Atrioventrikulyar reentri taxikardiya",
+        "Qulaqcıq titrəməsi",
+        "Mədəcik taxikardiyası",
+        "Qulaqcıq səyriməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "50. Aşağıda göstərilənlərdən hansında P dalğaları əvəzinə xarakterik “mişar dişi” dalğaları görülür?",
+      "options": [
+        "Qulaqcıq taxikardiyası",
+        "Atrioventrikulyar reentri taxikardiya",
+        "Qulaqcıq səyriməsi",
+        "Mədəcik taxikardiyası",
+        "Qulaqcıq titrəməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "51. Aşağıda göstərilənlərdən hansı fikir mədəcik ektrasistoliyası üçün yalnışdır?",
+      "options": [
+        "İkisi ardıcıl gələrsə COUPLET adlanır",
+        "Mədəcik ekstrasistoliyası normal ürəkdə və üzvi ürək xəstəliklərində ola bilər",
+        "İkisi ardıcıl gələrsə bigeminiya adlanır",
+        "QRS kompleksi genişdir",
+        "Erkəndir,sonrakı normal vurğunun gözləndiyi yerdən öncə gəlir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "52. Aşağıda göstərilənlərdən hansı fikir mədəcik taxikardiyası üçün yalnışdır?",
+      "options": [
+        "Monomorfik və polimorfik morfologiyalı ola bilər.",
+        "Qanın elektrolit pozğunluqları mədəcik taxikardiyasına səbəb ola bilər.",
+        "Bayılmaya səbəb ola bilər.",
+        "Yalnız üzvi ürək xəstəliklərində olur.",
+        "Davamlı mədəcik taxikardiyası 30 san-dən artıq davam edir."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "53. Digoksin intoksikasiyasında hansı aritmiyalar müşahidə oluna bilər",
+      "options": [
+        "Mədəcik taxikardiya",
+        "Tam AV blok",
+        "Mədəcik ekstrasistoliya",
+        "göstərilənlərin hamısı",
+        "Sinus bradikardiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "54. Dar QRS kompleksli taxikardiyalara aid deyil:",
+      "options": [
+        "Sinus taxikardiyası",
+        "Qulaqcıqların titrəməsi",
+        "Qulaqcıqların fibrilyasiyası",
+        "Mədəcik taxikardiyası",
+        "Qulaqcıq taxikardiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "55. Hiperkalemiya zamanı EKQ-də aşağıdakılardan hansı görülə bilməz?",
+      "options": [
+        "T dalğalarının sivrilənməsi",
+        "Asistoliya",
+        "P dalğasının itməsi",
+        "QRS kompleksinin genişlənməsi",
+        "T dalğasının yastılanması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "56. Hipotiroidizm üçün xarakterikdir:",
+      "options": [
+        "T dalğasının sivriləşməsi",
+        "sinus taxikardiya",
+        "P dalğasının itməsi",
+        "QRS voltajının azalması və sinus bradikardiyası",
+        "QRS kompleksinin genişlənməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "57. EKQ-də QT intervalının uzanması aşağıdakılardan hansında müşahidə olunmur?",
+      "options": [
+        "Uzun QT sindromları",
+        "Hipokalsemiya",
+        "Hipokalemiya",
+        "Hipomagnezemiya",
+        "Hipertermiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Qulaqcıq səyirməsinin səbəblərinə aid deyil:",
+      "options": [
+        "İdiopatik",
+        "Hipotireoz",
+        "Alkoqol istifadəsi",
+        "Pulmonar emboliya",
+        "Kardiomiopatiyalar"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "59. Mədəcik fibrilyasiyası ilə əlaqəli səhv olan bəndi seçin.",
+      "options": [
+        "Ürək arrestlərinin bir növüdür",
+        "Təcili CPR icra ediməlidir.",
+        "Ürək nasos funksiyasını yerinə yetirə bilmir",
+        "Təcili elektrikli defibrilyasiya icra edilməlidir.",
+        "Dar QRS kompleksli taxikardiyadır."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "60. Bruqada sindromu üçün xarakterikdir:",
+      "options": [
+        "PR intervalının uzun olması",
+        "V2 və V3-də aydın T neqativliyi",
+        "Sol ön enən arteriyanın darlığının olması",
+        "QT intervalının uzun olması",
+        "Hiss dəstəsinin sağ ayaqcığının blokadası formasında V1-V3 aparmalarında 2mm ST seqment yüksəkliyi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "61. Sinus bradikardiyası EKQ kriteriyaları üçün xarakterik deyil:",
+      "options": [
+        "Ritm tezliyi 50 vurğu/dəq-dən aşağıdır.",
+        "P dalğaları aVR və V1 aparmalarında neqatif, digərlərində pozitivdir.",
+        "PR 120-200 msan arasındadır.",
+        "PP məsafəsi hər zaman düzənsizdir.",
+        "Ritm düzənlidir."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "62. Sinus bradikardiyasının simptomlarına aid deyil:",
+      "options": [
+        "Bayılma",
+        "Başgicəllənmə",
+        "Fiziki yükə qarşı tolerantlığın azalması.",
+        "Halsızlıq",
+        "Sürətli ürək döyünmə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Sinus bradikardiyasının etiologiyasına aid deyil:",
+      "options": [
+        "Degenerativ ürək xəstəlikləri",
+        "Amiloidoz",
+        "Hipotermiya",
+        "Hipertireoidizm",
+        "İşemik ürək xəstəlikləri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "64. Sinus düyünü disfunksiyasına aid deyil:",
+      "options": [
+        "Xronotropik yetərsizlik",
+        "Taxikardiya-bradikardiya sindromu",
+        "Sinus bradikardiyası",
+        "Atrioventrikulyar blokada",
+        "Sinus dayanması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "65. Qulaqcıq səyirməsi olan xəstələrdə insult üçün risk faktorlarına aid deyil:",
+      "options": [
+        "Yaş",
+        "Keçirilmiş insult",
+        "Şəkərli diabet",
+        "Qadın cinsi",
+        "Hipotireoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "66. Uzun QT sindromunda müşahidə oluna bilər:",
+      "options": [
+        "EKQ-də uzanmış QT intervalı",
+        "Polimorfik mədəcik taxikardiyası",
+        "Bayılma",
+        "Ani ürək ölümü",
+        "hamısı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Torsades de pointes aşağıdakılardan hansına aiddir?",
+      "options": [
+        "Qulaqcıqların fibrilyasiyasıdır.",
+        "Vaxtından əvvəl oyanma sindromudur.",
+        "Polimorfik mədəcik taxikardiyasıdır.",
+        "Monomorfik mədəcik taxikardiyasıdır.",
+        "Mədəciküstü taxikardiyadır."
+      ],
+      "correct": 2
+    },
+    {
+      "question": "68. Qısa QT sindromu üçün xarakterik deyil:",
+      "options": [
+        "EKQ-də qısa QT aralığı ( QTc< 300 msan )",
+        "Ani ölüm riskinin profilaktikasında ürəkdaxili defibrilyator implantasiyasıdır.",
+        "Yüksək ani ölüm riski",
+        "Bayılma",
+        "Müalicəsi yalnız medikamentozdur."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. Vaxtından əvvəl oyanma sindrom ( WPW ) EKQ kriteriyalarına aid deyil:",
+      "options": [
+        "PR intervalı qısalır.",
+        "QRS-in genişliyi artır.",
+        "Ən sıx görünən ritm pozğunluğu mədəciküstü taxikardiyadır.",
+        "QRS başlanğıcında delta dalğası görünür.",
+        "Daha çox mədəcik taxikardiyası görülür."
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Hipertenziv xəstələr üçün hansı ritm pozğunluğunun növləri xarakterikdir?",
+      "options": [
+        "Mədəcik fibrilyasiyası",
+        "Uzun QT sindromu",
+        "Qulaqcıqların səyirməsi",
+        "Mədəcik taxikardiyası",
+        "WPW sindromu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "71. Torsade de points riskini artıran faktorlara aid deyil:",
+      "options": [
+        "Qanda Mg səviyyəsinin aşağı olması",
+        "Bradikardiya",
+        "Miokardın işemiyası",
+        "Qanda Ca səviyyəsinin aşağı olması",
+        "Taxikardiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "72. Mədəciküstü taxikardiyaların sonlanmasında daha çox istifadə olunan dərman maddəsi hansıdır?",
+      "options": [
+        "Lidokain",
+        "Flekainid",
+        "Amiodaron",
+        "Atropin",
+        "Verapamil"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. Kəskin miokard infarktı zamanı aspirinin başlanğıc dozası:",
+      "options": [
+        "75mg",
+        "100mg",
+        "150mg",
+        "200mg",
+        "300mg"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "74. Sinə ağrısı ilə təcili yardıma müraciət etmiş xəstəyə ilk olaraq necə yanaşılmalıdır?",
+      "options": [
+        "exokardioqrafiya olunmalı",
+        "döş qəfəsi rentgenoqrafiyası",
+        "spirometriya",
+        "EKQ çəkilməlidir",
+        "tredmil-test olunmalı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "75. 1ay əvvəl miokard infarktı keçirmiş xəstə yenidən sinədə olan ağrılarla həkimə müraciət etdi. EKQ-də heç bir yeni dəyişiklik yoxdur. Xəstənin vəziyyəti nə ilə izah oluna bilər?",
+      "options": [
+        "koronar X sindrom",
+        "prinsmetal stenokardiya",
+        "gərginlik stenokardiyası",
+        "yeni miokard infakrtı",
+        "postinfarkt qeyri stabil stenokardiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "76. Tredmil test nə zaman istifadə olunur?",
+      "options": [
+        "mitral çatışmazlığı müəyyən etmək üçün",
+        "aortal stenozun müəyyən etmək üçün",
+        "qeyri stabil stenokardiyanın diaqnostikasında",
+        "miokard infarktının diaqnostikasında",
+        "koronar arteriyalarda darlığın aşkar edilməsi üçün"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. Aşağıda göstərilənlərdən hansı transmural nekrozun EKQ-də diaqnostik göstəricisidi?",
+      "options": [
+        "neqativ T dişi",
+        "QRS komleksin QS formaya dəyişilməsi",
+        "PR seqmentinin depressiyası",
+        "uzun QT intervalı",
+        "ST depressiyası"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "78. Ciddi ürək çatışmazlığı olan xəstələrdə aşağıdakı preparatlardan hansını istifadə etmək olmaz?",
+      "options": [
+        "diqoksin",
+        "furosemid",
+        "spironolakton",
+        "verapamil",
+        "kaptopril"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "79. Stent nədir?",
+      "options": [
+        "koronar angioqrafiyanı icra etmək üçün istifadə olunan kateterin adıdır",
+        "aorta-koronar şuntlamada istifadə olunan xüsusi materialdır",
+        "damardakı darlığı aradan götürmək üçün istifadə olunan balondur",
+        "qapaq xəstəlikləri zamanı istifadə olunan metal qapağın adıdır",
+        "damardakı darlığı aradan qaldırmaq üçün istifadə olunan boruşəkilli metal qəfəsdir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Kəskin miokard infarktı keçirmiş xəstə infarktdan 2 həftə sonra nəfəs alıb verməklə artıb azalan sinə ağrısında şikayət edir. Bu vəziyyətə nə səbəb ola bilər?",
+      "options": [
+        "yeni miokard infakrtı",
+        "miokardit",
+        "gərginlik stenokardiyası",
+        "qeyri-stabil stenokardiya",
+        "dressler sindromu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "81. Abdominal tip miokard infarktı zamanı ağrının lokalizasiyası?",
+      "options": [
+        "kürək sümüyünün altı",
+        "sol iliak nahiyə",
+        "retrosternal nahiyə",
+        "sol qol",
+        "epiqastrial və yaxud sağ qabırğaaltı nahiyə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "82. Aşağıdakılardan hansı ürəyin işemik xəstəliyinin risk faktorlarına aid deyil?",
+      "options": [
+        "hipertoniya xəstəliyi",
+        "siqaretçəkmə",
+        "hiperxolesterinemiya",
+        "irq",
+        "şəkərli diabet"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "83. Prinsmetal stenokardiyanın patofizioloji mexanizmi nədir?",
+      "options": [
+        "koronar tromboz",
+        "koronar emboliya",
+        "pilək yırtılması",
+        "koronar arteriyanı daraldan piləyin olması",
+        "koronar spazm"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "84. Miokard infarktı zamanı yüksəlməyən ferment hansıdır?",
+      "options": [
+        "CK-MB",
+        "troponin",
+        "mioqlobin",
+        "qələvi fosfataza",
+        "AST"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "85. Ürəyin işemik xəstəliyi zamanı EKQ-dəki dəyişikliklərn hansı seqmentdə görülər?",
+      "options": [
+        "PR intervalı",
+        "T dalğası",
+        "QRS kompleksi",
+        "ST seqmenti",
+        "P dişi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Aşağıdakılardan hansı metabolik sindromlu xəstələrdə müşahidə olunan əlamət deyil?",
+      "options": [
+        "abdominal piylənmə",
+        "aşağı yüksək sıxlıqlı lipoproteid səviyyəsi",
+        "hipertriqliseridemiya",
+        "hipoinsulinemiya",
+        "hipertenziya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "87. Gərginlik stenokarduyası nədir?",
+      "options": [
+        "plevrotik tip sinə ağrısıdır",
+        "adbominal tip miokard infarktıdır",
+        "miokard infarktının sinonimidir",
+        "sakitlikdə yaranan stenokardiyadır",
+        "fiziki gərginlik zamanı yaranan stenokardiyadır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "88. Aşağıdakılardan hansı sinus bradikardiyası hesab olunur? (ÜVS-ürək vurğularının sayı)",
+      "options": [
+        "ÜVS-92v/dəq",
+        "ÜVS-85v/dəq",
+        "ÜVS-110v/dəq",
+        "ÜVS-95v/dəq",
+        "ÜVS-50v/dəq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "89. Aşağıdakılardan hansı xəstənin bayılmasına səbəb ola bilər?",
+      "options": [
+        "I dərəcə AV blokada",
+        "sol ön hemiblokada",
+        "his dəstəsinin sağ ayaqcığının tam blokadası",
+        "his dəstəsinin sol ayaqcığının tam blokadası",
+        "Tam AV blokada"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "90. Son 24 saat ərzində Sildenafil preparatı qəbul etmiş xəstədə stenokardiya inkişaf edərsə aşağıdakı preparatlardan hansının istifadəsi əks göstərişdir?",
+      "options": [
+        "aspirin",
+        "metaprolol",
+        "verapamil",
+        "atorvastatin",
+        "nitroqliserin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "91. Miokard infarktının 2-ci günündə ürəyin auskultasiyasında yeni yaranmış sistolik küy (aşağıda göstərilənlərdən)nəyi göstərir?",
+      "options": [
+        "miokar infarktının böyüməsini",
+        "sol mədəciyin hipertrofiyasının",
+        "aortal çatışmazlığı",
+        "mədəcikləarası çəpər defektini",
+        "aortal stenozun yaranmasının"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "92. LV ön divar STEMI-nin kəskin mərhələsinin meyarları hansılardır?",
+      "options": [
+        "I, avL, V1-V6 aparıcılarında ST seqmentinin depressiyası",
+        "II, III, avF aparıcılarında ST seqmentinin yüksəlməsi",
+        "I, avL, V1-V4 aparıcılarında ST seqmentinin yüksəlməsi",
+        "Mədəcik ekstrsistolar",
+        "II, III, avF aparıcılarında ST seqmentinin depressiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "93. LV-nin aşağı divarının STEMI-nin kəskin mərhələsinin meyarları hansılardır?",
+      "options": [
+        "I, avL, V1-V6 aparıcılarında ST seqmentinin depressiyası",
+        "Mədəcik ekstrsistolar",
+        "I, avL, V1-V4 aparıcılarında ST seqmentinin yüksəlməsi",
+        "II, III, avF aparıcılarında ST seqmentinin qalxması",
+        "II, III, avF aparıcılarında ST seqmentinin depressiyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "94. Metodların reperfuziya terapiyasına aid olmadığını göstərin?",
+      "options": [
+        "Stentləşdirmə",
+        "CABG",
+        "Trombolizlər",
+        "Angioplastika",
+        "Antikoaqulyasiya terapiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "95. Qeyri-stabil stenokardiya zamanı diaqnostikada hansı üsuldan istifadə olunur?",
+      "options": [
+        "Stolun əyilmə sınağı",
+        "Elektrofizioloji tədqiqat",
+        "Vazodilatorlar",
+        "Stress testi",
+        "Koronar angiofiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. Kəskin koronar sindromala əlaqəli olmadığını göstərin:",
+      "options": [
+        "MI, ferment analizi ilə qoyulan diaqnoz",
+        "ST yüksəkliyi olmayan MI",
+        "Qeyri-stabil angina pektorisi",
+        "Stabil stenokardiya",
+        "ST yüksəkliyi MI"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "97. Ürək kateterizasiya laboratoriyasının mövcud olduğu mərkəzdə STEMI olan xəstələrdə reperfuzion terapiyanın aparıcı üsulunu göstərin:",
+      "options": [
+        "&nbsp;CABG",
+        "Medikamentoz müalicə&nbsp;",
+        "Trombolitik terapiya",
+        "Koronar angioplastika və stentin qoyulması",
+        "Medikamentoz müalicə + CABG"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "98. Miokard nekrozu üçün spesifik laborator markeru hansıdır?",
+      "options": [
+        "ALT",
+        "AST",
+        "LDH",
+        "CK (kreatin kinaz)",
+        "Troponin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "99. Q dalğası miokard infarktının yarımkəskin mərhələsi üçün tipik olaraq EKQ dəyişikliyi hansıdır?",
+      "options": [
+        "QT intervalının uzanması",
+        "ST seqmentinin depressiyası",
+        "T dalğasının inversiyası",
+        "Hündür T dalğası",
+        "Patoloji Q dalğası və izoelektrik ST seqmenti"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "100. Stenokardiya ilk hücumu olan xəstələrdə ən çox nəticə ehtimalını göstərin?",
+      "options": [
+        "Arterial hipertenziya",
+        "Kardioskleroz",
+        "Trombemboliya",
+        "Ürək çatışmazlığı",
+        "Miokard infarktı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "101. Miokard infarktından sonra troponin müsbət dövrünü göstərin?",
+      "options": [
+        "Bir neçə saat",
+        "Bir neçə ay",
+        "3-5 gün",
+        "1-2 gün",
+        "7-14 gün"
+      ],
+      "correct": 4
+    }
+  ]
+}

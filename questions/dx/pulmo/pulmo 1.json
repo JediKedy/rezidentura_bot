@@ -1,0 +1,1863 @@
+{
+  "questions": [
+    {
+      "question": "1.Hansında tifno indeksi  azalmışdır?",
+      "options": [
+        "Emfizema;",
+        "Lobar pnevmoniya;",
+        "Ankiloz Spondilit;",
+        "Kifoskoliyoz;",
+        "Traxeyit."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2.Aşağıdakı ağ ciyər xəstəliklərin hansında obstruktiv tipdə pozulma baş vermir?",
+      "options": [
+        "Pnevmokaniyoz;",
+        "Sistik Fibroz;",
+        "Bronxoektaziya;",
+        "Bronxiyolit;",
+        "Bronxiyal Astma."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3.Restriktiv tipdə gedən ağciyər xəstəliklərində aşağıdakılardan hansı gözlənilmir?",
+      "options": [
+        "Qalıq həcm artması;",
+        "Nəfəsvermənin  birinci saniyədəki həcminin azalması;",
+        "Ağ ciyərin həyat  tutumu azalması;",
+        "Nəfəsvermənin həcm sürətinin azalması;",
+        "Qalıq həcm azalması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4.Tənəffüs sisteminin xəstəliklərində xəstənin əsas şikayətlərinə aid deyil:",
+      "options": [
+        "Baş ağrıları;",
+        "Döş qəfəsində ağrı;",
+        "Təngənəfəslik;",
+        "Qanhayxırma;",
+        "Öskürək."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5.Bronxial astma zamanı əsas auskultativ əlamət:",
+      "options": [
+        "Polifonik quru xırıltılar;",
+        "Yaş xırıltılar;",
+        "Amforik tənəffüs;",
+        "Bronxial tənəffüs;",
+        "Plevranın  sürtünmə küyü."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6.Tənəffüs sisteminin xəstəlikləri zamanı xəstənin əsas şikayətinə aiddir:",
+      "options": [
+        "Təngnəfəslik;",
+        "Baş ağrıları;",
+        "Yuxusuzluq;",
+        "Yorğunluq;",
+        "Ümumi halsızlıq."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7.Bronxial tənəffüs hansı xəstəliyi xarakterizə etmir:",
+      "options": [
+        "Ekssudativ plevrit;",
+        "Pnevmoniya;",
+        "Ağ ciyər infarktı;",
+        "Ağ ciyər absesi;",
+        "Ağ ciyər vərəmi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8.Krepitasiyanın əmələ gəlmə mexanizminə aiddir:",
+      "options": [
+        "İltihab nəticəsində yapışmış alveolların hava seli təsirindən açılması;",
+        "Ağ ciyər damarlarının zədələnməsi;",
+        "Ağ ciyərlərdə interstisial toxumanın ödemi;",
+        "İri kalibrli bronxların obstruksiyası;",
+        "Bronxiolların zədələnməsi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9.Ağciyərlərin palpasiyası zamanı səs  titrəməsinin zəifləməsinə səbəb deyil:",
+      "options": [
+        "Pnevmoniyada;",
+        "Plevra boşluğuna maye toplanmasında;",
+        "Hidrotoraksda;",
+        "Massiv qalınlaşmada;",
+        "Pnevmotoraksda."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10.Plevranın sürtünmə küyü eşidilir:",
+      "options": [
+        "Parapnevmonik plevritdə;",
+        "Ağ ciyərlərin xronik obstruktiv xəstəliyində;",
+        "Bronxial astmada;",
+        "Bronxektaziyada;",
+        "İdiopatik ağciyər fibrozunda."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11.Perkutor səsin timpanik xarakteri aşkar edilir:",
+      "options": [
+        "Pnevmotoraksda;",
+        "Pnevmoniyada;",
+        "Plevritlərdə;",
+        "Ağ ciyər infarktında;",
+        "Ağ ciyər absesində."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12.Perkutor səsin kütləşməsi qeyd edilir:",
+      "options": [
+        "Pnevmoniyada;",
+        "Ağ ciyərlərin interstisial xəstəliklərində;",
+        "Səs tellərinin disfunksiyasında;",
+        "Xroniki obstruktiv ağ ciyər xəstəliyində;",
+        "Obliterasiyaedici bronxiolitdə."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13.Kəskin bronxitlərin əsas etioloji faktorudur:",
+      "options": [
+        "Respirator virus infeksiyaları;",
+        "Bakteriyal infeksiyalar;",
+        "Fungal infeksiyalar;",
+        "Vərəm mikobakteriya;",
+        "Mikoplasma."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14.Kəskin bronxitlərin əsas etioloji faktorlarına aid deyildir:",
+      "options": [
+        "Bakteriyal infeksiyalar;",
+        "Rinoviruslar;",
+        "Respirator-sinticial viruslar;",
+        "Adenoviruslar;",
+        "Qrip virusları."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15.Respirator virus infeksiyasına yoluxmada ikincili bakteriyal floranın bronxlarda kolonizasiyasına səbəb olan başlıca mexanizm:",
+      "options": [
+        "Bronxların selikli qişasının deskvamasiyası;",
+        "Ağ ciyər arteriyası sistemində damarların iltihabı;",
+        "Surfanktantın sintezinin azalması;",
+        "İnterstisial toxumanın ödemi;",
+        "Ağ ciyərlərdə perfuzion/ventilasiyon disbalans."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16.Ağ ciyərlərin xroniki obstruktiv xəstəliyinin inkşafının başlıca risk faktoruna aiddir:",
+      "options": [
+        "Tütün çəkmə;",
+        "Alkoqolizm;",
+        "Bakteriyal infeksiyalar;",
+        "Virus infeksiyalar;",
+        "Soyuqlama."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17.Ağ ciyərlərin xronik obstuktiv xəstəliyi zamanı obstruksiyanın xarakteri əsasən nə cür olur:",
+      "options": [
+        "Geriyədönməyəndir;",
+        "Aşağı ;",
+        "Tam geriyədönəndir;",
+        "İri kalibrli bronxların obstruksiyasıdır;",
+        "Yuxarı tənəffüs yollarının obstruksiyasıdır."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18.Ağciyərlərin emfizeması olan xəstənin əsas şikayəti:",
+      "options": [
+        "Təngənəfəslik;",
+        "Öskürək və bəlğəm ifrazı;",
+        "Döş qəfəsində ağrı;",
+        "Qanhayxırma;",
+        "Boğulma."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19.Emfizema tutması zamanı  əsas auskultativ əlaməti:",
+      "options": [
+        "Quru xırıltılar;",
+        "Yaş xırıltılar;",
+        "Plevranın sürtünmə küyü;",
+        "Səs titrəməsinin artması;",
+        "Amforik tənəffüs."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20.Ağ ciyərlərin emfizemasında əsas diaqnostik üsul:",
+      "options": [
+        "Spirometriya;",
+        "Rengenoqrafiya;",
+        "Exokardioqrafiya;",
+        "Ultrasəs müayinəsi;",
+        "Bronxoskopiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21.Ağ ciyərlərin emfizemasında hansı tip xarici tənəffüs funksiyası pozulması baş verir:",
+      "options": [
+        "Obstruktiv;",
+        "Restriktiv;",
+        "Kompensator;",
+        "Subkompensator;",
+        "İnspirator."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22.Ağciyərlərin emfizeması zamanı perkutor səsin dəyişməsi:",
+      "options": [
+        "Qutu səsi;",
+        "Kütləşmiş səs;",
+        "Küt səs;",
+        "Metallik səs;",
+        "Açıq səs."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23.Ağ ciyərlərin emfizeması zamanı əsas rentgenoloji əlamət:",
+      "options": [
+        "Ağ ciyərlərdə şəffaflığın artması;",
+        "Ağ ciyərlərdə nodulyar dəyişiklik;",
+        "Ağ ciyərlərdə interstçial xarakterli dəyişikliklərin olması;",
+        "Ağ ciyərlərdə lobar kölgəlik;",
+        "Köksdaxili adenopatiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24.Ağ ciyərlərin emfizeması zamanı əsas funksional dəyişilik",
+      "options": [
+        "Ağciyərlərdə qalıq hava həcminin artması;",
+        "Kiçik kalibrli bronxların obstruksiyası;",
+        "İnspirator qalıq həcminin artması;",
+        "Ağ ciyərlərin funksional qalıq həcminin azalması;",
+        "Ağ ciyərlərin ümumi həcminin azalması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25.Ağ ciyərlərin emfizeması inkişafı üçün başlıca daxili risk faktoru:",
+      "options": [
+        "α1-antripsinin çatışmazlığı;",
+        "Hiperqammaqlobulinemiya;",
+        "Laktatdehidrogenazanın defisiti;",
+        "C-reaktiv proteinin artması;",
+        "Hipertirodizm."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26.Ağciyərlərin emfizeması zamanı obstruksiyanın yaranmasının başlıca mexanizmi:",
+      "options": [
+        "Terminal bronxların obstruksiyası və ağciyər parenximasının zədələnməsi;",
+        "İri kalibrlibronxların obstruksiyası;",
+        "İri bronxlara kənardan kompressiya;",
+        "İnterstiçial toxumanın ödemi;",
+        "Ağciyər damarlarının keçiriciliyinin artması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27.Emfizema zamanı xəstəliyin bazis müalicəsinə aiddir:",
+      "options": [
+        "Uzuntəsir müddətli bronxolitiklərlə müalicə;",
+        "Antibiotikoterapiya;",
+        "Vitaminoterapiya;",
+        "Sistem qlükokortikosteroidlərlə müalicə;",
+        "Vaksinoterapiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28.Ağ ciyər emfizeması zamanı antibiotiklərin tətbiqinə  əsas göstəriş:",
+      "options": [
+        "Xəstəliyin kəskinləşməsi;",
+        "Xəstəliyin stabil gedişi;",
+        "Ürək çatmamazlığının əmələ gəlməsi;",
+        "Ağ ciyər arteriyasının trombemboliyası;",
+        "Funksional göstəricilərin pisləşməsi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29.Ağciyər emfizeması zamanı oksigenlə müalicəyə əsas göstəriş:",
+      "options": [
+        "Hipoksemiya;",
+        "Hiperventilasiya;",
+        "Taxikardiya;",
+        "Taxipnoe;",
+        "Hiperventilasiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30.Ağ ciyər emfizemasında  qripp əleyhinə vaksinasiya azaldır:",
+      "options": [
+        "Xəstələrin hospitalizasiyasına;",
+        "Tənəffüs yollarının obstruksiyasına;",
+        "Xəstələrin həyat keyfiyyətinə;",
+        "Bazis terapiyaya olan tələbata;",
+        "Gündəlik tütünə olan tələbata."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31.Ağ ciyərlərin emfizemasında respirator bronxiollarda ekspirator kollapsın başlıca mexanizmi:",
+      "options": [
+        "Alveolyar dəstəyin azalması;",
+        "İri kalibrli bronxların obstruksiyası;",
+        "Tənəffüs əzələlərinin aktivliyinin artması;",
+        "Yuxarı tənəffüs yollarının obstruksiyası;",
+        "Plevra təbəqələrinin qalınlaşması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32.Ağ ciyər emfizemasının zamanı seçim preparatları:",
+      "options": [
+        "Qısa təsir müddətli β2-aqonistlər;",
+        "Uzun təsir müddətli β2-aqonistlər;",
+        "Vaksinlər;",
+        "Mukolitiklər;",
+        "Anabolik hormonlar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33.Ağ ciyər emfizemasında cərrahi müdaxiləyə göstərişi təsdiq edən əsas müayinə üsulu:",
+      "options": [
+        "Ağciyərlərin kompyuter tomoqrafiyası",
+        "Bodipletizmoqrafiya",
+        "Spirometriya",
+        "Pikfloumetriya",
+        "Bronxoskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34.Ağ ciyərlərin emfizeması zamanı təngənəfəsliyin yaranmasının başlıca mexanizmi:",
+      "options": [
+        "Alveolların dağılması nəticəsində ağciyərlərin tənəffüs səthiliyinin azalması;",
+        "Alveolyar hiperventilasiya;",
+        "Orta və iri kalibrli bronxların mənfəzinin daralması;",
+        "İri kalibrli bronxların qığırdaq hissəsinindağılması;",
+        "Ağ ciyərlərin həyat tutumunun artması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35.Kəskin bronxitlər zamanı ağ ciyərlərdə əsas zədələnmə sahəsidir:",
+      "options": [
+        "İri və orta diametrli bronxlar",
+        "Ağciyərlərin parenximası",
+        "Terminal və respirator bronxiollar",
+        "Yuxarı tənəffüs yolları",
+        "Plevra təbəqələri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36.Kəskin bronxitlər zamanı başlıca risk faktorlarırlar:",
+      "options": [
+        "Respirator viruslar",
+        "Bakteriyalar",
+        "Göbələklər",
+        "Rikketsiyalar",
+        "Atipik mikroorqanizmlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37.Kəskin bronxitlər zamanı bronxların iltihabının aparıcı morfoloji elementlərindəndirlər:",
+      "options": [
+        "Neytrofillər",
+        "Limfositlər",
+        "Eozinofillər",
+        "Tosqun hüceyrələr",
+        "Makrofaqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38.Kəskin bronxitlərin başlıca diaqnostika üsuludur:",
+      "options": [
+        "Anamnestik və klinik əlamətlərin qiymətləndirilməsi;",
+        "Qanın qaz tərkibinin öyrənilməsi;",
+        "Spirometriya;",
+        "Kompyuter omoqraiyası;",
+        "Rentenoskopiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39.Kəskin bronxitlərin başlıca törədiciləri olan respirator virusların əhali arasnda yayılmasının əsas mexanizmidir:",
+      "options": [
+        "Hava-damcı yolu;",
+        "Hematogen yol;",
+        "Aspirasiyon yol;",
+        "Limfogen yol;",
+        "Alimentar yol."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40.Kəskin bronxitlər zamanı bakteriyaı infeksiyanın inkişafına şərait yaradır:",
+      "options": [
+        "Tənəffüs yollarında yerli müdafiə mexanizmlərininin pozulması;",
+        "Bronxların selikli qişasının qan təchizatının yaxşılaşması;",
+        "Bronxların sinir tənziminin pisləşməsi;",
+        "Bronxətrafı toxumada iltihabın inkişafı;",
+        "Bronxların obstruksiyası."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41.Kəskin bronxitlər zamanı göstərilənlərdən hansı ikincili bronxitin səbəbidir:",
+      "options": [
+        "Streptikokklar;",
+        "Hemofil çöplər;",
+        "Göbələklər;",
+        "Peptokokklar;",
+        "Neyseriyalar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42.Kəskin bronxitlər zamanı antibiotiklərlə müalicəyə göstərişdir:",
+      "options": [
+        "Bəlğəmin irinli olmassı",
+        "Bəlğəmin selikli olması",
+        "Bəlğəmin qanlı olması",
+        "Döş qəfəsində ağrının yaranması",
+        "Təngənəfəsliyin yaranması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43.Kəskin irinli bronxit zamanı müalicənin seçim preparatlarındandır:",
+      "options": [
+        "Aminopensillinlər",
+        "Ftorxinolonlar",
+        "Antifungal preparatlar",
+        "Virusəleyhinə preparatlar",
+        "Sulfanilamidlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44.Göstərilənlərdən hansı respirator virus mənşəli kəskin bronxitlərin müalicəsində başlıca yer tutur:",
+      "options": [
+        "Fiziki proseduralar və çoxlu maye qəbulu",
+        "Hormonlarla müalicə",
+        "Antivirus preparatları",
+        "Antibiotiklər",
+        "Sitostatiklərlə müalicə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46.Kəskin respirator virus infeksiyaları zamanı rast gələn başlıca ağırlaşma:",
+      "options": [
+        "Pnevmoniya",
+        "Pnevmotoraks",
+        "Abses",
+        "Plevranın empiyeması",
+        "Bronxektaziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47.Xroniki bronxit necə təyin olunur?",
+      "options": [
+        "2 il müşahidə zamanı ildə ən azı 3 ay davam edən xronik ökürək  və bəlğəm ifrazatının olması ilə",
+        "1 il ərzində davam edən quru  öskürəyin olması ilə",
+        "6 ay davam edən təngnəfəslik və öskürəyin olması ilə",
+        "Bəlğəm ifrazı ilə müşayət olnunan öskürəyin bir aydan çox davam etməsi ilə",
+        "Boğulma tutmalarının ən azı 1 il davam etməsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48.Xronik bronxitin kəskinləşməsinin başlıca etioloji faktorlarındandır:",
+      "options": [
+        "Hemofil çöplər",
+        "Göbələklər",
+        "Viruslar",
+        "Rikketsiyalar",
+        "Atipik mikroorqanizmlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49.Xronik bronxit zamanı iltihab prosesinin aparıcı hüceyrələridirlər:",
+      "options": [
+        "Neytrofillər",
+        "Eozinofillər",
+        "Makrofaqlar",
+        "Dendritik hüceyrələr",
+        "Limfositlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50.Xronik sadə bronxit zamanı rast gələn başlıca funksional dəyişilik:",
+      "options": [
+        "Funksional dəyişilik olmur",
+        "Obstruktiv tipli",
+        "Restriktiv tipli",
+        "Qarışıq tipli",
+        "Respirator tipli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51.Xronik sadə bronxit olan xəstələrdə başlıca spirometrik dəyişilik:",
+      "options": [
+        "Dəyişilik yoxdur",
+        "Qarışıq tipli",
+        "Kompensator tipli",
+        "Obstruktiv tipli",
+        "Restriktiv tipli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52.Xronik bronxit zamanı başlıca rentgenoloji tapıntıdır:",
+      "options": [
+        "Əhəmiyyət daşıyan tapıntı yoxdur",
+        "Yayılmış ikitərəfli kölgəlik",
+        "Düyünlü dəyişiliklər",
+        "Ocaqlı dəyişiliklər",
+        "Ağ ciyərin şəffaflığının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53.Xronik sadə bronxit zamanı rast gələn başlıca ağırlaşmadır:",
+      "options": [
+        "Ağırlaşma yoxdur",
+        "Tənəffüs yoxdur",
+        "Sol-tipli ürək çatışmazlığı",
+        "Sağ-tipli ürək çatışmazlığı",
+        "Plevranın empiyeması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54.Xronik bronxitin diaqnostikasının əsas üsulu:",
+      "options": [
+        "Sorğu vasitəsi ilə skrininq diaqnnostika",
+        "Rentgenoskopiya",
+        "Exokardioqrafiya",
+        "Spirometriya",
+        "Kompyuter tomoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55.Xronik bronxit zamanı rast gələn morfoloji tapıntı:",
+      "options": [
+        "Bronxların selikli qişasının epitelinin metaplaziyası",
+        "Bronxların obstruksiyası",
+        "Bronxların saya əzələlərinin atrofiyası",
+        "Bronxiolaların total obstruksiyası",
+        "Alveolların zədələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56.Xronik bronxitin kəskinləşməsinin risk faktorlarına aiddir:",
+      "options": [
+        "Kəskin respirator virus infeksiyaları",
+        "Sedativ dərmanlardan istifadə etmə",
+        "Antibiotiklərlə müalicə",
+        "Postural drenaj",
+        "Fiziki proseduralar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57.Xronik sadə bronxitin kəskinləşməsinin əsas klinik əlamətidir:",
+      "options": [
+        "Bəlğəm ifrazı ilə öskürəyin artması",
+        "Təngənəfəsliyin artması",
+        "Döş qəfəsində ağrıların yaranması",
+        "Taxikardiya",
+        "Hiperventilasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58.Xronik bronxitin infeksiyon kəskinləşmələri zamanı qrammənfi çöplərə təsir göstərən əsas preparat:",
+      "options": [
+        "Amoksisillin / klavulon turşusu",
+        "Sulfametaksazol/ Trimetropirim",
+        "Pentamidin",
+        "Doxysiklin",
+        "Qansiklovir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59.Xronik bronxitin infeksiyon kəskinləşmələri qrammüsbət olarsa seçim preparatıdır:",
+      "options": [
+        "Amoksisillin",
+        "İfipenem",
+        "Linezolid",
+        "Flukonazal",
+        "Cipropfloksasin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60.Xronik bronxitin kəskinləşməsi zamanı əsas biokimyəvi dəyişilik:",
+      "options": [
+        "Dəyişilik yoxdur",
+        "Laktatdehidrogenazanın artması",
+        "C-reaktiv proteinin artması",
+        "Laktoferrin səviyyəsinin yüksəlməsi",
+        "α2 makroqlobulinin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61.Xronik bronxitin kəskinləşməsi zamanı bəlğəmin ekstrapektorasiyasını çətinləşdirən preparatlar:",
+      "options": [
+        "I nəsil antihistaminlər",
+        "Karbosisteinlər",
+        "Ambroksol hidroxlorid",
+        "Kalium-yodid",
+        "Asetilsistein"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62.Bronxektaziya xəstəliyinin yaranma səbəbi deyildir:",
+      "options": [
+        "Xronik bronxit",
+        "Birincili çiliar diskineziya",
+        "Mukovissidoz",
+        "Allergik bronx ağciyər aspergillozu",
+        "Orta pay sindromu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63.Bronxektaziya xəstəliyi təyin edilir:",
+      "options": [
+        "İri və orta kalibrli bronxların morfoloji geriyədönməyə dilatasiyası ilə",
+        "Terminal və respirator bronxiolların obstruksiyası ilə",
+        "Traxeya və baş bronxların xondromalyasiyası ilə",
+        "Peribronxial fibroz ilə",
+        "Seqmentar bronxların obstruksiyası ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64.Bronxektaziya zamanı bakteriyal floranın kolonizasiyasının başlıca səbəbidir:",
+      "options": [
+        "Bronxların pataloji genişlənməsi",
+        "Bronxarın kompressiyası",
+        "Alveolların destruksiyası",
+        "Plevranın qalınlaşması",
+        "Köksdaxili təzyiqin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65.Bronxektaziyanın kəskinləşməsi zamanı aparıcı etioloji faktordur:",
+      "options": [
+        "Göy-yaşıl irin çöpləri",
+        "Mikoplazmalar",
+        "Legionellalar",
+        "Viruslar",
+        "Xlamidiyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66.Bronxektaziya xəstəliyinin əsas ağırlaşmalarından biridir:",
+      "options": [
+        "Ağ ciyər qanaxması",
+        "Ağ ciyər arteriyası hipertenziyası",
+        "Ağ ciyərin atelektazı",
+        "Plevranın empiyeması",
+        "Sol mədəcik çatmamazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67.Bronxektaziya xəstəliyinin diaqnostikasının əsas invaziv üsulu:",
+      "options": [
+        "Bronxoqrafiya",
+        "Kompyuter tomoqrafiya",
+        "Bronxoskopiya",
+        "Rentgenoskopiya",
+        "Spirometriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68.Bronektaziya xəstəliyinin diaqnostikasında əsas qeyri-invaziv üsul:",
+      "options": [
+        "Kompyuter tomoqrafiya",
+        "Torokoskopiya",
+        "Plevroskopiya",
+        "Bronxoqrafiya",
+        "Spirometriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69.Bronxektaziya xəstəliyi zamanı əsas funksional dəyişilik:",
+      "options": [
+        "Obstruksiya",
+        "Restriksiya",
+        "Bronxodilatasiya",
+        "Bronxomalyasiya",
+        "Bronxların ekspirator kollapsı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70.Bronxektaziya xəstəliyi zamanı obstruksiyasının xarakteridir:",
+      "options": [
+        "Qeyridönməyən rezistent obstruksiya",
+        "Tam geriyə dönməyən obstruksiya",
+        "Kompression obstruksiya",
+        "Traksiyon obstruksiya",
+        "Konstruktiv obstruksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71.Bronxektaziya zamanı rast gələn başlıca rentgenoloji tapıntı:",
+      "options": [
+        "Qaşlı üzük simptomu",
+        "Ağ ciyər köklərinin deformasiyası və fibroz",
+        "Diffuz interstisial",
+        "Buzlu şüşə simptomu",
+        "Arı pətəyi simptomu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72.Bronxektaziyanın kəskinləşmələrinin əsas səbəbidir:",
+      "options": [
+        "Bakteriyal infeksiyalar",
+        "Antibiotiklərin qəbulu",
+        "Vaksinoterapiya",
+        "Günəş şüalarının uzun müddətli təsiri",
+        "Postural drenaj"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73.Bronxektaziya xəstəliyinin əsas klinik simptomudur:",
+      "options": [
+        "Əsasən səhərlər çoxlu miqdarda irinli-selikli bəlğəm ifrazı",
+        "Təngənəfəslik",
+        "Tez yourulma",
+        "Döş qəfəsində ağrılar",
+        "Baş ağrılar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74.Bronxektaziyanın uzaq ağırlaşmasıdır:",
+      "options": [
+        "Daxili orqanların amiolodozu",
+        "Qanhayxırma",
+        "Təngənəfəslik",
+        "Pnevmotoraks",
+        "Absesin formalaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75.Bronxektaziyasına kəskinləşməsi zamanı əsas auskultativ tapıntıdır:",
+      "options": [
+        "Ortaqabarcıqlı yaş xırıltılar",
+        "Amforik tənəffüs",
+        "Krepitasiya",
+        "Bronxo-traxeal tənəffüs",
+        "Bronxo-vezikulyar tənəffüs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76.Pnevmoniya necə təyin olunur?",
+      "options": [
+        "Ağ ciyər parenximasının kəskin infeksiyon xarakterli iltihabı ilə",
+        "Bronxların selikli qişasının iltihabı ilə",
+        "İnterstsial toxumanın iltihabı ilə",
+        "Ağ ciyərlərdə kiçik kalibrli damarların iltihabı  ilə",
+        "Ağ ciyər köklərində limfa düyünlərinin böyüməsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77.Pnevmoniya zamanı xəstəliyi başlıca etioloji faktorudurlar:",
+      "options": [
+        "Pnevmokokklar",
+        "Rikketsiyalar",
+        "Viruslar",
+        "Göbələklər",
+        "Anareob bakteriyalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78.Pnevmoniya zamanı xəstəliyin patogenezinin başlıca mexanizmidir:",
+      "options": [
+        "Ağız-udlaq möhtəviyyatının mikroaspirasiyası",
+        "İnfeksiyanın hematogen yolla ağ ciyər tooxumasına daxil olması",
+        "İnfeksiyanın aerogen yolla ağciyər toxumasına daxil olması",
+        "İnfeksiyanın qonşu orqanlardan ağciyər toxumasına daxil olması",
+        "İnfeksiyanın ağ ciyər köklərindən ağ ciyər toxumasına daxil olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79.Pnevmoniyalar zamanı qram(-) çöplərin törədici kimi aktuallığını artırır:",
+      "options": [
+        "Yanaşı xronik xəstəliklər",
+        "Xəstənin cavan yaşı",
+        "Allerkgik situasiyalar",
+        "Xronik tonzillitin varlığı",
+        "Siqaretçəkmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80.Pnevmoniyalar zamanı stafilokokkların törədici kimi aktuallığını artırır:",
+      "options": [
+        "Qrip epidemiyaları ərəfəsində baş verən pnevmoniyalar zamanı:",
+        "Alkoqolizm",
+        "Narkomaniya",
+        "Siqaretçəkmə",
+        "Qalxanvarı vəzin xəstəlikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81.Pnevmoniyalar zamanı törədici kimi göy-yaşıl irin çöplərin aktuallığını artırır:",
+      "options": [
+        "Bronxektaziya fonunda baş verən pnevmoniya",
+        "Xroniik haymorit fonunda baş verən pnevmoniya zamanı",
+        "Adenovirus infeksiyası ilə əlaqəli pnevmoniya",
+        "Ağ ciyər vərəmi ilə yanaşı gedən pnevmoniya",
+        "Üzgüçülərdə pnevmoniya inkşaf edərsə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82.Pnevmoniya zamanı alveoldaxili eksudasiyanın yaratdığı başlıca səs fenomeni:",
+      "options": [
+        "Krepitasiya",
+        "Amforik tənəffüs",
+        "Bronxovezikuliyar tənəffüs",
+        "Plevranın sürtünmə küyü",
+        "Traxeal tənəffüs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83.Pnevmoniya zamanı plevranın sürtünmə küyünün yaranmasının əsas mexanizmi:",
+      "options": [
+        "Plevra təbəqələrinin iltihab prosesinə tutulması",
+        "Alveolların kəskin iltihabı",
+        "Bronların kəski iltihabı",
+        "Yanaşı vaskulitin olması",
+        "Bronxiolların iltihab nəticəsində tutulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84.Pnevmoniya zamanı bronxial tənəffüsün yaranmasının əsas mexanizmi:",
+      "options": [
+        "Ağciyər toxumasının konsolidasiyası nəticəsində səsin ötürülməsinin güclənməsi",
+        "Plevra boşluğuna havanın daxil olması",
+        "Plevra boşluğunda çoxlu maye toplanması",
+        "Ağ ciyər toxumasında iri ölçülü abses boşluğunun yaranması",
+        "Bronxların selikli qişasının atrofiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85.Pnevmoniya zamanı səs titrəməsi necə dəyişir?",
+      "options": [
+        "Güclənir",
+        "Dəyişmir",
+        "İtir",
+        "Zəifləyir",
+        "Təyin edilmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86.Pnevmoniyaya aiddir:",
+      "options": [
+        "Aşağı tənəffüs yollarının infeksiyon iltihabı",
+        "Yuxarı tənəffüs yollarının katarı",
+        "Ağ ciyər köklərində limfa düyünlərinin böyüməsi",
+        "Ağ ciyərdə kistoz-fibroz dəyişikliklərin əmələ gəlməsi",
+        "Ağ ciyərlərdə iri ölçülü kavernaların yaranması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87.Pnevmoniya ilə differensasiya tələb edən əsas xəstəlik:",
+      "options": [
+        "Ağ ciyərlərin infiltrativ vərəmi",
+        "Ağ ciyərlərdə exinokokk kistası",
+        "Ağ ciyərlərdə billuz emfizema",
+        "Ekssudativ plevrit",
+        "Plevral bitişmələr"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88.Pnevmoniyalı xəstənin əsas şikayətlərinə aiddir:",
+      "options": [
+        "Döş qəfəsində ağrılar, təngənəfəslik, quru və ya bəlğəmli öskürək",
+        "Baş ağrıları, arıqlama, axşam tərləmələri",
+        "Əzələ yorğunluğu, halsızlıq, hərarətin yüksəlməsi",
+        "İştahanın azalması, yorğunluq, hərarətin yüksəlməsi",
+        "Yanaqların hiperemiyası, dodaqlarda herpetik səpkilər, əzginlik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89.Pnevmoniya zamanı periferik qanda baş verən əsas dəyişiklik:",
+      "options": [
+        "Leykositoz",
+        "Leykopeniya",
+        "Limfonpeniya",
+        "Anemiya",
+        "Hipoproteinemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90.Virus mənşəli pnevmoniyalar zamanı əsas laborator dəyişiklik:",
+      "options": [
+        "Leykopeniya",
+        "EÇS-in yüksəlməsi",
+        "Laktatdehidrogenazanın artması",
+        "C reaktiv zülalın artması",
+        "Hipoqammaqlobulinemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91.Pnevmoniya zamanı əsas rentgenoloji simptom:",
+      "options": [
+        "Yeni ocaqlı infiltrativ kölgəliklərin yaranması",
+        "Ağ ciyərlərdə massiv fibroz dəyişikliklərin olması",
+        "Ağ ciyərlərdə kistoz dəyişikliklərin olması",
+        "Ağ ciyərlərdə peribronxial fibrozun inkşafı",
+        "Ağ ciyərlərdə diskoid atelektazların əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92.Pnevmoniya zamanı xəstəliyin proqnozuna təsir edə bilən əsas prediktor:",
+      "options": [
+        "Multilobar lokalizasiya",
+        "Qarın boşluğunda ağrıların yaranması",
+        "Xəstənin tənəffüsünün sayının 25 dən az olması",
+        "Xəstənin arteriyal qan təzyiqinin sistolik göstəricisinin 105 dən çox olması",
+        "Qanda kreatinin 5 mmol/l olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93.Pnevmoniyalar zamanı qanda C reaktiv zülalın yüksək səviyyəsi səciyyələnir:",
+      "options": [
+        "Ağırlaşmaların inkşafının yüksək riski ilə",
+        "Yanaşı böyrək çatışmazlığının inkşafının riski ilə",
+        "Qara ciyər çatışmazlığının inkşaf riski ilə",
+        "Yanaşı autoimmun patalogiyaların inkşaf riski ilə",
+        "Mədə-baöırsaq qanaxmalarının yüksək riski ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94.Ahıl yaşlı şəxslərdə pnevmoniyanın atipik gedişinin başlıca səbəbdir:",
+      "options": [
+        "Sistem və yerli immun cavabın zəifləməsi",
+        "Ağ ciyər funksiyasının zəifləməsi",
+        "Qanda leykositlərin miqdarının artması",
+        "Hərarətin yüksək olması",
+        "Hiperqammaqlobulinemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95.Mycoplasma pneumoniae –nın ağ ciyərlərə daxil olmasının əsas yoludur:",
+      "options": [
+        "Kontakt vasitəsilə hava-damcı vasitəsilə yoluxma",
+        "İnfeksiyalaşmış meyvə və  tərəvəzdən yoluxma",
+        "İnfeksiyalaşmış süd məhsullarından yoluxma",
+        "Aspirasiya nəticəsində yoluxma",
+        "Hematogen yolla yoluxma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96.Chlamiydophila pneumoniae infeksiyası zamanı aminopencillinləri təsirsiz edir:",
+      "options": [
+        "Mikrobların hüceyrə membranının olmaması",
+        "Sitoplazmada lizosimlərin yüksək konsentrasiyada olması",
+        "Mitoxondriyal aparatın çox mobil olması",
+        "Cord faktorun olması",
+        "Mikroorqanizmlərin sürətlə çoxalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97.Legionella pneumophila ilə yoluxmanın əsas mənbəyidir:",
+      "options": [
+        "Su mənbələri və kondensasiya sistemləri",
+        "İnfeksiyalaşmış qida məhsulları",
+        "İnfeksiyanın limfa dövranı ilə yayılması",
+        "Qastral requrqitasiya",
+        "Havanın çirklənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98.Multilobar pnevmoniyalar zamanı xarici tənəffüs funksiyası dəyişir:",
+      "options": [
+        "Restriktiv tipli",
+        "Qarışıq tipli",
+        "Dəyişmir",
+        "Obstruktiv tipli",
+        "Kompensator tipli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99. Pnevmoniyalar zamanı bronxların endoskopik müayinələr zamanı bronxların endoskopik müayinəsi zamanı əsas tapıntıdır:",
+      "options": [
+        "Bronxların yayılmış diffuz katarı",
+        "Bronxlarda lokal bulloz dəyişiklik",
+        "Bronxların lokal qranulomatoz iltihabı",
+        "Bronxların spesifik zədələnməsi",
+        "Bronxların destruksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100.Pnemoniya zamanı kompyuter tomoqrafiya müayinəsi tələb edən başlıca şübhə doğuran patalogiya:",
+      "options": [
+        "Ağ ciyərlərin kanseri",
+        "Emfizema",
+        "İnterstisial ağ ciyər xəstəlikləri",
+        "Tuberkuloma",
+        "Bronxial astma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101.Pnevmoniya zamanı kompyuter tomoqrafiyası apararkən iltihab fonunda aşkar edilən əsas tapıntıdır:",
+      "options": [
+        "Hava bronxoqrammları",
+        "Obliterasiyaedici vaskulit",
+        "Bronxların kompressiyası",
+        "Bronxların çapıqlı stenoz",
+        "Bronxiolaların genişlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102.Pnevmoniya zamanı orqanizmin pataloji törədicinin aqressiyaslna qarşı immun cavabın xarakterizə edən başlıca göstərəcisidir:",
+      "options": [
+        "C reaktiv proteinin miqdarının yüksəlməsi",
+        "Anemiyanın  kəskinliyi",
+        "Kreatinin miqdarının artması",
+        "Laktatdehidrogenazanın səviyyəsinin yüksəlməsi",
+        "Hemoqlobinin dəyişməz qalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103.Pnevmoniya zamanı xəstəliyin ağırlığını xarakterizə edir:",
+      "options": [
+        "Hemodinamik qeyri-stabillik",
+        "Pnevmoniyanın seqmentar lokalizasiyası",
+        "Xarici tənəffüs funksiyasının restriktiv pozğunluğu",
+        "Eozinofiliya",
+        "EÇS-in yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104.Pnevmoniya zamanı xəstəliyin proqnozuna təsir etmir:",
+      "options": [
+        "yanaşı dəri-allergik reaksiyalar",
+        "Xəstənin yaşı",
+        "Yanaşı gedən şəkərli diabet",
+        "Yanaşı xronik obstruktiv",
+        "Bakterimiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105.Pnevmoniyalar zamanı hansı törədici ağ ciyərlərdə destruksiyaya səbəb olmur:",
+      "options": [
+        "Mikoplazmalar;",
+        "Anareob bakteriyalar;",
+        "Stafilakokklar;",
+        "Qram-mənfi çöplər;",
+        "Steptikokklar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106. HİV infeksiyasına yoluxmuç şəxslərdə pnevmoniyanın başlıca səbəbidir:",
+      "options": [
+        "Pnevmocytes jirovesi;",
+        "Streptococcus pneumoniae;",
+        "Mycoplasma pneumoniae;",
+        "Legionella;",
+        "Klebsiella."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107.Pnevmoniya zamanı bronxalveolyar lavaj mayesinin tərkbində aşkar edilən aparıcı iltihab hüceyrələridirlər:",
+      "options": [
+        "Neytrofillər;",
+        "Bazofillər;",
+        "Eozinofillər;",
+        "Dendrit hüceyrələr;",
+        "II tip T helperlər."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108.Pnevmoniyalar zamanı hospitalizasiyaya əsas gösətrişdir:",
+      "options": [
+        "Multilobar lokalizasiyalı pnevmoniya;",
+        "Leykositoz;",
+        "Hiperqammaqlobulinemiya;",
+        "Hyperproteinemiya;",
+        "Yüksək hərarət."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109. 72 saat ərzində antibakteriyal terapiyanın aparılmasına baxmayaraq, pnevmniyalı xəstədə hərarətin yüksək səviyyədə qalmasının başlıca səbəbidir:",
+      "options": [
+        "Mikrofloranın rezistent olması;",
+        "Leykositoz;",
+        "C-reaktiv zülalın yüksək konsentrasiyada olması;",
+        "Multilobar pnevmoniya;",
+        "Hiperbilirubinemiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110.Pnevmoniyalar zamanı xəstəliyin ağırlıq dərəcəsinin prediktoru deyildir:",
+      "options": [
+        "Xəstənin cavan yaşda olması;",
+        "Bakterimiya;",
+        "Huşun pozulması;",
+        "Böyrək çatışmazlığının inkşafı;",
+        "Hemodinamikanın qeyri-stabildir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111.Pnevmoniyanın müasir təsnifatı nəzərə alır:",
+      "options": [
+        "Pnevmoniyanın baş verdiyi şəraiti;",
+        "Pnevmoniyanın ağırlaşmalarını;",
+        "Pnevmoniya zamanı yanaşı xəsətəlikləri;",
+        "Pnevmoniyanın lokalizasiyasını;",
+        "Biokimyəvi göstəricilərin dəyişiklik dərəcəsini."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112.Pnevmoniyanın antibiotiklə müalicəsi zamanı ləngidir:",
+      "options": [
+        "Ölüm riskini;",
+        "Diurezi;",
+        "Arteriyal təzyiq;",
+        "Psixo-emosiyanal sferanın aktivliyini;",
+        "Qara ciyərin funksiyasını."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113.Pnevmoniyalar zamanı antibiotiklə müalicənin effektsizliyi əlaqədardır:",
+      "options": [
+        "Komplayensin pozulması ilə;",
+        "Yanaşı vitaminoterapiya;",
+        "Hormonal terapiya ilə;",
+        "Fizioterapiya;",
+        "Bakteiyal infeksiya ilə."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114. Pnevmoniya zamanı ambulator şəraitdə antibiotiklə müalicə aparılmalıdır:",
+      "options": [
+        "Emprik qaydada;",
+        "Antibiotiklərə həssaslığın təyin edilməsi ilə;",
+        "Bronxoskopiyanın köməyi ilə;",
+        "İbhalyasiyon üsulla;",
+        "Elektroforezin tətbiqi ilə."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115.Pnevmoniyalar zamanı antibiotiklə müalicənin müddətini təyin edən başlıca klinik göstərici:",
+      "options": [
+        "Hərarət reaksiyası;",
+        "Leykositoz;",
+        "C-reaktiv protein;",
+        "Təngənəfəslik;",
+        "Ağ ciyərlərdə infiltrativ kölgəliyin saxlanması ilə."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116.Pnevmokokk pnevmoniyaları zamanı əsas seçim preparatlarıdırlar:",
+      "options": [
+        "Amonopencillinlər;",
+        "Ftorxinolonlar;",
+        "Tetraciklinlər;",
+        "Sulfanilamidlər;",
+        "Antiviral preparatlar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117.Hemofil çöplər tərəfindən törədilən pnevmoniya hallarında seçim preparatlarıdır:",
+      "options": [
+        "Amoksisillin/ klavlon turşusu;",
+        "Tetrasiklin;",
+        "Linezolid;",
+        "Vankomisin;",
+        "Biseptol."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118.Metisillen-rezistenten stafilakokk ştamlar tərəfindən törədilən pnevmoniya hallarında seçim preparatıdır:",
+      "options": [
+        "Linezolid;",
+        "Amoksisillin;",
+        "Azitromisin;",
+        "Levomisetin;",
+        "Fortum."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119.Ambulator şəraitdə pnevmoniyalı xəstələrin müalicəsi zamanı antibiotikin parenteral yolla verilməsinin əsas səbəbidir:",
+      "options": [
+        "Dizbakteriyoz;",
+        "Hipoasid qastrit;",
+        "Atrofik qastrit;",
+        "Xolesistit",
+        "Eksudativ plevrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120.Göy-yaşıl irin çöpləri tərəfindən törədilən pnevmoniyanın müalicəsində seçim preparatıdır:",
+      "options": [
+        "Makrolidlər",
+        "Salbutamol",
+        "Montelukast",
+        "İpratropium bromid",
+        "Ambroksol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121.Bronxial astma  təyin edilir:",
+      "options": [
+        "Tənəffüs yollarının əsasən allergik xarakterli xronik davamlı iltihabı ilə;",
+        "Tənəffüs yollarının saya əzələrinin nekrozu ilə;",
+        "Ağ ciyər arteriyası sistemində hipertenziya;",
+        "Ağ ciyərlərdə kiçik ölçülü damarların vaskuliti ilə;",
+        "Ağ ciyər parenimasının emfizeması ilə;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122.Bronxial astma zamanı xronik iltihabın formalaşmasında başlıca hüceyrələrdirlər:",
+      "options": [
+        "Eozinofillər, tosqun hüceyrələr, limfositlər;",
+        "Neytrofillər, makrofaqlar, trombositlər;",
+        "Dentrit hüceyrələr, makrofaqlar, neytrofillər;",
+        "Bazofillər, trombositlər, makrofaqlar;",
+        "Neytrofillər, monositlər, trombositlər;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123.Bronxial astma zamanı bronxial obstruksiyanın başlıca səbəbidir:",
+      "options": [
+        "Bronxların hiperrektivliyi;",
+        "Bronxların selikli qişasının deskvamasiyası;",
+        "Bronxalrın membranoz hissəsinin destruksiyası;",
+        "Respirator bronxiolaların ekspirator kollapsı;",
+        "Ağ ciyərlərdə köksdaxili limfa düyünlərinin böyüməsi nəticəsində iri diametrli bronxlara kompressiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124.Bronxial astma zamanı xronik iltihab prosesinin formalaşmasında mühüm əhəmiyyət kəsb edir:",
+      "options": [
+        "Genetik və xarici mühit faktorlarının assosiasiyası;",
+        "Bakteriyal infeksiya;",
+        "Ağır fiziki iş;",
+        "Siqaret çəkmə;",
+        "Ətraf mühit havasının çirklənməsi;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125.Bronxial astmanın inkşafının daxili faktorlarına aiddir:",
+      "options": [
+        "Xəstənin cinsi;",
+        "α1 antripsinin çatışmazlığı;",
+        "Anadangəlmə immun çatışmazlığı;",
+        "α2 makrglobulin çatışmazlığı;",
+        "Disproteinemiya;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126.Bronial astma zamanı əsas xarici mühit risk faktorudur:",
+      "options": [
+        "Ev tozu gənələri;",
+        "Tütün çəkmə;",
+        "Alkoqol qəbulu;",
+        "Sənaye zəhərləri;",
+        "Bioenerji mənbələrindən istifadə etmə;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127.Bronxial astma zamanı allergik iltihabın erkən fazasının formalaşmasında başlıca olaraq iştirak edirlər:",
+      "options": [
+        "Tosqun hüceyrələr;",
+        "Eozinofillər;",
+        "Makrofaqlar;",
+        "Neytrofillər;",
+        "Limfositlər;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128.Bronxial astma zamanı allergik iltihabın gecikmiş fazasının  foralaşmasında başlıca olaraq iştirak edirlər:",
+      "options": [
+        "Eozinofilər;",
+        "Tosqun hüceyrələr;",
+        "Bazofillər;",
+        "Klark hüceyrələri;",
+        "Bazal hüceyrələri;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129.Bronxial astma zamanı bronxial obstruksiyanın formalaşmasının başlıca mexanizmləridirlər:",
+      "options": [
+        "Bronxospazm, bronxları selikli qişasının ödemi və iltihab hüceyrələri ilə infiltrasiyası, hipersekresiya, diskriniya;",
+        "Bronxların saya əzələrinin atrofiyası, selikli qişasının epitelini deskvamasiyası, neytrofil elastazasının aktivliyinin artması;",
+        "Bronxların bazal membranın atrofiyası, matriks metalloproteinazaların selikli qişanı zədələməsi, alveolların dağılması;",
+        "Katepsin 6-nın alveolara dağıdıcı təsiri, bronxların saya əzələlərinin distrofiyası, tənəffüs əzələrinin yorulması;",
+        "Matriks metalloprotenazaların toxuma inhibitorlarının çatışmazlığı, tütün tüstüsünün təsiri nəticəsidə alveolların destruksiyası, respirator bronxiolaların obliterasiyası;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130.Bronxial obstruksiyasının tam geriyə dönən olması bronxial astma zamanı sübut edilir:",
+      "options": [
+        "Bronxolitiklə sınaqdan sonra FEV1-in (sürətləndirilmiş nəfəsvermənin birinci saniyədəki həcminin) 15% və daha çox yüksəlməsi ilə;",
+        "Bronxların keçiricilinin pisləşməsi ilə;",
+        "PEF-in (sürətləndirililmiş nəfəsvermənin max. sürətinin) 10% yüksəlməsi  ilə;",
+        "FEV1/FVC-in (Tifno indeksi) göstəricisinin 15% və daha çox azalması ilə;",
+        "FVC-nin (ağ ciyərlərin maksimal həyat tutumunun) 40% və daha çox azalması ilə;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131.Bronxial astma zamanı xəstəliyin kəskin boğulma tutmalarına səbəb deyildir:",
+      "options": [
+        "Günəş vannaları;",
+        "Ağır fiziki iş;",
+        "Kəskin repirator virus infeksiyaları;",
+        "Allergenlərlə kontakt;",
+        "Asetilxolinin nebulayzerlə inhalyasiyası;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132.Bronxial astma zamanı iltihab reaksiyasının formalaşması zamanı tosqun  hüceyrələrin səthində ekspirassiya edir:",
+      "options": [
+        "İmmunoqlobulin E;",
+        "C- reaktiv protein;",
+        "Laktatdehidrogenaza;",
+        "Transferrin;",
+        "İnterferon;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133.Bronxial astma zamanı qeyri-steroid iltihab əleyhinə preparatların qəbulu səbəb olur:",
+      "options": [
+        "Araxidon turşusunun lipooksigenaza istiqamətli metabolizminin sürətlənməsi və çoxlu miqdarda leykotrienlərinxaric olmasına;",
+        "Limfositlərin bronxların selikli qişasında toplaşması;",
+        "Monositlərin sistem qan dövranından çıxaraq bronxların selikli qişasına miqrasiyasına;",
+        "Bronxların selikli qişa damarlarının qranulyasiyaedici nekrozuna;",
+        "Bronxların divarlarının qalınlaşması və fibrozu;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134.Bronxial astma zamanı xronik iltihabın mövcudluğu səbəb olur;",
+      "options": [
+        "Bronxların selikli qişasında struktur dəyişiliklərə;",
+        "Sistem iltihab reaksiyalarının yaranmasına;",
+        "C-reaktiv proteinin konsentrasiyasının artmasına;",
+        "Alveolların destruksiyasına;",
+        "Respirator bronxiolların tam obliterasiyasına;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135.Astma zamanı allergik iltihabın erkən fazasının başlıca mediatorudur:",
+      "options": [
+        "Histamin;",
+        "İnterleykinlər;",
+        "Eozinofil kation protein;",
+        "Şişlərin α nekroz faktoru (TNFα);",
+        "Qlutation"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136.Astma zamanı iltihabın gecikmiş fazasının başlıca mediatorudurlar:",
+      "options": [
+        "İnterleykinlər;",
+        "Triptazalar;",
+        "Serotonin və histamin;",
+        "Tombositləri aktivləşdirən faktorlar;",
+        "Endogen heparinlər."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137.Astma zamanı iltihab prosesinin kəskinliyi səbəb olur:",
+      "options": [
+        "Bronxların selikli qişasında və saya əzələlərdə β2-reseptorların sıxlığının azalmasına və desintizezasiya;",
+        "Surfaktantın azalması və alveolların yaprıxmasına;",
+        "Ağ ciyər arteriyasının hipertenziyasına;",
+        "Sağ mədəcik tipli çatışmazlığa;",
+        "Ağ ciyər qan damar sistemində malformasiyasiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138.Bronxial astma ilə yanaşı gedən əsas xəstəlik;",
+      "options": [
+        "Allergik rinit;",
+        "Xronik obstruktiv ağciyər xəstəliyi;",
+        "Layella sindromu;",
+        "Xronik qastrit;",
+        "Hipereozinofilik sindrom."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139.Bronxial astma zamanı bronxospazma başlıca səbəb:",
+      "options": [
+        "Bronxların saya əzələlərinin tosqun hüceyrələrlə infiltrasiyası ilə;",
+        "Periferik qanın hipereozinofiliyası;",
+        "İgE-nin periferik qanda miqdarının yüksəlməsi;",
+        "İnterleykin-8 in bronxların selikli qişasında toplanması;",
+        "Allergenlərin bronxların selikli qişasında β2¬-reseptorları stimullaşdırması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140.Bronxial astma zamanı İgE-nin hiperproduksiyasına səbəb olan başlıca mediatordur:",
+      "options": [
+        "İnteleykin-4;",
+        "Şişlərin alfa tumor nekroz faktoru;",
+        "Periostin;",
+        "Adrenomedullin;",
+        "Trombositləri aktivləşdirən."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141.Bronxial astmanı təsdiq edən ən əsas klinik əalmət:",
+      "options": [
+        "Boğulma tutmaları;",
+        "Döş qəfəsində ağrılar;",
+        "Bəlğəmli öskürək;",
+        "Qanhayxırma;",
+        "Bütün gün ərzində irinli bəlğəm ifrazı ilə öskürək."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142.Bronxial astma tutmaları zamanı əsas auskultativ tapıntı:",
+      "options": [
+        "Yayılmış qüvvətli xırıltılar;",
+        "Ortaqabarcıqlı yaş xırıltılar;",
+        "Bronxial tənəffüs;",
+        "Plevranın sürtünmə küyü;",
+        "Amforik tənəffüs."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143.Bronxial astma zamanı timpanit səsin eşidilməsinin əsas səbəbidir:",
+      "options": [
+        "Astmanın ağır kəskin tutmaları zamanı ağ ciyərlərin kəskin hiperinfilyasıyası;",
+        "Plevra boşluğuna mayenin toplanması;",
+        "Ağ ciyər parenximasında iltihabın əmələ gəlməsi;",
+        "Alveolların yaprıxması;",
+        "Alveollara eksudatın toplanması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144.Bronxial astma diaqnozunun qoyulması üçün vacibdir:",
+      "options": [
+        "Alerqoloji anamnezin qiymətləndirilməsi;",
+        "Xəstənin zərərli adətlərinin qiymətləndirilməsi;",
+        "Ağ ciyərlərdə yanaşı struktur dəyişiliklərin öyrənilməsi;",
+        "Döş qəfəsinin qüsurlarının mövcudluğunun öyrənilməsi;",
+        "Xəstənin yüksək dağ şaraitində yaşamasının öyrənilməsi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145.Bronxial astmanın kəskinləşməsi zamanı artır:",
+      "options": [
+        "Tənəffüsün tezliyi;",
+        "Böyrəklərin funksiyası;",
+        "Qara ciyər enzimlərinin ifrazı;",
+        "Qanda şəkərin miqdarı;",
+        "Qanda kortizolun miqdarı."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146.Bronxial astma diaqnozunu təsdiq etmək üçün vacib üsuldur:",
+      "options": [
+        "Spirometriya;",
+        "Exokardioqrafiya;",
+        "Osillometriya;",
+        "Kompyuter tomoqrafiya;",
+        "Pulmonar angioqrafiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147.Bronxial astma diaqnozunun mövcudluğuna  kömək edən başlıca funksional göstəricidir:",
+      "options": [
+        "Nəfəsvermənin pik sürətinin (PEF) səhər və axşam  göstəriciləri arasındakı fərqin 20%  dən çox olması;",
+        "Gücləndirilmiş həyat tutumunun 80% dən aşağı olması;",
+        "PEF-in sutka ərzində 10% dəyişməsi;",
+        "Həyat tutumunun (VC) 60% dən aşağı düşməsi;",
+        "Tifno indeksinin (FEV1/FVC) göstəricisinin 85% olması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148.Bronxial astma zamanı periferik qanın ümumi müayinəsi zamanı rast gələ bilən dəyişilikdir:",
+      "options": [
+        "Eoznofiliya;",
+        "Trombositopeniya;",
+        "Neytrofilyoz;",
+        "EÇS-in yüksəlməsi;",
+        "Limfopeniya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149.Astma zamanı bəlğəmin sitoloji müayinəsi göstərir:",
+      "options": [
+        "Eozinofillərin miqdarının artmasını;",
+        "Limfositlərin miqdarının azalmasını;",
+        "Neytrofillərin artmasını;",
+        "Makrofaqların konsentrasiyasının azalmasını;",
+        "Eozinofil kation protein miqdarının azalmasını."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150.Astmalı xəstələrdə bəlğəmdə neytrofillərin artmasına səbəb  əsas triggerdir:",
+      "options": [
+        "Respirator virus xəstəlikləri;",
+        "Allergenlərin massiv təsiri;",
+        "Ağır Fiziki iş;",
+        "Meteroloji faktorlar;",
+        "Hipertonik duz məhlulu ilə inhalyasiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151.Bronxial astma ilə differensasiya tələb edən əsas xəstəlikdir:",
+      "options": [
+        "Xronik obstruktiv ağ ciyər xəstəliyi;",
+        "Bronxların mərkəzi tipli şişi;",
+        "Mukovissidoz;",
+        "İlkin siliar diskineziya;",
+        "İdiopatik ağ ciyər fibrozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152.Bronxial astmanın xronik obstruktiv ağ ciyər xəstəliyindən fərqləndirən başlıca struktur dəyişikliklər:",
+      "options": [
+        "Ağ ciyərlərdə emfizemann olmaması;",
+        "Tənəffüs yollarının xronik iltihab prosesi;",
+        "Terminal bronxioalların zədələnməsi;",
+        "İri və orta kalibrli bronxların obstruksiyası;",
+        "Bronxların selikli qişasının ödemi və hipersekresiya."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153.Bronxial astma zamanı klinik simptomların mövcudluğuna baxmayaraq, xarici tənəffüs funksiyasının parametrlərinin normal göstəriciləri diaqnozu təsdiq etmək üçün nəyi tələb edir:",
+      "options": [
+        "Bronxtəhrikedici sınaqların aparılmasını;",
+        "Kompyuter tomoqrafik müayinənin aparılması;",
+        "Bronxial ossillometriyanın aparılmasını;",
+        "Exokardioqrafiyanın aparılmasını;",
+        "Spirometriyanın aparılmasını."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154.Spirometriya aparılarkən FEV1-in (sürətləndirilmiş nəfəsvermənin həcmi) hansı göstərici bronxial astmanın ağır kəskinləşməsindən xəbər verir:",
+      "options": [
+        "FEV1 < 60% olduqda;",
+        "FEV1 > 80% olduqda;",
+        "80% > FEV1 > 60%;",
+        "FEV1 > 90% olduqda;",
+        "90% > FEV1 > 70%."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155.Bronxial astmanın ağır tutmaları zamanı ağ ciyərin statistikhəcmləri dəyişir:",
+      "options": [
+        "VC↓; TLC↑; RV↑↑;",
+        "VC↑; TLC↓;  RV↑;",
+        "VC↑↑; TLC↑↑; RV↓↓;",
+        "VC↔; TLC↔; RV↔",
+        "VC↑↑; TLC↑↑; RV↓↓."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156.Bronxial astmanın remissiya dövründə başlıca rentgenoloji tapıntıdır:",
+      "options": [
+        "Tapıntı yoxdur;",
+        "Ağ ciyərdə poliseqmentar kölgəliklər;",
+        "Ağ ciyərdə interstsial dəyişikliklər;",
+        "Ağ ciyərlərdə ocaqlı dəyişikliklər;",
+        "Ağ ciyərlərdə plevral qalınlaşmalar."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157.Qanda eozinofiliyailə xarakterizə olunan və bronxial astma ilə differensasiya tələb edən xəstəlik:",
+      "options": [
+        "Çarj-Straus sindromu;",
+        "Xronik obstruktiv ağciyər xəstəliyi;",
+        "Səs tellərinin disfunksiyası;",
+        "Bronxektaziya;",
+        "Mukovossidoz;"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158.Bronxial astmanın kəskin tutmalarında istifadə edilən əsas preparat:",
+      "options": [
+        "Salbutamol;",
+        "İntal;",
+        "Magnesium-sulfat;",
+        "Montelukast;",
+        "İnhalyasiyon kortikosteroid."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159.Bronxial astmanın boğulma tutmaları zamanı ən effektiv bronxiolitikdir:",
+      "options": [
+        "Salbutamol;",
+        "Atrovent;",
+        "Eufillin;",
+        "No-şpa;",
+        "Magnezium-sulfat."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160.Bronxial astmanın ağır kəskinləşmələri zamanı seçim vasitələridirlər:",
+      "options": [
+        "Qısa təsir müddətli β2 –aqonistlərlə inhalyasiya, sistem qlikokortikosteroidlər, oksigenlə müalicə;",
+        "Antibiotiklər, vitaminoterapiya, eufillinlə müalicə;",
+        "Vaksinoterapiya, magnezium-sulfat, anabolik hormonlarla müalicə;",
+        "Fizioterapiya, osturnal drenaj;",
+        "Kromnlar, antileykotrienlərlə müalicə, omalizumab."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161.Bronxial astmanın bazis müalicəsi:",
+      "options": [
+        "İnhalyasiyon qlükokortikoidlərlə uzun təsir müddətli β2 –aqonistlərin kombinasiyalı tətbiqi;",
+        "Qısa təsir müddətli β2 –aqonistlərin tətbiqi;",
+        "Qısa təsir müddətli antixolinergik preparatların tətbiqi;",
+        "Qısa təsir müddətli β2 –aqonistlərlə antixolinergik preparatların birgə tətbiqi;",
+        "Kromonlar və antileykotrienlərin birgə tətbiqi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162.Bronxial astma zamanı antibiotiklərin tətbiqinə göstərişdir:",
+      "options": [
+        "Yanaşı bakteriyal pnevmoniyanın inkşafı;",
+        "Allergik rinitin olması;",
+        "Atopik dermatitin möcudluğu;",
+        "Yanaşı qranulamatoz iltihabın olması;",
+        "Yanaşı eozinofil pnevmoniyasının olması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163.Bronxial astmanın ağır tutmalar zamanı ölüm riskini azaldır:",
+      "options": [
+        "Sistem qlkokortikoidlərin tətbiqi;",
+        "Eufillinin tətbiqi;",
+        "Kalsiyum-xloridin istifadəsi;",
+        "Adrenalinin vena daxilinə vurulması;",
+        "Antihistaminin preparatlarının verilməsi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164.Plevra boşluğuna maye toplanan zaman transudat ekssudatın fərqləndirən başlıca biokimyəvi əlamət:",
+      "options": [
+        "Ekssudativ xarakterlimayenin tərkibində zülalın miqdarının 30 q/l dən çox olması;",
+        "Plevra boşluğunda qlükozanın çox olması;",
+        "Plevra mayesinin ph-nın olması;",
+        "Plevra mayesində laktatdehidrogenazanın olması;",
+        "Plevra mayesində immunoqlobulinlərin olması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165.Plevra boşluğuna transsudatın toplanmasının səbəbidir:",
+      "options": [
+        "Ürək çatışmazlığı;",
+        "Revmatoid artrit;",
+        "Pnevmoniya;",
+        "Meygs sindromu;",
+        "Kəskin pankreatit."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166.Plevranın toplanma adlanır:",
+      "options": [
+        "Plevra boşluğuna mayenin toplanması;",
+        "Payarası plevranın çapığı;",
+        "Diafraqmal plevranın qalınlaşması;",
+        "Plevra boşluğuna fibrinin çökməsi;",
+        "Plevra boşluğuna havanın daxil olması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167.Plevral toplantının əsas auskultativ əlamətidir:",
+      "options": [
+        "Tənəffüs küylərinin itməsi;",
+        "Səs titrəməsinin güclənməsi;",
+        "Yaş xırıltıların yaranması;",
+        "Bronxofoniya;",
+        "Amforik tənəffüsün eşidilməsi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168.Plevral toplantının əsas perkutor əlamətidir:",
+      "options": [
+        "Perkussiya zamanı küt səsin eşidilməsi;",
+        "Perkussiya zamanı timpanitin eşidilməsi;",
+        "Perkussiyanın rezonansı;",
+        "Perkussiyada qutu səsinin eşidilməsi;",
+        "Perkussiya zamanı zəif kütlüyün eşidilməsi."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169.Plevra boşluğunda mayenin mövcudluu səbəb olur:",
+      "options": [
+        "Zədələnmiş tərəfdə ağ ciyərin ekskursiyasının azalmasına;",
+        "Səs titrəməsinin artmasına;",
+        "Yeni yaşxırıltıların yaranmasına;",
+        "Quru xırıltıların intensivliyinin artmasına;",
+        "Bronxial tənəffüsün güclənməsinə."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170.Ürək çatışmazlığını ilə əlaqəli plevral toplantıların başlıca xüsusiyyətlərindən biridir:",
+      "options": [
+        "Plevral toplantıların ikitərəfli olması;",
+        "Plevral mayedə oxlu miqdarda  neytrofillərin olması;",
+        "Plevra mayenin şokolad rəngində olması;",
+        "Plevral mayenin xüsusi çəkisinin yüksək olması;",
+        "Plevra mayedə proteinin yüksək konsentrasiyası."
+      ],
+      "correct": 0
+    }
+  ]
+}

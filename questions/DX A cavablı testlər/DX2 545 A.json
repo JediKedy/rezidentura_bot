@@ -1,0 +1,5890 @@
+{
+  "questions": [
+    {
+      "question": "1.Plevrit:",
+      "options": [
+        "plevralarin səthində fibrin əmələ gəlməsi və plevral boşluqda maye toplanması ilə xarakterizə",
+        "alveolların ekssudasiyasi ilə xarakterizə olunan xroniki iltihabdır.",
+        "iri və orta bronxların zədələnməsi ilə xarakterizə olunan infeksion prosesdir.",
+        "progressivləşən tənəffüs çatişmazlığı ilə xarakterizə olunan pnevmofibrozdur.",
+        "alveol və interstisial toxumanın xroniki iltihabi prosesidir."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "2.Plevritlərin yaranmasının tez-tez rast gəlinən səbəbi:",
+      "options": [
+        "bəd xassəli şişlər",
+        "azbestoz",
+        "şüa terapiyası",
+        "pnevmoskleroz",
+        "toz bronxitləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "3.Quru plevritin əsas əlaməti:",
+      "options": [
+        "döş qəfəsində intensiv ağrı, hansı ki, öskürək və dərin nəfəsalma zamanı güclənir",
+        "ağciyərlərdə quru xırıltılar",
+        "ağciyərlərdə yaş xırıltılar",
+        "döş qəfəsində sızıldayıcı ağrılar",
+        "krepitasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "4.Plevritlə ağırlaşa bilər:",
+      "options": [
+        "ağciyərlərin vərəmi",
+        "bronxit",
+        "bronxial astma",
+        "bronxoektaziya",
+        "ağciyərlərin emfizeması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "5.Quru plevrit üçün xarakterikdir:",
+      "options": [
+        "döş qəfəsində ağrı",
+        "bəlğəmli öskürək",
+        "tərləmə",
+        "ümumi halsızlıq",
+        "qanhayxırma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "6.Plevrit zamanı ağrının xarakter cəhəti:",
+      "options": [
+        "öskürək və tənəffüslə bağlıdır",
+        "sıxıcı",
+        "yandırıcı",
+        "nitroqliserindən sonra keçir",
+        "sağlam tərəfə əyiləndə ağrı zəifləyir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "7.Pasiyent hansı xəstəlikdə xəstə tərəfə məcburi uzanmış vəziyyət alır:",
+      "options": [
+        "quru plevritdə",
+        "bronxitdə",
+        "bronxial astmada",
+        "bronxoektaziya xəstəliyində",
+        "xroniki pnevmoniyada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8.Quru plevrit zamanı ağrı artır:",
+      "options": [
+        "dərin nəfəsalma zamanı əks tərəfə əyiləndə",
+        "xəstə tərəf üzərində dərin nəfəsalmada",
+        "əks tərəfə əyiləndə səthi tənəffüs zamanı",
+        "hərarətin aşağa düşməsi zamanı",
+        "arxası üstə uzananda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "9.Döş qəfəsində (öskürək zamanı güclənən) ağrı, plevranın sürtünmə küyü hansı xəstəlik üçün xarakterdir:",
+      "options": [
+        "quru plevrit",
+        "bronxit",
+        "bronxial astma",
+        "ekssudativ plevrit",
+        "ocaqlı pnevmoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "10.Quru plevrit zamanı eşidilir:",
+      "options": [
+        "plevranın surtunmə küyü",
+        "krepitasya",
+        "quru fitverici tənəffüs",
+        "kiçik qabarciqli yaş xırltı",
+        "amforik tənəffüs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "11.Vorobyov-Pottencer simptomu xarakterikdir:",
+      "options": [
+        "quru apikal plevrit üçün",
+        "eksudativ plevrit üçün",
+        "kəskin pnevmaniya üçün",
+        "bronxoektaziyaa üçün",
+        "bronxial astma üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "12.Quru plevritin rentgenoloji əlamətidir:",
+      "options": [
+        "diafraqma gümbəzinin yüksək dayanması, dərin nəfəsalma zamanı onun ləngiməsi",
+        "diafraqma gümbəzinin aşağı enməsi",
+        "divararalığı organlarının sağlam tərəfə yerdəyişməsi",
+        "yan proyeksiyada diafraqmanin arxa hissəsinin kölgələnməsi",
+        "ağciyər kökünün genişlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "13.Soltərəfli quru plevrit differansasiya edilir:",
+      "options": [
+        "stenokardiya ilə",
+        "diafraqma yırtığı ilə",
+        "mədə xorasi ilə",
+        "xroniki pankreatitlə",
+        "neyrosirkulyator distoniya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "14.Soltərəfli quru plevrit ilə miokard infaktınının differensasiyasında əsas metod:",
+      "options": [
+        "EKQ",
+        "USM",
+        "qanin ümumi analizi",
+        "Holter monitor müayinəsi",
+        "rentgenoskopiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "15.Quru diafraqmal plevrit differensasiya edilir:",
+      "options": [
+        "kəskin xolesistit",
+        "miokard infarktı",
+        "stenokardiya ilə",
+        "miokarditlə",
+        "neyro-sirkulyator distoniya ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "16.Eksudativ plevrit zamanı xəstənin əsas şikayətləri:",
+      "options": [
+        "təngnəfəslik, döş qəfəsində ağrı, yüksək hərarət",
+        "bəlğəmli öskürək, subfebril hərarət,poliartralgiya",
+        "quru öskürək,boğulma,arıqlama",
+        "urəkbulanma, subfebril hərarət,döş sumuyunun arxasında sıxıcı ağrı",
+        "səhərlər ağız dolusu irinli bəlğəmli öskürək,arıqlama"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "17.Eksudativ plevritin xarakterik əlamətidir:",
+      "options": [
+        "divararalığı orqanlarının sağlam tərəfə yerdəyişməsi",
+        "auskultasiya zamanı krepitasiya",
+        "səs titrəməsinin güclənməsi",
+        "tənəffüs küylərinin güclənməsi",
+        "quru yorucu öskürək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "18.Ekssudativ plevritin əlamətləri:",
+      "options": [
+        "döş qəfəsinin tənəffüs ekskursiyasının məhdudlaşması",
+        "ağciyərlərdə quru xırıltılar",
+        "ağciyərlərdə yaş xırıltılar",
+        "ağciyərlərdə krepitasiya",
+        "plevranın sürtünmə küyü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "19.Vərəm mənşəli ekssudativ plevritə xas olan qandakı dəyişikliklər",
+      "options": [
+        "limfopeniya",
+        "retukulositoz",
+        "eritrositoz",
+        "limfositoz",
+        "eritropeniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "20.Plevranın mezotelioması üçün xarakterikdir:",
+      "options": [
+        "eksudatın hemorragik xarakterli olması",
+        "eksudatın serroz xarakterli olması",
+        "zəif təzahürlü ağrı sindromu",
+        "xilyoz xarakterli ekssudat",
+        "çürüntü xarakterli ekssudat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "21.Hemorragik xarakterli möhtəviyyat müşahidə olunur:",
+      "options": [
+        "bədxassəli şişlərdə",
+        "qan dövranı çatışmazlığında",
+        "kəskin pankreatitdə",
+        "hipotireozda",
+        "hipertireozda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "22.Plevral möhtəviyyat transsudatdırsa güman etmək olar:",
+      "options": [
+        "hipotireoz",
+        "hipertireoz",
+        "pnevmoniya",
+        "vərəm",
+        "ağciyər absesi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "23.Plevral möhtəviyyatda amilazanın yüksək səviyyəsi xarakterdir:",
+      "options": [
+        "pankreatitə",
+        "hipotireoz",
+        "nefrotik sindrom",
+        "hipertireoz",
+        "vərəm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "24.Plevral möhtəviyyatda LE- hüceyrələrin olması xarakterikdir:",
+      "options": [
+        "sistem qırmızı qurdeşənəyinə",
+        "limfaqranulomatoza",
+        "vərəmə",
+        "pankreatitə",
+        "hipotireoza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "25.Plevral boşluğa antibiotik yeritməklə aparılan müalicəvi torakosintez hansı plevritə göstərişdir:",
+      "options": [
+        "irinli",
+        "quru",
+        "kisələşmiş",
+        "fibrinoz",
+        "hilyoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "26.Plevrit zamanı toplanan möhtəviyyatı məhdudlaşdırmaq məqdəsilə təyini göstərişdir:",
+      "options": [
+        "kortikosteroidlər",
+        "kalium preparatları",
+        "ürək qlikozidləri",
+        "metabolik preparatlar",
+        "antibiotiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "27.Perkutor səsin kütləşməsi və səs titrəməsinin zəifləməsi hansı xəstəlikdə baş verir:",
+      "options": [
+        "ekssudativ plevrit",
+        "bronxit",
+        "pnevmoniya",
+        "quru plevritdə",
+        "bronxoektaziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "28.Plevrit zamanı perkusiyada kütlüyün yuxarı sərhəddi:",
+      "options": [
+        "Damuazo xətti",
+        "Kerinq sahəsi",
+        "Qarland üçbucağı",
+        "Rauxfus-Qrokko üçbucagı",
+        "Traube sahəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "29.Ekssudativ plevrit zamanı auskultasiyada təyin olunur:",
+      "options": [
+        "zədələnmə tərəfdə tənəffüsün olmaması",
+        "amforik tənəffüs",
+        "krepitasiya",
+        "plevranın sürtünmə küyü",
+        "vezikulyar tənəffüs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "30.Eksudativ plevritdə eşidilir:",
+      "options": [
+        "vezikulyar tənəffüsün zəifləməsi",
+        "krepitasya",
+        "plevranın surtunmə küyü",
+        "amforik tənəffüs",
+        "quru fitverici tənəffüs"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "31.Səs titrəməsinin zəifləməsi xarakterdir:",
+      "options": [
+        "eksudativ plevrit üçün",
+        "bronxoektaziya xəstəliyi üçün",
+        "ocaqlı pnevmoniya üçün",
+        "kəskin pnevmoniya üçün",
+        "kəskin bronxit üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "32.Eksudativ plevritin rentgenoloji şəkli üçün xarakterikdir:",
+      "options": [
+        "homogen kölgəlik, divararalığı orqanların sağlam tərəfə yerdəyişməsi",
+        "ağciyərin şəffaflığının artması",
+        "homogen kölgəlik,divararalıği orqanlarıln xəstə tərəfə yerdəyişməsi",
+        "horizontal səviyyəli mayeli boşluq",
+        "ağciyər şəklinin güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "33.Diaqnostik məqsədlə plevral punksiya hansı xəstəlikdə təyin olunur:",
+      "options": [
+        "ekssudativ plevrit",
+        "bronxial astma",
+        "krupoz pnevmoniya",
+        "xroniki bronxit",
+        "bronxoektaziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "34.Rivaldo sinağı:",
+      "options": [
+        "plevral mayedə zulalların keyfiyyyətcə təyinidir",
+        "plevral mayedə qlukozanin keyfiyyətcə təyinidir",
+        "plevral mayedə LDH kəmiyyətcə təyinidir",
+        "bəlğəmdə eozinofillərin miqdarının təyinidir",
+        "qanda zulallarin kəmiyyətcə təyinidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "35.Transudatla eksudatın fərqi:",
+      "options": [
+        "plevral maye və plazmadaki LDH miqdarı arasindakı nisbətin <0,6 olması",
+        "plevral maye və plazmadaki LDH miqdarı arasindakı nisbətin >0,6 olması",
+        "plevral maye və plazmadaki LDH miqdarı arasindakı nisbətin >1 olması",
+        "plevral maye və plazmadaki LDH miqdarı arasindakı nisbətin >0,5 olması",
+        "plazmanin xüsusi çəkisinin >1020 olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "36.Transudat xarakterdir:",
+      "options": [
+        "nefrotik sindrom üçün",
+        "qırmızı qurdeşenəyi üçun",
+        "plevranin mezoteliomasi üçün",
+        "Meyqs sindromu üçün",
+        "pnevmaniya üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "37.Transudat xarakterli plevral çoküntü müşahidə olunur:",
+      "options": [
+        "qaraciyər sirrozunda",
+        "plevranın mezoteliomasinda",
+        "revmaotid artirit zamanı",
+        "Meyqs sindromunda",
+        "ağciyər vərəmində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "38.Hilyoz xarakterli plevral çoküntü müşahidə olunur:",
+      "options": [
+        "limfoqranulomatozda",
+        "ağciyər infarktında",
+        "qırmızı qurd eşənəyində",
+        "nefrotik sindromda",
+        "xolestatik hepatitdə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "39.Hemorragik plevrit müşahidə edilir:",
+      "options": [
+        "döş qəfəsinin travması zamanı",
+        "revmaizimdə",
+        "Dressler sindromunda",
+        "kəskin pankreatitdə",
+        "sarkoidozda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "40.25 yaşlı xəstə qızdırmadan,təngnəfəslikdən şikayət edir. Müayinə zamanı döş qəfəsinin sağ tərəfi tənəffüs aktından geri qalır. Perkusiyada 3-cü qabırğa səviyyəsinə qədər kütlük təyin edilir, səs titrəməsi zəifdir. Rentgen müayinədə ürək sola yerin dəyişib. Ehtimal olunan diaqnoz:",
+      "options": [
+        "eksudativ plevrit",
+        "kəskin bronxit",
+        "pnevmoniya",
+        "bronxoektaziya xəstəliyi",
+        "quru plevrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "41.Ağciyər absesinin risk faktorlarina aiddir:",
+      "options": [
+        "alkoqolizim",
+        "40 yaşdan yuxarı kişi cinsi",
+        "piylənmə",
+        "hiperlipidemiya",
+        "siqaret çəkmə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "42.Ağciyər absesi differensiasya edilir:",
+      "options": [
+        "ağciyərin kavernoz vərəmi ilə",
+        "kəskin pnevmaniya ilə",
+        "sarkaidoz ilə",
+        "ağciyər şişi ilə",
+        "Qudpasçer sindiromu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "43.Ağciyər absesinin formalaşma prosesi dəvam edir:",
+      "options": [
+        "10-12 gün",
+        "1ay",
+        "3-5gün",
+        "24 saat",
+        "3 həftə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "44.Ağciyər absesi üçün xarakterikdir:",
+      "options": [
+        "pis qoxulu bəlğəm",
+        "quru öskürək",
+        "subfebril hərarət",
+        "ekspirator təngənəfəslik",
+        "bradikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "45.Quru öskurək zamanı müşahidə edilən uzunmuddətli qanhayxırma xarakterikdir:",
+      "options": [
+        "bronx şişi üçün",
+        "pnevmokanioz üçun",
+        "ağciərin kavernoz vərəmi üçün",
+        "bronxoektaziya üçün",
+        "sarkoidoz üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "46.Bronxoektaziya xəstəliyi differensasiya edilir:",
+      "options": [
+        "xronik bronxitlə",
+        "ağciyər astması ilə",
+        "ağciyərin xroniki obstruktiv xəstəliyi ilə",
+        "sarkoidoz ilə",
+        "idiopatik ağciyər hipertenziyası ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "47.Bronxoektaziya xəstəliyinin kəskinləşməsində istifadə edilir:",
+      "options": [
+        "amoksisilin",
+        "biseptol",
+        "trental",
+        "modipin",
+        "tavegil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "48.Bronxoektaziya xəstəliyində cərrahi müalicəyə göstəriş:",
+      "options": [
+        "ağciyərlərdə davamlı atelektatik dəyişikliklər",
+        "tez-yez pnevmoniya ağırlaşmaları",
+        "ağciyər ürəyi",
+        "sol mədəcik çatışmazlığı",
+        "25 yaşdan yuxarı şəxslər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "49.Bronxoektaziya xəstəliyi üçün xarakter deyil:",
+      "options": [
+        "quru öskürək",
+        "çoxlu bəlğəmli öskürək",
+        "çəlləkvari döşqəfəsi",
+        "dirnaqlar saat şüsəsi forması",
+        "döş qöfəsində ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "50.28 yaşlı gənc xəstəxanaya döş qəfəsində ağrı, yüksək temperatur, çoxlu irinlər bəlğəmli öskürək şikayətlərilə daxil olub. Anamnezində uşaqlıqda tez-tez yuxarı tənəffüs yollari infeksiyasi keçirdiyi məlum olub. Ehtimal olunan diaqnoz:",
+      "options": [
+        "bronxoektaziya xəstəliyi",
+        "ağciyər vərəmi",
+        "ağciyərin xroniki obstruktiv xəstəliyi",
+        "xroniki bronxit",
+        "sarkoaidoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "51.Bronxoektaziya:",
+      "options": [
+        "bronx divarının irinli iltihabi destruksiyasi nəticəsində bronxlarin geridönməz patoloji",
+        "ağciyərlərdə piogen membran ilə hüdudlanan və içərisi irinlə dolmuş boşluqdur",
+        "iri bronxların kəskin irinli prosesidir",
+        "alveollarin eksudasya ilə müşaiyət olinan infeksion xəstəlikdir",
+        "bronxların allergik mənşəli xəstəliyidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "52.Bronxoektaziya üçün xarakterikdir:",
+      "options": [
+        "səhərlər müşahidə olunan çoxlu irinli bəlğəmli öskürək",
+        "gecələr müşahidə olunan quru öskürək",
+        "çətin ifraz olunan quru öskürək",
+        "gecələr müşahidə olunan köpüklü qanlı bəlğəm",
+        "taxipnoe dispnoe"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "53.Ağciyər absesi differensasiya edilir:",
+      "options": [
+        "ağciyər vərəmi ilə",
+        "pnevmoniya ilə",
+        "xroniki bronxit ilə",
+        "bronxial astma ilə",
+        "mukovissidoz ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "54.Xroniki abses üçün xarakterdir:",
+      "options": [
+        "təbil çubuğu",
+        "aorta üzərində sistolik küy",
+        "sol mədəcik çatişmazlığı",
+        "quru öskürək",
+        "bradikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "55.Ağciyərin absesinin müalicəsində istifadə olunur:",
+      "options": [
+        "klindamissin",
+        "streptomissin",
+        "biseptol",
+        "diklofenak",
+        "xondroksid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "56.Xroniki ağciyər ürəyi:",
+      "options": [
+        "ağciyər hipertenziyası hesabına sağ mədəciyin ikincili böyüməsidir",
+        "normal ağciyər təzyigi fonunda sağ mədəciyin böyüməsidir",
+        "kiçik qan dövranında durğunluq hesabına ağciyərin iki tərəfli infiltratıdır",
+        "ağciyər arteriyası kökünün massiv embolla tutulmasıdır",
+        "sol qulaqcıqda normal təzyiq fonunda yaranan ağciyər ödemidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "57.Xroniki ağciyər ürəyinin səbəbidir:",
+      "options": [
+        "piylənmə",
+        "kəskin pnevmoniya",
+        "burun polipi",
+        "aortal çatişmazlıq",
+        "septiki endokardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "58.Xroniki ağciyər ürəyinin səbəbidir:",
+      "options": [
+        "ağciyərin xroniki obstruktiv xəstəliyi",
+        "plevrit",
+        "pnevmoniya",
+        "massiv tromboemboliya",
+        "qapaqlı pnevmotoraks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "59.Xroniki ağciyər ürəyinin səbəbidir:",
+      "options": [
+        "kifoskolioz",
+        "xronik tonzillit",
+        "massiv tromboemboliya",
+        "Şeqren sindromu",
+        "septiki endokardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "60.Xroniki ağciyər ürəyinə səbəb olmur:",
+      "options": [
+        "astmatik status",
+        "ağciyərlərin xroniki obstruktiv xəstəliyi",
+        "Bexterev xəstəliyi",
+        "birincili ağciyər hipertenziyası",
+        "vaskulitlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "61.Xroniki ağciyər ürəyinin səbəbi deyil:",
+      "options": [
+        "ağciyər arteriyasının tromboemboliyası",
+        "kifoskolioz",
+        "piylənmə",
+        "yuksəklikdə uzun müddət yaşamaq",
+        "ağciyərin interstisial xəstəlikləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "62.Xroniki ağciyər ürəyinin səbəbi deyil:",
+      "options": [
+        "plevrit",
+        "ağciyərin xroniki obstruktiv xəstəliyi",
+        "kifoskalioz",
+        "piylənmə",
+        "vaskulitlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "63.Səhv iddiaları seçin:",
+      "options": [
+        "bütün iddialar səhvdir",
+        "sağ mədəciyin hipertrofiyası ağ ciyər arteriyasında təzyiqin qalxmasına gətirib çıxarır",
+        "alveolyar havada karbon qazının azalması ağ ciyərin kiçik arteriya və arteriollarının tonusunun",
+        "xroniki ağ ciyər ürəyi heç vaxt ağ ciyərin restriktiv xəstəlikləri zaman inkişaf etmir",
+        "xroniki ağ ciyərin əsas fəsadı - qulaqcıqların titrəməsidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "64.Xroniki ağciyər ürəyində xəstənin əsas şikayətləri :",
+      "options": [
+        "təngnəfəslik,zəiflik,aşağı ətraflarda ödem",
+        "bəlğəmli öskürək,hərarət,arıqlama",
+        "çətin ifraz olunan bəlğəmli öskürək,boğulma",
+        "döş qəfəsində ağrı,yüksək hərarət,dispnoe",
+        "epiqastral nahiyədə ağrı,meteorizm,quru öskürək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "65.Xroniki ağciyər ürəyində baxış zamanı müəyyən edilir:",
+      "options": [
+        "diffuz sianoz",
+        "akrosianoz",
+        "dalağın böyüməsi",
+        "aorta üzərində ikinci tonun aksenti",
+        "bradikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "66.Xronik ağciyər ürəyində müşahidə olunur:",
+      "options": [
+        "Korvizor üzü",
+        "akrosianoz",
+        "Reyno fenomeni",
+        "bradikardiya",
+        "hepatosplenomeqaliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "67.Emfizema zamanı təngənəfəsliyin tipi:",
+      "options": [
+        "ekspirator",
+        "inspirator",
+        "qarışıq",
+        "yalnız fiziki yük zamanı",
+        "yalnız emosional gərginlik zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "68.Birincili emfizema üçün xarakterdir:",
+      "options": [
+        "uşaq yaşlarında tez-tez baş verən respirator infeksiyalar",
+        "çoxlu bəlğəm ifrazlı öskürək",
+        "irinli xarakterli bəlğəm",
+        "çürüntü xarakterli bəlğəm",
+        "eozinofiliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "69.Xronik ağciyər ürəyində müşahidə olunur:",
+      "options": [
+        "aşağı ətraflarda ödem,boyun venalarının şişməsi",
+        "ağciyərlər üzərində orta qabarcıqlı yaş xırıltılar",
+        "aorta üzərində ikinci tonun aksenti",
+        "bradikardiya",
+        "hepatosplenomeqaliya,plevral çökuntü"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "70.Xroniki ağciyər ürəyi üçün xarakterikdir:",
+      "options": [
+        "ağciyər arteryası üzərində ikinci tonun aksenti",
+        "aorta üzərində ikinci tonun aksenti",
+        "birinci tonun güclənməsi",
+        "mitral qapaq üzərində kobud sistolik küy",
+        "aorta üzərində diastolik küy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "71.Xronik ağciyər ürəyi üçün EKQ-də xarakterdir:",
+      "options": [
+        "II,III,və AVF aparmalarda P-pulmonale",
+        "II,III, və AVF aparmalarda P-mitrale",
+        "sol mədəciyin hipertrofiyası",
+        "ST seqmentiinin depressiyası",
+        "QRS kompleksinin 0. 12 san çox olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "72.Xronik ağciyər ürəyi zamanı Exo-KQ-də dəyişiklik:",
+      "options": [
+        "sağ mədəciyin hipertrofiyası",
+        "sol mədəciyin hipertrofiyası",
+        "mədəcikarası çəpərin qalınlaşması",
+        "mitral requrgitasiya",
+        "sol mədəciyin sistolik disfunksiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "73.“Xroniki ağ ciyər ürəyi” diaqnozunun qoyulması üçün birindən başqa aşağıda sadalananların hamısının olması lazımdır:",
+      "options": [
+        "mədəcikarası çəpərin qüsuru",
+        "xəstədə xroniki ağ ciyər xəstəliyinin olması",
+        "ExoKQ zamanə ağ ciyər hipertenziyasının müəyyən olunması",
+        "sağ mədəciyin hipertrofiyasının EKQ - əlamətləri",
+        "II və III aparmalarda yüksək iti uclu P dişciklərinin olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "74.Sağ mədəciyin həddindən artıq yüklənməsi aşağıdakı hallarda inkişaf edir:",
+      "options": [
+        "ağciyər hipertenziyası",
+        "aorta boyunun daralması",
+        "mitral çatışmazlıq",
+        "aortal çatışmazlıq",
+        "aortal stenoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "75.Ağciyərlərin xroniki obstruktiv xəstəliyi olan xəstədə xroniki ağciyər ürəyinin inkişaf etməsinə hansı əlamətlər işarə edir?",
+      "options": [
+        "epiqastral nəbz",
+        "sianoz",
+        "fiziki iş zamanı artan təngnəfəslik",
+        "bronxial obstruksiya",
+        "yuxululuq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "76.Ağciyərlərin xroniki obstruktiv xəstəliy, xroniki ürək çatışmazlığı, ikincili eritrositoz, dekompensasiyalı ağciyər ürəyindən əziyyət çəkən 62 yaşlı xəstədə döş sümüyü arxasında tutma şəkilli ağrılar meydana çıxmışdır: kəskin akrosianoz, tənəffüsün sayı - 18 dəqiqədə, ÜDT 100 dəqiqədə, AT 120 / 80 mm. c. st. EKQ çəkilməsinə qədər ağrı tutmasını aradan qaldırmaq lazımdır. Hansı preparatın təyin olunması səhv hesab edilir?",
+      "options": [
+        "morfin dərialtı",
+        "nitroqliserin dil altına",
+        "baralgin damardaxili",
+        "novokain damardaxili",
+        "heparin damardaxili"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "77.Emfizema zamanı döş qəfəsinin forması:",
+      "options": [
+        "çəlləyəbənzər",
+        "astenik",
+        "hiperstenik",
+        "normostenik",
+        "raxitik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "78.Emfizema zamanı perkutor səs:",
+      "options": [
+        "qutu",
+        "timpanik",
+        "küt",
+        "aydın",
+        "metallik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "79.Yaş artdıqca ağciyər emfizeması ilə xəstələnmə tezliyi:",
+      "options": [
+        "artır",
+        "azalır",
+        "dəyişilməz qalır",
+        "coğrafi xüsusiyyətlərdən asılıdır",
+        "xəstənin irqindən asılıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "80.Ağciyər emfizemasının risk amillərinə nə aid edilmir:",
+      "options": [
+        "xroniki alkoholizm",
+        "qlükokortikosteroidlərin uzunmüddətli qəbulu",
+        "alfa1-antitripsinin çatışmazlığı",
+        "peşə zərərləri",
+        "siqaret çəkmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "81.Emfizema zamanı pasiyentin əsas şikayəti:",
+      "options": [
+        "təngnəfəslik",
+        "döş qəfəsində ağrı",
+        "bəlğəm ifrazı ilə öskürək",
+        "qanhayxırma",
+        "boğulma tutmaları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "82.Birincili ağciyər emfizeması zamanı ağciyər hipertenziyasının differensial-diaqnostik meyarları:",
+      "options": [
+        "əlamətlərin xəstəliyin ancaq gecikmiş mərhələlərində meydana çıxması",
+        "əlamətlərin erkən meydana çıxması",
+        "bu simptom müşahidə olunmur",
+        "ağciyər hipertenziyası birincili ağciyər emfizemasının differensial-diaqnostik meyarı sayılmır",
+        "simptom ancaq xəstəliyin erkən mərhələsində meydana çıxır, sonra isə itir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "83.Birincili emfizema zamanı arterial hipoksemiya:",
+      "options": [
+        "ancaq fiziki işdən sonra qeyd olunur",
+        "daim",
+        "adətən gecə vaxtları müşahidə olunur",
+        "müşahidə olunmur",
+        "birincili emfizema zamanı differensial-diaqnostik meyar sayılmır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "84.Emfizemanın rentgenoloji əlamətləri:",
+      "options": [
+        "ağciyər sahələrinin şəffaflığının artması",
+        "horizontal səviyyəli maye olan sahə",
+        "yuxarı əyri sərhəddi ilə homogen kölgəlik",
+        "ocaqlı kölgəlik",
+        "dəyişiksiz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "85.İkincili emfizema zamanı ağciyərlərin gərilməsi:",
+      "options": [
+        "azalır",
+        "bir qədər artır",
+        "kəskin artır",
+        "dəyişilmir",
+        "ikincili emfizema zamanı differensial-diaqnostik meyar sayılmır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "86.Ağciyərlərin ikincili emfizemasının differensial diaqnostikasında döş qəfəsinin rentgenoqrafiyasında ağciyərlərin ətrafı (periferiya) boyunca damar şəklinin zəifləməsi:",
+      "options": [
+        "olmur",
+        "olur",
+        "birtərəfli xarakterdə olur",
+        "yayılmış xarakterdə olur",
+        "xəstəliyin erkən mərhələlərində meydana çıxır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "87.Ağciyərlərin birincili emfizeması adətən bu yaşlarda yaranır:",
+      "options": [
+        "30-40 yaş arasında",
+        "40 yaşdan yuxarı",
+        "50 yaşdan yuxarı",
+        "60 yaşdan yuxarı",
+        "70 yaşdan yuxarı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "88.Ağciyər emfizemasının dərman müalicəsində işlədilir:",
+      "options": [
+        "bronxgenişləndirici preparatlar və qlükokortikoidlər",
+        "antibiotiklər və diuretiklər",
+        "immunosupressorlar",
+        "vazodilatatorlar və mukolitiklər",
+        "öskürək əleyhinə preparatlar və bəlğəmgətiricilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "89.Ağciyər emfizemasının cərrahi müalicəsinə aiddir:",
+      "options": [
+        "bütün qeyd olunanlar",
+        "bulloektomiya",
+        "ağciyərlərin periferik sahələrinin rezeksiyası",
+        "ağciyərlərin sağlam sahələrinin cərrahi dekompressiyası",
+        "ağciyərlərin transplantasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "90.Ağciyər emfizemasının mümkün ağırlaşmalarına nə aid edilmir:",
+      "options": [
+        "fibrozlaşan alveolit",
+        "geri dönməyən tənəffüs çatışmazlığı",
+        "geri dönməyən ağciyər-ürək çatışmazlığı",
+        "spontan pnevmotoraks",
+        "qapaqlı pnevmotoraks"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "91.Xronik ağciyər ürəyi zamanı müşahidə edilir:",
+      "options": [
+        "yayılmış isti sianoz",
+        "akrosianoz",
+        "inspirator təngnəfəslik",
+        "sol mədəciyin hipertrofiyası",
+        "EKQ –də P-mitrale"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "92.Dərin venaların trombozunun diaqnostikasında informativ deyil:",
+      "options": [
+        "KT",
+        "USM",
+        "ssintiqrafiya",
+        "angioqrafiya",
+        "pletismoqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "93.Ağciyər arteriyası emboliyasının əlaməti deyil:",
+      "options": [
+        "bradikardiya",
+        "taxikardiya",
+        "sianoz",
+        "dərin venaların trombozu",
+        "sağ mədəcik çatızmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "94.Ağciyər arteriyası emboliyasının EkQ əlaməti deyil:",
+      "options": [
+        "V1-də kiçik R",
+        "ÜEO –nun yerdəyişməsi",
+        "P-pulmonale",
+        "rSR- tip",
+        "ST-T dəyişikliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "95.50 yaşlı xəstə təngnəfəslik,halsızlıq,səhər yuxululuğu şikayətləri ilə xəstəxanaya müraciət edib.Baxış zamanı isti sianoz,aşağı ərtaflarda ödem,boyun venaların şişməsi müşahidə edilir.Ehtimal olunan diaqnoz:",
+      "options": [
+        "xronik ağciyər ürəyi",
+        "sol mədəcik çatızmazlığı",
+        "perikardit",
+        "miokardit",
+        "bronxial astma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "96.Ağciyər absesi:",
+      "options": [
+        "ağciyər toxumasının nekrozu və parçalanması nəticəsində əmələ gələn irinli boşluğudur",
+        "ağciyər toxumasının çürüntülü dağılmasıdır",
+        "ağciyər toxumasıını iltihabı nəticəsində əmələ gələn ilfiltrativ törəmədir",
+        "Kox çöplərinin təsiri nəticəsində ağciyərdə yaranan kavernoz boşluqdur",
+        "ağciyərdə yayılmış disseminasiya ocaqlarıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "97.Traube sahəsi itir:",
+      "options": [
+        "soltərəfli ekssudativ plevritdə",
+        "ağciyər emfizemasında",
+        "saq tərəfli eksudativ plevritdə",
+        "saq mədəciyin hipertrofiyasında",
+        "saq qulaqcıq hipertrofiyasında"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "98.Kəskin perikarditin etioloji amillərinə aid deyil:",
+      "options": [
+        "alkohol",
+        "bakteriya",
+        "göbələk",
+        "dərman",
+        "viruslar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "99.Perikarditin əsas əmələ gəlmə səbəbi hansıdır:",
+      "options": [
+        "vərəm",
+        "digər orqanlardan iltihabi prosesin yayılması",
+        "sepsis",
+        "bronxit",
+        "şış (törəmə)"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "100.Perikarditlər zamanə ağrı sindromunun xarakteri barəsində düzgün iddiaları seçin:",
+      "options": [
+        "horizontal vəziyyətdə və nəfəs alanda artan basıcı xarakterli ağrı",
+        "fiziki gərginlik zamanı artan sıxıcı xarakterli ağrı",
+        "stress vəziyyətlərində artan uzun müddətli ağrı",
+        "qida qəbulundan sonra və horizontal vəziyyətdə artan basıcı xarakterli ağrı",
+        "bütün iddialar düzdür"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "101.Kəskin perikarditin qeyri - spesifik simptomları aşağıdakından başqa hamısıdır:",
+      "options": [
+        "perikardın sürtünmə küyü",
+        "qızdırma",
+        "titrəmə",
+        "anemiya",
+        "leykositoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "102.Kəskin quru perikarditdə perikardın sürtünmə küyünün xüsusiyyəti:",
+      "options": [
+        "bütün variantları",
+        "3-komponentlı",
+        "2-komponentlı",
+        "1-komponentlı;",
+        "olmaya bilər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "103.Aşaqıdakılardan hansını quru perikarditlə differensasiya etmək lazım gəlir:",
+      "options": [
+        "miokard infarkt",
+        "diafraqma yırtıgı",
+        "kəskın pankreatit",
+        "qida borusunun peptik yarası",
+        "miokardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "104.Autoimmun perikarditə aiddir:",
+      "options": [
+        "hamısı",
+        "postravmatik",
+        "postinfarkt (Dressler sindromu)",
+        "postkomissural",
+        "postperikardit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "105.Perikardit zamanı \"paradoksal nəbzin\" səbəbi:",
+      "options": [
+        "nəfəsalma zamanı ürək atımının kəskin azalması",
+        "nəfəsvermə zamanı ürək atımının artması",
+        "ürək ritminin pozulması",
+        "nəfəsalma zamanı ürək atımının artmasıı",
+        "nəfəsvermə zamanı ürək atımının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "106.Kəskin fibrinoz perikardit üçün nə xarakterik deyil:",
+      "options": [
+        "bradikardiya",
+        "hərarətin artması",
+        "döş sümüyu arxasında ağrı",
+        "perikardın sürtünmə küyü",
+        "disfagiya, udqunma zamanıdöş sümüyü arxasında ağrı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "107.Kəskin fibrinoz perikarditin erkən EKQ əlamətini göstərin:",
+      "options": [
+        "aparmaların çoxunda ST-seqmentinin yüksəlməsi",
+        "mənfi T dişi",
+        "ST seqmentin depressiyası",
+        "yüksəkitiuclu T dişi",
+        "QRSkompleksinin amplitudasının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "108.Kəskin perikarditdə ağrı sindromunda istifadə edilən secim preparatı:",
+      "options": [
+        "qeyri- steroid iltihab əleyhinə dərmanlar",
+        "papaverin və ya noş-pa",
+        "nitratlar",
+        "steroid dərmanlar",
+        "narkotik analgetiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "109.Kəskin perikarditin erkən EKQ əlamətləri hansılardır:",
+      "options": [
+        "qabarıq ST seqmentinin qalxması",
+        "çökmüş ST seqmentinin qalxması",
+        "ST seqmentinin depressiyası",
+        "mənfiT dişi",
+        "yüksək itiuclu T dişi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "110.Miokard infarktından 3 həftə sonra döş qəfəsində ağrı, bədən temperaturunun qalxması, EÇS-in artması, perikardın sürtünmə küyü müşahidə olunur. Ehtimal olunan diaqnoz:",
+      "options": [
+        "Dressler sindromu",
+        "miokardın zədələnmə zonasının genişlənməsi",
+        "idiopatik perikardit",
+        "miokardıncırılması",
+        "ürək xordalarının cırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "111.Konstruktiv perikarditi əmələ gətirən əsas səbəbi göstərin:",
+      "options": [
+        "vərəm",
+        "travma",
+        "kollagenoz",
+        "ürəkdə cərrahi müdaxilə",
+        "uremiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "112.Konstriktiv perikarditin səbəbı deyil:",
+      "options": [
+        "alkoholizm",
+        "birləşdirici toxuma xəstəlikləri",
+        "ürəyin travması",
+        "infeksiyalar",
+        "dərmanlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "113.Konstruktiv perikardit üçün xarakterikdir:",
+      "options": [
+        "hamısı aiddir",
+        "ürək atımının azalması",
+        "paradoksal nəbz",
+        "ürək ölçülərinin normal olması",
+        "perikardda kalsinoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "114.Konstriktiv perikarditdə:",
+      "options": [
+        "arterial təzyiq azalır,venoz təzyiq artır",
+        "venoz təzyiq azalır, arterial təzyiq artır",
+        "arterial və venoz təzyiq əhəmiyyətli dərəcədə dəyişmir",
+        "arterial təzyiq azalır",
+        "venoz və arterial təzyiqlər azalır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "115.Kiçik ürək zamanı sağmədəcik çatışmazlığı əlamətləri və zirvə vurğusunun itməsi hansı xəstəliyin təsdiqləyici əlamətidir:",
+      "options": [
+        "konstruktiv perikardit",
+        "idiopatik KMP",
+        "mitral çatışmazlıq",
+        "arterial hipertenziya",
+        "ürəyin anevrizması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "116.Konstriktiv perikarditin rentgenoloji əlamətləri hansılardır: 1) ürək kölgəsininyığılmalarının zəifləməsi,ürəyin böyüməməsi; 2) ürəyin belinin hamarlaşması, yaxud tam itməsi; 3) perikardın kalsifikasiyası; 4) bədənin vəziyyətinin dəyişməsinə baxmayaraq ürəyin zirvə vurğusunun yerini dəyişməməsi; 5) kardiomeqaliya",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 5",
+        "2, 5",
+        "3, 5",
+        "2, 3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "117.Perikarddakı bitişmələr zamanı yaranan hemodinamik qeyri-sabitliyi nə ilə izah etmək olar: 1) miokardın diastolik boşalmasının məhdudlaşması ilə; 2) döş qəfəsinin sorma güçünün azalması ilə; 3) böyük venaların sıxılması ilə; 4) son yüklənmənin artması ilə.",
+      "options": [
+        "1, 2, 3",
+        "1, 4",
+        "2, 4",
+        "3, 4",
+        "1, 2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "118.Perikard boşluğunda normada nə qədər maye olur?",
+      "options": [
+        "50 ml qədər",
+        "təxminən 5 ml",
+        "100-200 ml",
+        "200-300 ml",
+        "olmamalıdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "119.Hansı xətəliklər zamanı ekssudativ perikardit inkişaf edə bilər ?",
+      "options": [
+        "bütün sadalanmış xəstəliklər zamanı",
+        "vərəm",
+        "divararası limfa düyünlərinin zədələnməsi ilə limfoqranulomatoz",
+        "sistemli qırmızı qurdeşənəyi",
+        "hipotireoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "120.Ekssudativ perikarditin auskultativ əlaməti :",
+      "options": [
+        "zirvədə ürək tonlarının zəifləməsi",
+        "zirvədə sistolik küy",
+        "zirvədə diastolik küy",
+        "zirvədə I tonun güclənməsi",
+        "yuxarıda sadalananlardan heç biri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "121.Ekssudativ perikardit zamanı hansı müayinə aparmaq lazımdır:",
+      "options": [
+        "döş qəfəsinin rentgenoqrafiyası",
+        "perikardın punksiyası",
+        "mərkəzi venoz təzyiqin təyini",
+        "FonoKQ",
+        "EKQ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "122.Ekssudativ perikarditdən şübhələndikdə ilk növbədə hansı müayinəni aparmaq lazımdır:",
+      "options": [
+        "ExoKQ",
+        "perikardın punksiyası",
+        "mərkəzi venoz təzyiqin ölçülməsi",
+        "döş qəfəsinin rentgenoqrafiyası",
+        "EKQ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "123.Sadalanan simptomlardan hansı ekssudativ perikardtə uyğundur:",
+      "options": [
+        "venoz durğunluq",
+        "ürəyin hər iki tərəfə genişlənməsi",
+        "zirvə vurğusu ürəyin kütlüyü çərçivəsindədir",
+        "perikardın sürtünmə küyü",
+        "küt kardiodiafraqmal bucaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "124.Ekssudativ perikarditə xarakterdir:",
+      "options": [
+        "hamısı düzdür",
+        "hamarlanmış qövs",
+        "pulsasiya konturunun azalması",
+        "köndələn ölçünün uzununa ölçüdən üstün olması",
+        "damar dəstəsinin qısalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "125.Perikardın punksiyasına göstəriş:",
+      "options": [
+        "hamısı aiddir",
+        "ürəyin tamponadası",
+        "iltihabı prosesə şübhə olduqda",
+        "ekssudatın sorulması zəiflədikdə",
+        "diaqnostik punksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "126.Ekssudativ perikarditi olan 50 yaşlı xəstənin müayinəsi zaman hipotireoza şübhə oyanmışdır. Aşağıdakıdan başqa bu ehtimalı hansı əlamətlər təsdiq etməyə imkan verir:",
+      "options": [
+        "qızdırma",
+        "normoxrom anemiya",
+        "hiperxolesterinemiya",
+        "plevral ekssudat",
+        "dirsək oynağı nahiyəsində piqmentasiya və hiperkeratoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "127.25 yaşlı xəstə ekssudativ perikardit diaqnozu ilə stasionara daxil olmuşdur. Hesab edir ki, 2 həftə əvvəl xəstələnib, soyuqdəymədən sonra (təngnəfəslik, zəiflik, döş qəfəsində sıxılma) . Hansı əlamətlər perikardın zədələnməsinin xroniki xarakterinə işarə edir:",
+      "options": [
+        "perikardın kalsifikasiya əlamətləri (rentgenoskopiya, ExoKQ)",
+        "ürək kölgəsinin xeyli genişlənməsi, nəbzin zəifləməsi (rentgenoskopiya)",
+        "böyük qan dövranında durğunluq əlamətləri",
+        "EKQ-də dişciklərin voltajının azalması",
+        "ürək tonlarının karlaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "128.Miokarditin etioloji amilləri:",
+      "options": [
+        "bütün sadalananlar",
+        "bakteriyalar",
+        "viruslar",
+        "ibtidailər",
+        "parazitlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "129.Miokarditin ən cox rast gələn törədicisi hansıdır?",
+      "options": [
+        "viruslar",
+        "bakteriyalar",
+        "ibtidailər",
+        "parazitlər",
+        "göbələklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "130.Miakarditə xas olan əsas şikayyətlər:",
+      "options": [
+        "ürəkdə aqrı, ürəkdöyünmə, tənginəfəslik",
+        "ürəkdə aqrı, ürəkdöyünmə, bayılma",
+        "ürəkdə aqrı, tənginəfəslik, assit",
+        "ürəkdə aqrı, başgicəlmə, tənginəfəslik",
+        "ürəkdə aqrı, temperatur, quru öskürək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "131.Toksik miokarditə səbəb olmayan dərman preparatı hansıdır:",
+      "options": [
+        "diqoksin",
+        "penisillinlər",
+        "difenin",
+        "adriamisin",
+        "izoniazid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "132.Miokarditə ən çox xas olan şikayətlər :",
+      "options": [
+        "ürək nahiyəsində ağrı, ürəkdöyünmə, təngnəfəslik",
+        "ürək nahiyəsində ağrı, təngnəfəslik, assit",
+        "ürək nahiyəsində ağrı, təngnəfəslik, başgicəllənmə",
+        "ürək nahiyəsində ağrı, ürəkdöyünmə, bayılma",
+        "ürək nahiyəsində ağrı, gızdırma, quru öskürək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "133.Miokarditin klinik təzahürlərinə aid edilmir:",
+      "options": [
+        "arterial hipertenziya",
+        "intoksikasiya əlamətləri",
+        "ürək ritminin pozulması",
+        "ürək catışmazlığı əlamətləri",
+        "kardialgiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "134.Miokarditə xas olmayan qeyri-spesifik iltihabi əlaməti göstərin:",
+      "options": [
+        "eritrositoz",
+        "disproteinemiya",
+        "leykositoz",
+        "ECS yüksəlməsi",
+        "CRP artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "135.Miokardit zamanı ürəyin hansı funksiyası pozulur?",
+      "options": [
+        "sadalananların hamısı",
+        "avtomatizm",
+        "oyanma",
+        "təqəllüs",
+        "keciricilik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "136.Miokardit zamanı xronik ürək catışmazlığının patogenetik amillərinə aid deyil:",
+      "options": [
+        "natriumun miqdarının azalması",
+        "ürək atımının azalması",
+        "reninin konsentrasiyasının artması",
+        "aldosteronun konsentrasiyasının artması",
+        "üzv və toxumaların perfuziyasının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "137.Miokardit zamanı auskultativ əlamət hansıdır?",
+      "options": [
+        "ürək tonlarının zəifləməsi, zirvədə sistolik küy",
+        "zirvədə cirpılan I ton",
+        "zirvədə diastolik küy",
+        "aorta üzərində II tonun aksenti",
+        "düzgün cavab yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "138.Miokardit ücün xarakter olmayan EKQ əlamət hansıdır?",
+      "options": [
+        "I, II, aVL aparmalarında ST seqmentinin qalxması",
+        "taxikardiya",
+        "QRS kompleksinin amplitudunun azalması",
+        "mədəcik ekstrasistoliyası",
+        "AV blokada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "139.Miokarditin müalicə taktikasına aid deyil:",
+      "options": [
+        "nitratlar",
+        "antibiotiklə müalicə",
+        "iltihab əleyhinə preparatlar",
+        "antiaritmik maddələr",
+        "ürək catışmazlığının müalicəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "140.Miokardit zamanı koronar arteriyaların prosesə qoşulmasının xarakter klinik təzahürləri hansıdır?",
+      "options": [
+        "stenokardiya tutmalarının yaranması",
+        "intotsikasiya əlamətlərinin artması",
+        "arterial hipotenziya",
+        "arterial hipertenziya",
+        "zirvədə sistolik küyün yaranması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "141.Miokardit zamanı yaranan ekstrakardial autoimmun zədələnmələrə aid edilmir:",
+      "options": [
+        "hepatit",
+        "mialgiyalar",
+        "artralgiya və artritlər",
+        "serozitlər",
+        "latent nefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "142.Miokarditin diaqnostikasının qızıl standartı hansıdır?",
+      "options": [
+        "miokardın subendokardial biopsiyası",
+        "EKQ",
+        "ürəyin auskultasiyası",
+        "EXO",
+        "miokardın radioventrikuloqrafiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "143.Miokardit zamanı atım fraksiyasının azalmasının əlamətlərinə aid edilmir:",
+      "options": [
+        "arterial hipertenziya",
+        "ümumi damar müqavimətin artması",
+        "arterial hipotoniya",
+        "ağ ciyər arteriyasının pərcimlənmə təzyiqinin artması",
+        "ağ ciyər hipertenziyası əlamətləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "144.Miokarditin nəticələrinə aid deyil:",
+      "options": [
+        "hipertrofik kardiomiopatiyaya transfer olunma",
+        "tam sağalma",
+        "dilatasion kardiomiopatiyaya transfer",
+        "qəfləti ölüm",
+        "postmiokarditik kardioskleroz persistəedici ritm pozğunluğu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "145.Miokardit diaqnozu qoyulduqdan sonra:",
+      "options": [
+        "hökmən qeyri- steroid iltihab əleyhinə preparatlar təyin edilməlidir",
+        "əsasən simptomatik müalicə aparılmalıdır",
+        "hökmən qlükokortikoidlər təyin edilməlidir",
+        "hökmən miokardda metabolizmi yaxşılaşdşracaq vasitələrtəyin edilməlidir",
+        "hökmən antibiotiklər təyin edilməlidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "146.Xəstə 48 yaşında, ürək vurğularının aritmik olması, topuq, diz, bazu oynaqlarında ağrı şikayətləri ilə xəstəxanaya daxil olub. 3 həftə əvvəl10 gün ərzində qızdırma (38,5) , qarnında ağrılar, duru nəcis müşahidə edilib. EKQ- də P-Q intervalının 0,24- 0,34 c. olması, bəzən QRS kompleksinin itməsi aşkar edilib. Qanda leykositlərin miqdarı 12,7 min, ECS 35mm/s, sial turşusu 270 vah. təşkil edir. Hansı xəstəlikdən şübhələnmək olar?",
+      "options": [
+        "iyersinioz miokarditi",
+        "revmatik miokardit",
+        "İnfeksion- allergik miokardit",
+        "dizenteriya miokarditi",
+        "ürəyin işemik xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "147.Miokardit ücün xass olan EKQ dəyişiklikləri göstərin :",
+      "options": [
+        "aşağı voltajlı EKQ, PQ kompleksinin ölcüsü 0,24 s, QRS – 0,12 s",
+        "ST seqmentinin izoxətdən aşağı enməsi, mənfi T dişi",
+        "ST seqmentinin konkordant qalxması",
+        "ST seqmentinin diskordant qalxması",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "148.Miokardit və ekssudativ perikardit ücün eynilik təşkil edən rentgenoloji əlamət :",
+      "options": [
+        "kardiomeqaliya",
+        "ağ ciyərlərdə durğunluq əlamətlərinin olmaması",
+        "ürək kölgəsinin konturları boyu qövsün olmaması",
+        "ürəyin köndələn ölcüsünün boylama ölcüsündən cox olması",
+        "bütün cavablar doğrudur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "149.Miokardit zamanı proqnostik cəhətdən qeyri-qənaətbəxş hesab olunan əlamətlərə aid edilmir:",
+      "options": [
+        "mədəcik ekstrasistolaları",
+        "sol mədəciyin atım fraksiyasının 40 % - dən az olması",
+        "mədəcik taxikardiyası",
+        "perikarditin qoşulması",
+        "kəskin ürək catışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "150.Miokarditli xəstələrdə mədəcik taxikardiyasının müalicəsində seçim:",
+      "options": [
+        "kardioverter- defibrillyatorun qoyulması",
+        "lidokain",
+        "ürək qlikozidləri",
+        "beta- adrenoblokatorlar",
+        "verapamil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "151.Miokardit zamanı supraventrikulyar taxikardiyanın müalicəsində istifadə olunan preparat:",
+      "options": [
+        "bütün cavablar doğrudur",
+        "karotid sinusun massajı",
+        "Valsalva sınağı",
+        "venadaxili verapamil",
+        "sinxronlaşdırılmış kardioversiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "152.Ürək kameralarının dilatasiyası xarakterik deyil:",
+      "options": [
+        "hipertrofik ürək",
+        "alkoqol kardiomiopatiya",
+        "miokardit",
+        "anemik ürək",
+        "aortal qapaq çatmamazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "153.Birincili kardiomiopatiyanın klinik variantlarına aid deyil :",
+      "options": [
+        "alkohol",
+        "hipertrofik",
+        "dilatasion",
+        "restriktiv",
+        "sağ mədəciyin aritmogen displaziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "154.Hipertrofik kardiomiopatiyanın klinik əlamətləri:",
+      "options": [
+        "bütün cavablar doğrudur",
+        "kardialgiya",
+        "sol mədəcik tip ürək çatışmazlığı",
+        "bayılmalar",
+        "ritm pozğunluğu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "155.Hipertrofik kardiomiopatiya üçün xarakter deyil:",
+      "options": [
+        "tez- tez dilatasion KMP transformasiya",
+        "ailə anamnezi",
+        "genetik şərtlənən miopatiya və miodistrofiya ilə müştərək ola bilməsi",
+        "mədəciklərarası çəpərin hipertrofiyası",
+        "tez- tez cavan şəxslərdə qəfləti ölüm kimi təzahür edir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "156.Hipertrofik kardiomiopatiya zamanı xəstədə qəfləti ölümə səbəb ola biləcək proqnostik əlverişsizamil hansıdır?",
+      "options": [
+        "mədəcik aritmiyası",
+        "ürək çatışmazlığının əmələ gəlməsi",
+        "gərginlik stenokardiyası",
+        "His dəstəsinin sol ayaqcığının bolkadası",
+        "His dəstəsinin sağ ayaqcığının bolkadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "157.Hipertrofik kardiomiopatiyanın müalicəsində ürək çatışmazlığı olmayan hallarda seçim preparatı hansıdır?",
+      "options": [
+        "beta adrenoblokatorlar",
+        "AÇF inhibitorları",
+        "nitratlar",
+        "metaboliklər",
+        "diuretiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "158.Hipertrofik kardiomiopatiyanın klinik əlamətlər hansı amildən asılıdır ?",
+      "options": [
+        "bütün sadalananlardan",
+        "miokardın işemiyasında",
+        "sol mədəciyin cıxacaq hissəsinin daralma dərəcəsindən",
+        "aritmiyadan",
+        "diastolik disfunksiyanın dərəcəsindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "159.Obstruktiv hipertrofik kardiomiopatiya üçün xarakterdir:",
+      "options": [
+        "mədəcikarası çəpərin bazal seqmentinin izoləolunmuş hipertrofiyası",
+        "sol mədəciyin konsentrik hipertrofiyası",
+        "sol mədəciyin ekssentrik hipertrofiyası",
+        "sol mədəciyin apikal hissəsinin hipertrofiyası",
+        "sol mədəciyin divarlarının nazilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "160.Obstruktiv tip hipertrofik kardiomiopatiyalı xəstələrin şikayətlərinə aid deyil:",
+      "options": [
+        "qulaqda küy",
+        "başgicəllənmə",
+        "bayılma",
+        "ürəkdöyünmə",
+        "sinədə darlıq hissi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "161.Hipertrofik kardiomiopatiyalı xəstələrdə aorta və sol mədəcik arasında təzyiq qradiyentinə təsir edən anatomik amil:",
+      "options": [
+        "mitral qapağın ön tayının sistola zamanı mədəcikarası çəpərə doğru hərəkəti",
+        "mitral qapağın ön tayının diastola zamanı mədəcikarası çəpərə doğru hərəkəti",
+        "mitral qapağın ön tayının prolapsı",
+        "mitral qapağın ön tayının haçalanması",
+        "mitral qapağın ön tayının qalınlaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "162.Hipertrofik kardiomiopatiyalı xəstələrdə aorta və sol mədəcik arasında təzyiq qradiyentini artıran funksional amil:",
+      "options": [
+        "sol mədəciyin çıxarıcı traktının daralması",
+        "sol mədəciyin çıxarıcı traktının genişlənməsi",
+        "sol mədəcik boşluğunun genişlənməsi",
+        "sağ mədəcik boşluğunun genişlənməsi",
+        "sol mədəcik boşluğunun daralması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "163.Diastolik disfunksiya xasdır: 1) hipertrofik kardiomiopatiyaya; 2) restriktiv kardiomiopatiyaya; 3) böyrək amiloidozuna; 4) sol mədəcik əzələsinin fizioloji hipertrofiyasına",
+      "options": [
+        "1,2, 3",
+        "1,4",
+        "2,4",
+        "3,4",
+        "1,2,3,4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "164.Hipertrofik kardiomiopatiyada EKQ də hansı dəyişiklik olur?",
+      "options": [
+        "V5-V6 da dərin Q dişi",
+        "WPW sindromu",
+        "Hiss dəstəsinin sag ayaqcıgının blokadası",
+        "atrioventrikulyar blokada",
+        "səyrici aritmiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "165.Hipertrofik KMP-nin klinik əlamətləri asılıdır:",
+      "options": [
+        "sol mədəciyin çıxarıcı traktının obstruksiya dərəcəsindən",
+        "miokardın işemiyasının olmasından",
+        "aritmiyalrın olmasından",
+        "diastolik disfunksiyanın dərəcəsindən",
+        "bütün qeyd olunanlardan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "166.Hipertrofik kardiopatiyada tez, sadə və informativ diaqnostik metod:",
+      "options": [
+        "ExoKQ",
+        "EKQ",
+        "miokardın sçintiqrafiyası",
+        "ürəyin kateterizasiyası",
+        "miokardın biopsiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "167.Hipertrofik kardiomiopatiya zamanı aritmiyaların müalicəsində ən çox məsləhət görülən preparat:",
+      "options": [
+        "kordaron",
+        "novokainamid",
+        "izoptin",
+        "inderal",
+        "xinidin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "168.Hipertrofik kardiomiopatiyanın klinik əlamətləri: 1) təngnəfəslik; 2) ürək nahiyəsində ağrı; 3) bayılmalar; 4) ürəyin ritm pozğunluğu.",
+      "options": [
+        "1,2,3 və 4",
+        "1,2 və 3",
+        "2 və 4",
+        "1 və 3",
+        "4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "169.Asimmetrik hipertrofik kardiopatiya zamanı sinkopal vəziyyətləriyaradan mexanizmlərini göstərin: 1) çıxacaq traktın sistolik obstruksiyası; 2) sol mədəciyin sistolik funksiyasının əhəmiyyətli azalması; 3) müxtəlifritm pozğunluqlarının yaranması; 4) damar tonusu tənziminin pozulması.",
+      "options": [
+        "1 və 3",
+        "1, 2 və 3",
+        "2 və 4",
+        "3 və 4",
+        "1, 2, 3 və 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "170.Hipertrofik kardiomiopatiya zamanı qəfləti ölümün risk amillərinə daxil deyil:",
+      "options": [
+        "nəzərə çarpan təngnəfəslik",
+        "davamlı paroksizmal mədəcik taxikardiyası",
+        "qəfləti ölümün ailə anamnezi",
+        "anamnezdə ürək dayanması",
+        "tez- tez bayılmalar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "171.Hipertrofik kardiomiopatiya zamanı qəfləti ölüm mümkünlüyünü göstərən əlverişsiz proqnostik faktor:",
+      "options": [
+        "mədəcik aritmiyası",
+        "ürək çatışmazlığının əmələ gəlməsi",
+        "His dəstəsinin sol ayaqcığının tam blokadası",
+        "gərginlik stenokardiyası",
+        "mədəciküstü aritmiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "172.ExoKQ nəticələrə əsasən hipertrofik obstruktiv kardiomiopatiyanın tipik əlamətlərinə aid deyil:",
+      "options": [
+        "sol mədəciyin dilatasiyası",
+        "qulaqcığın dilatasiyası",
+        "sol mədəciyin assimmetrik hipertrofiyası",
+        "mitral qapağın ön tayının önə sistolik hərəkəti",
+        "mədəciklərarası cəpərin qalınlığının sol mədəciyin arxa divarının qalınlığına olan nisbətinin 1,3: 1"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "173.Obstruktiv HKMP olan xəstələrə bu preparatlardan hansı mütləq əks-göstərişdir:",
+      "options": [
+        "diqoksin",
+        "metoprolol",
+        "verapamil",
+        "kordaron",
+        "lidokain"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "174.Miokardın dilatasion zədələnmələrində yaranan xronik ürək çatışmazlığının patogenezində iştirak etməyən amil:",
+      "options": [
+        "natriumun miqdarının azalması",
+        "ürək atımının azalması",
+        "aldosteronun miqdarının artması",
+        "üzv və toxumaların perfuziyasının azalması",
+        "reninin miqdarının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "175.Kardiomiopatiyanın diaqnostikasının qızıl standartı :",
+      "options": [
+        "miokardın subendokardial biopsiyası",
+        "EKQ",
+        "ürəyin auskultasiyası",
+        "EXO KQ",
+        "miokardın ssintiqrafiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "176.Dilatasion kardiomiopatiyanın klinik əlamətləri :",
+      "options": [
+        "bütün cavablar doğrudur",
+        "qəfləti ölüm",
+        "tromboemboliya",
+        "ürək ritminin pozulması",
+        "ürək catışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "177.Dilatasion kardiomiopatiyanın exokardioqrafik əlamətlərini göstərin:",
+      "options": [
+        "sol mədəcik divarının qalınlığının normal və ya azalması fonunda onun kəskin dilatasiyası",
+        "sol mədəciyin zəif konsentrik hipertrofiyası fonunda sol qulaqcığın və sağ mədəciyin dilatasiyası",
+        "sol mədəcik divarının zəif qalınlaşması fonunda sol mədəciyin zəif dilatasiyası",
+        "sol mədəciyin atım fraksiyası 50-56%",
+        "sol mədəciyin atım fraksiyası 30%-dən azdır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "178. Restriktiv KMP zamanı zədələnirlər:",
+      "options": [
+        "hər iki mədəcik",
+        "ancaq sol mədəcik",
+        "ancaq sağ mədəcik",
+        "ancaq qulaqcıq",
+        "ancaq qapaq aparatı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "179.Sağ mədəciyin aritmogen displaziyasının ən informativ qeyri- invaziv diaqnostika metodu hansıdır?",
+      "options": [
+        "ürəyin MRT",
+        "EXO KQ",
+        "EKQ",
+        "miokardın ssintiqrafiyası",
+        "Holter monitorlaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "180.Aşağıdakılardan hansının ÜİX ilə dilatasion kardiomiopatiya arasında həlledici diaqnostik əhəmiyyəti vardır?",
+      "options": [
+        "koronaroqrafiya",
+        "xəstənin yaşı və cinsi",
+        "qanda lipidlərin yüksək olması",
+        "ExoKQ",
+        "EKQ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "181.İdiopatik dilatasion kardiomiopatiyanın müalicə prinsipinə aid deyil:",
+      "options": [
+        "kalsium antaqonistləri",
+        "beta adrenoblokatorlar",
+        "AÇF inhibitorları",
+        "ürək qlikozidləri",
+        "diuretiklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "182.Miokarditdən fərqli olaraq dilatasion KMP- da müşahidə edilmir:",
+      "options": [
+        "iltihabın kəskin faza göstəricilərinin yaranması",
+        "ürəyin nisbi kütlüyünün genişlənməsi",
+        "atım fraksiyasının azalması",
+        "qulaqcıqların fibrillyasiyası",
+        "miokardın hipertrofiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "183.Dilatasion KMP zamanı müşahidə olunan tromboemboliyalar:",
+      "options": [
+        "bütün cavablar doğrudur",
+        "ağ ciyərlərin tromboemboliyası",
+        "böyrəyin infarktı",
+        "bağırsağın infarktı",
+        "dalağın infarktı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "184.İkincili kardiomiopatiyanın ən çox rast gəlinən etioloji amili :",
+      "options": [
+        "alkoqol intoksikasiyası",
+        "tireotoksikoz",
+        "ürəyin amiloidozu",
+        "sistem sklerodermiya",
+        "miokardın şüalanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "185.Dilatasion kardiomiopatiyanın fərqləndirici cəhəti:",
+      "options": [
+        "ürək boşluqlarının böyüməsi",
+        "yerli yığılmanın pozulması",
+        "qanda Troponin T-nin artması",
+        "ekspirator təngənəfəslik",
+        "fiziki iş zamanı döş sümüyü arxasında ağrının olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "186.Böyüklərdə anadangəlmə ürək güsürlarından ən cox rast gəlinəni:",
+      "options": [
+        "qulaqcıqlararası çəpərin defekti",
+        "Ebşteyn anomaliyası",
+        "ağciyər arteriyasının stenozu",
+        "Fallo tetradası",
+        "Eyzenmenger kompleksi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "187.Aşağıdakılardan hansını qanın sağdan sola axın (göy) tipli qüsurlara aid etmək olar?",
+      "options": [
+        "Fallo tetradası",
+        "qulaqcıqarası çəpərin qüsuru",
+        "açıq Botal axacağı",
+        "mədəcikarası çəpərin qüsuru",
+        "ağciyər arteriyasının stenozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "188.Aşağıdakılardan hansını qanın soldan sağa axın (solğun) tipli qüsurlara aid etmək olar?",
+      "options": [
+        "açıq ductus arteriosus",
+        "ümumi arterial gövdə",
+        "sol mədəciyin hipoplaziyası sindromu",
+        "Fallo tetradası",
+        "Fallo pentadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "189.Açıq arterial axacağın ən tipik auskultativ əlaməti:",
+      "options": [
+        "sol körpücük sümüyünün altında sistolo-diastolik küy",
+        "sol II qabırğaarası sahədə sistolik küy",
+        "ürəyin zirvəsində sistolik küy",
+        "ürəyin zirvəsində diastolik küy",
+        "sağ II qabırğaarası sahədə diastolik küy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "190.Açıq Botal axacağının klinik ağırlığını göstərən əlamət:",
+      "options": [
+        "axacağın diametri",
+        "aortanın ayrılma küncü",
+        "ağciyər müqavimətinin göstəricicsi",
+        "uşağın yaşı",
+        "periferik müqavimət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "191.Hansı ürək qüsurunda bud arteriyaları üzərində nəbzin təyin olunmaması və ya zəifləməsi və kubital arteriyalar üzərində gərgin nəbz qeyd olunur?",
+      "options": [
+        "aortanın koarktasiyası",
+        "ağciyər arteriyasının stenozu",
+        "mitral qapağın stenozu",
+        "üçtaylı qapağın stenozu",
+        "qulaqcıqarası çəpərin qüsuru"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "192.İkincili QAÇD harada yerləşir:",
+      "options": [
+        "oval dəlik nahiyəsində",
+        "venoz sinus nahiyəsində",
+        "QAÇ-ın aşağı nahiyəsində",
+        "QAÇ-ın bütün sahəsində",
+        "heç bir cavab düzgün deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "193.QAÇ-ın kicik defektinin xarakter auskultativ əlaməti hansıdır?",
+      "options": [
+        "xarakterik xüsusiyyəti yoxdur",
+        "qüsur proyeksiyasında sistolik küy",
+        "solda II qabırqaarası sahədə II tonun aksenti",
+        "sağda II qabırqaarası sahədə II tonun aksenti",
+        "qüsür proyeksiyasında diastolik küy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "194.Qulaqcıqlararası çəpərin defektınin əlamətləri hansılardır: 1) His dəstəsinin sağ ayaqcığının natamam blokadası 2) ürəyin sağ şöbələrinin böyüməsi 3) kiçik qan dövranının hipervolemiyası 4) kiçik qan dövranında hipovolemiya",
+      "options": [
+        "1, 2, 3",
+        "1, 4",
+        "1, 2, 4",
+        "3, 4",
+        "2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "195.Mədəcikarası çəpərin qüsuru üçun xarakterik küy hansı nöqtədə eşidilir?",
+      "options": [
+        "solda III-IV qabırğaarası sahədə",
+        "solda II qabırğaarası sahədə",
+        "sağda II qabırğaarası sahədə",
+        "zirvə nahiyəsində",
+        "IV-V qabırğaarası sahədə, sağda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "196.Mədəciklərarası çəpərin defektinin əlamətləri: 1) kobud sistolik küy 2) III tonun eşidilməsi 3) palpasiyada sistolik titrəmə 4) infeksion endokarditin əmələ gəlmə riski 5) kicik qan dövranında hipovolemiya",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 5",
+        "2, 5",
+        "1, 2, 5",
+        "3, 5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "197.MAÇD ilə bağlı düzgün fikri göstərin:",
+      "options": [
+        "qüsurun ölçüsü kiçildikcə küyün səsi artır",
+        "qüsurun ölçüsü böyükdükcə küyün səsi artır",
+        "küyün səsi ilə qüsurun ölcüsü arasında əlaqə yoxdur",
+        "qüsurun ölçüsü kiçildikcə küyün səsi zəifləyir",
+        "qüsurun ölçüsü böyüdükçə küyün səsi zəifləyir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "198.Mədəciklərarası çəpərin qüsuru olan xəstələrdə auskultasiya zamanı eşidilir: 1) ağciyər arteriyası üzərində sistolik küy 2) ağciyər arteriyasıüzərində II tonun güclənməsi. 3) ağciyər arteriyası üzərində II tonun zəifləməsi 4) solda sternum xətti ilə III-IV qabırğaarası sahədə sistolik küy eşıdilir.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1, 2, 3",
+        "1, 4",
+        "1, 2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "199.MAÇ-ın kicik defektinin diaqnostikasında ən informativ qeyri-invaziv müayinə üsulu hansıdır:",
+      "options": [
+        "Doppler rejimində ExoKQ",
+        "auskultasiya",
+        "ikiölçülü ExoKQ",
+        "rentgen müayinəsi",
+        "ssintiqrafiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "200.Həkim 25 yaşlı xəstəyə ürək tonlarını qiymətləndir mək məqsədi ilə baxmışdır. Xəstənin şikayəti yoxdur. Anamnezində revmatizm inkarolunur. Sistolik küyhəmişə eşidilib və funksional hesab olunur. AT-120/70mm. c. sut,nəbz -72/dəq. IItonun əhəmiyyətli dərəcədə haçalanması qeyd olunur. Solda II qabırğaarası sahədə yumsaq sistolik küyeşidilir. Ehtimal olunan diaqnoz:",
+      "options": [
+        "mədəcikarası çəpərin defekti",
+        "mitral stenoz",
+        "mitral çatısmazlıq",
+        "aortal stenoz",
+        "mitral qapağın prolapsı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "201.22 yaşlı xəstədə müayinə zamanı döş sümüyünün solunda II qabırğaarası sahədə kürəkarası sahəyə ötürülən sistolik küy aşkar edilmişdir. AT qollarda 160/100 mm c. st. , ayaqlarda 110/70 mm c. st. Daha çox ehtimal olunan diaqnoz:",
+      "options": [
+        "aortanın koarktasiyasl",
+        "aortanın panarteriiti",
+        "ağciyər arteriyasının stenozu",
+        "Fallo tetradası",
+        "mədəciklərarası çəpərin defekti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "202.Aşağıdakılardan hansı Fallo tetradasını əmələ gətirən elementlərdən biri deyil?",
+      "options": [
+        "sol mədəciyin hipertrofiyası",
+        "aortanın sağa transpozisiyası",
+        "ağciyər arteriyasının stenozu",
+        "sağ mədəciyin hipertrofiyası",
+        "mədəcikarası çəpərin qüsuru"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "203.Fallo tetradasına hansı komponentlər aiddir:",
+      "options": [
+        "mədəciklərarası çəpərin defekti (MAÇD) , ağciyər arteriyasının stenozu, sağ mədəciyin",
+        "qulaqcıqlararası çəpərin defekti (QAÇD) , ağciyər arteriyasının stenozu, açıq arterial axacaq,sol",
+        "MAÇD, ağciyər arteriyasının stenozu, sol mədəciyin hipertrofiyası , aortanın dekstropozisiyası",
+        "QAÇD, ağciyər arteriyasının stenozu, sağ mədəciyin hipertrofiyası , mitral dəliyin stenozu",
+        "QAÇD, ağciyər arteriyasının stenozu, sol mədəciyin hipertrofiyası, aortanın stenozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "204.Aortanın koarktasiyasının ən tipik ümumi fizikal əlamət hansıdır?",
+      "options": [
+        "AT ayaqlarda əllərə nisbətən 10-20 mm c. s aşağıdır",
+        "ürək zirvəsində sistolik küy",
+        "aorta üzərində sistolik küy",
+        "AT ayaqlarda əllərə nisbətən 10-20 mm c. s yuxarıdır",
+        "AT əllərdə və ayaqlarda eynidir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "205.Feoxromositoma zamanı AT yüksəlməsi nə ilə bağlıdır? 1) kortikosteroidlərin çox ifrazı ilə; 2) aldosteronun ifrazının artması ilə; 3) reninin cox miqdarda ifrazı ilə; 4) katexolaminlərin artıq ifrazı ilə",
+      "options": [
+        "4",
+        "1, 3",
+        "2, 4",
+        "1, 2, 3",
+        "1, 3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "206.Bədxassəli arterial hipertoniya ən cox rast gəlinir:",
+      "options": [
+        "renovascular hipertoniyada",
+        "hipertoniya xəstəliyində",
+        "böyrəklərin parenximatoz xəstəliklərində",
+        "sidik daşı xəstəliyində",
+        "beyin şişlərində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "207.Böyrəklərin azot ifrazat funksiyası pozulan xəstələrdə arterial hipertenziyanın müalicısində hansı dərmandan istifadə edilmir :",
+      "options": [
+        "anaprilin",
+        "korinfar",
+        "dopegit",
+        "furosemid",
+        "klofelin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "208.Kaptoprilın hipotenziv təsiri hansı amillə bağlıdır : 1) kallikrein-kinin və və prostaqlandin sisteminlərinə təsiri ilə. 2) α–adrenoreseptorların blokadası ilə; 3) angiotenzin II azalıması ilə; 4) reninin ifrazının azalması ilə.",
+      "options": [
+        "1, 3",
+        "1, 2, 3",
+        "2, 4",
+        "1, 4",
+        "1, 2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "209.Feoxromasitomada hipertonik krizin müalicəsi üçün ən effektiv venadaxili dərman:",
+      "options": [
+        "fentolamin",
+        "pentamin",
+        "klofelin",
+        "dibazol",
+        "korinfar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "210.Birincili hiperaldosteronizm üçün tipik deyil:",
+      "options": [
+        "hiperqlikemiya",
+        "əzələ ağrısı",
+        "poliuriya",
+        "paresteziya",
+        "hipostenuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "211.Yaşlı insanlarda sistolik arterial hipertoniya: 1) normadır 2) hipertoniyanın xoşxasəli gedişini xarakterizə edir 3) çox vaxt qan dövranı çatışmazlığına gətirib çıxarır 4) beyin insultunun risk faktorlarına aiddir",
+      "options": [
+        "4",
+        "1, 2 , 3",
+        "1, 3",
+        "2, 4",
+        "1, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "212.Feoxromоsitomada hipertonik kriz zamanı müşahidə olunur:",
+      "options": [
+        "hiperqlikemiya",
+        "hipoqlikemiya",
+        "leykopeniya",
+        "limfositoz",
+        "qlükozuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "213.Ensefalopatiya ilə müşayiət olunan arterial təzyiqin yüksəlişində hansı preparatdan daha çox istifadə olunur:",
+      "options": [
+        "diuretiklərdən",
+        "beta- adrenoblokatorlardan",
+        "sedativ dərmanlardan",
+        "ürəkqlikozidlərindən",
+        "kalsium antaqonistlərindən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "214.Vazorenal arterial hipertenziya ən cox rast gəlinən səbəbi:",
+      "options": [
+        "böyrək arteriyasının aterosklerozu",
+        "qeyri-spesifik aortoarteriit",
+        "fibromuskulyar displaziya",
+        "böyrək arteriyasının anevrizması",
+        "böyrək arteriyasının tromboemboliyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "215.Qanda kaliumun miqdarının azalması müşahidə olunur: 1) birincili alderosteronizmdə 2) ikincili aldosteronizmdə 3) diuretiklərin qəbulunda 4) ACF inhibitorların qəbulundan sonra",
+      "options": [
+        "1, 2, 3",
+        "1, 4",
+        "2, 4",
+        "4",
+        "1, 2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "216.Arterial təzyiqdən hansı əlamətə görə şübhələnmək olar:",
+      "options": [
+        "ənsə nahiyyəsində agrı",
+        "qısamüddətli huşun itməsi",
+        "ürək ritminin və keçiriciliyin pozulması",
+        "periferik ödem",
+        "tənəffüs ritminin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "217.Hormonların defisiti ilə olan endokrin hipertenziya hansıdır:",
+      "options": [
+        "şəkərli diabet",
+        "Konn sindromu",
+        "hiperparatireoz",
+        "feoxromositoz",
+        "Isenko-Kuşinq xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "218.Qadınlarda endokrin hipertenziya nəyin nəticəsində ola bilər?",
+      "options": [
+        "estrogen tərkibli preparat",
+        "bromkriptin",
+        "non-vlon",
+        "proqestron",
+        "ureqit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "219.Vazorenal hipertenziya yaradır:",
+      "options": [
+        "hamısı düzdür",
+        "böyrək arteriyasının stenozu",
+        "böyrək arteriyasının fibrovaskulyar hiperplaziyası",
+        "böyrək arteriyasının fibrovaskulyar displaziyası",
+        "böyrək arteriyasının trombozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "220.Nefroqen hipertenziyanın əsas göstəricisi:",
+      "options": [
+        "böyrək funksiyanın pozulması",
+        "böyrək ölçüsünün kiçilməsi",
+        "böyrək distopiyası",
+        "böyrək arteriyasının 20% daralması",
+        "böyrək ləyənində konkrement əlamətinin olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "221.Feoxromositoma zamanı arterial təzyiqin əsaəs diaqnostik meyarları:",
+      "options": [
+        "böyrəküstü vəzin şişi və katexolaminlərin ifrazının artması",
+        "aldesteronun qan plazmasında qalxması",
+        "5-oksiindolsirkə turşusunun sidikdə yüksək göstəricisi",
+        "qanda, böyrək venasında vəsidikdə katexolaminlərin aşagı olması",
+        "a- adrenoblakatorun hipotenziv effektinin olmaması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "222.a-adrenoblakatorun hipotenziv terpiyada əsas çatışmazlıgı:",
+      "options": [
+        "reflektor taxikardiya",
+        "bradikardiya",
+        "kalium mübadiləsinin pozulması",
+        "dislipoproteidemiya",
+        "ortostatik hipotenziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "223.Hansı antihepertenziv dərman hətta zəif dozada dərman lyups- sindromu yaradır?",
+      "options": [
+        "hidralazin",
+        "klonidin",
+        "indapamid",
+        "AÇF inqibitoru",
+        "propronolol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "224.Arterial hipertenziyanın inkişafında daha vacib olan risk faktoru:",
+      "options": [
+        "duzun gündəlik istifadə səviyyəsi",
+        "zülalların gündəlik istifadə səviyyəsi",
+        "karbohidratların gündəlik istifadə səviyyəsi",
+        "yağların gündəlik istifadə səviyyəsi",
+        "alkoqolun gündəlik istifadə səviyyəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "225.Hipertoniyalı xəstələrə xas olan EKQ dəyişiklikləri hansıdır?",
+      "options": [
+        "sol mədəciyin hipertrofiyası",
+        "sağ mədəciyin hipertrofiyası",
+        "sinus taxikardiyası",
+        "sinus bradikardiyası",
+        "His dəstəsinin sağ ayaqcığının blokadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "226.Kişi 72 yaşında, günün ikinci yarısında yaranan baş ağrısından və ürəkdöyünmədən şikayət edir. Son ildə belə hallarda AT-nin yüksəlməsi qeyd olunur. Obyektiv müayinədə: ürəyin sərhədləri dəyişilməyib, tonlar saxlanılır, ÜVS və nəbz – 88/dəq, AT-170/80 mm c. st. Göz dibində - arteriyaların daralması. EKQ-də patologiya yoxdur. Ilkin diaqnoz hansıdır:",
+      "options": [
+        "təcrid olunmuş sistolik hipertenziya",
+        "hipertoniya xəstəliyi II dərəcə",
+        "feoxromositoma",
+        "serebral ateroskleroz",
+        "AT-nin yaş norması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "227.Poliklinikada 22 yaşlı xəstə izolə olunmuş sistolik hipertenziya ilə ( max. A/T 200/90) müayinə olunmuşdu. daban arteriyası pulsasiyası azaılmişdır,ayaqda arteial təzyiq ölçülməyib. Döş qəfəsinin flüoqrafiyası zamanı aşağı qabırğa səthinin uzurasiyanı xatırladan əlamətlər aşkarlanıb. Hipertenziyanın səbəbi nədir?",
+      "options": [
+        "aortanın koarktasiyası",
+        "hipertoniya xəstəliyi",
+        "yuxu arteriyasının stenozu",
+        "hipertrioz",
+        "esensial hipertenziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "228.Anemiya və arterial hipertoniya hansı patoloqiyada müşahidə olunur?",
+      "options": [
+        "xroniki böyrək çatmamazlığı",
+        "hipertoniya xəstəliyi",
+        "İsenko-Kuşinq sindromu",
+        "akromeqaliya",
+        "B12 defisitli anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "229.Hansı xəstəlik üçün göz dibinin dəyişiklikləri xasdır?",
+      "options": [
+        "arterial hipertenziya",
+        "xroniki hepati",
+        "xroniki pielonefrit",
+        "gərginlik stenokardiyası",
+        "xroniki qastrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "230.AT-ni qaldırmayan dərman:",
+      "options": [
+        "b-adrenoblakator",
+        "peroral kontraseptivlər",
+        "qeyri-steroid iltihabəleyhinə preparatlar",
+        "steroidlər",
+        "eritropoetin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "231.Xəstə arterial təzyiqin sistolo-diostalik tipinə görə müayinə olunur. Hiperkalsemiya, kalsiuriya, hər iki böyrək axacagında konkrement var. Hormonlar müayinə olunmayıb. Təzyiqin səbəbi nə ola bilər:",
+      "options": [
+        "hiperparatireoz",
+        "hipertoniya xəstəliyi",
+        "aorta koartikasiyası",
+        "böyrəküstü vəzin aldestroması",
+        "hipertireoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "232.32 yaşlı xəstədə 2 il müddətində AT-170/90-230/140 mm c. st. səviyyəsində olur. Nifedipinlə müalicə hissəvi hipotenziv effekt vermiş, amma AT son zamanlar 230/140 mm c. st. səviyyəsinə qalxmışdır. Ürək sola böyümüşdür. Göbəyin hər iki tərəfində sistolik küy eşidilir. Sidikdə: zülal-0,33 q/l, er. -2-4 g/s. Hansı xəstəlik daha çox ehtimal olunur:",
+      "options": [
+        "böyrək arteriyalarının stenotik zədələnməsi",
+        "feoxromositoma",
+        "aortanın koarktasiyası",
+        "böyrəklərin ikitərəfli hipoplaziyası",
+        "xroniki qlomerulonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "233.35 yaşlı xəstədə başagrısı, ürəkdöyünmə,döş arxasında diskomfort,30-60 dəqidə davam edən titrətmə qeyd olunur. Obyektiv olaraq: dəridə solğunluq,bəbəklərdə genişlik,UVS 160/dəq. AT- 240/130 mm. c. sut. USM muayinədə sağ böyrəküstü vəzi proeksiyasında həcmli törəmə aşkarlanır. Hazırki xəstəliyin patogenezində əsa rol nəyə məxsusdur?",
+      "options": [
+        "katexolaminlərin ifrazı",
+        "tiroksin (T3,T4) ifrazı",
+        "aldosteron sekresiyasının artması",
+        "hidrokortizonun yuksək konsentrasiyası",
+        "serotoninim yuksək konsentrasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "234.Xəstə 68 yaşında, 10 ildir ki, 2 tip şəkərli diabetdən əziyyət çəkir, diabeton MR qəbul edir, qeyri-müntəzəm müayinə və müalicə olunur. Baş ağrıları, başgicəllənmə, ürək nahiyyəsində sızıldayıcı ağrı, tezləşmış ürəkdöyünmə ilə əlaqədar həkimə müraciət etmişdir. Müayinə zamanı ilk dəfə olaraq AT-nin 200/120 mm c. st. -ə qədər yüksəlməsi, sol mədəciyin hipertrofiyası aşkar edilmişdir. Sidikdə proteinuriya 1,3 q/l, hematuriya 8-15 erit. g/s, leykositlər-2-3 g/s, hialin silindrlər-6-8 g/s, mumabənzər-5-6 g/s. Qanda qlukozanın miqdarı-13 mmol/l, kreatinin-0,156 mmol/l. Hazırki vəziyyətdə AT-nin yüksəlməsinin səbəbi nədir?",
+      "options": [
+        "diabetik nefropatiya",
+        "hipertenziv nefropatiya",
+        "xroniki qlomerulonefrit",
+        "xroniki pielonefrit",
+        "böyrəklərin amiloidozu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "235.38 yaslı xəstə baş ağrısından, AT-nin qalxmasından, sifətdə, ayaqda, bel nahiyyəsində şişkinlikdən şikayətlənir. 7 ildir ki, xəstədir. 1 həftə əvvəl vəziyyəti pisləşib. AT-190/130mm. c. sut. Tonlar ritmikdir, aorta üzərində II tonun aksenti eşidilir. Sidiyinanalizi: zulal -4,2q/l,leyk 3-5g/s,eritrosit -10-14 g/s,hialin və dənəli silindrlər- 6-8g/s. Kreatinin qanda -0,107mmol/l. Guman edilə bilən diaqnoz?",
+      "options": [
+        "xroniki qlomerulonefrit, nefrotik tip",
+        "sidikdaşi xəstəliyi",
+        "xroniki pielonefrit",
+        "amiloidoz",
+        "sürətlə proqressivləşən qlomerulonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "236.27 yaşlı xəstə qadını güclü baş ağrısı, başgicəllənmə, görmənin pozulması, tez-tez burun qanaxması narahat edir. 2 ildirxəstədir. Nəbzi -68/dəq,ritmikdir,gərgindir,sol əldə əllənmir. AT – sağ qolda 220/110mm. c. sut,sol qolda 140/90 mm. c. sut. (6 gün ərzində yüngül dəyişikliklərlə).Ürəyin sol nisbi kütlük hüdudu sol ön qoltuq xətti üzərindədir. Aorta üzərində II tonu aksenti eşidilir. Göbəkdən yuxarı solda kobud sistolik küyeşidilir. Arterial hipertenziyanın inandırıcı mənşəyi hansıdır?",
+      "options": [
+        "Takayasi xəstəliyi",
+        "hemodinamik mənşəli",
+        "endokrin mənşəli",
+        "essensial mənşəli",
+        "renoparenximatozmənşəli"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "237.32 yaşlı qadın, başgicəllənmə, çaş ağrısı, ürəkdöyünmə, titrəmədən şikayət edir. Bir neçə aydır ki, AT-nin yüksəlməsi ilə əlaqədar ambulator müşahidədə saxlanılır. Son zamanlar bu tutmalar (pristuplar) artmış, daha ağır olmuşdur. Obyektiv müayinədə-xəstə yapışqan tərə bulanmış, ətraflarda titrəyir. ÜVS – 110/dəq, AT – 220/140 mm c. st. Ürək tonları karlaşıb. Qanın analizində: L – 9,8x10 9 , EÇS – 22 mm/saat. Qanda qlukoza – 9,8 mmol/l. Belə krizlərin yaranmasında hansı xəstəlik daha vacib rol oynaya bilər:",
+      "options": [
+        "feoxromositoma",
+        "diabetik qlomeruloskleroz",
+        "hipertoniya xəstəliyi",
+        "preeklampsiya",
+        "birincili hiperadosteronizm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "238.45 yaşlı xəstən kəskin zəiflik, poliuriya, AT-nin 210/120 m c. st. -qədər yüksəlməsi həyəcanlandırır. Qanda – kalium-3,12 mmol/l, natrium-148 mmol/l, aldosteron-715 nmol/l. Daha çox ehtimal olunan diaqnoz:",
+      "options": [
+        "Kon sindromu",
+        "hipertoniya xəstəliyi III dərəcə",
+        "İtsenko-Kuşinq sindromu",
+        "xroniki pielonefrit, XBÇ",
+        "diabetik qlomeruloskleroz, XBÇ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "239.Xəstə baş ağrısından , başgicəllənmədən, ümumi zəiflikdən, ürəkbulanmadan, qusmadan sikayətedir. Anamnezdə siqaret çəkmək, alkohol istifadəsi,1 il əvvəl yüksək AT qeyd olunub. 10 il əvvəl sidikdə dyisikliklər aşkar olunub. Baxış zamanı xəstənin vəziyyəti ağırdır. Xəstə solğun , sifətində şişkinlik var. Dili quru, damaq qanayır. AT- 210/130 mm. c. sut. Sidiyin analizində: zulal-1,5 qr,eritrosit 25-30g/s,leykosit 3-6g/s. Sizin ehtimal etdiyiniz diaqnoz?",
+      "options": [
+        "xroniki qlomerulonefrit",
+        "böyrəyin polikistozu",
+        "nefrotik sindrom",
+        "diabetik qlomeruloskleroz",
+        "xroniki pielonefrit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "240.62 yaşlı kök xəstə, baş ağrısı, başgicəllənmə, ürək nahiyyəsində 25-30 dəq. davam edən təzyiqedici ağrı, qaşınmadan şikayət edir. Obyektiv müayinə: üz və əlin içi qırmızı rəngdədir. AT – 170/140 mm c. st. Aorta üzərində II tonun aksenti eşidilir. Qaraciyər +3 sm, qalaq +2 sm. Qanınanalizi: Hb-186 q/l, erit. -6,2*10 12 /l, leyk. – 11,2*10 9 /l, EÇS – 3 mm/saat. EKQ-də V1 – V4 aparmalarında T dişinin hamarlaşması. İlkin diaqnoz hansıdır?",
+      "options": [
+        "eritremiya",
+        "hipertoniya xəstəliyi II dərəcə",
+        "qara ciyər sirrozu (splenomeqaliya ilə)",
+        "piylənmə fonunda ikincili eritrositoz",
+        "İtsenko-Kuşinq xəstəliyi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "241.Bədxassəli hipertoniyaya aid deyil:",
+      "options": [
+        "yuxuda obstruktiv apnoe",
+        "AT-nin qalxması",
+        "torlu qişada qansızma",
+        "görmə siniri məməciyi ödemi",
+        "böyrək funksiyasının pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "242.II tip hipertonik krizin əsas diaqnosik meyarı:",
+      "options": [
+        "nevroloji simptokompleks",
+        "AT-nin səviyyəsi",
+        "xəstəliyin müddəti",
+        "taxikardiya",
+        "ekstrasistoliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "243.Hansı prosesin nəticəsində aortanın koarktasiyası zamanı hipertenziya inkişaf edir?",
+      "options": [
+        "daralmadan aşağıda olan daxili orqanların işemiyası",
+        "aşağı ətraf venalarının trombozu",
+        "beyin qan dövranının çatışmazlığı",
+        "magistral damarların aterosklerozunun qoşulması",
+        "koronar arteriyalarda mikrosirkulyasiya pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "244.Feoxromositoma və paraqanqlioma zamanı arterial təzyiqin artması hansı xarakter daşıyır?",
+      "options": [
+        "kriz",
+        "təcrid olmuş sistolik",
+        "yuxarı və aşağı ətraflarda assimetriklik",
+        "tədric olmuş diastolik",
+        "tədricən"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "245.49 yaşlı xəstə qadın, gicgahlarda pulsasiya hissiyyatı ilə müşayiət olunan kəskin baş ağrısı tutmaları, başgicəllənmə, ürəkdöyünmə, tərləmə, bəzən qusma, qöş arxasında ağrı şikayətləri ilə daxil olmuşdur. Tutma zamanı AT 280/140 mm c. st. qədər kəskin yüksəlmişdir. Tutmalar əsasən gecələr, spontan başlayır, 20-40 dəq. davam edir. Xəstədə hipertonik krizin hansı mexanizmi barədə düşünmək olar?",
+      "options": [
+        "katexolaminlərin miqdarının artması",
+        "vazopressin ifrazının artması",
+        "qanda aldosteronun miqdarının artması",
+        "plazmada reninin aktivliyinin artması",
+        "tiroksin ifrazının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "246.Ürək aritmiyasının səbəbləri:",
+      "options": [
+        "qeyd olunanların hamısı",
+        "ürək xəstəlikləri",
+        "elektrolit pozğunluqlar",
+        "dərmanların təsiri",
+        "endokrin pozğunluqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "247.Ürəyin keçiricilik sisteminə amiodaronun təsiri nədən ibarətdir:",
+      "options": [
+        "qulaqçıqlar və mədəciklərin effektiv refrakter dövrünü artırır",
+        "qulaqçıqlarvə mədəciklərin effektiv refrakter dövrünü azaldır",
+        "təsiri yoxdur",
+        "repolyarizasiyanı artırır",
+        "A-V birləşmənin effektiv refrakter dövrünü azaldır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "248.Atropin sınağı xəstələrdə hansı məqsədlə istifadə olunur?",
+      "options": [
+        "sinus düyününün zəifliyi sindromu",
+        "atrioventrikulyar keçiriciliyinin pozulmasının diaqnostikasında",
+        "koranar çatmamazlığın qiymətləndirilməsi",
+        "qanın reoloji xüsusiyyətinin pozulmasının təyini",
+        "gizli koranar çatmamazlığı təyin etmək üçün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "249.AV – blokada hansı dərmanların dozasının çox olmasından yaranır?",
+      "options": [
+        "bütün cavablar doğrudur",
+        "ürək qlükozidləri",
+        "beta- blokatorlar",
+        "izoptin",
+        "kordaron"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "250.Kardiostimulyatorun implantasiyasına göstərişdir:",
+      "options": [
+        "yalnız sinus düyününün zəifliyi sindromunun kliniki əlamətləri olan xəstələrə (bayılma və / və ya",
+        "sinus düyününün zəifliyinin EKQ əlamətləri olan bütünxəstələrə",
+        "sinoatrial blokadası olan xəstələrə",
+        "II dərəcəli atrioventrikulyar blokada olan xəstələrə",
+        "davamlı forma səyrici aritmiyalı xəstələrə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "251.Qəfil başlayan kəskin bradiaritmiyalarda səmərəli istifadəsi məqsədəuyğundur: 1) venadaxili atropin. 2) izoproterenol infuziyası. 3) müvəqqəti elektrokardiostimulyasiya. 4) venadaxili prednizolon və furosemid",
+      "options": [
+        "1, 2, 3",
+        "1, 3",
+        "2, 4",
+        "3, 4",
+        "1, 2, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "252.Sinus taxikardiyasının EKQ əlaməti aşağıdakı hesab olunur:",
+      "options": [
+        "düzgün ritm, hər QRS kompleksindən əvvəl P dişinin olması, ÜDT-dəq. 90 vurğudan çox",
+        "ritm düzgün deyil, f dalğalarının olması, ÜDT- dəq. 110 vurğu",
+        "düzgün ritm, QRS kompleksindən əvvəl P dişinin olmaması, ÜDT-dəq. 120 vurğu",
+        "növbədənkənar QRS kompleksi və ondan sonra kompensator pauzanınyaranması",
+        "düzgün ritm, hər QRS kompleksindən əvvəl P dişinin olması, ÜDT-dəq. 60 vurğudan az"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "253.Sinus bradikardiyasının EKQ əlamətləri:",
+      "options": [
+        "düzgün ritm, sinus mənşəlli Р dişi, ÜDT-dəq. 60 vurğudan az",
+        "hər ikinci QRS kompleksindən sonra P dişinin itməsi, ÜDT-dəq. 50 vurğudan az",
+        "hər üçüncü QRS kompleksinin düşməsi ilə 0,21 san artıq artmış PQ intervalları",
+        "P dişciyinin enən qolunda delta dalğasının olması",
+        "ritm düzgün deyil , ÜDT- dəqiqədə 52 - 68 vurğu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "254.Yerləşməsinə görə aşağıdakı ekstrasistola növləri ayırd edilir:",
+      "options": [
+        "məsəciküstü və mədəcik",
+        "erkən ekstrasistolalar (R və Т tipi)",
+        "bigeminiya, trigeminiya, kvadrigeminiya",
+        "qoşma",
+        "İkili və tək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "255.Mədəciküstü ekstrasistoliyası üçün hansı EKQ meyarlar səciyyəvidir?",
+      "options": [
+        "hamısı",
+        "ekstrasistolik kompleks əsas kompleksə oxşayır",
+        "natamam kompensator pauzanın olması",
+        "ekstrasistolik kompleksdən əvvəl deformasiyalı P dişinin olması",
+        "vaxtından əvvəl QRS kompleksi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "256.Mədəcik eksrasistoliyasının xarakterik xüsusiyyəti:",
+      "options": [
+        "P dişi yoxdur, QRS kompleksi genişlənib",
+        "P dişi mənfidir, QRS kompleksi genişlənib",
+        "P dişi müsbətdir, QRS kompleksi genişlənib",
+        "P dişi yoxdur, QRS kompleksi normaldır",
+        "P dişi mənfidir, QRS kompleksi normaldır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "257.Mədəcik ekstrasistoliyası: 1) üzvi ürək xəstəliyi olmayan xəstələrin proqnozuna təsir etmir. 2) hipertoniya xəstəliyinin gedişini ağırlaşdırır. 3) infarktdan sonrakı kardioskleroz olan xəstələrdə proqnostik pis əlamət ola bilər . 4) üzvi ürək xəstəliyi olmayan xəstələrdə yüksınağı zamanı baş verir.",
+      "options": [
+        "1, 3",
+        "1, 2, 3",
+        "2, 4",
+        "1, 2, 4",
+        "2, 3, 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "258.Tam kompensator pauza aşağıdakılar üçün səciyyəvidir:",
+      "options": [
+        "mədəcik ekstrasistolası",
+        "qulaqcıq ekstrasistolası",
+        "AV birləşmədən ekstrasistola",
+        "АV blokada",
+        "səyirici aritmiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "259.Qulaqcığın aşağı şöbələrində yaranan ekstrasistolalar zaman P dişciyi hər zaman:",
+      "options": [
+        "QRS kompleksindən öndə və mənfi olur",
+        "iki fazalıdır",
+        "müsbətdir",
+        "yüksək iti ucludur",
+        "yoxdur"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "260.Ekstrasistoliyanın ən proqnostik təhlükəli forması aşağıdakıdır:",
+      "options": [
+        "qrup ekstrasistoliyası",
+        "trigeminiya",
+        "kvadrigeminiya",
+        "bigeminiya",
+        "tək - tək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "261.Mədəcik ekstrasistoliyası elektrokardioqrafik olaraq aşağıdakıdan başqa digər əlamətlərlə xarakterizə olunur:",
+      "options": [
+        "dəyişilməmiş mədəcik kompleksinin vaxtından əvvəl əmələ gəlməsi",
+        "ekstrasistolik mədəcik kompleksi və əsas ritm mədəcik kompleksinin kəskin fərqlənməsi",
+        "ekstrasistoladan əvvəl P dişinin olmaması",
+        "QRS kompleksi uzunluğunun artması (0,12 saniyədən çox)",
+        "tam kompensator pauzanın olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "262.Miokard infarktının kəskin dövründə mədəcik ekstrasistoliyanın müalicəsi üçün birinci seçim vasitəsi aşağıdakı hesab olunur:",
+      "options": [
+        "lidokain",
+        "kordaron",
+        "novokainamid",
+        "beta – blokatorlar",
+        "ürək qlikozidləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "263.Paroksizmal taxikardiya zamanı ÜDT:",
+      "options": [
+        "bir dəqiqədə 140 – 250",
+        "bir dəqiqədə 100 - 120",
+        "bir dəqiqədə 120 – 140",
+        "bir dəqiqədə 80 – 100",
+        "bir dəqiqədə 300-dən artıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "264.Mədəcik paroksizmal taxikardiyası aşağıdakının xəbərçisi ola bilər:",
+      "options": [
+        "mədəciklərin fibrillyasiyası",
+        "miokard infarktı",
+        "ekstrasistoliyalar",
+        "qulaqcıq titrəmələri",
+        "qulaqcıq səyirməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "265.Mədəcik taxikardiyası tutmasının aradan qaldırılması üçün ilk növbədə aşağıdakını təyin etmək lazımdır:",
+      "options": [
+        "lidokain",
+        "finoptin",
+        "ürək qlikozidləri",
+        "obzidan",
+        "kordaron"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "266.Mədəcik paroksizmal taxikardiyası zamanı birindən başqa digərləri tətbiq olunur:",
+      "options": [
+        "diqoksin",
+        "etmozin",
+        "lidokain",
+        "kordaron",
+        "elektroimpuls terapiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "267.Ürək qlikozidləri müalicəsi fonunda inkişaf etmiş mədəcik taxikardiyası zamanı infuziya həyata keçirirlər:",
+      "options": [
+        "kalium xlorid",
+        "qlükoza",
+        "β-adrenoblokatorlar",
+        "kalsium qlükonat",
+        "natrium xlorid"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "268.Qulaqcıqların titrəməsi zamanı təkrar tutmalarının qarşısının alınması üçün ən effektiv preparat aşağıdakıdır:",
+      "options": [
+        "kordaron",
+        "novokainamid",
+        "xinidin",
+        "anaprilin (obzidan)",
+        "finoptin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "269.Səyirici aritmiya üçün nə səciyyəvidir ?",
+      "options": [
+        "P dişciyinin olmaması",
+        "mədəcik komplekslərin tezliyinin dəqiqədə 120-dən artıq olması",
+        "vaxtından əvvəl QRS komplekslərinin olması",
+        "PQ intervallarının qısalması",
+        "delta - dalğaların olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "270.Mədəcik fibrillyasiyasının müalicəsi üçün istifadə edirlər:",
+      "options": [
+        "elektrik defibrillyasiya",
+        "amiodaron",
+        "verapamil",
+        "sotalol",
+        "propafenon"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "271.Pasiyent B, 38 yaşında, təxminən 5 gün əvvəl adi fiziki iş zamanı təngnəfəsliyin, tezləşmiş qeyri - ritmik ürək döyüntüsünün inkişaf etməsi ilə əlaqədar klinikaya daxil olmuşdur. Uşaqlıqda tez - tez anginadan əziyyət çəkmiş, yeniyetmə yaşında anginalar olmamışdır və tonzillektomiya aparılmamışdır. Hər il kəskin respirator virus infeksiyasına yoluxur, dəfələrlə dodaqlarında herpes səpgilərinin əmələ gəlməsini qeyd etmişdir. Yuxarıda təsvir olunan şikayətlərin yaranmasından bir ay əvvəl qurşaqlayan herpes keçirmişdir, bu səbəbdən simptomatik terapiya almışdır. Müayinə zamanı: vəziyyəti nisbətən kafi. Bədən temperaturu 37,2 С, titrəmə yoxdur. Konstitusiyası normostenik. Dəri örtüləri təmiz, şişkinlik yoxdur. Tənəffüs tezliyi - dəqiqədə 18, tənəffüs bazal hissələrdə sərtdir, xırıltı yoxdur. ÜDT - 115 dəqiqədə, ritm düzgün deyil, nəbz 80 vurğu dəqiqədə, nəbz defisiti - 35. AT - 110 / 70 mm. c. st. Qarnı yumşaq, ağrısız, qara ciyər və dalaq böyüməmişdir. Qan analizlərində: СRB ++, АСО 126 MЕ/L (norma 0 – 125. Xəstədə hansı aritmiya növü inkişaf etmişdir?",
+      "options": [
+        "qulaqcıqların fibrillyasiyası",
+        "qulaqcıqların titrəməsi",
+        "АV - düyünlü taxikarsiya",
+        "His dəstəsi sol ayaqcığının ön şaxəsinin blokadası",
+        "sinus taxikardiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "272.72 yaşlı xəstədə qeyri-ritmik ürəkdöyünmələr, yüngül fiziki gərginlik zamanı təngnəfəslik var. Obyektiv;ritm- düzgün, ÜVS-96 /dəq,tonlar karlaşıb,aorta üzərində sistolikküy, TS- 16/dəq. EKQ-də: butunaparmalardaP dişciyinin itməsi, muxtelifP-P intervalı,V2-də f dalgaları. Ritm pozğunluğunun hansı variantıdır:",
+      "options": [
+        "qulaqcıgların fibrillyasiyası",
+        "mədəcik ekstrasistoliyası",
+        "qulaqcıq ekstrosistoliyası",
+        "qulaqcıqların səyirməsi",
+        "His dəstəsinin sağ ayaqcığının natamam blokadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "273.Taxisistolik forma qulaqcıq səyriməsində hansı dərman preparatı ritmi tezləşdirə bilər:",
+      "options": [
+        "xinidin",
+        "verapamil",
+        "kordaron",
+        "diqoksin",
+        "obzidan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "274.Əksər hallarda qəfləti ölümün səbəbi nədir:",
+      "options": [
+        "mədəciklərin fibrillyasiyası",
+        "mədəciklərin asistoliyası",
+        "elektro- mexaniki dissosiasiya",
+        "tam atrioventrikulyar blokada",
+        "sinoaurikulyar blokada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "275.Aşağıdakı hansı xəstəliklərdə Morqani-Adams-Stoks tutmaları rast gəlinir?",
+      "options": [
+        "atrioventrikulyar blokada",
+        "mədəcik ekstrasistolası",
+        "səyrici aritmiya",
+        "mədəciklərin titrəməsi",
+        "Hiss dəstəsinin sol ayağının blokadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "276.Volf-Parkinson-Uayt sindromu üçün nə xarakterdir?",
+      "options": [
+        "PQ-intervalının qısalması, R-dişciyinin qalxan ayaqcığında delta dalğanın olması",
+        "PQ-intervalının uzanması, R-dişciyinin qalxan ayaqcığında delta dalğanın olması",
+        "PQ-intervalının qısalması, R-dişciyinin enən ayaqcığında delta dalğanın olması",
+        "PQ-intervalının qısalması",
+        "PQ-intervalının uzanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "277.Mədəcik paroksizmal taxikardiyada istifadə olunur:",
+      "options": [
+        "hamısı",
+        "ritmilen",
+        "finoptin",
+        "qiluritmal",
+        "kordaron"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "278.Voqan Uilyams təsnifatına görə IV sinif antiaritmik dərmanlar hansılardır?",
+      "options": [
+        "ləng kalsium kanallarının blokatorları",
+        "β –adrenoblokatorlar",
+        "natriumkanal blokatorları",
+        "hərəkət potensialının müddətinin uzadılmasının blokatorları",
+        "AÇF inhibitorları"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "279.Miokard infarktın ən tez erkən və təhlükəli agırlaşması:",
+      "options": [
+        "mədəcik fibriliyasiyası",
+        "kardiogen şok",
+        "agciyərin ödemi",
+        "ürək cırılması",
+        "asistoliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "280.Miokard infarktı olan xəstələrdə mədəciklərin fibrillyasiyası daha çox aşağıdakı dövrlərdə inkişaf edir:",
+      "options": [
+        "xəstəliyin başlamasından sonra ilk 1,5 - 2 saat ərzində",
+        "xəstəliyin başlamasından 2 - 3 gün sonra",
+        "xəstəliyin başlamasından 7 - 10gün sonra",
+        "xəstəliyin başlamasından 20gün sonra",
+        "xəstəliyin başlamasından 30 gün sonra"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "281.Mitral stenozlu xəstədə səyrici aritmiya fonunda peresistolik küy necə dəyişir:",
+      "options": [
+        "itir",
+        "hiss olunacaq dərəcədə güclənir",
+        "az güclənir",
+        "dəyişmir",
+        "azalır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "282.Digitalis intoksiyası zamanı taxiaritmiyanın müalicəsində hansı antiaritmik preparat təhlükəsiz və kifayət qədər effektlidir?",
+      "options": [
+        "lidokain",
+        "novakainamid",
+        "izoptin",
+        "inderal",
+        "xinidin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "283.ÜİX olan xəstə transmural arakəsməli miokard infarktlı xəstədə tez-tez mədəcik ekstrasistolası olur. Aşagıdakı hansı preparatı vermək lazımdır?",
+      "options": [
+        "lidokain",
+        "strofantin",
+        "obzidan",
+        "finoptin",
+        "diqoksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "284.58 yaşlı xəstə qəflətən başlayan ürək döyünmədən,başgicəllənmədən,başda küydən, ürək nahiyyəsində agırlıqdan, ürəkbulanmadan şikayətlənir. Nəbz-ritmikdir,160/dəq. Ürəyin auskultasiyası zamanı çəkicəbənzərritm. AT-95/60mm. c. sut. EKQ-də: ritm-düzgün,hər mədəcik kompleksindən əvvəl ikifazalı P disciyi,normal QRS kompleksləri. Karotid sinusunun masajı nəticəsində tutma dayandırlıb. Xəstədə hansı ritm pozğunluğu olub?",
+      "options": [
+        "paroksizmal qulaqcıq taxikardiyası",
+        "paroksizmal mədəcik səyirməsi",
+        "qulaqcıqların paroksizmal fibrillyasiyası",
+        "müntəzəm formalı qulaqcıqsəyirməsi",
+        "paroksizmal mədəcik taxikardiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "285.Səyrici aritmiya hansı xəstəliklərdə rast gəlinir?",
+      "options": [
+        "tireotoksikoz",
+        "aortal stenoz",
+        "hipertrofik kardiomiopatiya",
+        "miokardit",
+        "aortal çatışmazlıq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "286.Səyrici aritmiya zamanı hansı ağırlaşmaya rast gəlinir?",
+      "options": [
+        "tromboembolik sindrom",
+        "miokard infarktı",
+        "hipertonik kriz",
+        "ürək çatışmazlığı",
+        "hipotoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "287.Səyirici aritmiya zamanı qulaqcıqların oyanma dalğalarının tezliyi:",
+      "options": [
+        "bir dəqiqədə 500 - 800",
+        "bir dəqiqədə 200 - 300",
+        "bir dəqiqədə 300 - 400",
+        "bir dəqiqədə 100 – 200",
+        "bir dəqiqədə 50 - 100"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "288.Səyirici aritmiyanın taxisistolik forması üçün ürək mədəciklərinin hansı yığılma tezliyi səciyyəvidir ?",
+      "options": [
+        "bir dəqiqədə 100-dən artıq",
+        "bir dəqiqədə 70 - 80",
+        "bir dəqiqədə 80 - 90",
+        "bir dəqiqədə 90 – 100",
+        "bir dəqiqədə 60 - 70"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "289.Səyirici aritmiyanın taxisistolik forması üçün yüksək ÜDT-dən başqa daha nə səciyyəvidir?",
+      "options": [
+        "nəbzin defisiti",
+        "hipotenziya",
+        "hipertenziya",
+        "bradikardiya",
+        "ekstrasistoliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "290.Səyirici aritmiyanın yeganə patoqnomik əlaməti:",
+      "options": [
+        "nəbz və ürək yığılmalarının nizamsızlığı",
+        "bradikardiya",
+        "taxikardiya",
+        "sol böyür üstə uzanan zaman ürək döyüntüsü",
+        "ölüm qorxusu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "291.AT təkrar ölçülməsi zaman səyirici aritmiyası olan pasiyentlər üçün nə səciyyəvidir?",
+      "options": [
+        "dəyişkən SAT",
+        "aşağı SAT",
+        "yüksək SAT",
+        "hipertenziya",
+        "normal АT"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "292.Səyirici aritmiya zamanı EKQ-də aşağıdakı olmur:",
+      "options": [
+        "Р dişciyi",
+        "Q dişciyi",
+        "QRS kompleksi",
+        "T dişciyi",
+        "ST seqmenti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "293.Ürək ritminin pozulması ilə xəstələrdə müalicə tədbirlərinin keçirilməsi üçün göstərişlər: 1) subyektiv olaraq ürək döyüntüsü və / və ya ürəkdə pozğunluqlara dözə bilməmə 2) aritmiyanın irəli gələn hemodinamikanın kəskin pozulmaları 3) bəzi aritmiyaların pis proqnostik qiyməti 4) xəstənin yaşı",
+      "options": [
+        "1, 2 və 3",
+        "1 və 4",
+        "2 və 4",
+        "4",
+        "1, 2, 3 və 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "294.Təcili yardım şəraitində səyirici aritmiya paroksizminin aradan qaldırılması üçün daha çox istifadə edirlər:",
+      "options": [
+        "kordaron",
+        "verapamil",
+        "anaprilin",
+        "diqoksin",
+        "nitroqliserin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "295.Səyirici aritmiya paroksizminin aradan qaldırılması üçün aşağıdakından istifadə etmək olmaz:",
+      "options": [
+        "lizinopril",
+        "izoptin",
+        "novokainamid",
+        "kordaron",
+        "propafenon"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "296.Ürək blokadaları aşağıdakı xəstəliklər fonunda inkişaf edə bilər:",
+      "options": [
+        "aşağıda sadalanan bütün xəstəliklər zamanı",
+        "kardiomiopatiyalar",
+        "miokardioskleroz və miokardiodistrofiyalar",
+        "miokard infarktı",
+        "miokarditlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "297.Sinoaurikulyar blokanın EKQ əlaməti aşağıdakıdır:",
+      "options": [
+        "P dişi və QRS kompleksinin vaxtaşırı itməsi",
+        "P dişinin vaxtaşırı itməsi",
+        "P dişinin tamamilə olmaması",
+        "QRS kompleksinin vaxtaşırı itməsi",
+        "ürəyin elektrik oxunun sağa doğru əyilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "298.Qulaqcıqdaxili blokadanın EKQ əlaməti hansıdır:",
+      "options": [
+        "P dişinin genişlənməsi və deformasiyası",
+        "P dişinin olmaması",
+        "V1 - aparmalarda P dişləri «günbəz» tipindədir",
+        "II, III və aVF aparmalarda mənfi P dişi",
+        "P dişi QRS kompleksindən sonra gəlir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "299.I dərəcəli A-V blokadanın EKQ əlaməti hansıdır:",
+      "options": [
+        "PQ intervalının 0,20 saniyədən artıq uzanması",
+        "PQ intervalının müxtəlif ürək tsiklində müxtəlif uzunluğu",
+        "PQ intervalının 0,12 saniyədən az qısalması",
+        "PQ intervalının vaxtaşırı QRS kompleksinin itməsinə qədər tədricən uzanması (Samoylov -",
+        "P dişinin olmaması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "300.Samoylov-Venkebax dövrü ilə müşayiət olunan II dərəcəli sinoaurikulyar blokada xarakterizə olunur:",
+      "options": [
+        "PQRST kompleksinin itməsi",
+        "P dişinin genişlənməsi",
+        "P dişinin daralması",
+        "P-P intervalının uzanması",
+        "P-P intervalının qısalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "301.II dərəcəli (Mobits 1) A-V blokadanın EKQ əlaməti hansıdır:",
+      "options": [
+        "Samoylov - Venkebax dövrü: PQ intervalının QRS kompleksinin itməsinə qədər tədricən",
+        "PQ intervalının sabit (normal və ya artmış) uzunluğu zaman QRS kompleksinin nizamsız itməsi",
+        "PQ intervalının 0,20 saniyədən artıq uzanması",
+        "PQ intervalının sabit uzunluğu zamanı QRS kompleksinin nadir hallarda itməsi (5 və daha artıq",
+        "QRS - kompleksinin genişlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "302.II dərəcəli (Mobits 2) A-V blokadanın EKQ əlaməti hansıdır:",
+      "options": [
+        "PQ intervalının sabit uzunluğu zaman QRS kompleksinin müntəzəm, lakin nadir hallarda itməsi",
+        "PQ intervalının QRS kompleksinin itməsinə qədər tədricən uzanması (Samoylov-Venkebax",
+        "PQ intervalının 0,20 saniyədən artıq uzanması",
+        "bütün cavablar düzdür",
+        "bütün cavablar səhvdir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "303.Tam A-V blokadasının EKQ əlaməti hansıdır:",
+      "options": [
+        "qulaqcıq-mədəcik dissosiasiyasının olması: qulaqcıq və mədəciklər bir - birindən asılı olmayaraq",
+        "PQ intervalının 0,40-0,60 saniyəyədək uzanması",
+        "PQ intervalının sabit (normal) uzunluğu zaman QRS - kompleksinin nizamsız itməsi",
+        "PQ intervalının sabit uzunluğu zaman hər ikinci və ya iki və daha artıq QRS - kompleksinin",
+        "PQ intervalının 0,20 saniyədən artıq uzanması."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "304.Distal tipli A-V blokadanın EKQ əlaməti aşağıdakıdır:",
+      "options": [
+        "qulaqcıq - mədəcik dissosiasiyası fonunda QRS kompleksinin deformasiyası və mədəcik",
+        "qulaqcıq - mədəcik dissosiasiyası fonunda normal QRS kompleksi və mədəcik yığılmalarının",
+        "qulaqcıq - mədəcik dissosiasiyası fonunda QRS kompleksinin və P dişlərinin deformasiyası",
+        "qulaqcıq - mədəcik dissosiasiyası fonunda QRS kompleksinin deformasiyası və P dişinin",
+        "qulaqcıq - mədəcik dissosiasiyası fonunda QRS kompleksinin deformasiyası və P dişinin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "305.III dərəcəli A-V blokadanın adekvat müalicəsi hansıdır:",
+      "options": [
+        "tələb üzrə işləyən süni ritm qurğusunun (kardiostimulyatorun) qoyulması",
+        "eufillinin damardaxili vurulması",
+        "β - adrenoblokatorların təyin olunması",
+        "kordaronun yükləyici dozalarının qəbulu",
+        "bütün sadalananlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "306.Morqani - Adams - Stoks tutmalarının yaranma səbəbi aşağıdakı ola bilər:",
+      "options": [
+        "II - III dərəcəli A - V blokada",
+        "qulaqcıqların titrəməsi",
+        "His dəstəsi sol ayaqcığının tam blokadası",
+        "mədəcik ekstrasistoliyası",
+        "His dəstəsi sağ ayaqcığının tam blokadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "307.Ürəyin hansı blokada növü dərmanla müalicə oluna bilər?",
+      "options": [
+        "I dərəcəli A-V blokada",
+        "His dəstəsi sağ ayaqcığının tam blokadası",
+        "His dəstəsi sol ayaqcığının tam blokadası",
+        "III dərəcəli A-V blokada",
+        "heç biri düz deyil"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "308.1 II - III dərəcəli A - V blokadanın müalicəsi üçün birindən başqa aşağıdakı preparatlar və müalicə metodları istifadə olunur:",
+      "options": [
+        "elektrik defibrillyasiya",
+        "xolinolitiklər",
+        "müvəqqəti və ya daimi elektrokardiostimulyasiya",
+        "adrenomimetiklər",
+        "β - adrenoblokatorlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "309.Xəstə 70 yaşında, zəiflik, başgicəllənmə,qısa müddətli bayılma, ürək nahiyyəsində ağrıdan şikayət edir. Auskultasiyada: ÜVS-40\\dəq, ürək tonları ritmikdir, I ton zəifləyib, periodik əhəmiyyətli dərəcədə güclənir, AT-180\\90 mm. c. st. Xəstədə hemodinamik pozğunluqların əsas səbəbidir:",
+      "options": [
+        "AV-blokada III dərəcə",
+        "qulaqciqların bradisistolik formalı fibrilyasiyası",
+        "AV-blokada II dərəcə",
+        "sinus bradikardiyası",
+        "His dəsəsinin sol ayaqcığının tam blokadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "310.His dəstəsinin sol ayaqcığının arxa şaxəsinin blokadası üçün xarakterdir:",
+      "options": [
+        "ÜEO-nun sağa kəskin yerdəyişməsi",
+        "QRS kompleksinin 0,12 san və daha çox genişlənməsi",
+        "döş aparmalarında kəskin dəyişiklik",
+        "II, III, AVF aparmalarında əsasən neqativ QRS kompleksinin olması",
+        "ÜEO-nun sola kəskin yerdəyişməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "311.V 1-2-3 –də M-şəkilli QRS xarakterdir:",
+      "options": [
+        "His dəstəsinin sağ ayaqcığının blokadası",
+        "qulaqcıqdaxili blokada",
+        "WPW sindromu",
+        "His dəstəsinin sol ayaqcığının blokadası",
+        "AV-blokada III dərəcə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "312.His dəstəsi sağ ayaqcığının tam blokadası üçün aşağıdakılardan başqa hər şey səciyyəvidir:",
+      "options": [
+        "ürək oxunun sağa doğru əyilməsi",
+        "bu komplekslərin 0,12 san. və daha artıq genişlənməsi",
+        "ST seqmentinin çəpəki enən depressiyası, V1 - V2 aparmalarda mənfi T-yə keçməklə",
+        "V1 - V2 aparmalarda rSR tipli mədəcik komplekslərinin olması",
+        "V1 - V2 aparmalarda rsR tipli mədəcik komplekslərinin olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "313.His dəstəsi sol ayaqcığının tam blokadası üçün aşağıdakılardan başqa hər şey səciyyəvidir:",
+      "options": [
+        "ürək oxunun sola doğru əyilməsi",
+        "I, II, aVL və V5 - V6 aparmalarda QRS kompleksinin genişlənməsi və bir qədər deformasiyası",
+        "ST seqmentinin çəpəki enən depressiyası, V1 - V2 aparmalarda mənfi T-yə keçməklə",
+        "ürək oxunun sağa doğru əyilməsi",
+        "V1 aparmalarında balaca Q dişciyinin və V2 aparmada R dişciyinin əmələ gəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "314.His dəstəsi sol ayaqcığının blokadasının kliniki əlamətləri:",
+      "options": [
+        "sadalananlardan heç biri",
+        "ÜDT tezləşməsi",
+        "arterial təzyiqin qalxması",
+        "ÜDT zəifləməsi",
+        "ürəyin işində pozğunluqların hiss olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "315.Endokrin vəzlərin patologiyası ilə bağlı hipertonik kriz əsasən nə zaman rast qəlir?",
+      "options": [
+        "feoxromositoma",
+        "hipoparatireoz",
+        "hipotireoz",
+        "addison xəstəliyi",
+        "şəkərsiz diabet"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "316.Arterial hipertenziya zamanı hansı əlamət böyrəklərin zədələnməsini göstərir?",
+      "options": [
+        "proteinuriya",
+        "sidikdə duz kristallarının olması",
+        "qanda protrombinin miqdarının 100% cox olması",
+        "sidikdə dəyişilməmiş eritrositlərin olması",
+        "epiteluriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "317.Feoxromositomada arterial təzyiqin yüksəlmə səbəbi: 1) kortikosteroidlərin hiperproduksiyası; 2) aldosteronun miqdarının artması; 3) reninin hiperproduksiyası; 4) katexolaminlərin miqdarının artması.",
+      "options": [
+        "4",
+        "1, 3.",
+        "2, 4",
+        "1, 2, 3",
+        "1, 2, 3 və 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "318.Bədxassəli arterial hipertoniya ən cox hansı xəstələrdə müşahidə olunur:",
+      "options": [
+        "renovaskulyar hipertoniya",
+        "hipertoniya xəstəliyi",
+        "böyrəklərin parenximatoz xəstəlikləri",
+        "böyrəkdaşı xəstəliyi",
+        "baş beynin şişləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "319.Yaşlı şəxşlərdə sistolik arterial hipertoniya: 1) normal haldir; 2) hipertoniyanın xoşxassəli gedişini xarakterizə edir; 3) çox zaman qan dövranı çatışmazlığına gətirir; 4) beyin insultunun inkişafının risk faktorudur.",
+      "options": [
+        "1, 2 və 3",
+        "1 və 3",
+        "2, 4",
+        "4",
+        "1, 2, 3 və 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "320.Hansı antiaritmik preparat qanda ürək qlükozidlərinin konsetrasiyasını artırır?",
+      "options": [
+        "kordaron",
+        "propronalol",
+        "novokainamid",
+        "dizopiramid",
+        "etasizin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "321.Antiaritmik preparat olan kordaronun xarakterik yanaşı effekti hansıdır?",
+      "options": [
+        "qalxanabənzər vəzin funksiyasının pozulması",
+        "sinus taxikardiyası",
+        "WPW sindromu zamanı qulaqcıqların fibrilyasiyası",
+        "QT intervalının qısalması",
+        "göz dibində dəyişikliklər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "322.Antiaritmik olan propafenonun yanaşı təsiri hansıdır?",
+      "options": [
+        "piruet tipli mədəcik taxikardiyası",
+        "dəri örtüklərinin rənginin dəyişməsi",
+        "QT intervalının uzanması",
+        "bronxobstruktiv sindrom",
+        "qulaqcıqların fibrillyasıyası olan xəstələrdə mədəcik yığılmalarlnln sayının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "323.Taxisistolik forma səyrici aritmiya müşahidə olunur: 1) Volf- Parkinson- Uayt sindromunda; 2) tireotoksikozda; 3) PR intervalının qısalması sindromunda; 4) hipertonik ürəkdə.",
+      "options": [
+        "1,2 və 3",
+        "1 və 3",
+        "2 və 4",
+        "3 və4",
+        "1, 2, və 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "324.Sinus düyününün disfunksiyasinin əlamətləri:",
+      "options": [
+        "aydin təzahürlü bradikardiya;",
+        "səyrici aritmiya;",
+        "qulaqcıq ekstrasistoliyası",
+        "I dərəcəli AV blokada",
+        "mədəciküstü paroksizmal taxikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "325.II dərəcəli Mobits-2 tip AV blokada ücün xarakterdir: 1) mədəcik kompleksinin itməsindən öncə PR intervalının proqressiv uzanması; 2) PR intervalının sabit olması; 3) PR intervalının qısalması; 4) Hiss dəstəsinin şaxələrinin eyni vaxtda blokadasının tez- tez rast gəlinməsi",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1, 2, 3",
+        "1, 2, 4",
+        "1, 2, 3 və 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "326.Hansı beta-blokator II-ci qrup antiaritmik dərmanlara aid deyil?",
+      "options": [
+        "sotalol",
+        "metoprolol",
+        "propranolol",
+        "asebutalol",
+        "esmolol"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "327.IV-cü qrup antiaritmik dərmanlar hansılardır?",
+      "options": [
+        "kalsium kanalı blokatorları",
+        "kalium kanalı blokatorları",
+        "xlor kanalı blokatorları",
+        "natrium kanalı blokatorları",
+        "beta-blokatorlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "328.AÇF inhibitorların spesifik yanaşı effekti hansıdır?",
+      "options": [
+        "quru öskürək",
+        "aşağı ətraflarında ödem",
+        "üzün qızarması",
+        "dərı səpğisi",
+        "ürək döyüntüləri"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "329.QT intervalının qısalması nə zaman rast qəlinir?",
+      "options": [
+        "ürək vurğularının sayının artması",
+        "hipokalsemiya",
+        "hipermaqnezemiya",
+        "ürək qlikozidləri ilə intoksikasiya",
+        "uremiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "330.Sinus bradikardiyası üçün xarakterik EKQ?",
+      "options": [
+        "ürək vurqusunun sayı 60.-dan az 1 dəqiqədə",
+        "QT intervalının qısalması",
+        "PP və RR intervalının uzanması",
+        "PQ intervalının azalması",
+        "T dişinin amplitudasının azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "331.Sinus taxikardiyası üçün xarakterik EKQ?",
+      "options": [
+        "ürək vurğularının sayı 90.-dan çox 1 dəqiqədə",
+        "QT intervalının üzanması",
+        "PP və RR intervalının uzanması",
+        "T dişinin amplitudasının artması",
+        "PQ intervalının uzanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "332.Dilatasion kardiomiopatiyalı xəstələrdə ürək kameralarının hansı böyüyür?",
+      "options": [
+        "ürəyin bütün kameraları, əsasən sol mədəcik",
+        "sol mədəcik",
+        "sol mədəcik,sol qulaqcıq",
+        "sağ mədəcik,sol qulaqcıq",
+        "sağ mədəciyin dilatasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "333.Dilatasion kardiomiopatiya zamanı xarakterik kliniki mənzərə necədir?",
+      "options": [
+        "total ürək çatışmazlığı",
+        "ğərğinlik stenokardiyası tutmaları",
+        "yalnız sol mədəcik çatışmazlığı",
+        "yalnız sağ mədəcik çatışmazlığı",
+        "yalnız ritm və keçicirliyin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "334.Dilatasion kardiomiopatiya zamanı seçim preparatı hansıdır?",
+      "options": [
+        "AÇF inhibitorları",
+        "lipotrop preparatlar",
+        "Ca antoqonistləri",
+        "L-Karnitin",
+        "preduktal MR"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "335.Hipertrofik kardiomiopatiyanın müalicəsində istifadə olunan dərman hansıdır?",
+      "options": [
+        "beta-adrenoblokator",
+        "Ca antoqonistləri - dihidropiridin qrupu",
+        "AÇF inhibitorları",
+        "ürək qlikozidləri",
+        "nitratlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "336.Miokarditin əsas səbəbi olan infeksion aqent hansıdır?",
+      "options": [
+        "viruslar",
+        "qonokokklar",
+        "aktinomisetinlər",
+        "triponosomlar",
+        "stafilokokklar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "337.Auskultativ ğöstəricilərdən hansı daha çox kəskin miokarditlər zamanı rast ğəlinir?",
+      "options": [
+        "zirvədə I və II tonların karlaşması",
+        "II tonun ağciyər arteriyası üzərində zəifləməsi",
+        "I tonun zirvədə ğüclənməsi",
+        "Flint küyü",
+        "bildirçin ritmi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "338.Aşağıda sadalanan preparatlardan hansı bakterial miokarditlərin etiotrop müalıcəsındə istifadə olunur?",
+      "options": [
+        "benzilpenisillin",
+        "meloksikam",
+        "asiklovir",
+        "delağil",
+        "remantadin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "339.Fibrinoz perikarditli xəstələrin obyektiv müayinəsinin nəticəsi hansıdır?",
+      "options": [
+        "perikardın sürtünmə küyü",
+        "ürəyin tonlarınin normal olması",
+        "ürəyin nisbi kütlüyünün hüdudlarının genişlənməsi",
+        "ürəyin tonlarının karlaşması",
+        "ürəyin mütləq kütlüyünün hüdudlarının genişlənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "340.Ekssudativ perikardit zamanı obyektiv müayinənin nəticəsi hansıdır?",
+      "options": [
+        "ürəyin mütləq kütlüyünün hüdudlarının genişlənməsi",
+        "güclənmiş zirvə vurğusu",
+        "ürək tonlarının normal olması",
+        "perikardın sürtünmə küyü",
+        "ürək tonlarının güclənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "341.Ekssudativ perikarditlərdə xarakterik EKQ mənzərə hansıdır?",
+      "options": [
+        "bir çox aparmalarda ST seqmentinin elevasiyası",
+        "mədəcik komplekslərinin voltajının artması",
+        "His dəstəsi sol ayaqcığının blokadası",
+        "bir çox aparmalarda ST seqmentinin depressiyası",
+        "Hiss dəstəsi sağ ayaqcığının blokadası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "342.Konstriktiv perikarditli xəstələrdə obyektiv müayinənin nəticəsi hansıdır?",
+      "options": [
+        "Stok yaxalığı",
+        "ürək tonlarının güclənməsi",
+        "zirvə vurğusunun zəifləməsi",
+        "zirvədə sistolik küy",
+        "ürəyin bütün sərhədlərinin böyüməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "343.Qulaqcıqlararası defektin klinik ehtimalını nə ilə təsdiqləmək olar?",
+      "options": [
+        "Exo-KQ dopleroqrafiya ilə yanaşı",
+        "tomoqrafiya",
+        "radionuklid angioqrafiya",
+        "koronaroarterioqrafiya",
+        "EKQ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "344.Hansı anadangəlmə qüsurlardan böyüklərdə daha tez-tez rast gəlir:",
+      "options": [
+        "qulaqcıqarası çəpərin defekti",
+        "Ebşteyn anomaliyası",
+        "ağciyər arteriyasının stenozu",
+        "Fallo tetradası",
+        "Eyzenmenger kompleksi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "345.Aortal qapaq çatışmazlığına aid klinik əlamətlər:",
+      "options": [
+        "diastolik AT enməsi və sistolik AT yüksəlməsi",
+        "diastolik AT enməsi",
+        "aşağı sistolik AT",
+        "aşağı nəbz təzyiqi",
+        "Müsse simptomu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "346.Reanimatologiyanın metodlarına aiddir:",
+      "options": [
+        "Ağciyərlərin süni ventilyasiyası",
+        "Fibroqastrodudenoskopiya",
+        "Lümbal punksiya",
+        "Elektrokardioqrafiya",
+        "Sidik kisəsinin kateterizasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "347.Reanimatologiyanın metodlarına aiddir:",
+      "options": [
+        "Qan dövranının bərpası",
+        "Spiroqrafiya",
+        "Qaraciyərin punksiyası",
+        "Koronaroqrafiya",
+        "Göz daxili təzyiqin ölcülməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "348.Reanimatologiyanın metodlarına aiddir:",
+      "options": [
+        "Hipotermiya",
+        "Kolonoskopiya",
+        "Selektiv vaqotomiya",
+        "Ekstrakranial doppler müayinəsi",
+        "Nefrektomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "349.Reanimatologiyanın əsas prinsipi nədir:",
+      "options": [
+        "Həyati-vacib funksiyaların əvəz edilməsi",
+        "Etioloji müalicə",
+        "Patogenetik müalicə",
+        "Etiopatogenetik müalicə",
+        "İntensiv müşahidə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "350.Reanimatologiyanın metodlarına aiddir:",
+      "options": [
+        "Defibrilyasiya",
+        "Oftalmoskopiya",
+        "Qastroskopiya",
+        "Pulmonoektomiya",
+        "Fotoelektrokalorimetriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "351.Reanimatologiyanın metodlarına aiddir:",
+      "options": [
+        "Oksigendaşıyıcı preparatları infuziya etmək",
+        "Hipolipidemik preparatların tətbiqi",
+        "Fenolların tətbiqi",
+        "Antivirus preparatları infuziya etmək",
+        "Anabolik steroidlərin tətbiqi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "352.Reanimatologiyanın metodlarına aid deyil:",
+      "options": [
+        "Splenektomiya",
+        "Həyati-vacib funksiyaların monitorinqi",
+        "İdarəedən hipotoniya",
+        "Hemotransfuziya",
+        "Hipotermiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "353.Reanimatologiyanın metodlarına aid deyil:",
+      "options": [
+        "Parasentez əməliyyatı",
+        "Qan dövranının bərpası",
+        "Kolloid məhlulların tətbiqi",
+        "Hiperbarik oksigenasiya",
+        "Ağciyərlərin yardımçı ventilyasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "354.RİT şöbəsində hər bir çarpayı üçün ayrılır:",
+      "options": [
+        "10-14 m",
+        "4-6 m",
+        "7-9 m",
+        "15-18 m",
+        "19-23 m"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "355.RİT şöbəsində hər bir reanimasiya zalı üçün nə qədər sahə ayrılır:",
+      "options": [
+        "30-40 m",
+        "10-15 m",
+        "16-20 m",
+        "21-25 m",
+        "55-65 m"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "356.“Reanimasiya arabası”-nın dəstlərinə daxildir:",
+      "options": [
+        "“Ambu” kisəsi",
+        "Bir iynəsi",
+        "Laparoskop",
+        "Valdman aparatı",
+        "Neqatoskop"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "357.“Reanimasiya arabası”-nın dəstlərinə daxil deyil:",
+      "options": [
+        "Spiroqraf",
+        "Vakkum sorucusu",
+        "Larinqoskop",
+        "Defibrilyator",
+        "İnfuziya aparmaq üçün sistem"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "358.“Reanimasiya arabası”-nın dəstlərinə daxildir:",
+      "options": [
+        "“S”-bənzər boru",
+        "Pnevmotaxometr",
+        "Portativ rentgen aparatı",
+        "Fibrobronxoskop",
+        "Funksional çarpayı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "359.“Reanimasiya arabası”-nın dəstlərinə daxil deyil:",
+      "options": [
+        "Hemodializ aparatı",
+        "Endotraxeal borular",
+        "Kiçik oksigen balonu",
+        "Kardioskop",
+        "Poliqlükin məhlulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "360.“Reanimaiya arabası”-nın dəstlərinə daxil deyil:",
+      "options": [
+        "Xronometr",
+        "“S”-bənzər boru",
+        "“Ambu” kisəsi",
+        "Defibrilyator",
+        "Adrenalin preparatı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "361.Hansı fonda inkişaf edən kəskin tənəffüs çatışmazlığı ventilyasion xarakterli olmur?",
+      "options": [
+        "Aşağı tənəffüs yollarının patologiyası zamanı",
+        "Mərkəzi sinir sisteminin fəaliyyətinin pozulması zamanı",
+        "Sinir-əzələ keçiriciliyinin pozulmasıda",
+        "Tənəffüs aparatının tamlığının pozulmasında",
+        "Yuxarı tənəffüs yollarının tutulması zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "362.Parenximatoz mənşəli kəskin tənəffüs çatizmazlığının inkişafında əsas faktora aid deyil?",
+      "options": [
+        "Ağız boşluğu orqanlarının xəstəlikləri",
+        "Aşağı tənəffüs yollarında obstruksiya",
+        "Aşağı tənəffüs yollarında restriktiv dəyişiklikləri",
+        "Kəskin respirator distress sindrom",
+        "Diffuziya proseslərinin pozulması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "363.Alveol membranında qazların (əsasən O2 ) mübadiləsinin pozulması hansı halda qeyd olunmur?",
+      "options": [
+        "Kiçik ocaqlı pnevmoniya",
+        "Böyük ocaqlı (krupoz) pnevmoniya",
+        "Ag ciyər emfizeması və pnevmoskleroz",
+        "Miokard infarktı fonunda inkişaf edən ağ ciyər ödemi",
+        "Ürək qüsuru fonunda ağ ciyər ödemi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "364.Ventilyasiya –perfuziya nisbətinin pozulmasının səbəbi olmur?",
+      "options": [
+        "Ağ сiyərlərin kiçik ocaqlı iltihabı",
+        "Toksiki- infeksion sok",
+        "Massiv qan köçürmə",
+        "Süni qan dövranı",
+        "Yayılmış peritonit"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "365.Kəskin tənəffüs çatışmazlığını kompensə edən mexanizmlərə aid deyil?",
+      "options": [
+        "Tənəffüsün dəqiqəlik həcminin azalması.",
+        "Tənəffüsün dəqiqənlik həcminin artması.",
+        "Ürəyin sistolik həcminin artması",
+        "Kapilyarların genişlənməsi.",
+        "Tam oksidləşməmiş məhsulların sidiklə sürətlə ifraz olunması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "366.Sianozun yaranması üçün oksigendən azad olmuş hemoglobinin səviyyəsi neçə q% -ə çatmalıdır?",
+      "options": [
+        "5",
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "367.Normada arterial qanda oksigenin parsial təzyiqi neçəyə bərabərdir?",
+      "options": [
+        "90-100mm.c.süt",
+        "110-120 mm.c.süt",
+        "60-70 mm. c.süt",
+        "40-50 mm. c.süt",
+        "10-20 mm. c.süt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "368.Normada arterial qanda karbon qazının parsial təzyiqi neçəyə bərabərdir?",
+      "options": [
+        "35-45 mm .c.süt",
+        "55-60 mm. c.süt",
+        "25-30 mm. c.süt",
+        "80-90 mm. c.süt",
+        "10-20 mm .c.süt"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "369.Tənəffüsün dayanması zamanı nə etmək lazımdı?",
+      "options": [
+        "Ağciyərlərin süni ventilyasiyasını aparmaq",
+        "Kordiamin yeritmək",
+        "Ürək massajı aparmaq",
+        "Trendelenburq vəziyyəti yaratmaq",
+        "Nazoqastral zond teritmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "370.Ağciyərlərin uzunmüddətli süni ventilyasiyası zamanı verilən qaz qarışığında oksigenin tövsiyyə olunan təhlükəsiz konsentrasiyası:",
+      "options": [
+        "40%",
+        "60%",
+        "70%",
+        "80%",
+        "90%"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "371.Endotraxeal intubasiya aparılmasına göstəriş hansıdır?",
+      "options": [
+        "Tənəffüs yollarının keçiriciliyinin etibarlı təmin olunması",
+        "Pnevmoniyanın effektiv müalicəsini aparmaq",
+        "Mədə turşuluğunu azaltmaq",
+        "Tənəffüs mərkəzini oyatmaq",
+        "Ürək fəaliyyətini yaxşılaşdırılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "372.Mikrotraxeostomiya hansı məqsədlə aparılır?",
+      "options": [
+        "Öskürək refleksini gücləndirmək",
+        "Tənəffüsu bərpa etmək",
+        "Kardiostimulyasiya aparmaq",
+        "Mədə möhtəviyyatını xaric etmək",
+        "Hiperbarik oksigenləşdirmə aparmaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "373.Traxeostomiyanın aparılmasına göstərişdir?",
+      "options": [
+        "Qıtlağın ödemi",
+        "Geniş sahəli (krupoz) pnevmoniya",
+        "Tənəffüsün dəqiqəlik sayının 40-dan çox olması.",
+        "Eksudativ plevrit",
+        "Ürək dayanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "374.Endotraxeal intubasiya aparılması hansı halda tövsiyyə edilir?",
+      "options": [
+        "Əzələ relaksantlarının tətbiqi zamanı",
+        "Qırtlağın ödemi zamanı",
+        "Kəllə əsasının sınıqlarında",
+        "Ağız boşluğu orqanlarının irinli-iltihabi xəstəliklərində",
+        "Səs tellərinin iflici varsa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "375.Traxeostomiyanın aparılmasına göstəriş deyil?",
+      "options": [
+        "Ürək dayanması.",
+        "Səs tellərinin iflici və ya ödemi",
+        "Qirtlağın və ya traxeyanın şişi",
+        "Ağ ciyərlərin uzun müddətli süni ventilyasiyasına ehtiyacın olması",
+        "Bulbar pozğunluqlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "376.Ağ ciyərlərin süni ventilyasiyasına mütləq göstərişdi?",
+      "options": [
+        "PaO 2 <60mm.c.süt və PaCO2",
+        "PaO 2 >70mm.c.süt və PaCO2 <45mm.c.süt",
+        "PaO 2",
+        "PaO 2 >85mm.c.süt və PaCO2",
+        "PaO 2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "377.Ağ ciyərlərin süni ventilyasiyasına mütləq göstəriş deyil?",
+      "options": [
+        "Tənəffüsün dəqiqəlik sayının 30-dan çox olması.",
+        "Tənəffüsün dayanması",
+        "Tənəffüs ritminin kobud pozulması",
+        "Sürətlə inkişaf edən tənəffüs catışmazlığı hesabına qan dövranı pozğunluqlarının inkişaf etməsi.",
+        "Arterial qanda PaO2"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "378.Endotraxeal intubasiya zamanı baş verən ağırlaşmalara aid deyi?",
+      "options": [
+        "Qabırğaların sınığı",
+        "Dişlərin sınması",
+        "Borunun qida borusuna salınması",
+        "Ağciyər atelektazı",
+        "Səs tellərinin zədələnməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "379.Hiperbarik oksigenləşdirmənin aparılmasına göstəriş deyil?",
+      "options": [
+        "Ağır dərəcəli kollaps",
+        "Dəm qazı ilə zəhərlənmə",
+        "Anaerob infeksiyalar",
+        "Yeni doğulmuşların asfiksiyası",
+        "Hava emboliyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "380.Ağciyərlərin süni ventilyasiyasının effektiv olmasının nişanəsi deyil?",
+      "options": [
+        "Qanda PaCO 2 səviyyəsinin artması",
+        "Döş qəfəsinin qalxib enməsi",
+        "SPO 2 -səviyyəsinin artması",
+        "Sianozun azalması.",
+        "Qanda PaO 2 -səviyyəsinin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "381.Ağ ciyərlərin süni ventilyasiyasını apararkən tənəffüs həcmi orta hesabla necə ml/kq təşkil etməlidir?",
+      "options": [
+        "10-15",
+        "6-7",
+        "3-5",
+        "30-40",
+        "20-25"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "382.Kəskin tənəffüs çatışmazlığının patogenetik müalicə tədbirlərinə daxil deyil?",
+      "options": [
+        "Ağ ciyərlərin süni ventilyasiyası",
+        "Ağrı sindiromun aradan qaldırılması",
+        "Bronxospazmin ləğv edilməsi",
+        "Antibakterial terapiya",
+        "Bronxolitikilərin tətbiqi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "383.Kəskin tənəffüs çatışmazlığının patogenetik müalicə tədbirlərinə aiddir?",
+      "options": [
+        "Ağrı sindiromun aradan qaldırılması",
+        "S-bənzər borunun yeridilməsi",
+        "Traxeyanın intubasiyası",
+        "Traxeostomiyanın aparılması",
+        "Ağ ciyərlərin süni ventilyasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "384.Kəskin tənəffüs çatışmazlığının patogenetik müalicə tədbirlərinə aiddir?",
+      "options": [
+        "Bronxospazmın aradan götürülməsi",
+        "Oksigen –terapiyası",
+        "Ağ ciyərlərin köməkçi ventilyasiyası",
+        "Traxeostomiya",
+        "Konikotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "385.Kəskin tənəffüs çatışmazlığı zamanı aparılan ümumi müalicə tədbirlərinə daxildir?",
+      "options": [
+        "Tənəffüs yollarının keçiriciliyinin təmin olunması",
+        "Ağrı sindiromun aradan qaldırılması",
+        "Bronxospazmın götürülməsi",
+        "Antibakterial terapiya",
+        "Pnevmatoraks ,hemotoraks zamanı plevra boşluğunun punksiya edilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "386.Hiperbarik oksigenləşdirmənin ağirlaşmalarına aid deyil?",
+      "options": [
+        "Hava emboliyası",
+        "Oksigenlə zəhərlənməsi",
+        "Ağciyər kistlərinin partlaması",
+        "Tənəffüs asidozu",
+        "Mikroatelektazlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "387.Kəskin tənəffüs çatışmazlığı zamanı aparılan ümumi müalicə tədbirlərinə daxil deyil?",
+      "options": [
+        "Ağrı sindiromunun aradan qaldırılması",
+        "Tənəffüs yollarının keciriciliyinin bərpası",
+        "Ağciyərlərin süni ventilyasiyası",
+        "Ağciyərlərin yardımcı ventilyasiyası",
+        "Oksigen terapiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "388.Kəskin tənəffüs çatışmazlığı zamanı ümumi müalicə tədbirlərinə daxil deyil?",
+      "options": [
+        "Antibakterial terapiya",
+        "O 2 –terapiyası",
+        "Tənəffüs yollarının keciriciliyinin bərpası.",
+        "Traxeyanın intubasiyası.",
+        "Konikotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "389.Kəskin tənəffüs çatışmazlığının patogenetik müalicə tədbirlərinə daxildir?",
+      "options": [
+        "Analeptiklərin istifadəsi",
+        "Oksigen terapiyası",
+        "Traxeostomiya",
+        "Traxeyanin intubasiyası",
+        "Ağ ciyərlərin süni ventilyasiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "390.Kəskin tənəffüs çatışmazlığının patogenetik müalicə tədbirlərinə daxil deyil?",
+      "options": [
+        "Traxeyanin intubasiyası",
+        "Ağrı sindiromun aradan qaldırılması",
+        "Antibakterial terapiya",
+        "Bronxospazmın ləğv edilməsi",
+        "Analeptiklərin istifadəsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "391.Kəskin sol mədəcik çatışmazlığının ağırlaşması nədir?",
+      "options": [
+        "Ağciyər ödemi",
+        "Arterial təzyiqin artması",
+        "Mərkəzi venoz təzyiqin düşməsi",
+        "Beyin ödemi",
+        "Kəskin qaraciyər çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "392.Kəskin sağ mədəcik çatışmazlığında nə baş verir?",
+      "options": [
+        "Mərkəzi venoz təzyiqin artması",
+        "Mərkəzi venoz təzyiqin düşməsi",
+        "Ağciyər ödeminin yaranması",
+        "Arterial təzyiqin artması",
+        "Beyin qan dövranının yaxşılaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "393.Kəskin sol mədəcik çatışmazlığının səbəbi hansıdır?",
+      "options": [
+        "Miokard infarktı",
+        "Qaraciyər sirrozu",
+        "Baş beyin işemiyası",
+        "Ağciyər arteriyasının stenozu",
+        "Üçtaylı qapaq çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "394.Ağciyər ödeminin əmələ gəlməsinin patogenetik mexanizmi hansıdır?",
+      "options": [
+        "Kiçik qan dövranında yaranmış hipertenziv sindrom",
+        "Kiçik qan dövranında təzyiqin düşməsi",
+        "Böyük qan dövranında durğunluq",
+        "Fibromialgiyalar",
+        "Sistolik təzyiqin düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "395.Ürək astmasının səciyyəvi əlaməti nədir?",
+      "options": [
+        "İnspirator təngnəfəslik",
+        "Ekspirator təngnəfəslik",
+        "Bradipnoe",
+        "Sinkopal vəziyyət",
+        "Apnoe"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "396.Kəskin damar çatışmazlığı üçün xasdır:",
+      "options": [
+        "AT aşağı düşməsi",
+        "AT yüksəlməsi",
+        "AT normal qalması",
+        "Koronar qan dövranının artması",
+        "Böyrək qan təchizatının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "397.Kəskin ürək çatışmazlığının əsas müalicə prinsipi nədir?",
+      "options": [
+        "Ürək əzələsinin yığılma qüvvəsinin artırılması",
+        "Damar tonusunun artırılması",
+        "Ümumi dövr edən qanın miqdarını artırılması",
+        "Simpatik sinir sisteminin aktivləşdirilməsi",
+        "Koronar qan dövranının zəiflədilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "398.Kəskin sağ mədəcik çatışmazlığı nə zaman baş verir?",
+      "options": [
+        "Ağciyər arteriyasının trombemboliyası",
+        "Kəskin qanitirmə",
+        "Yanıq şok",
+        "Ağciyər ödemi",
+        "Bayılma"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "399.Bayılma nə zaman baş verir?",
+      "options": [
+        "Vazomotor damar çatışmazlığı",
+        "Arterial təzyiqin qalxması",
+        "İnsan horizontal vəziyyətə keçəndə",
+        "Dəm qazı ilə zəhərlənmədə",
+        "Simpatomimetikərin tətbiqi zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "400.Bayılmanın əsas əlaməti hansıdır?",
+      "options": [
+        "Huşun qısamüddətli itməsi",
+        "İsteriya tutması",
+        "Epileptik status",
+        "Klonik qıcolma",
+        "Huşun uzunmüddətli itirilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "401.Bayılma zamanı beyində nə baş verir?",
+      "options": [
+        "Beyin qabığının qısamüddətli qansızlaşması",
+        "Hipertenzion sindrom",
+        "Hemorragik insult",
+        "İşemik insult",
+        "Uzunmüddətli ensefalopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "402.Bayılmanın müalicəsində tətbiq edilir:",
+      "options": [
+        "Naşatır spirti",
+        "Strofantin",
+        "Dopamin",
+        "Sitikolin",
+        "Essensiale forte"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "403.Kollapsın müalicəsində istifadə edilmir:",
+      "options": [
+        "Serebrolizin",
+        "Kordiamin",
+        "Mezaton",
+        "İnfuzion məhlullar",
+        "Dopamin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "404.Patogenetik olaraq şok necə səciyyələnir?",
+      "options": [
+        "Toxuma perfuziyasının kəskin aşağı düşməsi",
+        "Toxuma perfuziyasının artması",
+        "Arterial təzyiqin artması",
+        "Qanda stress hormonların azalması",
+        "Ümumi dövr edən qanın miqdarının artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "405.Travmatik şokun yaranmasının əsas səbəbi nədir?",
+      "options": [
+        "Kəskin intensiv ağrı",
+        "Sensiblizasiyanın yaranması",
+        "Toksemiyanın olması",
+        "Ürək ritminin pozulması",
+        "Ürəyin dayanması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "406.Hipovolemik şok üçün nə səciyyəvidir?",
+      "options": [
+        "Ağır dərəcəli qanitirmə",
+        "Toxuma ödeminin baş verməsi",
+        "Ağciyər ödeminin yaranması",
+        "Qaraciyərin böyüməsi",
+        "Mərkəzi venoz təzyiqin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "407.Anafilaktik şok zamanı nə baş verir?",
+      "options": [
+        "Kininlərin miqdarının artması",
+        "Histaminin miqdarının azalması",
+        "Arterial təzyiqin yüksəlməsi",
+        "Splenomeqaliya",
+        "Poliuriya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "408.Anafilaktik şok zamanı təxirsalınmaz yardım məqsədi ilə tətbiq edilir:",
+      "options": [
+        "Adrenalin",
+        "Seftriakson",
+        "Prozerin",
+        "Heparin",
+        "Diqoksin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "409.Anafilaktik şok zamanı təcili tədbir edilir:",
+      "options": [
+        "Adrenomimetik",
+        "Trankvilizator",
+        "Antibiotik",
+        "Diuretik",
+        "Spazmolitik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "410.Anafilaksiya zamanı tənəffüs sistemində nə baş verir?",
+      "options": [
+        "Bronxospazm",
+        "Pnevmoniya",
+        "Atelektaz",
+        "Spontan pnevmotoraks",
+        "Ölü boşluğun artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "411.Patogenetik olaraq kardiogen şok zamanı nə baş verir?",
+      "options": [
+        "Ürəyin qan qovma funksiyasının pozulması (kiçik atım sindromu)",
+        "Ürək fəaliyyətinin artması",
+        "Toxumalarda hiperperfuziya",
+        "Arterial təzyiqin qalxması",
+        "Ürək qapaqlarının çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "412.Hemorragik şok zamanı nə baş verir?",
+      "options": [
+        "Dövr edən qanın miqdarının azalması",
+        "Kəskin su-elektrolit itkisi",
+        "Hemoqlobinin artması",
+        "Hemotokritin artması",
+        "Arterial təzyiqin qalxması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "413.Paranteral qidalanma üçün tətbiq edilir:",
+      "options": [
+        "Karbohidratlar",
+        "Dezintoksikasiya üçün məhlullar",
+        "Oksigendaşıyıcı preparatlar",
+        "Kristalloidlər",
+        "Eritrosit kütləsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "414.Terminal halın mərhələlərinə aid deyildir:",
+      "options": [
+        "Hiperosolyar koma",
+        "Preaqonal vəziyyət",
+        "Aqonal vəziyyət",
+        "Kliniki ölüm",
+        "Bioloji ölüm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "415.Terminal halın inkişafında bu sistemdə baş verən dəyişikliklər əsas rol oynamır:",
+      "options": [
+        "Dayaq-hərəkət sistemi",
+        "Mərkəzi sinir sistemi",
+        "Tənəffüs sistemi",
+        "Ürək-damar sistem",
+        "Mədə-bağırsaq sistemi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "416.Terminal hal zamanı qanda bu dəyişiklik əhəmiyyət daşımır:",
+      "options": [
+        "Eritropoezin zəifləməsi",
+        "SpO 2 -in enməsi",
+        "PaO 2",
+        "PvCO 2",
+        "pH-ın azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "417.Hansı əlamətin olması terminal hal zamanı proqnozun ciddiliyini göstərir?",
+      "options": [
+        "Bronxoobstruktiv sindrom",
+        "Dəridə səpgilər",
+        "Metiorizm",
+        "Diurezin artması",
+        "Diurezin azalması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "418.Kliniki ölümün əlamətlərinə aiddir:",
+      "options": [
+        "Bəbəklərin genişlənməsi və işığa reaksiyanın olmamаsı",
+        "Nəbzin sayının azalması",
+        "Arterial təzyiqin enməsi",
+        "Dəri örtüyünün hiperemiyası",
+        "Nəbzin zəif dolğunluqda olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "419.Kliniki ölüm zamanı bu əlamətlərdən biri səciyyəvi sayılmır:",
+      "options": [
+        "Udlaq reflesinin saxlanılması",
+        "Huşun itməsi",
+        "Tənəffüsün dayanması",
+        "Bəbəklərin işığa reаksiyasının olmaması",
+        "Arterial təzyiqin təyin edilməməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "420.Kliniki ölümün əsas nişanələrinə daxildir:",
+      "options": [
+        "Monitor müşahidədə izoxəttin qeyd edilməsi",
+        "Nəbzin seyrəlməsi",
+        "Nəbzin periferik damarlar üzərində zəif dolğunluqda olması",
+        "Dəri örtüyünün hiperemiyası",
+        "Arterial təzyiqin yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "421.Ürək dayanmasının mexanizmlərinə aiddir:",
+      "options": [
+        "Mədəciklərin fibrilyasiyası",
+        "Mədəciklərin ekstrasistolik aritmiyası",
+        "Arterial hipertenziya",
+        "Sinus taxikardiyası",
+        "Sinus bradikardiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "422.Ürək dayanmasının növlərinə aidir:",
+      "options": [
+        "Elekromexaniki dissosasiya",
+        "Kardiogen şok",
+        "Kəskin koronar sindrom",
+        "Ürək astması",
+        "Kollaps"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "423.Klinik ölüm zamanı qeyd edilmir:",
+      "options": [
+        "Bəbəklərin daralması",
+        "Bəbəklərin genəlməsi",
+        "Bəbəklərin işığa reaksiyasınnın olmaması",
+        "Ürək tonlarının eşidilməməsi",
+        "Huşun itməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "424.Qan dövranının dayanmasının mexanizminə aiddir:",
+      "options": [
+        "Nəbzin itməsi ilə müşayət edilən mədəcik taxikardiyası",
+        "Qıcolma sindromu",
+        "Qaraciyər koması",
+        "Travmatik şok",
+        "Kəskin böyrək çatışmazlığı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "425.Kliniki ölümün müddətinin uzanmasına şərait yaradır:",
+      "options": [
+        "Hipotermiya",
+        "Hipertermiya",
+        "Hipoksiya",
+        "Beyin ödemi",
+        "Qanda CO 2 -nın miqdarının düşməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "426.Bu amillərdən hansı kliniki ölümün müddətinin qısalmasına səbəb olmur:",
+      "options": [
+        "100% O 2 verilməsi",
+        "Hipoksiya",
+        "Hipertermiya",
+        "Qanda CO 2 -nın parsial təzyiqinin yüksək olması",
+        "Kliniki ölümdən öncə aqonal vəziyyətin uzun müddət davam etməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "427.Kliniki ölümün müddəti adi şəraitdə orta hesabla nə qədər təşkil edir?",
+      "options": [
+        "3-4 dəqiqə",
+        "1-2 dəqiqə",
+        "7-8 dəqiqə",
+        "9-10 dəqiqə",
+        "11-12 dəqiqə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "428.Hansı faktor kliniki ölümün müddətinin qısalmasına səbəb olmur?",
+      "options": [
+        "Hipotermiya",
+        "Metabolik asidoz",
+        "Hiperkarbiya",
+        "Hipoksiya",
+        "Hipertermiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "429.Ürək dayanmasının növü hansı metodla təyin olunur?",
+      "options": [
+        "EKQ –müayinə",
+        "Kliniki nişanələrə əsasən",
+        "Laborator müayinələrə əsasən",
+        "Elektroensefaloqrafiya ilə",
+        "Auskultasiya yolu ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "430.Dekortikasiya zamanı müşahidə edilir:",
+      "options": [
+        "Total arefleksiya və atoniya",
+        "Yuxu arteriyası üzərində nəbzin itməsi",
+        "Arterial təzyiqin yüksəlməsi",
+        "Onurğa-beyin mayesində laktatın miqdarının azalması",
+        "EEQ –də beyin hüceyrələrinin aktivliyinin saxlanılması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "431.Bu əlamətlərdən biri dekortikasiya zamanı qeyd edilmir:",
+      "options": [
+        "Yuxu arteriyası üzərində nəbzin olmaması",
+        "Bəbəklərin tam genəlməsi",
+        "Spontan tənəffüsün olmaması",
+        "Buynuz qişa refleksinin olmaması",
+        "Bədən hərarətinin normadan aşağı olması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "432.Bu əlamətlərdən biri beyin ölümü zamanı qeyd edilir:",
+      "options": [
+        "Yuxu arteriyası və vidaci venada O2 -nin həcmi arasında fərqin 2%-dən aşağı olması",
+        "Onurğa-beyin mayesində süd turşusunun miqdarının azalması",
+        "Huşun aydın olması",
+        "AT –in davamlı yüksəlməsi",
+        "Qanda xolinesterazanın miqdarınnın artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "433.Asistoliyanın əlamətlərinə aid deyildir:",
+      "options": [
+        "AT sabit olması",
+        "Tənəffüsün dayanması",
+        "EKQ-də düz xəttin olması",
+        "Huşun itməsi",
+        "Bəbəklərin genəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "434.Reanimasiya tədbirlərinin effektivliyinin erkən nişanələrinə daxil deyil:",
+      "options": [
+        "Huşun tam aydınlşması",
+        "Yuxu arteriyası üzərində nəbzin hiss edilməsi",
+        "Dəri və selikli qişaların çəhrayı rəng alması",
+        "Bəbəklərin ölçüsünün kiçilməsi",
+        "Yaradan qanın axmasının müşahidə edilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "435.Reanimasiya tədbirlərinin efektivliyinin erkən nişanələrinə aidir:",
+      "options": [
+        "Bəbəklərin daralması dinamikası",
+        "Huşun tam aydın olması",
+        "Koordinəolunmuş hərəkətlər",
+        "Bədən hərarətinin kəskin yüksəlməsi",
+        "Bədən hərarətinin kəskin enməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "436.Reanimasiya tədbirlərinin efektivliyinin erkən əlamətləri:",
+      "options": [
+        "Dəri və selikli qişaların sianozunun azalması",
+        "Diurezin azalması",
+        "Öskürək refleksinin itməsi",
+        "Spontan tənəffüsün adekvat olması",
+        "Koordinəolunmuş hərəkətlərin qeyd edilməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "437.Reanimasiya tədbirlərinin effektivliyinin erkən nişanələrinə daxildir:",
+      "options": [
+        "Yuxu arteriyaları üzərində nəbzin hiss edilməsi",
+        "Bədən hərarətinin yüksəlməsi",
+        "Göz almalarının koordinə olunmuş hərəkətləri",
+        "Bədən hərarətinin enməsi",
+        "Qanda SpO 2 göstəricisinin 100 % təşkil etməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "438.Dekortikasiya zamanı olmur:",
+      "options": [
+        "Aydın huş",
+        "Buynuz qişanın bulanması",
+        "Total arefleksiya",
+        "Artan bradiaritmiya",
+        "Davamlı arterial hipotenziya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "439.Dekortikasiyanın nişanələrinə aid deyil:",
+      "options": [
+        "Udma aktının olması",
+        "Bəbəklərin genəlməsi",
+        "Huşun olmaması",
+        "Spontan tənəffüsün qeyri effektivliyi",
+        "Okulovestibulyar refleksin qeyd edilməməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "440.Dekortikasiya zamanı qeyd edilir:",
+      "options": [
+        "AT-in qeyri-sabitliyi",
+        "Spontan tənəffüsün adekvat olması",
+        "Udma aktı saxlanılır",
+        "Bəbəklərin işığa reaksiyası saxlanılır",
+        "Ağrı qicığina reaksiya saxlanilir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "441.Dekortikasiya zamanı bu əlamət müşahidə edilmir:",
+      "options": [
+        "Ağrıya qarşı reaksiyanın artması",
+        "AT-in enməsi",
+        "Yuxu arteriyası üzərində nəbzin əllənməsi",
+        "Hərarətin enməsi",
+        "Ürək tonlarının karlaşması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "442.Postreanimasion dövrün ilk saatları üçün səciyyəvi deyil:",
+      "options": [
+        "Kəskin böyrək çatışmazlığının inkişafı",
+        "Ürəyin təkrari dayanması",
+        "Ensefalopatiya əlamətlərinin olması",
+        "AT-in qeyri-sabitliyi",
+        "Beyin ödemi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "443.Hansı vəziyyət terminal halın mərhələsi sayılmır?",
+      "options": [
+        "Komatoz hal",
+        "Kliniki ölüm",
+        "Preaqonal vəziyyət",
+        "Terminal pauza",
+        "Aqonal vəziyyət"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "444.Kliniki ölümün müddəti adi şəraitdə nə qədər təşkil edir:",
+      "options": [
+        "3-4 dəqiqə",
+        "6-8 dəqiqə",
+        "10-12 dəqiqə",
+        "8-10 dəqiqə",
+        "1-2 dəqiqə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "445.Hansı faktor kliniki ölümün müddətinin uzanmasına səbəb olur?",
+      "options": [
+        "Hipotermiya",
+        "Hipertermiya",
+        "Hipoksiya",
+        "Asidoz",
+        "Hiperkapniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "446.Hansı faktor kliniki ölümün müddətinin qısalmasına səbəb olmur?",
+      "options": [
+        "Vaxtında başlanmış reanimasiya tədbirlərı",
+        "Hipertermiya",
+        "Hipoksiya",
+        "Hiperkapniya",
+        "Uzun müddətli aqoniya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "447.Kliniki ölümün əlamətlərinə aid deyil?",
+      "options": [
+        "Ürək tonlarının karlaşması",
+        "Huşun itməsi",
+        "Tənəffüsün dayanması",
+        "Yuxu arteriyası üzərində nəbzin itməsi",
+        "Bəbəklərin genəlməsi və işığa reaksiyanın olmaması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "448.Kliniki ölümün əlamətlərinə aid deyil:",
+      "options": [
+        "Huşun saxlanması",
+        "Dəri örtüyünün kəskin sianozlaşması",
+        "Ürək tonlarının eşidilməməsi",
+        "Arterial təzyiqin müəyyən edilməməsi",
+        "EKQ -də düz xəttin qeydə alınması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "449.Kliniki ölümün əlamətlərinə aiddir:",
+      "options": [
+        "Tənəffüsün dayanması",
+        "Mil arteriyası üzərində nəbzin itməsi",
+        "Arterial təzyiqin aşağı düşməsi",
+        "Bəbəklərin kəskin daralması",
+        "Nəbzin sayının kəskin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "450.Qan dövranının dayanmasının mexanizmlərinə aid deyil:",
+      "options": [
+        "Birinci dərəcəli A-V blokada",
+        "Mədəciklərin asistoliyası",
+        "Mədəciklərin fibrilyasiyası",
+        "Elektromexaniki dissosasiya",
+        "Nəbzin itməsi ilə gedən mədəcik taxikardiyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "451.Qan dövranının dayanmasının növü nəyin əsasında müəyyən edilir?",
+      "options": [
+        "EKQ müayinə",
+        "Kliniki nişanələr",
+        "Laborator müayinələr",
+        "Elektroensefaloqrafiya",
+        "Torakotomiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "452.Asistoliyanın əlamətlərinə aid deyil:",
+      "options": [
+        "Ürək tonlarının karlaşması",
+        "Huşun itməsi",
+        "Tənəffüsün dayanması",
+        "EKQ-də düz xəttin alınması",
+        "Bəbəklərin genəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "453.Elektromexaniki dissosiasiyanın əlamətlərinə aiddir:",
+      "options": [
+        "EKQ-də sinus bradikardiyası fonunda genəlmiş QRS komplekslərin izlənməsi",
+        "Bəbəklərin daralması",
+        "EKQ də yüksək tezlikli sinusoidal əyriliyin olması",
+        "AT –in yüksəlməsi",
+        "Nəbzin sayının kəskin artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "454.Baza ürək-ağciyər reanimasiyası kompleksinə aid deyil:",
+      "options": [
+        "Dərman preparatlarının yeridiyməsi",
+        "Tənəffüs yollarının keçiriciliyinin təmin edilməsi",
+        "Ağciyərlərin süni ventilyasiyası",
+        "Ürəyin qapalı masajı",
+        "Ürəyin açıq masajı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "455.Tək başına yardım aparan şəxs ağciyərlərin süni ventilyasiyasını və ürək masajını hansı nisbətdə aparmalıdır?",
+      "options": [
+        "2:30",
+        "1:5",
+        "3:15",
+        "2:5",
+        "3:10"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "456.İki şəxs yardım göstərərkən ağciyərlərin süni ventilyasiyasını və ürək masajını hansı nisbətdə aparmalıdır?",
+      "options": [
+        "2:30",
+        "2:15",
+        "2:5",
+        "1:10",
+        "3:10"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "457.Mədəciklərin səyriməsi zamanı hansı reanimasiya tədbirləri həyata keçirilmir?",
+      "options": [
+        "Elektrokardiostimulyasiya",
+        "Prekardial zərbə",
+        "Elektrik defibrilyasiya",
+        "Ağciyərlərin süni ventilyaiyası",
+        "Ürək massjı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "458.Mədəciklərin səyriməsi zamanı hansı dərman praparatları tətbiq edilir ?",
+      "options": [
+        "Amiodaron",
+        "Atropin",
+        "Kordiamin",
+        "Strofantin",
+        "Eufillin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "459.Mədəciklərin fibrilyasiyası zamanı hansı dərman praparatları tətbiq edilmir ?",
+      "options": [
+        "Ürək qlikozidləri",
+        "Anaprilin",
+        "Novokainamid",
+        "Maqnezium sulfat",
+        "Reanimasiya tədbirləri fonunda ürək fəaliyyəti bərpa olunmur",
+        "EEQ zamanı beyin qabığı hüceyrələrinin biocərəyanları aşkar edilmir"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "470.Ölümün hansı mərhələsində baş beyin qabığının fəaliyyətinin bərpa olunması mümkündür?",
+      "options": [
+        "Kliniki ölüm",
+        "Beyin ölümü",
+        "İctimai ölüm",
+        "Bioloji ölüm",
+        "Teoloji ölüm"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "471.Kliniki ölüm zamanı dərman preparatları hansı yolla yeridilmir?",
+      "options": [
+        "Arteriyaya",
+        "Periferik venaya",
+        "Magistral venaya",
+        "Ürək daxilinə",
+        "Endotraxeal borudan intratraxeal"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "472.Canlandırılmış orqanizmin xəstəliklərinə aid deyil:",
+      "options": [
+        "Transfuzion terapiyanın patologiyası",
+        "Postanoksik ensefalopatiya",
+        "Kardiopulmonal sindrom",
+        "Qaraciyər-böyrək sindromu",
+        "Postanoksik endokrinopatiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "473.Reanimasiya və intensiv müalicənin qeyri-travmatik ağırlaşmalarına aid deyil:",
+      "options": [
+        "Qabırğaların sınması",
+        "Transfuzion terapiyanın patologiyası",
+        "Venaların kateterizasiyasının septiki ağırlaşmaları",
+        "Endoarterial əməliyyatların ağırlaşmaları",
+        "Sürətləndirilmiş diurez zamanı osmotik nekroz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "474.Postreanimasion xəstəliyin gedişində neçə mərhələ ayırd edilir?",
+      "options": [
+        "4 mərhələ",
+        "3 mərhələ",
+        "2 mərhələ",
+        "5 mərhələ",
+        "1mərhələ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "475.Postreanimasion xəstəliyin II mərhələsi adətən neçə gün davam edir?",
+      "options": [
+        "2-3 gün",
+        "20-30 gün",
+        "1 gün",
+        "10-20 gün",
+        "5-10 gün"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "476.Erkən postreanimasion mərhələdə əsasən rast gəlinir:",
+      "options": [
+        "Metabolik asidoz",
+        "Metabolik alkaloz",
+        "Respirator asidoz",
+        "Respirator alkaloz",
+        "Qarışıq asidoz"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "477.Erkən postreanimasion mərhələdə baş beyin fuksiyalarını bərpa etmək məqsədilə tətbiq edilmir:",
+      "options": [
+        "Trimetazidin",
+        "Oksigenoterapiya",
+        "Osmodiuretiklər",
+        "Kranioserebral hipotermiya",
+        "Kortikosteroidlər"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "478.Postreanimasion mərhələdə baş beynin metabolizmini yaxşılaşdırmaq üçüç istifadə edilmir:",
+      "options": [
+        "Antiproteolitik fermentlər",
+        "Pirasetam",
+        "Somazina",
+        "Aktovegin",
+        "Serebrolizin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "479.Potreanimasion mərhələdə ağciyərlərdə qaz mübadiləsini stabilləşdirmək üçün istifadə edilmir:",
+      "options": [
+        "Epidural anesteziya",
+        "Uzunmüddətli ASV",
+        "Traxeobronxial sistemin adekvat drenajı",
+        "Aerozol terapiya",
+        "Vibromasaj"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "480.Monitor nəzarətdə olan xəstədə mədəciklərin atonik fibrilyasiyası baş veribsə ilk növbədə hansı dərman preparatı tətbiq edilməlidir?",
+      "options": [
+        "Adrenalin",
+        "Atropin",
+        "Lidokain",
+        "Kalsium xlorid",
+        "Ürək qlikozidi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "481.Ürək dayanmasından nə qədər vaxt sonra xəstənin huşu itir?",
+      "options": [
+        "7-15 saniyə",
+        "20-30 saniyə",
+        "30-45 saniyə",
+        "45-60 saniyə",
+        "1-2 dəqiqə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "482.Postreanimasion mərhələdə atropin sınağı apararkən hansı nəticə dekortikasiyanı müəyyənləşdirməyə imkan verir?",
+      "options": [
+        "Nəbzin sayının artmaması",
+        "Ürək vurğularının sayının artması",
+        "Bəbəklərin genəlməsi",
+        "Bəbəklərin daralması",
+        "Arterial təzyiqin yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "483.Ekstrakorporal detoksikasiya üsuluna aid deyil:",
+      "options": [
+        "Enterosorbsiya",
+        "Plazmaferez",
+        "Hemodializ",
+        "Ksenoperfuziya",
+        "Hemosorbsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "484.Intrakorporal detoksikasiya metodlarına aiddir:",
+      "options": [
+        "Peritoneal dializ",
+        "Limfosorbsiya",
+        "Ultrafiltrasiya",
+        "Hemodializ",
+        "Plazmosorbsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "485.Ekstrakorporal detoksikasiya üsuluna aid deyil:",
+      "options": [
+        "Sürətləndirilmiş diurez",
+        "Hemosorbsiya",
+        "Plazmaferez",
+        "Limfosorbsiya",
+        "Hemodializ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "486.Ekstrakorporal detoksikasiya məqsədilə tətbiq edilmir:",
+      "options": [
+        "Bağırsaq dializi",
+        "Hemodializ",
+        "Plazmosorbsiya",
+        "Ultrafiltrasiya",
+        "Hemosorbsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "487.İntrakorporal detoksikasiya usuluna aid deyil:",
+      "options": [
+        "Ultrafiltrasiya",
+        "İnfuzion hemodilyusiya",
+        "Peritoneal dializ",
+        "Enterosorbsiya",
+        "Bağırsaq dializi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "488.İntrakorporal detoksikasiya usuluna aid deyil:",
+      "options": [
+        "Ksenoperfuziya",
+        "Sürətləndirilmiş diurez",
+        "Bağırsaq dializi",
+        "Peritoneal dializ",
+        "Enterosorbsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "489.İntrakorporal detoksikasiya metodu deyil:",
+      "options": [
+        "Hemofiltrasiya",
+        "Peritoneal dializ",
+        "İnfuzion hemodilyusiya",
+        "Enterosorbsiya",
+        "Bağırsaq dializi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "490.Ekstrakorporal detoksikasiya metodları qrupuna daxildir:",
+      "options": [
+        "Plazmaferez",
+        "Enterosorbsiya",
+        "Bağırsaq dializi",
+        "Sürətləndirilmiş diurez",
+        "Peritoneal dializ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "491.Hansı detoksikasiya üsulu toksinlərin diffuziya prosesi əsasında xaric olmasını təmin edir?",
+      "options": [
+        "Hemodializ",
+        "Mədə dializi",
+        "Plazmosorbsiya",
+        "Antoqonistlərin tətbiqi",
+        "Hemosorbsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "492.Hansı detoksikasiya üsulu toksinlərin immobilizasiya əsasında təsir etmir:",
+      "options": [
+        "Ultrafiltrasiya",
+        "Hemosorbsiya",
+        "Hemodezin infuziyası",
+        "Plazmoasorbsiya",
+        "Limfosorbsiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "493.Hansı detoksikasiya üsulu toksinlərin eleminasiya prinsipinə əsaslanmır?",
+      "options": [
+        "Hemosorbsiya",
+        "Sürətləndirilmiş diurez",
+        "Plazmaferez",
+        "Ultrafiltrasiya",
+        "Peritonial dializ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "494.Hansı detoksikasiya üsulu toksinlərin immobilizasiya hesabına effekt verir?",
+      "options": [
+        "Hemosorbsiya",
+        "İnfuzion hemodillyusiya",
+        "Hemodializ",
+        "Bağırsaq dializi",
+        "Plazmaferez"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "495.Davamlı mədəcik fibrillyasiyası zamanı hansı medikamentoz preparatın tətbiqi tövsiyə edilir?",
+      "options": [
+        "Amiodaron",
+        "Atropin",
+        "İzoptin",
+        "Fentanil",
+        "Mezaton"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "496.Davamlı mədəcik fibrillyasiyası zamanı hansı medikamentoz preparatın tətbiqi tövsiyə edilir?",
+      "options": [
+        "Lidokain",
+        "Eufillin",
+        "Klofellin",
+        "İzadrin",
+        "Natrium tiopental"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "497.Davamlı mədəcik fibrillyasiyası zamanı hansı medikamentoz preparatın tətbiqi tövsiyə edilmir:",
+      "options": [
+        "Atropin",
+        "Amiodaron",
+        "Bretilium tozilat",
+        "Lidokain",
+        "Maqnezium sulfat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "498.İnfuzion məhlullar neçə qrupa bölünür:",
+      "options": [
+        "6",
+        "4",
+        "7",
+        "10",
+        "5"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "499.Autogen hemodinamik məhlullara aiddir:",
+      "options": [
+        "Albumin",
+        "Polifer",
+        "Gelofuzin",
+        "Laktosol",
+        "5%-li Glükoza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "500.Heterogen hemodinamik məhlullar qrupuna aid deyil:",
+      "options": [
+        "Perftoran",
+        "Poliglükin",
+        "Jelatinol",
+        "HAES",
+        "Polifer"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "501.Dezintoksikasion məhlullar qrupuna aiddir:",
+      "options": [
+        "Hemodez",
+        "Poliglukin",
+        "Polifer",
+        "Polioksifumarin",
+        "Poliamin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "502.Kristalloid məhlullar qrupuna aid deyil:",
+      "options": [
+        "Reopoliqlukin məhlulu",
+        "Trisamin məhlulu",
+        "Laktasol məhlulu",
+        "5%-li Glükoza məhlulu",
+        "Ringer məhlulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "503.Parenteral qidalanma məhlullar qrupuna aiddir:",
+      "options": [
+        "Poliamin",
+        "Poliglükin",
+        "Polifer",
+        "Polidez",
+        "Polioksifumarin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "504.Perftoran hansı məhlullar qrupuna aiddir:",
+      "options": [
+        "Oksigen daşıya bilən",
+        "Kristalloidlər",
+        "Parenteral qidalanma",
+        "Dezintoksikasion",
+        "Kolloid məhlullar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "505.Parenteral qidalanma qrupuna daxil deyil:",
+      "options": [
+        "Kristalloid məhlullar",
+        "Zulal hidrolizatları",
+        "Yağlar (kiçik dispers emulsiyalar)",
+        "Karbohidratlar",
+        "Aminturşular"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "506.Parenteral qidalanma aparılması zamanı sakitlik enerji sərfiyyatının (SES) orta miqdarı sutkada neçə kkal/kq təşkil edir:",
+      "options": [
+        "25 kkal/kq",
+        "15 kkal/kq",
+        "35 kkal/kq",
+        "5 kkal/kq",
+        "45 kkal/kq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "507.Aminturşusu qarışıqlarının infuziyasına əks göstəriş:",
+      "options": [
+        "Hipervolemiya",
+        "İrinli-iltihabi proses",
+        "Parenteral qidalanmaya ehtiyac yaranması",
+        "Kəskin plazma itirmə (yanıq)",
+        "Alimentar distrofiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "508.İnfuzion terapiyanın ağırlaşmasına aid deyil",
+      "options": [
+        "Diurezin artması",
+        "Pirogen reaksiya",
+        "Allergik reaksiya",
+        "Mərkəzi venoz təzyigin artması",
+        "Kvinke ödemi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "509.İnfuzion terapiyanın ağırlaşmalarına aiddir:",
+      "options": [
+        "Anafilaktik şok",
+        "Dezintoksikasiya",
+        "Qanın reoloji xüsusiyyətlərinin yaxşılaşması",
+        "Arterial təzyiqin tənzimlənməsi",
+        "Orqanizmin enerji tələbatının ödənməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "510.Hansı məhlul oksigen daşıyıcı qrupa aiddir:",
+      "options": [
+        "Perftoran",
+        "Poliglükin",
+        "Polidez",
+        "Polifer",
+        "Poliamin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "511.İnfuzion terapiya məqsədi ilə istifadə olunmur:",
+      "options": [
+        "Enteral qidalanma üçün preparatlar",
+        "Dezintoksikasiya məhlulları",
+        "Kristalloid məhlulları",
+        "Oksigen daşıya bilən məhlullar",
+        "Parenteral qidalanma üçün preparatlar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "512.Transfuzion terapiya komponentlərinə aiddir:",
+      "options": [
+        "Albumin",
+        "Kristalloid məhlullar",
+        "Parenteral qidalanma üçün preparatlar",
+        "Kolloid məhlullar",
+        "Oksigen daşıya bilən məhlullar"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "513.Süni hipotermiya tətbiq edilir:",
+      "options": [
+        "Ürək-damar cərrahiyyəsində",
+        "Appendektomiya zamanı",
+        "Tonzilektomiya zamanı",
+        "Uroloji əməliyyatlar zamani",
+        "Plevral punksiya zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "514.Dərin hipotermiya zamanı bədən hərarəti necə dərəcəyədək endirilir:",
+      "options": [
+        "19-8˚ C",
+        "27-20˚ C",
+        "36-34˚ C",
+        "31-28˚ C",
+        "34-32˚ C"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "515.Ümumi hipotermiya hansı yollarla həyata kecirilmir:",
+      "options": [
+        "Xəstəyə soyuq su içirtmək ilə",
+        "Xəstənin soyuq su ilə dondurulmuş vannaya salınması",
+        "Xəstənin bədəninin xüsusi yorqanlar ilə bürüməsi",
+        "Xəstənin bədəninin buzla doldurulmuş qovuqlar ilə örtülməsi",
+        "Soyuq hava cərəyanının tətbiqi sayəsində"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "516.Kardiocərrahiyyədə ümumihipotermik perfuziya zamanı bədən hərarəti necə dərəcəyədək endirilir?",
+      "options": [
+        "26-28˚ C",
+        "29-31˚ C",
+        "25-22˚ C",
+        "30-32˚ C",
+        "32-34˚ C"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "517.Süni hipotermiya nə məqsədlə aparılır?",
+      "options": [
+        "Hüceyrələrin hipoksiyaya dözümlüyünü artırmaq",
+        "Hüceyrələrin hipoksiyaya dözümlüyünü azaltmaq",
+        "Maddələr mübadiləsini sürətləndirmək",
+        "Bədənin immunitetinini qaldırmaq",
+        "Böyrəklərin funksiyasını gücləndirmək"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "518.Yerli hipotermiya aparılır:",
+      "options": [
+        "Ağır kəllə-beyin travmaları zamanı",
+        "Kəskin böyrək çatışmazlığında",
+        "Tənəffüs çatışmazlığı zamanı",
+        "Hipertonik krizin müalicəsində",
+        "Diabetik koma zamanı"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "519.Suni hipotermiya zamanı orqanizmi soyuq mənfi təsirlərindən qorumaq üçün nədən istifadə olunur?",
+      "options": [
+        "Ümumi anesteziyadan",
+        "Yerli anesteziyadan",
+        "Antibiotiklərdən",
+        "İnsulindən",
+        "Defibriliatordan"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "520.Ümumi hipotermiya hansı yolla həyata kecirilir:",
+      "options": [
+        "Xəstənin bədəninin xüsusi yorğanlar ilə bürüməsi hesabına",
+        "Xəstəyə soyuq su içirtməklə",
+        "Xəstənin ayaqlarını soyuq su ilə doldurulmuş vannaya qoymaqla",
+        "Xolinoblokator tətbiq etməklə",
+        "Adrenomimetiklər tətbiq etməklə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "521.Süni hipotoniya nə məqsədlə aparılır?",
+      "options": [
+        "Əməliyyat zamanı qanitirmənin miqdarını azaltmaq",
+        "Hipovolemiyanı aradan qaldirmaq",
+        "Aterosklerozu müalicəetmək",
+        "Sidik ifrazını artırmaq",
+        "Qanda şəkəri azaltmaq"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "522.Cərrahi təcrübədə süni hipotoniya zamanı sistolik təzyiqi hansı səviyyəyə qədər endirilir:",
+      "options": [
+        "70 mm.c.st.",
+        "60 mm.c.st.",
+        "50 mm.c. st.",
+        "80 mm.c. st.",
+        "90 mm.c. st."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "523.Süni hipotoniya zamanı sistolik AT-i 70 mm.c. st. səviyyəsində nə qədər müddət saxlamaq olar?",
+      "options": [
+        "2 saat",
+        "3 saat",
+        "4 saat",
+        "5 saat",
+        "7 saat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "524.Süni hipotoniya hansı preparatlar vasitəsilə aparılır:",
+      "options": [
+        "Nitratlar",
+        "Simpatomimetiklər",
+        "Diuretiklər",
+        "Xolinoblokatorlar",
+        "ACF inhibitorları ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "525.Süni hipotoniya apalımasına əks göstəriş deyil:",
+      "options": [
+        "Mədə xorası",
+        "Ürək çatışmazlığı",
+        "Böyrək çatışmazlığı",
+        "Hiperkoaqulyasiya",
+        "Nəzərə çarpan anemiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "526.Süni hipotoniyanı hansı preparat vasitəsilə aparılmır:",
+      "options": [
+        "Adrenalin",
+        "Nitroqliserin",
+        "Natriun nitroprussid",
+        "Arfonad",
+        "Benzoqeksoniy"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "527.Süni hipotoniya zamanı sistolik AT-in 70 mm.c. st. səviyyəsində uzun müddət saxlanılması nəyə səbəb ola bilər?",
+      "options": [
+        "Böyrək çatışmazlığı",
+        "Poliuriya",
+        "Hipoqlikemiya",
+        "Bronxospazm",
+        "Koronar qan dövranınn artması"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "528.Süni hipotoniyanı hansı preparatlar vasitəsilə aparılmır:",
+      "options": [
+        "Laziks",
+        "İzoket",
+        "Pentamin",
+        "Nitroprusid natrium",
+        "Afronad"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "529.Kardioversiya aparılmasına göstəriş:",
+      "options": [
+        "Papoksizmal səyrici aritmiya",
+        "AV blokada",
+        "Ürək çatişmazlığı",
+        "Mədəciklərin səyriməsi",
+        "Asistoliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "530.Taxiaritmiyaların müalicəsində istifadə olunur:",
+      "options": [
+        "Kardioversiya",
+        "Daimi kardiostimulyasiya",
+        "Atropin",
+        "Müvəqqəti kardiostimulyasiya",
+        "Kordiamin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "531.Müvəqəti kardiostimulyasiyaya göstəriş:",
+      "options": [
+        "III dərəcəli AV blokada",
+        "I dərəcəli AV blokada",
+        "Mədəcik fibrilyasiyası",
+        "Hipertonik kriz",
+        "Taxikardiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "532.Defibrilyasiyaya göstəriş:",
+      "options": [
+        "Mədəcik fibrilyasiyası",
+        "III dərəcəli AV blokada",
+        "Hiperqlikemik koma",
+        "Böyrək çatışmazlığı",
+        "Asmatik status"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "533.Elektroimpuls terapiyaya aid deyil:",
+      "options": [
+        "Angioqrafiya",
+        "Defibrilyasiya",
+        "Kardioversiya",
+        "Daimi kardiostimulyasiya",
+        "Müvəqəti kardiostimulyasiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "534.Morqani-Adams-Stoks sindromu zamanı təxirəsalınmaz müalicə üsulu:",
+      "options": [
+        "Müvəqqəti kardiostimulyasiya",
+        "Defibrilyasiya",
+        "Kardioversiya",
+        "Adreblokatorların təyini",
+        "Eritrositar kütlə transfuziyası"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "535.Hansı məhlul kristalloidlərə aiddir?",
+      "options": [
+        "Ringer məhlulu",
+        "Poliqlukin",
+        "Reopoliqlukin",
+        "Jelatinol",
+        "Gelofuzin"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "536.Hansı məhlul kolloidlərə aiddir?",
+      "options": [
+        "Gelofuzin",
+        "Qlukoza 10%-li",
+        "Ringer",
+        "Laktasol",
+        "Hemodez"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "537.Tranfuzion terapiya nədi?",
+      "options": [
+        "Qan və onun komponentlərinin köçürülməsi",
+        "Plazmaəvəzedicilərin infuziyası",
+        "Kolloid məhlullarının köçürülməsi",
+        "Kristalloidlərin köçürülməsi",
+        "Vitaminlərin köçürülməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "538.Albumin məhlulun köçürülməsinə göstəriş:",
+      "options": [
+        "Nefrotik sindrom",
+        "Hipertoniya",
+        "Anemiya",
+        "Trombositopeniya",
+        "Tromboemboliya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "539.Qanaxma zamanı hemostatik məqsədilə köçürülür:",
+      "options": [
+        "Təzə dondurulmuş plazma",
+        "Ringer-laktat",
+        "10%-li albumin məhlulu",
+        "5% -liQlukoza məhlulu",
+        "10% -liQlukoza məhlulu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "540.Parenteral qidalanma üşün istifadə olunmur:",
+      "options": [
+        "Poliqlukin məhlulu",
+        "Aminturşu qarışıqları",
+        "Etanol",
+        "Yağ emulsiyası",
+        "10% 0li qlukoza"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "541.Enerji mənbəyi kimi hansı məhlul istifadə edilir?",
+      "options": [
+        "20%-li Qlukoza",
+        "Aminosteril",
+        "Reopoliqlukin",
+        "Hemodez",
+        "4% -li Natrium bikarbonat"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "542.Hiperbarik oksigenasiyaya göstəriş deyil:",
+      "options": [
+        "Etil spirti ilə zəhərlənmə",
+        "Dəm qazı ilə zəhərlənmə",
+        "Hava emboliyası",
+        "Anaerob infeksiya",
+        "Histotoksik hipoksiya"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "543.Oksigen terapiyanın metodu deyil:",
+      "options": [
+        "Qastrostoma vasitəsi ilə",
+        "Üz maskası vasitəsi ilə",
+        "Endotraxeal boru vasitəsi ilə",
+        "Traxeostomik boru vasitəsi ilə",
+        "Burun kateteri vasitəsi ilə"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "544.Bayılma üçün nə xasdir?",
+      "options": [
+        "Huşun itməsi",
+        "Hipervolemiya",
+        "Reflekslərin güclənməsi",
+        "Diurezin artması",
+        "AT yüksəlməsi"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "545.Kollapsın müalicəsində istifadə olunur:",
+      "options": [
+        "Mezaton",
+        "Laziks",
+        "Mannitol",
+        "Kaptopril",
+        "Nitroqliserin"
+      ],
+      "correct": 0
+    }
+  ]
+}

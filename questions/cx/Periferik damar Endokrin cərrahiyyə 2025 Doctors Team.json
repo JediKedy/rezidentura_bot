@@ -1,0 +1,1104 @@
+{
+  "questions": [
+    {
+      "question": "1. Aşağı ətraf arteriyalarının obliterasiyaedici ateroskleroz xəstəliyinin səbəbidir:",
+      "options": [
+        "Bud arteriyası və venası arasındakı anadangəlmə arteriovenoz şunt",
+        "Arteriyaların divarında yaranmış iltihabi proses",
+        "Arteriyaların divarında gedən sklerotik proses",
+        "Arteriyaların divarında baş vermiş spazm",
+        "Arteriyaların divarının allergiyaya bağlı zədələnməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "2. Aşağı ətraf arteriyalarının obliterasiyaedici ateroskleroz xəstəliyində II dərəcəli işemiya zamanı baldır əzələlərində ağrı yaranır:",
+      "options": [
+        "Adi addımlarla 50 metr yeridikdə",
+        "Baldırda xoralı-nekrotik sahələr yarandıqdan sonra",
+        "Hərəkətsiz vəziyyətdə (sakitlik zamanı)",
+        "Adi addımlarla 100 metr məsafə qədər yeridikdə",
+        "Adi addımlarla 200 metr yeridikdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "3. Aşağı ətraf arteriyalarının obliterasiyaedici ateroskleroz xəstəliyində işemiyanın II dərəcəsində palpator müayinə zamanı damar pulsasiyasının vəziyyəti:",
+      "options": [
+        "Əvvəlcə güclənir sonra zəifləyir",
+        "Əvvəlcə zəifləyir sonra güclənir",
+        "Təyin olunmur",
+        "Zəifləyir",
+        "Güclənir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "4. Aşağı ətraf arteriyalarının obliterasiyaedici ateroskleroz xəstəliyinin II-III dərəcə- lərində ətrafların dərisinin rəngi:",
+      "options": [
+        "Kömür rəngində olur",
+        "Portağal qabığına oxşayır",
+        "Dəyişmir",
+        "Hiperemiyalı olur",
+        "Avazımış, sianotik olur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "5. Aşağı ətraf arteriyalarının obliterasiyaedici ateroskleroz xəstəliyi zamanı aterosklerotik okklüziyalar adətən təsadüf edir:",
+      "options": [
+        "Əvvəlcə venalar, sonra arteriyalar zədələnir",
+        "Aterosklerotik okklüziyalar müşahidə olunmur",
+        "Ətrafların distal (baldır, pəncə) arteriyalarında",
+        "Magistral (aorta, qalça arteriyaları, bud-dizaltı seqment) arteriyalarda",
+        "Distal arteriyalardan başlayır və sonra magistral damarlara yayılır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "6. Aşağı ətraf arteriyalarının obliterasiyaedici ateroskleroz xəstəliyinin I və II A dərəcəsində konservativ müalicə aparılır:",
+      "options": [
+        "İldə 2 dəfə, hər dəfə 5 ay müddətində",
+        "İldə 1 dəfə 6 ay müddətində",
+        "Bütün il boyunca",
+        "İldə 2 dəfə, hər dəfə 1-2 ay müddətində",
+        "İldə 4 dəfə, hər dəfə 2-3 ay müddətində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "7. Obliterasiyaedici trombangit (Bürqer xəstəliyi):",
+      "options": [
+        "Aşağı ətraf damarlarının angionevroz xəstəliyidir",
+        "Ancaq aşağı ətrafların magistral (aorta, qalça arteriyaları) arteriyalarının xroniki qeyri- spesifik iltihabi xəstəliyidir",
+        "Ancaq aşağı ətrafların böyük və kiçik dərialtı venalarının xroniki qeyri-spesifik iltihabi xəstəliyidir",
+        "Aşağı ətraf arteriyalarının kəskin trombemboliyasıdır",
+        "Yuxarı və aşağı ətrafların distal, orta və kiçik diametrli arteriyalarının xroniki qeyri- spesifik iltihabi xəstəliyidir və getdikcə venalara yayılır"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "8. Reyno xəstəliyi zamanı müşahidə olunur:",
+      "options": [
+        "Əl və ayaqların arterial damarlarında spesifik iltihabi proses",
+        "Aşağı ətrafların dərialtı venalarında flebit",
+        "Aşağı ətrafların dərialtı venalarında tromboz",
+        "Əl və ayaqların arterial damarlarında spazm (angiospazm)",
+        "Əl və ayaqların arterial damarlarında sklerotik proses"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "9. Aşağı ətraf arteriyalarının trombozu xarakterizə olunur:",
+      "options": [
+        "Arteriyaların divarında sklerotik proseslə",
+        "Arteriyaların divarında iltihabi proseslə",
+        "Arteriyaların divarının mexaniki zədələnməsi ilə",
+        "Venalarda yaranmış trombun qoparaq arteriyaların mənfəzinə düşməsi ilə",
+        "Arteriyaların divarında qan laxtasının əmələ gəlməsi ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "10. Embol necə başa düşülür?",
+      "options": [
+        "Damar divarında yaranmış iltihabi proses kimi",
+        "Damar divarında baş vermiş spazm kimi",
+        "Damarların anomal quruluşu kimi",
+        "Qan dövranı ilə hərəkət edən trombun qopmuş hissəsindən ibarət bir kütlə kimi",
+        "Damar divarında yaranmış sklerotik proses kimi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "11. Tromboz və emboliya zamanı distal nahiyyədə toxumalarda baş vermiş ilkin dəyişikliklər:",
+      "options": [
+        "Distal nahiyyədə dəridə temperaturun yüksəlməsi",
+        "Toxumalarda qan dövranının yaxşılaşması",
+        "Toxumalarda qan dövranının dəyişiksiz qalması",
+        "Distal nahiyədə dəridə hiperemiyanın yaranması",
+        "Toxumalarda qan dövranının pisləşməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. Varikoz xəstəliyi zamanı aşağı ətrafların səthi venalarının klapanlarının vəziyyəti necə yoxlanılır?",
+      "options": [
+        "Pançenko sınağı ilə",
+        "Şeynis sınağı ilə",
+        "Prattanın yeriş sınağı ilə",
+        "Delbe-Pertes sınağı ilə",
+        "Brodi-Troyanov-Trendelenbur sınağı ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "13. Varikoz xəstəliyi zamanı aşağı ətrafların dərin venalarının keçiriciliyi necə yoxlanılır?",
+      "options": [
+        "Pançenko sınağı ilə",
+        "Şeynis sınağı ilə",
+        "Prattanın yeriş sınağı ilə",
+        "Brodi-Troyanov-Trendelenburq sınağı ilə",
+        "Delbe-Pertes sınağı ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Aşağı ətrafların xroniki venoz çatmazlığı hansı damarların patologiyası zamanı yaranır:",
+      "options": [
+        "Baldırın və budun dərin venaları, böyük və kiçik dərialtı venalar, aşağı müsariqə venası",
+        "Baldırın və budun dərin venaları, böyük və kiçik dərialtı venalar, üst müsariqə venası",
+        "Baldırın və budun dərin venaları, böyük və kiçik dərialtı venalar, yuxarı boş vena",
+        "Baldırın və budun dərin venaları, böyük və kiçik dərialtı venalar, körpücükaltı venalar",
+        "Baldırın və budun dərin venaları, böyük və kiçik dərialtı venalar, perforant venalar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "15. Varikoz xəstəliyində xroniki venoz çatmazlığın inkişaf mexanizmi:",
+      "options": [
+        "Venoz damarların genişlənməsi, venoz qapaqların tam bağlanmaması, perforant venaların funksiyasının artması",
+        "Venoz damarların spazmı, venoz qapaqların tam bağlanmaması, qanın geriyə axması",
+        "Venoz damarların genişlənməsi, venoz qapaqların tam bağlanması, qanın geriyə axması",
+        "Venoz damarların genişlənməsi, venoz qapaqların tam bağlanmaması, qanın geriyə axması",
+        "Venoz damarların genişlənməsi, venoz qapaqların tam bağlanmaması, venoz qan axımının sürətlənməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "16. Postrombotik faktorla bağlı yaranmış xroniki venoz çatmazlığının inkişaf mexanizmi:",
+      "options": [
+        "Dərin venoz damarların mənfəzinin tutulması, səthi venaların genişlənməsi, xırda venoz damarlarda spazm",
+        "Dərin venoz damarlarda qan axımının sürətlənməsi, səthi venaların genişlənməsi, xırda venoz damarlarda durğunluq",
+        "Dərin venoz damarların mənfəzinin trombla tutulması, səthi venaların genişlənməsi, xırda venoz damarlarda durğunluq",
+        "Dərin venoz damarların mənfəzinin genişlənməsi, səthi venaların genişlənməsi, xırda venoz damarlarda durğunluq",
+        "Dərin venoz damarların mənfəzinin tutulması, səthi venaların spazmı, xırda venoz damarlarda durğunluq"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "17. Xroniki venoz çatmazlıq zamanı xəstələrin əsas şikayətləri:",
+      "options": [
+        "Aşağı ətrafların dərisində kəskin hiperemiya, şişkinlik, ayaqlarda ağırlıq hissi",
+        "Aşağı ətraflarda ağrı, baldır sümüklərində patoloji sınıqlar, ayaqlarda ağırlıq hissi",
+        "Aşağı ətraflarda ağrı, şişkinlik, ayaqlarda ağırlıq hissi",
+        "Aşağı ətraflarda ağrı, baldır əzələlərində hipertrofiya, ayaqlarda ağırlıq hissi",
+        "Aşağı ətraflarda dərinin avazıması, şişkinlik, ayaqlarda ağırlıq hissi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "18. Aşağı ətraflarda xroniki venoz çatmazlığın səbəbini araşdırmaq məqsədi ilə istifadə olunan müayinə üsulları:",
+      "options": [
+        "Arterioqrafiya, limfoqrafiya, funksional sınaqlar",
+        "Funksional sınaqlar, ultrasəs müayinəsi, arterioqrafiya",
+        "Funksional sınaqlar, ultrasəs müayinəsi, limfoqrafiya",
+        "Funksional sınaqlar, ultrasəs müayinəsi, ətrafların rentgenoqrafiyası",
+        "Funksional sınaqlar, ultrasəs müayinəsi, fleboqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "19. Aşağı ətraflarda xroniki venoz çatmazlığın inkişafında rol oynayan etioloji faktorlar:",
+      "options": [
+        "Postrombotik sindrom, diz oynağının artrozu",
+        "Postrombotik sindrom, osteoporoz",
+        "Bud arteriyasının trombozu, səthi venoz damarların varikoz genəlməsi",
+        "Səthi venoz damarların spazmı, postrombotik sindrom",
+        "Səthi venoz damarların varikoz genəlməsi, postrombotik sindrom"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "20. Aşağı ətraflarda venaların varikoz genəlməsinin müalicəsində istifadə olunan Troyanov-Trendelenburq üsuludur:",
+      "options": [
+        "Böyük dərialtı vena kimyəvi preparatlarla sklerozlaşdırılır",
+        "Böyük dərialtı vena mənfəzinə salınmış mil-ekstraktor vasitəsilə dartılıb çıxarılır",
+        "Qasıq büküşündən iç topuğa qədər aparılmış kəsiklə böyük dərialtı vena çıxarılır",
+        "Böyük dərialtı vena lazer vasitəsilə destruksiya edilir",
+        "Böyük dərialtı vena bud venasına açılan yerdən bağlanır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "21. Bürger xəstəliyinin (obliterasiyaedici trombangit) diaqnozunda istifadə olunan müayinə üsulları:",
+      "options": [
+        "Ultrasəs, dupleksli skanləşdirmə, ətrafların rentgen müayinəsi",
+        "Ultrasəs, dupleksli skanləşdirmə, koronaroqrafiya",
+        "Ultrasəs, dupleksli skanləşdirmə, onurğanın bel-oma nahiyyəsinin MRT müayinəsi",
+        "Ultrasıs, dupleksli skanləşdirmə, qarın boşluğunun icmal rentgen müayinəsi",
+        "Ultrasəs, dupleksli skanləşdirmə, selektiv rentgen kontrast angioqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Obleterasiyaedici ateroskleroz xəstəliyi zamanı işemiyanın IV dərəcəsi xarakterizə olunur:",
+      "options": [
+        "25 m məsafə yeridikdən sonra baldır əzələlərində ağrının yaranması ilə",
+        "150 m məsafə yeridikdən sonra baldır əzələlərində ağrının yaranması ilə",
+        "200 m məsafə yeridikdən sonra baldır əzələlərində ağrının yaranması ilə",
+        "Pəncədə və baldırda xoralı-nekrotik sahələrin yaranması ilə",
+        "100 m məsafə yeridikdən sonra baldır əzələlərində ağrının yaranması ilə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "23. Burger xəstəliyi başqa cür adlanır:",
+      "options": [
+        "Düyünlü periarterit",
+        "Yayılmış ateroskleroz",
+        "Endokardit",
+        "Obliterasiyaedici trombangit",
+        "Tromboflebit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "24. Leriş sindromu müşahidə olunur:",
+      "options": [
+        "Aşağı ətraf arteriyalarında",
+        "Körpücükaltı arteriyada",
+        "Yuxu arteriyasında",
+        "Qalxan aortada",
+        "Qarın aortasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "25. Aşağı ətraf arteriyalarının aterosklerozunun simptomlarına aid deyildir:",
+      "options": [
+        "Nəbzin itməsi",
+        "İşemik xora",
+        "Fasiləli axsama",
+        "Rəng və temperatur dəyişiklikləri",
+        "Venoz mənşəli xora"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "26. Aşağı ətraf arteriyalarının patologiyalarının diaqnostikasında ən effektiv müayinə metodudur:",
+      "options": [
+        "A/Təzyiq ölçülməsi",
+        "KT",
+        "Rəngli doppler",
+        "MRT",
+        "Angioqrafiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "27. Körpücükaltı arteriyanın anevrizmasının ən çox rast gəlinən səbəbidir:",
+      "options": [
+        "Travma",
+        "Fibromuskulyar displaziya",
+        "Sepsis",
+        "Anadangəlmə qüsur",
+        "Ateroskleroz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "28. 56 yaşında xəstə kişi yeriyərkən sağ baldırda keyləşmə və ağrıdan şikayətlənir. Ağrı istirahət edərkən keçir. Xəstədə cinsi zəiflik var. Fiziki müayinə zamanı aşağı ətraf əzələlərində atrofiya, normal reflekslər və bud arteriyası üzərində küy qeyd olunur. Bu xəstədə ən çox ehtimal olunan diaqnoz:",
+      "options": [
+        "Dərin venaların trombozudur",
+        "Mikotik anevrizmadır",
+        "Qalça sümüyünün osteoartritidir",
+        "Leriş sindromudur",
+        "Lumbar disk yırtığıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "29. Aşağı ətraf arteriyalarının okkluziv xəstəliyinin ən çox rast gəlinən səbəbidir:",
+      "options": [
+        "Hipertoniya",
+        "Dərin venoz tromboz",
+        "Şəkərli diabet",
+        "Kəskin trombemboliyalar",
+        "Ateroskleroz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "30. Xroniki venoz çatmazlıq əlamətləridir:",
+      "options": [
+        "Səpki, indurasiya, sianoz, tüklərin tökülməsi",
+        "Ağrı, tüklərin tökülməsi, qanqrena, qıcolma",
+        "Ağrı, qızartı, səpki, suluqlama, piqmentasiya",
+        "Ağrı, sianoz, qanqrena, ödem",
+        "Ağrı, ödem, piqmentasiya , trofiki xora"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Trofiki xora ilə müşahidə olunan kommunikant venaların çatmazlığı zamanı daha effektivdir:",
+      "options": [
+        "Konservativ dərman müalicəsi",
+        "Meyz proseduru",
+        "Bentall De Bono proseduru",
+        "Linton əməliyyatı",
+        "Fontan əməliyyatı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "32. Aşağı ətrafların dərin venalarından qopan tromb ən çox emboliya törədir:",
+      "options": [
+        "Qaraciyər damarlarında",
+        "Yuxarı ətrafların damarlarında",
+        "Mədənin damarlarında",
+        "Ürəkdə",
+        "Ağciyər arteriyalarında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. Aşağı ətraf amputasiyalarına daha çox səbəb olur:",
+      "options": [
+        "Hipotoniya qeyd olunan hallar",
+        "ÜİX",
+        "Burger xəstəliyi",
+        "Kəskin tromboemboliya",
+        "Şəkərli diabet"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "34. 40 yaşlı qadında soyuq havada əl barmaqlarında göyərmə, solğunlaşma və ləkələr yaranırsa şübhələnmək lazımdır:",
+      "options": [
+        "Şəkərli diabetdən",
+        "Burger xəstəliyindən",
+        "Tromboflebitdən",
+        "Arteriosklerozdan",
+        "Reyno xəstəliyindən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "35. Siqaret çəkənlərdə bu xəstəliyin olması ehtimalı daha yüksəkdir:",
+      "options": [
+        "Pulmonar emboliya",
+        "Bürger xəstəliyi",
+        "Varikoz xəstəliyi",
+        "Tromboflebit",
+        "Arterial emboliya"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "36. Ateroskleroz ən çox hansı damarlarda baş verər ?",
+      "options": [
+        "Proksimal tibial arteriya",
+        "Popliteal arteriya",
+        "Distal tibial arteriya",
+        "Aorta və iliak arteriya",
+        "Femoral arteriya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "37. Bürger xəstəliyinin cərrahi müalicəsində hansı əməliyyat icra olunur?",
+      "options": [
+        "İlio –femoral şuntlama",
+        "Aorto-dorsalis pedis şuntlama",
+        "Femoro-politeal şuntlama",
+        "Simpatektomiya",
+        "Aorto-femoral şuntlama"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "38. Aşağı ətraf venalarının varikoz xəstəliyin əsas patogenetik mexanizmi:",
+      "options": [
+        "Irsi",
+        "Mexaniki",
+        "Qapaq çatışmazlığı",
+        "Arterial şuntlar",
+        "Endokrin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "39. Aşağı ətraf venalarının varikoz xəstəliyinin simptomu deyil:",
+      "options": [
+        "Patoloji genəlmiş venaların olması",
+        "Gəzdikdə baldır əzələlərində kəskin ağrılar",
+        "Günün sonuna aşağı ətrafın distal hissələrində şişkinlik",
+        "Gecələr ayaqlarda qıcolmalar",
+        "Baldırın aşağı 1/3 –də dərinin trofik dəyişikliklər"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "40. Aşağı ətraf venalarının varikoz xəstəliyinin ağırlaşmalarına nə aid deyil?",
+      "options": [
+        "Trofiki xora",
+        "Düyündən qanaxma",
+        "Varikotromboflebit",
+        "Atereskleroz",
+        "Varikotromboz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "41. Aşağıda qeyd olunanlar varikoz xəstəliyin planlı cərrahi müalicəsinə əks göstəriş deyil?",
+      "options": [
+        "Ətrafın kəskin dəri xəstəlikləri",
+        "Dekompensasiya olmuş ürək qüsurları",
+        "Kəskin miokard infarktı",
+        "Dərin venaların keçməzliyi",
+        "Anamnezdə varikoz xəstəliyinin ağırlaşmaları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Aşağı ətraf venalarının varikozunda hansı amil önəmli deyildir?",
+      "options": [
+        "dərin venalarının okklüziyası",
+        "kommunikant venalar vasitəsi ilə dərin venalardan səthi venalara qanın atılması",
+        "aşağı ətraf ların venoz sistemindən qan axınının çətinləşməsi",
+        "birləşdirici toxuma apparatının irsi və ya qazanılma çatmamazlığı",
+        "qanda katexolaminlərinin səviyyəsinin artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "43. Aşağı ətrafın posttrombotik xəstəliyi nəyin nəticəsidir?",
+      "options": [
+        "Maqistral arteriyaların trombozu",
+        "Səthi venaların trombozu",
+        "Böyük dərialtı venanın bağlanılması",
+        "Baldır və budun dərin venaların trombozu",
+        "Səthi venaların varikoz genəlməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "44. Aşağı ətraf arteriyalarının obliterasiyaedici xəstəliklərinin etioloqiyasında ən vacib ekzogen faktor:",
+      "options": [
+        "Soyuqlama",
+        "Travma",
+        "Meteorizm",
+        "Qəbizlik",
+        "Nikotinin orqanizmə xroniki təsiri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "45. Aşağı ətraf arteriyalarının obliterasiyaedici xəstəliklərində rast gəlinməyən patologiya:",
+      "options": [
+        "Nekroz-qanqrena",
+        "Trofiki dəyişikliklər",
+        "Toxuma işemiyası",
+        "Angiospastik, hemodinamik",
+        "Ətrafın hipertrofiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "46. Obliterasiyaedici ateroskleroz zamanı damar divarında rast gəlməyən patoloji anatomik dəyişikliklər:",
+      "options": [
+        "Duyuncüklərin bərkiməsi",
+        "Fibroz düyüncük",
+        "Dyüncüklər üzərinə trombositlərin və fibrinin çökməsi",
+        "Divarın atrofiyası",
+        "Düyüncüklərin tərkibinin lipidlərlə zənginləşməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "47. Obliterasiyaedici aterosklerozda cərrahi müalicəyə göstəriş:",
+      "options": [
+        "Bud və diqər ətraf arteriyalarında nəbzin zəifləməsi",
+        "Nəli əzələ nahiyəsində ağrı, tüklərin tökülməsi",
+        "Ayaqlarının keyiməsi və soyuması",
+        "Uzun müddət davam edən vaxtaşırı axsama",
+        "Ətrafların qan təchizatı pozulmasının dekompensasiya dərəcəsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "48. Hansı lokalizasiyalı aterosklerotik okklüziyaya daha çox rast gəlinir?",
+      "options": [
+        "Qalça arteriyalarının",
+        "Aorta və qalca arteriyalarının",
+        "Aortanın",
+        "Bud və dizaltı arteriyaların",
+        "Dizaltı və qamış arteriyalarının"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "49. Reyno xəstəliyinə aid olan simptom:",
+      "options": [
+        "Qarın boşluğunda ağrı",
+        "Döş qəfəsində ağrı",
+        "Aşağı ətrafların zədələnməsi",
+        "Yuxarı ətrafların miqrasiyaedici tromboflebiti",
+        "Barmaq falanqalarının nekrozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "50. Leriş sindromu:",
+      "options": [
+        "ətrafların distal nahiyəsində kapilyaropatiya",
+        "aşağı boş venanin okklüziyası",
+        "miqrasiyaedici trombanqit",
+        "qarın aorta bifurkasiyasının aterosklerotik okklüziyası",
+        "braxiosefal qeyri-spesifik arterit"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "51. Leriş sindromu üçün göstərilənlərdən hansı xarakter deyil:",
+      "options": [
+        "oturduqda sağrı nahiyələrində ağrılar",
+        "impotensiya",
+        "dəri örtüyünün avazıması",
+        "aşağı ətrafların soyuması",
+        "aşağı ətrafların miqrasiyaedici tomboflebiti"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "52. Aşağıdakı göstərilənlərdən hansı obliterasiyaedici endoarteritin angioqrafik əlamətləri deyil:",
+      "options": [
+        "arteriyaların eyni bərabərdə daralması",
+        "damar kontrastının konus şəkilli qopması",
+        "çoxlu miqdarda xırda, qıvrılmış daralmış kollateral şaxələr",
+        "magistral arteriyaların konturlarının ovulması",
+        "okklüziyanın diffuz xarkterdə olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "53. 78 yaşlı xəstədə dizaltı və böyük qamış arteriayasının zədələnməsi, IV mərhələdə xroniki işemiya, pəncənin qanqrenası var. Sizin taktikanız:",
+      "options": [
+        "baldıra böyük piyliyin mikrocərrahi transplantasiyası",
+        "konservativ müalicə",
+        "rekonstruktiv damar əməliyyatı",
+        "bel smpatektomiyası",
+        "birincili amputasiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "54. Xroniki arterial okklüziyanın xroniki venoz çatmazlıq ilə differensial diaqnostikasında əsas rolu aşağıdakı kriteriyalar oynayır:",
+      "options": [
+        "Baş ağrısı",
+        "Yaş",
+        "Fasiləli axsama",
+        "Cins",
+        "Ətrafda ödemin mövcudluğu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "55. Obliterasiyaedici aterosklerozun başlanğıc mərhələsində simptomlardan hansı ön plana keçir:",
+      "options": [
+        "dəri örtüyünün indurasiyası",
+        "baldırın aşağı üçdə birinin trofiki xorası",
+        "Flebit",
+        "ayaq barmaqlarında nekrotik dəyişikliklər",
+        "fasiləli axsama"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "56. Xəstənin 24 yaşı var, ağrılar sol pəncədə və baldırdadır, 50-60m. yol qət edə bilir. Sol pəncə və baldırın 1/3 hissəsinin dərisi avazımış, soyuqdur. Oynaqlarda hərəkət normadadır, pəncədə hiposteziyadır. Bud və dizaltı arteriyada pulsasiya aydındır, pəncədə yoxdur. İlkin diaqnoz:",
+      "options": [
+        "sol aşağı ətrafın göy fleqmaziyası",
+        "posttromboflebitik sindrom",
+        "sol aşağı ətrafın ağ fleqmaziyası",
+        "obliterasiyaedici ateroskleroz",
+        "obliterasiyaedici endoarterit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "57. Posttromboflebitik sindrom üçün xarakterik deyildir:",
+      "options": [
+        "Trofiki xoraların yaranması",
+        "Durğunluq dermatiti və skleroz",
+        "İkincili varikoz",
+        "Dərinin hiperpiqmentasiyası",
+        "Ağ «mərmər» dəri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Faktorlardan hansıları venalarda trombun yaranması üçün şərait yaradır?",
+      "options": [
+        "urekemiya",
+        "Ürək ritminin pozulması",
+        "Bilrubinin artması",
+        "Anadangəlmə arteriovenoz şuntların olması",
+        "Venaların divarının zədələnməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "59. Əməliyyatdan sonrakı dövrdə aşağı ətrafların venoz qan dövranını yaxşılaşdırmır.",
+      "options": [
+        "baldır əzələlərinin masajı",
+        "aşağı ətraflara yüksəklik vəziyyəti vermək",
+        "erkən ayağadurma",
+        "uzunmüddətli ciddi yataq rejimi",
+        "ətrafların elastik bintlənməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "60. Boşluqlu orqanlar üzərində aparılmış əməliyyatlardan sonra trombun yaranması üçün şərait yaradır:",
+      "options": [
+        "qanın fibrinolitik aktivliyinin artması",
+        "ağ ciyərin xroniki iltihabi xəstəlikləri",
+        "baş ağrısı",
+        "hipodinamiya",
+        "bel ağrısı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "61. Arterial tromboz nəticəsində yaranmış və sürətlə inkişaf edən pəncənin qanqrenası zamanı göstərişdir.",
+      "options": [
+        "pəncə dərisi üzərində çoxsaylı kəsiklərin aparılması",
+        "arteriyanın şuntlanması",
+        "təcili amputasiya",
+        "massiv antibakterial terapiya",
+        "yaş qanqrenanın quru qanqrenaya keçməsini təmin etmək"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "62. Alimentar-konstitusional piylənmənin aşagıdakı növlərini ayırd edirlər:",
+      "options": [
+        "həddindən artıq və catişmayan",
+        "agir və yüngül",
+        "mütləq və nisbi",
+        "pariental və visseral",
+        "android və hinoid"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Alimentar-konstitusional piylənməsi ilə olan xəstələrin əməliyyata göstərişi aşagdakılardı:",
+      "options": [
+        "hamiləlik və laktasiya",
+        "BKİ 30 kq/ m2",
+        "psixi xəstəlikləri olan pasientlər",
+        "I tip şəkərli diabet",
+        "BKİ 35 kq/m2 artıq və yanaşı xəstıliklər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "64. Alimentar-konstitusional piylənməsi ilə olan xəstələrin əməliyyata əks göstərişi aşagdakılardı:",
+      "options": [
+        "BKİ 40 kq/ m2",
+        "BKİ 40 kq/ m2 artıq",
+        ") II tip şəkərli diabet",
+        "psixi xəstəlikləri olan pasientlər",
+        "BKİ 35 kq/m2 artıq və yanaşı xəstıliklər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "65. Piylənmənin cərrahi müalicəsini 2 böyük qrupa ayırıllar:",
+      "options": [
+        "simptomatik və diaqnostik",
+        "Şuntlama və qastrorestriktiv əməliyyatlar",
+        "birmomentli və ikimomentli",
+        "Təcili və təxirəsalınmaz",
+        "Radikal və palliativ"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "66. Sleeve qastroectomy –",
+      "options": [
+        "biliopankreatik şuntlama",
+        "yeyunoileal şuntlama",
+        "requlya oluna bilən mədə bandı",
+        "vertikal qastoroplastika",
+        "boylama mədə rezeksiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Alimentar-konstitusional piylənməsi ilə olan xəstələrin əməliyyatları hesab olunur,ki:",
+      "options": [
+        "kosmetik",
+        "plastik",
+        "müalicəvi",
+        "estetik",
+        "rekonstruktiv"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "68. Pankreasın adacıq şişləri arasında xoşxassəli ehtimalı ən yüksək olan hansıdır?",
+      "options": [
+        "VİP-oma",
+        "Qastrinoma",
+        "Somatostatinoma",
+        "Qlükaqonoma",
+        "İnsulinoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. Aşağıdakı patalogiyalardan hansında hipoqlikemiya əsas əlamətdir?",
+      "options": [
+        "seratoninoma",
+        "qlükaqonoma",
+        "qastrinoma",
+        "somatostatinoma",
+        "insulinoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Хora, sеkrеtor diarеya aşağıdakı patalogiyalardan hansı üçün хaraktеrikdir?",
+      "options": [
+        "somatostatinoma",
+        "seratoninoma",
+        "qastrinoma",
+        "insulinoma",
+        "qlükaqonoma"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "71. Hansı adacıq şişi daha çoх pankreasın baş nahiyəsində rast gəlinir?",
+      "options": [
+        "insulinoma",
+        "qastrinoma",
+        "qlükaqonoma",
+        "seratoninoma",
+        "somatostatinoma"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "72. Aşağıdakı halların hansında yemək qəbulu qastrin səviyyəsini daha çox artırır?",
+      "options": [
+        "Hiperasid qastrit.",
+        "Unudulmuş antrum",
+        "Hipoasid qastrit",
+        "G-hüceyrə hiperplaziyası",
+        "Qastrinoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. Döş sümüyü arxası ur üçün xarakterik deyil:",
+      "options": [
+        "Rentgenoloji müayinə zamanı qida borusunun yerdəyişməsi",
+        "Çiyin nahiyəsinin venalarının genişlənməsi",
+        "Traxeyanın yerdəyişməsi",
+        "Vidaci cuxurda gözlə görünən pulsasiya",
+        "Üzün və boyunun şişkinliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "74. Döş sümüyü arxası ur üçün xarakterik olmayan klinik əlamət:",
+      "options": [
+        "Boyun venalarının genişlənməsi",
+        "Rentgenoqrammada traxeyanın deviasiyası",
+        "Qanhayxırma",
+        "Rentgenoqrammada qida borusunun yerdəyişməsi",
+        "Tənəffüsün çətinləşməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "75. Tireotoksikoz zamanı əsas əməliyyat növü sayılır:",
+      "options": [
+        "linfatik cıxarılması",
+        "Qalxanvarı vəzin boyun hissəsinin rezeksiyası",
+        "Enukleasiya",
+        "Qalxanvarı vəzin tam cıxarılması",
+        "Hemistrumektomiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "76. Tireotoksik uru olan xəstədə əməliyyatdan sonra rast gəlinməyən ağırlaşma:",
+      "options": [
+        "Afoniya",
+        "Yaranın irinləməsi",
+        "Tireotoksik kriz",
+        "Əməliyyat yarasından qanaxma",
+        "İnsult"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. Tireotoksikoz zamanı mütləq müayinə olunmalıdır:",
+      "options": [
+        "Qan zərdabında transaminaza",
+        "Qan zərdabında dəmir",
+        "Qanda kortizol",
+        "Qanda triyodtironin və tetrayodtironin",
+        "C-reaktiv zülal"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "78. Düyünlü uru olan xəstədə bədxassəli şiş əlaməti deyil:",
+      "options": [
+        "Radioizotop skanerləmə zamanı “soyuq” düyünlərin aşkarlanması",
+        "Səsin xırıltılı olması",
+        "Anamnezdə baş, boyun və döş nahiyəsinin radioaktiv şüalanması",
+        "30 yaşlı pasientdə qalxanvarı vəzidə tək-tək düyünlərin olması",
+        "Tireotoksikoz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "79. Qalxanabənzər vəzin aşağıdakı xəstəliyi bir qayda olaraq konservativ müalicə olunur:",
+      "options": [
+        "Düyünlü zob",
+        "Qalxanvarı vəzin sisti",
+        "Qalxanvarı vəzin xərçəngi",
+        "Qalxanvarı vəzin absesi",
+        "Ağırlaşmamış kəskin tireoidit"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Qalxanabənzər vəzin xərçəng xəstəliyinin rastgəlmə tezliyini artırır:",
+      "options": [
+        "Autoimmun tireoidit",
+        "Tireotoksikoz",
+        "Uşaq vaxtı boyun nahiyəsinin şüalanması",
+        "Antitireoid medikamentoz terapiya",
+        "Tərkibində lazımi qədər yod olmayan pəhriz"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "81. Tireotoksikoz zamanı “göz simptomu” deyil:",
+      "options": [
+        "Mebius simptomu",
+        "Ştelvaq simptomu",
+        "Qrefe simptomu",
+        "Delrimpl simptomu",
+        "Mari simptomu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "82. Urun rast gəlməyən lokalizasiyasını göstərin:",
+      "options": [
+        "Döş sümüyü arxası",
+        "Dilin kökündə",
+        "Döş daxili",
+        "dilaltı",
+        "İntratraxeal"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "83. Ridel zobu üçün hansı morfoloji əlamət uyğundur:",
+      "options": [
+        "Kolloid zob",
+        "İnterstisial ödem",
+        "Limfoid infiltrasiya",
+        "Fibroz tireoidit",
+        "Adenokarsinoma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "84. ” Göz simptomları” (Delrinpli, Ştelvaq, Mebius, Qrefe) qalxanvarı vəzin hansı xəstəliyində rast gəlinir:",
+      "options": [
+        "Xaşimato xəstəliyi",
+        "Ridel zobu",
+        "Qrevs xəstəliyi",
+        "Qranulematoz tireoidit",
+        "Kəskin tireoidit yaxud strumit"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "85. Tireotoksikozun baş verməsində etioloji faktor deyil:",
+      "options": [
+        "radioyodterapiya",
+        "Kəskin xəstəliklər",
+        "Psixi travma",
+        "Qalxanvarı vəzin şişləri",
+        "infeksion xəstəliklər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Tireotoksikozu olan xəstələrə xas olmayan əlamət:",
+      "options": [
+        "Sinir sisteminin oyanıqlığı",
+        "T-400",
+        "İstilik hissiyatı",
+        "Taxikardiya",
+        "Bədən çəkisinin artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Ur:",
+      "options": [
+        "Onkoloji xəstəlikdir",
+        "İnfeksion xəstəlikdir",
+        "Endokrin xəstəlikdir",
+        "Sistem xəstəliyidir",
+        "Nevroloji xəstəlikdir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "88. Tireotoksikoz zamanı rast gəlinən əsas simptomokompleks:",
+      "options": [
+        "Taxikardiya, dərinin ödemli olması, tormozlanma",
+        "Ekzoftalm, əsas mübadilənin enməsi, yüksək hərarət",
+        "“Baraban çubuqları” formasında barmaqlar, ptoz, mioz",
+        "Qalxanvarı vəzin ölçüsünün böyüməsi, taxikardiya, ekzoftalm",
+        "Anemiya, enoftalm, hərarətin enməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "89. Qalxanvarı vəzin şişi, sisti, kalsifikatı, fibrozu, qansızmaları zamanı “soyuq düyünləri” hansı müayinə metodu ilə aşkar etmək olar:",
+      "options": [
+        "FEQDS",
+        "EEQ",
+        "Radioizotop",
+        "USM",
+        "Rentgen"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "90. Qalxanvarı vəzin rezeksiyası zamanı yuxarı qırtlaq sinirinin zədələnməsi əməliyyatdan sonrakı dövrdə özünü hansı klinik əlamətlə göstərəcəkdir?",
+      "options": [
+        "Hipersalivasiya",
+        "Ekzoftalm",
+        "Ptoz",
+        "Afoniya və tənəffüsün çətinləşməsi",
+        "Udma aktının pozulması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "91. Qalxanvarı vəzin labarotor müayinə metodu deyil:",
+      "options": [
+        "Vəzin hormonlarının yoxlanılması və tireotrop rilizinq-hormonla sınaq",
+        "Əsas mübadilənin yoxlanılması (kolorimetriya)",
+        "Qanda amilazanın təyini",
+        "Qanda zülalla birləşmiş yodun səviyyəsi",
+        "Yod 131-lə müayinə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "92. Toksiki adenoma zamanı cərrahi müalicə:",
+      "options": [
+        "Qalxanvarı vəzin hər iki payının total çıxarılması",
+        "Qalxanvarı vəzin boyun hissəsinin rezeksiyası",
+        "Qalxanvarı vəzin müvafiq payının rezeksiyası",
+        "İki tərəfli subtotal, subfassial rezeksiya",
+        "Enukleasiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "93. Radioizotop diaqnostika ilə aşkar etmək olar:",
+      "options": [
+        "Abberant zobu",
+        "Medioasteniti",
+        "Tireotoksikozun dərəcəsini",
+        "Traxeyanın deformasiyasını",
+        "İsti ocaqları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "94. Qalxanvarı vəzin hormonlarının yaranması üçün əsas komponentlər:",
+      "options": [
+        "Zülal",
+        "Kalsium",
+        "Dəmir",
+        "Sink",
+        "Yod"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "95. Tireotoksikoz zamanı göz ətrafında piqmentasiyanın olması:",
+      "options": [
+        "Mebius simptomu",
+        "Delprimpl simptomu",
+        "Ştelvaq simptomu",
+        "Ellinek simptomu",
+        "Qrefe simptomu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "96. Qalxanvarı vəzin xərçəngi zamanı əsas müalicə metodu:",
+      "options": [
+        "Antibiotikoterapiya",
+        "Yod 131-lə müalicə",
+        "Fizioterapiya",
+        "Medikamentoz",
+        "Cərrahi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "97. Traxeomalyasiya zamanı əməlyyatdan sonrakı erkən dövrdə baş verən ağırlaşma:",
+      "options": [
+        "Sarılıq",
+        "Bədən hərarətinin yüksəlməsi",
+        "A/T yüksəlməsi",
+        "Yuxululuq",
+        "Asfiksiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "98. Qalxanvarı vəzin xərçənginin regionar limfatik metastazı deyil:",
+      "options": [
+        "Traxeyaətrafı",
+        "Qırtlaqönü",
+        "Traxeyaönü",
+        "Ağciyər kökünə",
+        "Dərin boyun"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "99. Radikal tireoidektomiyadan sonra hansı xəstəlik inkişaf edir:",
+      "options": [
+        "Qalxanvarı vəzin xərçəngi",
+        "Tireotoksikoz",
+        "Ridel zobu",
+        "Şəkərli diabet",
+        "Miksedema"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "100. Qalxanvarı vəzin fiziki müayinə üsulu deyil:",
+      "options": [
+        "Palpasiya",
+        "Boyun dairəsinin ölçülməsi",
+        "Obyektiv mwayinə",
+        "USM",
+        "Baxış"
+      ],
+      "correct": 3
+    }
+  ]
+}

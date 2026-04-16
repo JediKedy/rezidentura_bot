@@ -1,0 +1,3309 @@
+{
+  "questions": [
+    {
+      "question": "1. Hamiləliyin erkən müddətlərinin diaqnostikası üçün qanda təyin edilən hormon:",
+      "options": [
+        "somatotrop hormon",
+        "xorionik qonadotropin",
+        "plasentar laktogen",
+        "estradiol",
+        "tireotrop hormon"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "2. Hamiləlik zamanı xorionik qonadotropin: \n1) Sarı cisimdə steroidogenezi təmin edir \n2) Prolaktin sintezini təmin edir \n3) Ciftdə estrogen sintezini təmin edir \n4) Dölün mərkəzi sinir sisteminin inkişafını təmin edir \n5) Dölün cinsi deferensasiyasını təmin edir",
+      "options": [
+        "3, 4, 5",
+        "1, 4, 5",
+        "1, 2, 3",
+        "1, 3, 5",
+        "2, 4, 5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "3. Hamiləliyin 3-cü ayından sonra progesteron sintezinin mənbəyidir:",
+      "options": [
+        "dölün hipofizi",
+        "dölün böyrəküstü vəzisi",
+        "cift",
+        "dölün qaraciyəri",
+        "dölün qalxanabənzər vəzisi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "4. Xarici konyuqata 21 sm-r. Mamalıq konyuqatasını hesablayın:",
+      "options": [
+        "5 sm",
+        "14 sm",
+        "4 sm",
+        "12 sm",
+        "10 sm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "5. Diaqonal konyuqata 12,5 sm-r. Mamalıq konyuqatasını hesablayın:",
+      "options": [
+        "6,5-7 sm",
+        "10 sm",
+        "14,5-15 sm",
+        "7-8 sm",
+        "10,5-11 sm"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "6. Ön ənsə gəlişi birinci mövqedə dölün ürək döyüntülərinin ən yaxşı eşidildiyi yer:",
+      "options": [
+        "göbəkdən yuxarı, sağda, yan xəttə yaxın",
+        "göbəkdən yuxarı, solda, orta xəttə yaxın",
+        "göbəkdən aşağı, sağda, yan xəttə yaxın",
+        "göbəkdən aşağı, sağda, orta xəttə yaxın",
+        "göbəkdən aşağı, solda, orta xəttə yaxın"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "7. Çanaq gəlişi birinci mövqedə dölün ürək döyüntülərinin ən yaxşı eşidildiyi yer:",
+      "options": [
+        "göbəkdən yuxarı, sağda",
+        "göbək səviyyəsində sağda",
+        "göbəkdən aşağı, solda",
+        "göbəkdən aşağı, sağda",
+        "göbəkdən yuxarı, solda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "8. Ön ənsə gəlişi ikinci mövqedə oxabənzər tikiş yerləşir:",
+      "options": [
+        "düz ölçüdə",
+        "köndələn ölçüdə",
+        "kiçik çanaq girəcəyi üzərində",
+        "sol çəp ölçüdə",
+        "sağ çəp ölçüdə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "9. Dölün başı kiçik çanaq boşluğunun geniş hissəsindədir. Oxabənzər tikiş sağ çəp ölçüdə, kiçik əmgək solda və öndədir. Gəliş, mövqe və görkəmi təyin edin:",
+      "options": [
+        "ənsə gəlişi, birinci mövqe, arxa görkəm",
+        "alın gəlişi, birinci mövqe, arxa görkəm",
+        "ənsə gəlişi, ikinci mövqe, ön görkəm",
+        "ənsə gəlişi, birinci mövqe, ön görkəm",
+        "ənsə gəlişi, ikinci mövqe, arxa görkəm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "10. Kiçik çanaq girəcəyinin çəp ölçüsü:",
+      "options": [
+        "11 sm",
+        "12,5 sm",
+        "20 sm",
+        "10,5 sm",
+        "13,5 sm"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "11. Kiçik çanaq çıxacağının köndələn ölçüsü:",
+      "options": [
+        "25 sm",
+        "6 sm",
+        "10 sm",
+        "11 sm",
+        "20 sm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "12. 11 sm uyğun gəlir:",
+      "options": [
+        "çanaq çıxacağı müstəvisinin düz ölçüsünə",
+        "çanaq girəcəyi müstəvisinin köndələn ölçüsünə",
+        "qalça daraqlarının ən uşaq nöqtələri arasındakı məsafəyə",
+        "çanaq çıxacağı müstəvisinin köndələn ölçüsünə",
+        "qalça sümüklərinin ön-üst tinləri arasındakı məsafəyə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "13. Hamiləliyin 34 həftəsində olan və fizioloji hamiləlik keçirən qadın arxası üstə uzandığı yerdən qəflətən qalxarkən baş gicəllənmə, təngnəfəslik, arterial təzyiqin düşməsi, dölün hərəkətlərinin tezləşməsi baş verir. Bu vəziyyət nə ilə əlaqədar ola bilər?",
+      "options": [
+        "hamilələrin ağır dərəcəli anemiyası ilə",
+        "dekompensasiya olunmuş ürək qüsurları ilə",
+        "arterial təzyiqin yüksəlməsi ilə",
+        "yuxarı boş venanın sıxılması ilə",
+        "aşağı boş venanın sıxılması ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "14. Qasıq qövsünün yuxarı daxili kənarı, adsız xətlər və oma burnunun zirvəsindən keçən müstəvi adlanır:",
+      "options": [
+        "kiçik çanaq boşluğunun geniş hissəsinin müstəvisi",
+        "kiçik çanağın çıxacaq müstəvisi",
+        "kiçik çanaq boşluğunun dar hissəsinin müstəvisi",
+        "terminal müstəvi",
+        "kiçik çanağın girəcək müstəvisi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "15. Kiçik çanağın girəcək müstəvisinin köndələn ölçüsü birləşdirir:",
+      "options": [
+        "qasıq qövsünün daxili səthinin ortası ilə II və III oma fəqərələrinin birləşdiyi nahiyyəni",
+        "sol oma-qalça bitişməsi ilə sağ qalça-qasıq qabarcığını",
+        "sağ oma-qalça bitişməsi ilə sol qalça-qasıq qabarcığını",
+        "qasıq qövsünün yuxarı daxili kənarı ilə oma burnunu",
+        "adsız xətlərin ən uzaq nöqtələrini"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "16. Kiçik çanağın köndələn və düz ölçüləri bir-birinə bərabər olan müstəvisi:",
+      "options": [
+        "terminal müstəvi",
+        "çıxacaq müstəvisi",
+        "dar hissənin müstəvisi",
+        "girəcək müstəvisi",
+        "geniş hissənin müstəvisi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "17. Çanaq çıxacağının düz ölçüsü:",
+      "options": [
+        "13,5 sm",
+        "12,5 sm",
+        "10,5 sm",
+        "9,5 sm",
+        "11,5 sm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "18. Kiçik çanağın aparıcı oxu birləşdirir:",
+      "options": [
+        "sirkə kasasının ən uzaq nöqtələrini",
+        "adsız xəttin ən uzaq nöqtələrini",
+        "oturaq tinlərinin daxili səthlərini",
+        "kiçik çanaq müstəvilərinin düz ölçülərinin ortasını",
+        "otaraq qabarlarının daxili səthlərinin ən uzaq nöqtələrini"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "19. Dölün boylama oxunun uşaqlığın uzunluğuna münasibəti adlanır:",
+      "options": [
+        "mövqe",
+        "habitus",
+        "gəliş",
+        "vəziyyət",
+        "görkəm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "20. Dölün vəziyyətlərinə aiddir: \n1) boylama \n2) ön görkəm \n3) çəp \n4) birinci mövqe \n5) köndələn",
+      "options": [
+        "1, 4, 5",
+        "2, 4, 5",
+        "1, 2, 5",
+        "1, 3, 5",
+        "2, 3, 5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "21. Görkəm:",
+      "options": [
+        "dölün boylama oxunun uşaqlığın uzunluğuna münasibətidir",
+        "dölün başının çanaq müstəvilərinə münasibətidir",
+        "dölün kürəyinin uşaqlığın sol yan divarına münasibətidir",
+        "dölün kürəyinin uşaqlığın sağ yan divarına münasibətidir",
+        "dölün kürəyinin uşaqlığın ön və ya arxa divarına münasibətidir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "22. Vaxtı ötmüş hamiləlik zamanı müşahidə olunmur:",
+      "options": [
+        "dölyanı mayenin miqdarının azalması",
+        "dölün kəllə sümüklərinin qalınlaşması",
+        "dölün tənəffüs hərəkətlərinin olmaması",
+        "dölyanı mayenin miqdarının artması",
+        "ciftdə struktur dəyişiklikləri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "23. Ultrasəs müayinəsi vasitəsilə ciftin hansı xüsusiyyətlərini təyin etmək olmur:",
+      "options": [
+        "ciftin yerləşməsi",
+        "ciftin petrifikatlarını",
+        "ciftin çəkisini",
+        "ciftin sistlərini",
+        "ciftin qalınlığı"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "24. Çanaq gəlişində doğuşun birinci dövründə baş verən fəsadlaşmalara aid deyil:",
+      "options": [
+        "dölyanın mayenin vaxtından əvvəl axması",
+        "göbək ciyəsi ilgəklərinin düşməsi",
+        "doğuş fəaliyyətinin ikincili zəifliyi",
+        "dölün başının açılması",
+        "doğuş fəaliyyətinin birincili zəifliyi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "25. Çanaq gəlişində doğuşun ikinci dövründə baş verən fəsadlaşmalara aid deyil:",
+      "options": [
+        "göbək ciyəsinin çanaq divarına sıxılması",
+        "dölün ağır hipoksiyası",
+        "döl başının açılması",
+        "dölyanı mayenin vaxtından əvvəl axması",
+        "əllərin döl başının arxasına keçməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "26. Eklampsiya tutmaları baş vermir:",
+      "options": [
+        "doğuş vaxtı",
+        "erkən zahılıq dövründə",
+        "geçikmiş zahılıq dövründə",
+        "hamiləliyin I yarısında",
+        "hamiləliyin II yarısında"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "27. Ön ənsə gəlişində doğuşun biomexanizminin III momentində baş verir:",
+      "options": [
+        "başın xaricdə, gövdənin daxildə fırlaması",
+        "başın daxili fırlanması",
+        "başın bükülməsi",
+        "başın açılması",
+        "başın əlavə bükülməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "28. Çanaq gəlişində Kesar kəsiyi əməliyyatına göstəriş deyil:",
+      "options": [
+        "ilk doğan qadının yaşının 30-dan çox olması",
+        "anatomik dar çanaq",
+        "dölün inkişaf qüsurları",
+        "dölün çəkisinin 3600-dan artıq olması",
+        "vaxtı ötmüş hamiləlik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "29. Qadının son aybaşısı 23 noyabrda olub. Doğuşun güman edilən tarixini hesablayın:",
+      "options": [
+        "6 iyun",
+        "8 sentyabr",
+        "30 avqust",
+        "27 iyul",
+        "30 sentyabr"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "30. Ön ənsə gəlişində aparıcı nöqtə:",
+      "options": [
+        "böyük əmgək",
+        "ənsə",
+        "böyük və kiçik əmgəyin ortası",
+        "alın sümükləri",
+        "kiçik əmgək"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "31. Çanaq gəlişində planlı şəkildə Kesar kəsiyi əməliyatının aparılmasına göstəriş deyil:",
+      "options": [
+        "dölün hipotrofiyası",
+        "anatomik dar çanaq",
+        "adəti düşüklər, anamnezdə ölü döl",
+        "35 yaşdan yuxarı ilk doğan qadın",
+        "dölün çəkisinin 3000 q olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "32. Hamilələrin qusması zamanı istifadə olunmur:",
+      "options": [
+        "zulal preparatları",
+        "dezintoksikasiyaedici preparatlar",
+        "mikrosirkulyasiyanı yaxşılaşdıran məhlullar",
+        "tərkibində elektrolitlər və mikroelementlər saxlayan məhlullar",
+        "maqnezium sulfat"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "33. Erkən özbaşına düşüyün mərhələləri:",
+      "options": [
+        "düşük təhlükəsi, başlanmış düşük, inkişaf etməmiş hamiləlik, hazır abort , tam abort",
+        "düşük təhlükəsi, başlanmış düşük, hazır abort , natamam abort",
+        "düşük təhlükəsi, abort təhlükəsi, tam abort",
+        "düşük təhlükəsi, başlanmış düşük, hazır abort, natamam abort, tam abort",
+        "düşük təhlükəsi, başlanmış düşük, , hazır abort"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "34. Dölyanı mayenin vaxtından əvvəl axması baş verir:",
+      "options": [
+        "uşaqlıq boynunun açıqlığın 7-8 sm olduqda",
+        "uşaqlıq boynunun açıqlığı 3-4 sm olduqda",
+        "uşaqlıq boynunun açıqlığı 5-6 sm olduqda",
+        "uşaqlıq boynunun açıqlığı tam olduqda",
+        "doğuş fəaliyyəti başlamamış"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "35. Dölyanı mayenin vaxtında axması baş verir:",
+      "options": [
+        "uşaqlıq boynunun açıqlığı 5-6 sm olduqda",
+        "dölün başı cinsiyyət yarığından doğulduqda",
+        "uşaqlıq boynunun açıqlığı 2-3 sm olduqda",
+        "uşaqlıq boynunun açıqlığı tam olduqda",
+        "doğuş fəaliyyəti başlamamış"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "36. Əkiz dollə doğuşlarda birinci döl doğulduqdan sonra ikinci dölün köndələn vəziyyəti yaranarsa, həkimin taktikası:",
+      "options": [
+        "xarici döndərmə ilə dölü boylama vəziyyətə gətirməli",
+        "ikinci dölün klassik mamalıq döndərməsi ilə ixrac etməli",
+        "dölün vakuum-ekstraksiya əməliyyatını tədbiq etməli",
+        "dölparçalayıcı əməliyyatla dölü xaric etməli",
+        "dölü Kesar kəsiyi əməliyyata ilə xaric etməli"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "37. Hamilələrin qusmasının inkişafına meyillik yaradan amillərdən biridir:",
+      "options": [
+        "ağciyər xəstəlikləri",
+        "ürəyin anadangəlmə qüsurları",
+        "böyrək xəstəlikləri",
+        "göz xəstəlikləri",
+        "qaraciyər xəstəlikləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "38. Hamilələrin qusmasının müalicəsində istifadə olunmur:",
+      "options": [
+        "infuzion terapiya",
+        "elektroanalqeziya",
+        "sedativ preparatlar",
+        "qusmaəlehyinə preparatlar",
+        "hipotenziv preparatlar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "39. Eklampsiyanın əlamətləridir:",
+      "options": [
+        "ödem",
+        "proteinuriya",
+        "diareya",
+        "hipertenziya",
+        "qıcolma tutmaları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "40. Eklampsiyada doğuşun aparılmasının optimal üsulu:",
+      "options": [
+        "mamalıq maşaların tədbiqi",
+        "dölparçalayıcı əməliyyat",
+        "doğuşun təbii doğum yolları ilə aparılması",
+        "doğum fəaliyyətinin stimulyasiyası",
+        "kesar kəsiyi əməliyyatı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "41. Hamiləliyin 24-cü həftəsində uşaqlıq dibinin hündürlüyü:",
+      "options": [
+        "simfiz səviyyəsindədir",
+        "göbəkdən 2 köndələn barmaq aşağıdadır",
+        "göbəkdən 2 köndələn barmaq yuxarıdadır",
+        "xəncərəbənzər çıxıntıya çatır",
+        "göbək səviyyəsindədir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "42. Hamiləliyin 28-ci həftəsində uşaqlıq dibinin hündürlüyü:",
+      "options": [
+        "xəncərəbənzər çıxıntıya çatır",
+        "göbəkdən 2 köndələn barmaq aşağıdadır",
+        "qasıq qövsünün yuxarı kənarına qədər çatır",
+        "göbəkdən 2 köndələn barmaq yuxarıdadır",
+        "göbək səviyyəsindədir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "43. Hamiləliyin şübhəli əlamətlərinə aiddir:",
+      "options": [
+        "uşaqlığın həcminin, formasının və konsistensiyasının dəyişməsi",
+        "dölün hissələrinin əllənməsi",
+        "dölün ürəkdöyünməsinin eşidilməsi",
+        "aybaşının kəsilməsi",
+        "ürəkbulanma, səhərlər bir dəfə qusma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "44. Daxili müayinədə uşaqlıq boynunun açıqlığı 7 sm, su kisəsi yoxdur, gələcək hissə başdır və çanaq girəcəyinə pərçim olunub, oxabənzər tikiş sağ çəp ölçüdə, kiçik əmgək solda və öndədir. Gəliş, mövqe və görkəmi müəyyən edin:",
+      "options": [
+        "alın gəlişi, ikinci mövqe, ön görkəm",
+        "çanaq gəlişi, ikinci mövqe, ön görkəm",
+        "üz gəlişi, ikinci mövqe, arxa görkəm",
+        "ənsə gəlişi, birinci mövqe, ön görkəm",
+        "ənsə gəlişi, birinci mövqe, arxa görkəm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "45. Daxili müayinədə uşaqlıq boynunun açıqlığı 7 sm, su kisəsi yoxdur, gələcək hissə başdır, kiçik çanaq girəcəyinə pərçim olunub, oxabənzər tikiş sol çəp ölçüdə, kiçik əmgək sağda və öndədir. Gəliş, mövqe və görkəmi müəyyən edin:",
+      "options": [
+        "çanaq gəlişi, ikinci mövqe, ön görkəm",
+        "ənsə gəlişi, birinci mövqe, arxa görkəm",
+        "alın gəlişi, ikinci mövqe, ön görkəm",
+        "üz gəlişi, ikinci mövqe, arxa görkəm",
+        "ənsə gəlişi, ikinci mövqe, ön görkəm"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "46. Dölün arxa ənsə gəlişində aparıcı nöqtə:",
+      "options": [
+        "kiçik əmgək",
+        "böyük əmgək",
+        "alın sümükləri",
+        "çənəaltı nahiyyə",
+        "böyük və kiçik əmgək arasındakı məsafənin ortası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "47. Dölün ön ənsə gəlişində istinad nöqtəsi:",
+      "options": [
+        "qaşarası",
+        "dilaltı sümük",
+        "çənəaltı nahiyyə",
+        "alın sümükləri",
+        "ənsəaltı çuxur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "48. Dölün arxa ənsə gəlişində istinad nöqtələri:",
+      "options": [
+        "dilaltı sümük və ənsə qabarı",
+        "alnın tüklü hissəsinin sərhəddi və ənsəaltı çuxur",
+        "qaşarası və ənsəaltı çuxur",
+        "alın sümükləri və ənsəaltı çuxur",
+        "üst çənə və ənsə qabarı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "49. Ön ənsə gəlişində döl doğulur:",
+      "options": [
+        "böyük köndələn ölçü ilə",
+        "düz ölçü ilə",
+        "kiçik çəp ölçü ilə",
+        "böyük çəp ölçü ilə",
+        "orta çəp ölçü ilə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "50. Arxa ənsə gəlişində döl doğulur:",
+      "options": [
+        "düz ölçü ilə",
+        "böyük köndələn ölçü ilə",
+        "böyük çəp ölçü ilə",
+        "kiçik çəp ölçü ilə",
+        "orta çəp ölçü ilə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "51. Ön ənsə gəlişində ənsəaltı çuxur istinad edir:",
+      "options": [
+        "oma burnuna",
+        "büzdümün zirvəsinə",
+        "oturaq qabarına",
+        "qasıq bitişməsinin aşağı kənarına",
+        "oma-büzdüm bitişməsinə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "52. Ön ənsə gəlişində doğuşun biomexanizminin birinci momentində baş verir:",
+      "options": [
+        "başın maksimal bükülməsi",
+        "çiyinlərin daxildə, başın xaricdə fırlanması",
+        "başın maksimal açılması",
+        "başın daxili fırlanması",
+        "başın bükülməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "53. Ön ənsə gəlişində doğuşun biomexanizminin ikinci momentində baş verir:",
+      "options": [
+        "başın bükülməsi",
+        "başın daxili fırlanması",
+        "başın maksimal açılması",
+        "çiyinlərin daxildə, başın xaricdə fırlanması",
+        "başın maksimal bükülməsi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "54. Arxa ənsə gəlişində doğuşun biomexanizminin birinci momentində baş verir:",
+      "options": [
+        "çiyinlərin daxildə, başın xaricdə fırlanması",
+        "başın maksimal bükülməsi",
+        "başın maksimal açılması",
+        "başın bükülməsi",
+        "başın daxili fırlanması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "55. Ön ənsə gəlişində doğuşun biomexanizminin üçüncü momentində simfizin aşağı kənarına istinad edir:",
+      "options": [
+        "üst çənə",
+        "ənsə qabarı",
+        "alnın tüklü hissəsinin sərhəddi",
+        "qaşarası",
+        "ənsəaltı çuxur"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "56. Başın sinklitik duruşu zamanı:",
+      "options": [
+        "oxabənzər tikiş çanaq çıxacağının düz ölçüsündə yerləşir",
+        "oxabənzər tikiş oma burnuna yaxın yerləşir",
+        "oxabənzər tikiş çanaq çıxacağının köndələn ölçüsündə yerləşir",
+        "oxabənzər tikiş qasıq birləşməsi və oma burnuna münasibətdə eyni məsafədədir",
+        "oxabənzər tikiş qasıq birləşməsinə yaxın yerləşir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "57. Ön asinklitizm zamanı:",
+      "options": [
+        "oxabənzər tikiş qasıq birləşməsinə yaxın yerləşir",
+        "oxabənzər tikiş çanaq çıxacağının düz ölçüsündə yerləşir",
+        "oxabənzər tikiş çanaq çıxacağının köndələn ölçüsündə yerləşir",
+        "oxabənzər tikiş qasıq birləşməsi və oma burnuna münasibətdə eyni məsafədədir",
+        "oxabənzər tikiş oma burnuna yaxın yerləşir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "58. Arxa asinklitizm zamanı:",
+      "options": [
+        "oxabənzər tikiş çanaq çıxacağının köndələn ölçüsündə yerləşir",
+        "oxabənzər tikiş çanaq çıxacağının düz ölçüsündə yerləşir",
+        "oxabənzər tikiş qasıq birləşməsinə yaxın yerləşir",
+        "oxabənzər tikiş qasıq birləşməsi və oma burnuna münasibətdə eyni məsafədədir",
+        "oxabənzər tikiş oma burnuna yaxın yerləşir"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "59. Doğuşun I dövrünün latent fazası davam edir:",
+      "options": [
+        "uşaqlıq boynunun 6 sm açılışına qədər",
+        "uşaqlıq boynunun 7 sm açılışına qədər",
+        "uşaqlıq boynunun 8 sm açılışına qədər",
+        "uşaqlıq boynunun tam açılışına qədər",
+        "uşaqlıq boynunun 4 sm açılışına qədər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "60. Təmas kəməri:",
+      "options": [
+        "uşaqlığın yığılma fəaliyyətinin artmasıdır",
+        "döl başının kiçik çanaq girəcəyinə münasibətidir",
+        "döl başının böyük çəp ölçüyə uyğun gələn çevrəsidir",
+        "dölün başı ilə çanaq sümüklərinin təmasda olduğu sahədir",
+        "uşaqlığın yuxarı və aşağı seqmenti arasındakı sərhəddir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "61. Kontraksion həlqə:",
+      "options": [
+        "döl başının kiçik çanaq girəcəyinə münasibətidir",
+        "uşaqlığın yığılma fəaliyyətinin artmasıdır",
+        "döl başının böyük çəp ölçüyə uyğun gələn çevrəsidir",
+        "dölün başı ilə çanaq sümüklərinin təmasda olduğu sahədir",
+        "uşaqlığın yuxarı və aşağı seqmenti arasındakı sərhəddir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "62. Doğuş zamanı fizioloji qan itkisi orta hesabla:",
+      "options": [
+        "600 ml",
+        "800 ml",
+        "400 ml",
+        "500-550 ml",
+        "150-250 ml"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "63. Doğuşun II dövründə dölün ürək döyüntülərinə hansı tezliklə qulaq asmaq lazımdır?",
+      "options": [
+        "hər 40 dəqiqədən bir",
+        "hər 1 saatdan bir",
+        "hər 30 dəqiqədən bir",
+        "hər gücvermədən sonra",
+        "hər 20 dəqiqədən bir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "64. Doğuşun III dövründə Şreder əlaməti:",
+      "options": [
+        "ciftin uşaqlıq yoluna enərək gücvermə hissi yaratması",
+        "göbək ciyəsinə qoyulmuş liqaturanın 8-10 sm aşağı enməsi",
+        "gücvermə zamanı göbək ciyəsinin xaricə sürüşməsi və geri qayıtmaması",
+        "uşaqlıq dibinin sağ qabırğaaltı tərəfə yönəlməsi",
+        "nəfəsalma aktında göbək ciyəsinin uşaqlıq yoluna tərəf dartılmaması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "65. Doğuşun III dövründə ciftin ayrılma əlamətinə aid deyil:",
+      "options": [
+        "Alfeld əlaməti",
+        "Şreder əlaməti",
+        "Dovjenko əlaməti",
+        "Henter əlaməti",
+        "Kleyn əlaməti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "66. Hamiləliyin erkən müddətlərinin əlamətinə aiddir:",
+      "options": [
+        "Alfeld əlaməti",
+        "Şreder əlaməti",
+        "Kleyn əlaməti",
+        "Dovjenko əlaməti",
+        "Horvis-Heqar əlaməti"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "67. Horvis-Heqar əlaməti:",
+      "options": [
+        "uşaqlıq boynunun mütəhərrik olması",
+        "uşaqlığın önə bükülməsi və onun ön səthində darağabənzər qalınlaşmanın olması",
+        "uşaqlığın formasının asimmetrik olması",
+        "xarici qıcığın təsirindən uşaqlığın yığılması və konsistensiyasının bərkiməsi",
+        "bimanual müayinədə əllərin maneəsiz uşaqlığın boğaz nahiyyəsində görüşməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "68. Sneqiryov əlaməti:",
+      "options": [
+        "uşaqlığın önə bükülməsi və onun ön səthində darağabənzər qalınlaşmanın olması",
+        "uşaqlıq boynunun mütəhərrik olması",
+        "uşaqlığın formasının asimmetrik olması",
+        "bimanual müayinədə əllərin maneəsiz uşaqlığın boğaz nahiyyəsində görüşməsi",
+        "xarici qıcığın təsirindən uşaqlığın yığılması və konsistensiyasının bərkiməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "69. Qubarev və Qaus əlaməti:",
+      "options": [
+        "uşaqlığın formasının asimmetrik olması",
+        "uşaqlığın önə bükülməsi və onun ön səthində darağabənzər qalınlaşmanın olması",
+        "xarici qıcığın təsirindən uşaqlığın yığılması və konsistensiyasının bərkiməsi",
+        "bimanual müayinədə əllərin maneəsiz uşaqlığın boğaz nahiyyəsində görüşməsi",
+        "uşaqlıq boynunun mütəhərrik olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "70. Piskaçek əlaməti:",
+      "options": [
+        "uşaqlığın önə bükülməsi və onun ön səthində darağabənzər qalınlaşmanın olması",
+        "uşaqlıq boynunun mütəhərrik olması",
+        "xarici qıcığın təsirindən uşaqlığın yığılması və konsistensiyasının bərkiməsi",
+        "bimanual müayinədə əllərin maneəsiz uşaqlığın boğaz nahiyyəsində görüşməsi",
+        "uşaqlığın formasının asimmetrik olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "71. Henter əlaməti:",
+      "options": [
+        "uşaqlıq boynunun mütəhərrik olması",
+        "bimanual müayinədə əllərin maneəsiz uşaqlığın boğaz nahiyyəsində görüşməsi",
+        "uşaqlığın formasının asimmetrik olması",
+        "uşaqlığın önə bükülməsi və onun ön səthində darağabənzər qalınlaşmanın olması",
+        "xarici qıcığın təsirindən uşaqlığın yığılması və konsistensiyasının bərkiməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "72. Qarın dairəsinin 100 sm-dən artıq olması adətən müşahidə olunmur:",
+      "options": [
+        "piylənmədə",
+        "dölün köndələn vəziyyətində",
+        "dölyanı mayenin çoxluğunda",
+        "iri döldə",
+        "dölün hipotrofiyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "73. III mamalıq ayının sonunda uşaqlığın ölçüsü:",
+      "options": [
+        "dibi xəncərəbənzər çıxıntı səviyyəsinə qədər qalxır",
+        "toyuq yumurtası böyüklüyündə olur",
+        "dibi göbək səviyyəsinə qədər qalxır",
+        "yenidoğulmuşun başı böyüklüyündə olur",
+        "qaz yumurtası böyüklüyündə olur"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "74. Uşaqlıq dibi qasıq qovsu və göbək arasındakı məsafənin mərkəzində yerləşir:",
+      "options": [
+        "hamiləliyin 40-cı həftəsində",
+        "hamiləliyin 20-ci həftəsində",
+        "hamiləliyin 36-cı həftəsində",
+        "hamiləliyin 32-ci həftəsində",
+        "hamiləliyin 16-cı həftəsində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "75. Preliminar dövr:",
+      "options": [
+        "doğuşdan sonrakı ilk 2 saatı əhatə edir",
+        "doğuşun III dövrüdür",
+        "doğuşun II dövrüdür",
+        "doğuşun I dövrüdür",
+        "doğuşa hazırlıq mərhələsidir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "76. Ciftin ayrılma əlamətləri müsbətdir. Son sərbəst doğulmur. Həkimin taktikasına aid deyil:",
+      "options": [
+        "Krede-Lazareviç üsulunu tətbiq etməli",
+        "Abuladze üsulunu tətbiq etməli",
+        "Henter üsulunu tətbiq etməli",
+        "atropin istifadə etməli",
+        "ciftin əllə ayrılması və sonun xaric edilməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "77. Ciftin ayrılma əlaməti yoxdur. Dölün doğulmasından 1 saatdan artıq vaxt keçir. Həkimin taktikası:",
+      "options": [
+        "Krede-Lazareviç üsulunu tətbiq etməli",
+        "Abuladze üsulunu tətbiq etməli",
+        "ciftin əllə ayrılması və sonun xaric edilməsi",
+        "atropin istifadə etməli",
+        "Henter üsulunu tətbiq etməli"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "78. . Perinatal dövr əhatə edir. \n1) Antenatal dövrü \n2) Südəmər dövrü \n3) Prenatal dövrü \n4) İntranatal dövrü \n5) Erkən neonatal dövrü",
+      "options": [
+        "1, 2, 5",
+        "2, 3, 4",
+        "1, 4, 5",
+        "2, 4, 5",
+        "1, 2, 3"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "79. Hamiləliyin mütləq əlamətidir:",
+      "options": [
+        "süd vəzilərinin gərginləşməsi",
+        "uşaqlığın ölçüsünün böyüməsi",
+        "aybaşının kəsilməsi",
+        "səhərlər ürəkbulanma",
+        "dölün hərəkətlərinin hiss edilməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "80. Hamiləliyin ehtimal olunan əlamətidir:",
+      "options": [
+        "dölün xırda hissəllərinin əllənməsi",
+        "dölün hərəkətlərinin hiss edilməsi",
+        "dölün ürək döyüntülərinin eşidilməsi",
+        "aybaşının kəsilməsi",
+        "səhərlər ürəkbulanma"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "81. Hamiləliyin şübhəli əlamətidir:",
+      "options": [
+        "dölün ürək döyüntülərinin eşidilməsi",
+        "aybaşının kəsilməsi",
+        "dölün hərəkətlərinin hiss edilməsi",
+        "dəri örtüklərinin piqmentasiyası",
+        "dölün xırda hissələrinin əllənməsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "82. Hamiləliyin erkən müddətlərində pozulmasının ən çox rast gəlinən səbəbidir:",
+      "options": [
+        "istmikoservikal çatışmazlıq",
+        "xroniki infeksiyalar",
+        "uşaqlığın inkişaf anomaliyası",
+        "hestasion hipertenziyası",
+        "xromosom anomaliyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "83. Uşaqlıq yolu müayinəsində müəyyən edilmir:",
+      "options": [
+        "diaqonal konyuqata",
+        "döl kisəsinin bütövlüyü",
+        "başın kiçik çanaq müstəvilərinə münasibəti",
+        "uşaqlıq boynunun açıqlığı",
+        "dölün ürək döyüntüsü"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "84. Doğuşdan dərhal sonra uşaqlıq boynu:",
+      "options": [
+        "2 barmağı buraxır",
+        "tamam bağlı olur",
+        "diametrdə 6-7 sm qədər kiçilir",
+        "bir barmağı buraxır",
+        "əli sərbəst buraxır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "85. Ciftin ayrılma əlaməti deyil:",
+      "options": [
+        "Kleyn əlaməti",
+        "Dovjenko əlaməti",
+        "Alfeld əlaməti",
+        "Horvis-Heqar əlaməti",
+        "Şreder əlaməti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "86. Ciftin ayrılma əlamətləri müsbətdirsə sonun doğulması üçün təklif edilən üsul:",
+      "options": [
+        "Krede-Lazareviç üsulundan istifadə edilir",
+        "cift əllə ayrılır və son xaric edilir",
+        "Abuladze üsulundan istifadə edilir",
+        "Henter üsulundan istifadə edilir",
+        "qadına gücənmə təklif edilir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "87. Ciftin ayrılma əlamətləri müsbət olub son sərbəst doğulmazsa , sonu ayırma üsulları: \n1) Abuladze üsulu \n2) Krede-Lazareviç üsulu \n3) Henter üsulu \n4) qadına gücənmə təklif etməli \n5) cifti əllə ayırmalı və sonu xaric etməli",
+      "options": [
+        "1,4,5",
+        "3,4,5",
+        "2,4,5",
+        "2,3,4",
+        "1,2,3"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "88. Yetişmiş dölün əlamətlərinə aid deyil:",
+      "options": [
+        "qışqırığın gur olması",
+        "dəridə pendirvari maddə qalıqlarının olması",
+        "dərinin rənginin açıq-çəhrayı olması",
+        "burun və qulaq qığırdaqlarının bərk olması",
+        "dəri örtüyünün sianozu"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "89. Yetişməmiş dölün əlaməti:",
+      "options": [
+        "burun və qulaq qığırdaqlarının bərk olması",
+        "dərinin rənginin açıq-çəhrayı olması",
+        "qışqırığın gur olması",
+        "dəridə pendirvari maddənin çox olması",
+        "bədəndə pendirvari maddə qalıqlarının olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "90. Doğuşdan dərhal sonra uşaqlığın çəkisi nə qədərdir?",
+      "options": [
+        "250q",
+        "150q",
+        "500q",
+        "1000q",
+        "850q"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "91. Zahılıq dövründə ilk növbədə hansı orqanda geriyə inkişaf baş verir?",
+      "options": [
+        "borularda",
+        "usaqlıq yolunda",
+        "bağlarda",
+        "yumurtalıqda",
+        "uşaqlıqda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "92. Zahlıq dövründə hansı halda loximetra endometritə keçir?",
+      "options": [
+        "loxilər az miqdarda olarsa",
+        "spazmolitiklər təyin edilərsə",
+        "oksitosin təyin edilərsə",
+        "loxilər çox miqdarda olarsa",
+        "loximetraya infeksiya qosularsa"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "93. Zahılıq dövründə uşaqlıq boşluğunda loxilərin ləngiməsi səbəb olur:",
+      "options": [
+        "uşaqlığın kiçilməsinə",
+        "uşaqlığın normal həcmdə qalmasına",
+        "uşaqlığın sərtləşməsinə",
+        "uşaqlığın yumşalmasına",
+        "loximetraya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "94. Ön ənsə gəlişində doğuş şişi əmələ gəlir:",
+      "options": [
+        "burnun kökündə",
+        "gicgahda",
+        "alında",
+        "böyük əmgəkdə",
+        "kiçik əmgəkdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "95. Bölünən ziqotun uşaqlıq boşluğuna düşməsini təmin edən əsas amildir:",
+      "options": [
+        "follikulyar mayenin cərəyanı",
+        "qanda progesteron və estrogenlərin səviyyəsi",
+        "endosalpinksdə boylama büküşlərin olması",
+        "endosalpinksin kirpikli epitelinin hərəkət istiqaməti",
+        "uşaqlıq borularının yığılma aktivliyi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "96. HELLP-sindromun klinik əlamətlərinə aiddir: \n1) Eritrositlərin hemolizi \n2) Oliqouriya \n3) Qaraciyər fermentlərinin artması \n4) Aşağı ətrafların ödemi \n5) Trombositopeniya",
+      "options": [
+        "2,3,5",
+        "1,4,5",
+        "3,4,5",
+        "2,4,5",
+        "1,3, 5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "97. Fizioloji preliminar dövrün davametmə müddəti:",
+      "options": [
+        "1-2 saat",
+        "12 saata qədər",
+        "12 saatdan çox",
+        "6 saata qədər",
+        "8-9 saat"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "98. Patoloji preliminar dövrün davametmə müddəti:",
+      "options": [
+        "4-5 saat",
+        "7 saatdan çox",
+        "10 saat",
+        "12 saatdan çox",
+        "1-2 saat"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "99. Doğuşun I dövrünün davamiyyəti:",
+      "options": [
+        "uşaqlıq boynu 4 sm açılana qədər",
+        "uşaqlıq boynu 8sm açılana qədər",
+        "uşaqlıq boynu tam açılandan döl doğulanadək",
+        "müntəzəm doğum sancıları başlayandan uşaqlıq boynu tam açılanadək",
+        "döl doğulandan son xaric olana qədər"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "100. Qovulma dövrünün davamiyyəti:",
+      "options": [
+        "uşaqlıq boynu 3-4 sm-dək açılana qədər",
+        "uşaqlıq boynu tam açılana qədər",
+        "müntəzəm sancılar gücənmələrlə əvəz olunana qədər",
+        "döl doğulandan son xaric olana qədər",
+        "uşaqlıq boynu tam açılandan döl doğulana qədər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "101. Qanda xorionik qonadotropinin β –subvahidinin təyininə görə hamiləliyə ən tez nə vaxt diaqnoz qoymaq olur?",
+      "options": [
+        "ovulyasiyadan 12-14 gün sonra",
+        "aybaşı gecikməsindən 5-7 gün sonra",
+        "mayalanmadan 8-10 gün sonra",
+        "mayalanmadan 5-7 gün sonra",
+        "aybaşı gecikməsindən 2-3 gün sonra"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "102. Hamiləliyin şübhəsiz (həqiqi) əlamətlərinə aiddir: \n1) Dölün hissələrinin əllənməsi \n2) Ağ xətt boyunca piqmentasiya \n3) Aybaşının kəsilməsi \n4) Dölün ürək döyünməsinin eşidilməsi \n5) Dölün hərəkətlərinin təyin edilməsi",
+      "options": [
+        "2, 4,5",
+        "1,3, 4",
+        "2,3,5",
+        "1,3,5",
+        "1, 4,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "103. Solovyov indeksi ilə müəyyən edilir:",
+      "options": [
+        "qarını çevrəsinin uzunluğu",
+        "baş çevrəsinin uzunluğu",
+        "bilək çevrəsinin uzunluğu",
+        "çanaq çevrəsinin uzunluğu",
+        "uşaqlıq dibinin hündürlüyü"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "104. Conjugata externa 20 sm olduqda conjugata vera-nı müəyyən edin:",
+      "options": [
+        "14 sm",
+        "13 sm",
+        "9 sm",
+        "11 sm",
+        "10 sm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "105. Kardiotokoqrafiya vasitəsilə müəyyən edilir: \n1) Dölün ürək döyüntüləri \n2) Bazal ritm \n3) Dölyanı mayenin keyfiyyəti \n4) Uşaqlığın yığılma qabiliyyəti \n5) Uşaqlığın qan təchizatı",
+      "options": [
+        "2,4,5",
+        "1,4,5",
+        "1,3,5",
+        "1,2, 4",
+        "2,3,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "106. Kordosentez vasitəsilə müəyyən edilir: \n1) Dölün qan qrupu \n2) Dölyanı mayenin xarakteri \n3) Dölün Rh mənsubiyyəti \n4) Dölün hemolitik xəstəliyi \n5) Dölün fiziki qüsurları",
+      "options": [
+        "3,4,5",
+        "1,3,5",
+        "2,4,5",
+        "2,3,5",
+        "1,3,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "107. Vaxtı ötmüş hamiləlik hesab olunur:",
+      "options": [
+        "fizioloji hamiləlik müddətindən 5-6 gündən uzun çəkən hamiləlik",
+        "fizioloji hamiləlik müddətindən 3-4 gündən uzun çəkən hamiləlik",
+        "fizioloji hamiləlik müddətindən 4-5 gündən uzun çəkən hamiləlik",
+        "fizioloji hamiləlik müddətindən 7-10 gündən uzun çəkən hamiləlik",
+        "fizioloji hamiləlik müddətindən 6-7 gündən uzun çəkən hamiləlik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "108. Vaxtı ötmüş hamiləliyin xarakterik xüsusiyyəti hesab olunur: \n1) Dölyanı mayenin miqdarı azalır \n2) Dölyanı mayenin tərkibi dəyişir \n3) Dölyanı mayenin miqdarı artır  21 \n4) Qarın çevrəsinin ölçüsü azalır \n5) Qarın çevrəsinin ölçüsü artır",
+      "options": [
+        "2,3,5",
+        "1,3,5",
+        "2,4,5",
+        "1,2,5",
+        "1, 2, 4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "109. Vaxtı ötmüş hamiləlik zamanı dölün əl və ayaq dərisinin qırışmasına əsasən səbəb olur:",
+      "options": [
+        "dölyanı mayenin miqdarının artması",
+        "pendirvari maddənin artması",
+        "pendirvari maddənin azalması",
+        "dölyanı mayenin miqdarının azalması",
+        "dölyanı mayenin tərkibinin dəyişməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "110. Vaxtı ötmüş hamiləliyə hansı müayinələrə əsasən diaqnoz qoyulur: \n1) Transvaqinal USM \n2) Amnioskopiya \n3) Kordosentez \n4) Abdominal USM \n5) Dopplerometriya",
+      "options": [
+        "1,2,4",
+        "1,4,5",
+        "3,4,5",
+        "1,3,5",
+        "2,4,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "111. Bətndaxili inkişafın preimplantasion dövrü:",
+      "options": [
+        "hamiləliyin 12-ci həftəsindən sonrakı dövrüdür",
+        "hamiləliyin 12-ci həftəsinə qədərki dövrüdür",
+        "ciftin formalaşdığı dövrdür",
+        "embrionun orqanlarının formalaşdığı dövrdür",
+        "blastosistin endometriuma daxil olduğu ana qədərki dövrüdür"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "112. 31 yaşlı ilk doğan qadın “41-42 həftəlik hamiləlik. Baş gəlişi. Doğuşun I dövrü” d-zu ilə doğum şöbəsinə daxil olmuşdur. Daxil olan zaman dölün ürəkdöyünməsi aydın , ritmik olub 1 dəq. 160 vurğudur. Daxili müayinədə: uşaqlıq boynunun açıqlığı 7-8 sm, su kisəsi yoxdur. Gələcək hissə başdır, çanaq girəcəyi üzərində hərəkətlidir. Uşaqlıq yolu ifrazatı mekonium qarışıq dölyanı mayedir. Doğuşun aparılma taktikasını seçin:",
+      "options": [
+        "doğuşu maşa qoymaqla başa çatdırmalı",
+        "doğuşu təcili kesar kəsiyi ilə başa çatdırmalı",
+        "doğuşu təbii doğuş yollarından başa çatdırmalı",
+        "doğuşu planlı kesar kəsiyi ilə başa çatdırmalı",
+        "doğuşu stimulyasiya etməklə başa çatdırmalı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "113. 24 yaşlı təkrar doğan qadın “42-43 həftəlik hamiləlik. Baş gəlişi” diaqnozu ilə doğum şöbəsinə daxil olmuşdur. Dölün ürəkdöyünməsi aydın, ritmiki olub 1 dəq. 140 vurğudur. Dölün təxmini çəkisi 3100,0+200,0. Daxili müayinədə: uşaqlıq boynu ekssentrik, açıqlıq yoxdur. Tağlardan gələcək hissə baş əllənir, baş kiçik çanaq girəcəyinə pərçim olunub. Doğuşun aparılma taktikasını seçin.",
+      "options": [
+        "doğuşu maşa qoymaqla başa çatdırmalı",
+        "doğuşu təbii doğuş yollarından başa çatdırmalı",
+        "doğuşu təcili kesar kəsiyi ilə başa çatdırmalı",
+        "doğuşu prostаqlаndinlərlə induksiya etməklə başa çatdırmalı",
+        "doğuşu planlı kesar kəsiyi ilə başa çatdırmalı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "114. Gec müddətlərdə hamiləliyin süni pozulması hansı göstərişlərə əsasən aparılır? \n1) Anaın ağır somatik xəstəlikləri \n2) Dölün cinsiyyətinə görə \n3) Arzuolunmaz hamiləlik zamanı \n4) Sosial göstəriş olduqda \n5) Dölün inkişaf qüsurlarına görə",
+      "options": [
+        "1,2,5",
+        "2,4,5",
+        "2,3,5",
+        "1,4,5",
+        "1,3,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "115. Süni abortun erkən fəsadlarına aid deyil:",
+      "options": [
+        "kəskin metroendometrit",
+        "hematometra",
+        "uşaqlıq qanaxması",
+        "kəskin endometrit",
+        "plasentar polip"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "116. Preeklampsiya hamiləliyin hansı müddətində inkişaf edir?",
+      "options": [
+        "8-9-cü həftəyə qədər",
+        "12-13-cü həftəyə qədər",
+        "15-16-cı həftəyə qədər",
+        "20-ci həftəyə qədər",
+        "20-ci həftədən sonra"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "117. Hamilələrdə fizioloji ödemlər zamanı həkim taktikası:",
+      "options": [
+        "sedativ terapiya",
+        "maqnezium sulfatla müalicə",
+        "sidik qovucularla terapiya",
+        "hipotenziv terapiya",
+        "müalicə aparılmır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "118. Ağır peeklampsiynın simptomlarına aiddir: \n1) Baş ağrısı \n2) Aşağı ətrafların ödemi \n3) Sağ qabırğaaltı nahiyyədə ağrı \n4) Sidikdə zülalın izi \n5) Qəflətən əmələ gələn və yayılan ödem",
+      "options": [
+        "1,4,5",
+        "3,4,5",
+        "1,3,5",
+        "1,2,3",
+        "2,3,4"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "119. Hamiləliyin müddəti 33-34 həftədir. Hamilənin şikayətləri ürək bulanma , qusma, sağ qabırğaaltı nahiyədə olan ağrılardandır. Dəri və görünən selikli qişalar saralmışdır. Diurez azalmışdır. Qanın biokimyəvi analizində bilirubinin miqdarı artmışdır, trombositlərin sayı 100x109/l, ALT, AST səviyyəsi bir qədər artmışdır. Həkimin taktikası:",
+      "options": [
+        "sidikqovucular təyin etməli",
+        "dezintaksikasion terapiya aparmalı",
+        "hepatoprotektorlar təyin etməli",
+        "qlükoza məhlulu v/d yeritməli",
+        "kesar kəsiyi əməliyyatı aparılmalı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "120. Erkən toksikozda hamiləliyin pozulmasına göstərişdir:",
+      "options": [
+        "bədən kütləsinin 2-3 kq qədər azalması",
+        "sutka ərzində 5 dəfəyə qədər qusma",
+        "A/T enməsi",
+        "sidikdə asetonun səviyyəsinin artması",
+        "yuxunun pozulması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "121. 20 yaşında olan qadının hamiləliyi 4-5 həftəyə uyğundur. Sutka ərzində 2-4 dəfəyə qədər qusma qeyd olunur. Ümumi vəziyyəti kafidir. Bədən temperaturu normaldır, nəbzi tezləşmişdir, A/T norma daxilində. Diaqnoz:",
+      "options": [
+        "qastritin kəskinləşməsi",
+        "hamiləlik qusmasının orta ağır dərəcəsi",
+        "hamiləlik qusmasının ağır dərəcəsi",
+        "ağız suyunun artması",
+        "hamiləlik qusmasının yüngül dərəcəsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "122. Hamiləlik dermatozunu hansı xəstəliklərlə differensasiya etmək lazımdır? \n1) Şəkərli diabet \n2) Hamiləlik tetaniyası \n3) Bronxial astma \n4) Qurd invaziyası \n5) Allergik reaksiya",
+      "options": [
+        "1,3,4",
+        "1,4,5",
+        "2,3,4",
+        "1,2,3,",
+        "3,4,5"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "123. Doğum fəaliyyətinin birincili zəifliyi üçün xarakterik deyil:",
+      "options": [
+        "gələcək hissənin kiçik çanaq müstəvilərində gec irəliləməsi",
+        "doğuşun latent dövrünün 6 saatdan çox uzanması",
+        "sürətli doğuş",
+        "zəif, qısa müddətli doğuş sancıları",
+        "uşaqlıq boyunun açılmasının ləngiməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "124. Doğuşun birinci dövründə konservativ müalicəyə tabe olmayan doğum fəaliyyəti zəifliyində taktika:",
+      "options": [
+        "vakuum ekstraktorun qoyulması",
+        "prostaqlandinlərin tətbiqi",
+        "oksitosinlə təkrar stimulyasiya",
+        "kesar kəsiyi əməliyyatı",
+        "mamalıq maşalarının qoyulması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "125. Hazır abort zamanı düzgün həkim taktikası:",
+      "options": [
+        "hemostatik terapiyanın aparılması",
+        "döl yumurtasının instrumental xaric edilməsi",
+        "antibakterial terapiyanın aparılması",
+        "tokolitik terapiyanın aparılması",
+        "yataq rejiminin təmin edilməsi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "126. Beçəxor diaqnozu qoyularsa, həkimin taktikası:",
+      "options": [
+        "hipoksiya əleyhinə müalicə",
+        "tokolitiklərin təyini",
+        "yataq rejimi",
+        "hemostatik terapiya",
+        "uşaqlıq boşluğunun qaşınması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "127. Natamam abort üçün xarakterik deyil:",
+      "options": [
+        "uşaqlıq boynunun bir barmaq və daha artıq keçiriciliyə malik olması",
+        "uşaqlıq boşluğunda cift qalıqlarının qalması",
+        "uşaqlığın ölçüsünün hamiləlik müddətinə uyğun gəlməməsi",
+        "cinsiyyət yolların güclü qanaxma",
+        "uşaqlığın ölçüsünün hamiləlik müddətinə uyğun gəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "128. Vaxtından qabaq doğuş təhlükəsinin əlamətlərinə aid deyil:",
+      "options": [
+        "dölün bətndaxili vəziyyətinin normal olması",
+        "uşaqlıqın hipertonusu",
+        "qarnın aşağısında və ya beldə ağrılar",
+        "uşaqlıq boynunda struktur dəyişikliklərin olmaması",
+        "uşaqlıq boynunun 4 sm-ə qədər açıqlığı"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "129. Dölün çanaq gəlişi zamanı ən çox rast gəlinən ağırlaşmalar:",
+      "options": [
+        "vaxtından əvvəl doğuş",
+        "azsululuq",
+        "çoxsululuq",
+        "cift gəlişi",
+        "dölyanı mayenin vaxtından əvvəl axması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "130. Sağrı gəlişində doğum şişi yerləşir:",
+      "options": [
+        "çiyin nahiyyəsində",
+        "ayaqda",
+        "oma sümüyü nahiyyəsində",
+        "sağrılarda",
+        "bud nahiyyəsində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "131. Çanaq gəlişində doğuş zamanı ən çox rast gəlinən ağırlaşma:",
+      "options": [
+        "dölün hipoksiyası",
+        "göbək ciyəsinin sıxılması",
+        "dölün xırda hissələrinin düşməsi",
+        "göbək ciyəsinin düşməsi",
+        "dölyanı mayenin vaxtından əvvəl axması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "132. Zahılıq dövrü:",
+      "options": [
+        "cift qovulduqdan sonra başlayır və 3 ay davam edir",
+        "döl xaric olduqdan sonra başlayır və 6-8 həftə davam edir",
+        "cift qovulduqdan sonra başlayır və 4-5 həftə davam edir",
+        "döl döğulduqdan sonra başlayır və 6 ay davam edir",
+        "cift doğulduqdan sonra başlayır və 6-8 həftə davam edir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "133. Loxi nədir?",
+      "options": [
+        "ana südü",
+        "ağız südü",
+        "doğuş zamanı itirilən fizioloji qan",
+        "zahılıq dövründə uşaqlıqdan xaric olunan ifrazat",
+        "südün az ifraz olunması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "134. Ənsə gəlişi ön görkəmdə doğuşun biomexanizminin dördüncü mərhələsi hansıdır?",
+      "options": [
+        "başın daxili fırlanması",
+        "başın açılması",
+        "gövdənin daxildə və başın xaricdə fırlanması",
+        "başın bükülməsi",
+        "başın irəliləməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "135. Ənsə gəlişi arxa görkəmdə doğuşun biomexanizminin dördüncü mərhələsi hansıdır?",
+      "options": [
+        "başın maksimal bükülməsi",
+        "başın daxili fırlanması",
+        "gövdənin daxildə və başın xaricdə fırlanması",
+        "başın irəliləməsi",
+        "başın açılması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "136. Ənsə gəlişi arxa görkəmdə doğuşun biomexanizminin beşinci mərhələsi hansıdır?",
+      "options": [
+        "başın bükülməsi",
+        "başın daxili fırlanması",
+        "başın irəliləməsi",
+        "başın açılması",
+        "gövdənin daxildə və başın xaricdə fırlanması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "137. Ənsə gəlişi,birinci mövqe,ön görkəmdə sagital tikiş və kiçik əmgək harda yerləşir?",
+      "options": [
+        "sagital tikiş sol çəp ölçüdə,kiçik əmgək solda arxadadir",
+        "sagital tikiş sağ çəp ölçüdə,kiçik əmgək sağda arxadadır",
+        "sagital tikiş köndələn ölçüdə, kiçik əmgək soldadır",
+        "sagital tikiş sol çəp ölçüdə,kiçik əmgək sağda öndədir",
+        "sagital tikiş sağ çəp ölçüdə,kiçik əmgək solda öndədir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "138. Ənsə gəlişi,birinci mövqe,arxa görkəmdə sagital tikiş və kiçik əmgək harda yerləşir?",
+      "options": [
+        "sagital tikiş sağ çəp ölçüdə,kiçik əmgək sağda arxadadır",
+        "sagital tikiş sağ çəp ölçüdə,kiçik əmgək solda öndədir",
+        "sagital tikiş sol çəp ölçüdə,kiçik əmgək sağda öndədir",
+        "sagital tikiş köndələn ölçüdə, kiçik əmgək soldadır",
+        "sagital tikiş sol çəp ölçüdə,kiçik əmgək solda arxadadir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "139. Sagital tikiş çanaq dibində hansı ölçüdə yerləşir?",
+      "options": [
+        "köndələn",
+        "sol çəp",
+        "düz və ya köndələn",
+        "sağ çəp",
+        "düz"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "140. Sagital tikiş kiçik çanaq girəcəyinin köndələn ölçüsündə,önə doğru meyl edib,dölün kürəyi sola doğru baxır. Diaqnoz:",
+      "options": [
+        "ikinci mövqe,arxa görkəm",
+        "ikinci mövqe, ön görkəm",
+        "birinci mövqe,arxa asinklitizm",
+        "birinci mövqe,ön görkəm",
+        "ikinci mövge,ön asinklitizm"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "141. Başın daxili fırlanması harada baş verir?",
+      "options": [
+        "kiçik çanağın geniş hissəsində baş verir",
+        "kiçik çanaq girəcəyində baş verir",
+        "çanaq dibində baş verir",
+        "kiçik çanaq boşluğunun dar hissəsində başlayır və çanaq dibində başa çatır",
+        "kiçik çanaq boşluğunun geniş hissəsində başlayır və çanaq dibində başa çatır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "142. Başın daxili fırlanması başa çatdıqda oxabənzər tikiş çanağın hansı ölçüsündə yerləşir?",
+      "options": [
+        "kiçik çanaq girəcəyinin köndələn ölçüsündə",
+        "kiçik çanaq girəcəyinin düz ölçüsündə",
+        "çanaq çıxacağının köndələn ölçüsündə",
+        "çanaq çıxacağının düz ölçüsündə",
+        "geniş hissənin köndələn ölçüsündə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "143. Doğum şişi:",
+      "options": [
+        "başın konfiqurasiyası nəticəsində yaranır",
+        "dərialtı toxumaya qansızma nəticəsində meydana çıxır",
+        "doğuş travmasıdır",
+        "sümüküstlüyü altına qansızma nəticəsində əmələ gəlir",
+        "təmas kəmərindən aşağıda venoz durğunluq nəticəsində əmələ gəlir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "144. Kefalohematoma:",
+      "options": [
+        "susuz dövr nə qədər uzun olarsa,bir o qədər böyük olur",
+        "doğuş travması deyil",
+        "venoz durğunluq nəticəsində əmələ gəlir",
+        "sümüküstlüyü altına qansızma nəticəsində əmələ gəlir",
+        "dərialtı toxumaya qansızma nəticəsində meydana çıxır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "145. Şəklə əsasən dölün mövqe və görkəmini, sagital tikişin hansı ölçüdə yerləşməsini təyin edin (görüntü çanaq çıxacagı tərəfdəndir):",
+      "image": "questions/DAK 2025/images/mg-145.png",
+      "options": [
+        "ikinci mövqe ön görkəm, sagital tikiş sağ çəp ölçüdədir",
+        "birinci mövqe ön görkəm,sagital tikiş sol çəp ölçüdədir",
+        "ikinci mövqe arxa görkəm, sagital tikiş sağ çəp ölçüdədir",
+        "ikinci mövqe ön görkəm, sagital tikiş sol çəp ölçüdədir",
+        "birinci mövqe ön görkəm, sagital tikiş sağ çəp ölçüdədir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "146. Şəklə əsasən dölün mövqe və görkəmini, sagital tikişin hansı ölçüdə yerləşməsini təyin edin(görüntü çanaq çıxacagı tərəfdəndir):",
+      "image": "questions/DAK 2025/images/mg-146.png",
+      "options": [
+        "ikinci mövqe arxa görkəm, sagital tikiş sol çəp ölçüdədir",
+        "birinci mövqe ön görkəm,sagital tikiş sol çəp ölçüdədir",
+        "ikinci mövqe ön görkəm, sagital tikiş sol çəp ölçüdədir",
+        "birinci mövqe ön görkəm, sagital tikiş sağ çəp ölçüdədir",
+        "ikinci mövqe arxa görkəm, sagital tikiş sağ çəp ölçüdədir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "147. Şəklə əsasən dölün mövqe və görkəmini, sagital tikişin hansı ölçüdə yerləşməsini təyin edin(görüntü çanaq çıxacagı tərəfdəndir)",
+      "image": "questions/DAK 2025/images/mg-147.png",
+      "options": [
+        "ikinci mövqe arxa görkəm, sagital tikiş sol çəp ölçüdədir",
+        "birinci mövqe ön görkəm,sagital tikiş sol çəp ölçüdədir",
+        "ikinci mövqe ön görkəm, sagital tikiş sağ çəp ölçüdədir",
+        "birinci mövqe arxa görkəm, sagital tikiş sol çəp ölçüdədir",
+        "ikinci mövqe ön görkəm, sagital tikiş sol çəp ölçüdədir"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "148. Şəklə əsasən dölün görkəmini, sagital tikişin hansı ölçüdə yerləşməsini,kiçik əmgəyin yerini təyin edin:",
+      "image": "questions/DAK 2025/images/mg-148.png",
+      "options": [
+        "arxa görkəm, sagital tikiş köndələn ölçüdə,kiçik əmgək soldadır",
+        "ön görkəm,sagital tikiş düz ölçüdə,kiçik əmgək arxadadır",
+        "ön görkəm,sagital tikiş düz ölçüdə,kiçik əmgək öndədir",
+        "arxa görkəm,sagital tikiş düz ölçüdə,kiçik əmgək arxadadır",
+        "arxa görkəm,sagital tikiş düz ölçüdə,kiçik əmgək öndədir"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "149. Şəklə əsasən asinklitizmi təyin edin:",
+      "image": "questions/DAK 2025/images/mg-149.png",
+      "options": [
+        "ön asinklitizm,sagital tikiş sol çəp ölçüdə simfizə doğru meyl edib",
+        "arxa asinklitizm,sagital tikiş köndələn ölçüdə omaya doğru meyl edib",
+        "ön asinklitizm,sagital tikiş sağ çəp ölçüdə simfizə doğru meyl edib",
+        "arxa asinklitizm,sagital tikiş köndələn ölçüdə simfizə doğru meyl edib",
+        "ön asinklitizm,sagital tikiş köndələn ölçüdə simfizə doğru meyl edib"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "150. Kontraksiya nədir?",
+      "options": [
+        "əzələ liflərinin bir-birinə nisbətdə yerlərini dəyişməsidir",
+        "uşaqlığın əzələ liflərinin yığılmasıdır",
+        "uşaqlıq boynu və aşağı seqmentinin gərilməsidir",
+        "aşağı seqmentin formalaşmasıdır",
+        "uşaqlıq boynunun açılmasıdır"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "151. Menorragiya:",
+      "options": [
+        "aybaşı siklinin davamiyyətinin azalmasıdır",
+        "pre- və postmenopauzal qanaxmadır",
+        "siklik uşaqlıq qanaxmalarıdır",
+        "asiklik uşaqlıq qanaxmalarıdır",
+        "aybaşıların ağrılı olmasıdır"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "152. Metrorragiya:",
+      "options": [
+        "aybaşının davamiyyətinin uzanmasıdır",
+        "aybaşı ritminin dəyişməsidir",
+        "aybaşının davamiyyətininazalmasıdır",
+        "asiklik uşaqlıq qanaxmalarıdır",
+        "aybaşı vaxtı qanitirmənin çoxalmasıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "153. Alqodismenoreyaya səbəb olmur:",
+      "options": [
+        "uşaqlığın retrodeviasiyası",
+        "genital endometrioz",
+        "genital infantilizm",
+        "cinsiyyət orqanlarının inkişaf anomaliyaları",
+        "uşaqlıq boynunun displaziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "154. Pubertat dövr üçün xarakterik deyil:",
+      "options": [
+        "qasıq və qoltuqaltı tüklənmənin olması",
+        "süd vəzilərinin böyüməsi",
+        "boyatmanın sürətlənməsi",
+        "sümük kütləsinin azalması",
+        "ilk aybaşının olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "155. Vaxtından əvvəl cinsi inkişafın yaranma səbəbi deyil:",
+      "options": [
+        "yumurtalıqların qranulyoz hüceyrəvi şişləri",
+        "adrenogenital sindrom",
+        "yumurtalığın follikulyar sisti",
+        "yumurtalıqların disgeneziyası",
+        "baş beynin şişləri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "156. Pubertat dövrdə disfunksional uşaqlıq qanaxmalarının ən çox yaranma səbəbidir:",
+      "options": [
+        "persistensiya edən sarı cisim",
+        "qan laxtalanma sistemində pozulma",
+        "persistensiya edən follikul",
+        "follikulun atreziya olunması",
+        "hipolüteinizm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "157. Kontrasepsiya məqsədilə estrogen-hestagen preparatlar təyin edilir:",
+      "options": [
+        "aybaşının 14-cü günündən başlayaraq",
+        "ovulyasiya vaxtı",
+        "aybaşı siklinin günündən asılı olmayaraq",
+        "aybaşı ərəfəsində",
+        "aybaşının 1-ci günündən başlayaraq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "158. Yalançı amenoreya müşahidə olunur:",
+      "options": [
+        "itsenko-Kuşinq xəstəliyində",
+        "nevrogen anoreksiyada",
+        "uşaqlıq cisminin aplaziyasında",
+        "qonadların disgeneziyasında",
+        "uşaqlıq boynu kanalının atreziyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "159. Fizioloji amenoreya müşahidə olunmur:",
+      "options": [
+        "hamiləlikdə",
+        "laktasiya dövründə",
+        "uşaqlıq dövründə",
+        "postmenopauzada",
+        "nevrogen anoreksiyada"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "160. Cinsiyyət orqanlarının virus infeksiyaları üçün xarakterik deyil:",
+      "options": [
+        "törədicinin yüksək onkogenliyi",
+        "gedişin resudivləşən olması",
+        "yüksək kontagiozluq",
+        "yoluxmanın cinsi yolla baş verməsi",
+        "uşaqlıq borularının zədələnməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "161. Cinsiyyət orqanlarının vərəmində birinci ocaq əsasən harada yerləşir?",
+      "options": [
+        "peritonda",
+        "limfa düyünlərində",
+        "sidik çıxarıcı orqanlarda",
+        "sümükdə",
+        "ağciyərlərdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "162. Uşaqlıq artımlarının vərəminin əsas klinik simptomudur:",
+      "options": [
+        "xroniki çanaq ağrıları",
+        "metrorragiya",
+        "menorragiya",
+        "amenoreya",
+        "sonsuzluq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "163. Süzənək infeksiyasının yayılma yolları:",
+      "options": [
+        "limfogen",
+        "perinevral",
+        "kontakt",
+        "hematogen",
+        "intrakanalikulyar"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "164. Uşaqlıq artımlarının kəskin iltihabi xəstəliklərinin mümkün olan fəsadı deyil:",
+      "options": [
+        "xroniki çanaq ağrıları",
+        "xroniki hala keçmə",
+        "məhdud və yayılmış peritonit",
+        "absesləşmə",
+        "amenoreya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "165. Endokrin sonsuzluq hansı xəstəliyin nəticəsi deyil?",
+      "options": [
+        "hipotalamo-hipofizar disfunksiyanın",
+        "yumurtalığın tekomasının",
+        "hipofizin prolaktin ifraz edən şişinin",
+        "adrenogenital sindromun",
+        "disherminomanın"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "166. Uşaqlığın miomasının xarakterik xüsusiyyətləri:",
+      "options": [
+        "neytral dövrdə müşahidə olunur",
+        "maliqnizasiyaya meyllidir",
+        "eninəzolaqlı əzələ toxumasından inkişaf edir",
+        "xoşxassəli, hormondanasılı şişdir",
+        "pubertat dövrdə müşahidə olunur"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "167. Amenoreya ilə müşahidə olunan hansı patologiyada yeniyetmələrə təcili yardım göstərilə bilər?",
+      "options": [
+        "testikulyar feminizasiya sindromunda",
+        "Şereşevski-Terner sindromunda",
+        "Rokitanski-Küster-Mayer sindromunda",
+        "qızlıq pərdəsinin tam atreziyasında",
+        "hiperprolaktinemiyada"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "168. Oksitosin əsasən harda sintez olunur?",
+      "options": [
+        "qalxanabənzər vəzidə",
+        "adenohipofizdə",
+        "hipotalamusda",
+        "sarı cisimdə",
+        "böyrəküstü vəzidə"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "169. Cinsi yetişkənliyin ləngiməsi üçün xarakterik deyil:",
+      "options": [
+        "sümük yaşının təqvim yaşından geri qalması",
+        "ikincili cinsi əlamətlərin zəif inkişaf etməsi",
+        "yevnuxoid bədən quruluşunun olması",
+        "sümük yaşının təqvim yaşını nəzərəçarpacaq dərəcədə qabaqlaması",
+        "süd vəzilərinin hipoplaziyası"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "170. Birincili alqodismenoreyanın müalicəsində istifadə edilmir:",
+      "options": [
+        "hestagenlər və estrogenlər-hestagenlər",
+        "sedativ preparatlar",
+        "androgenlər",
+        "analgetiklər",
+        "spazmolitiklər"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "171. Hormohal hemostaz hansı hallarda effektli deyil?",
+      "options": [
+        "endometriumun qeyri-tam sekretor transformasiyası zamanı",
+        "sadə endometrial hiperplasiyada",
+        "pubertat dövrün disfunksional uşaqlıq qanaxmasında",
+        "mürəkkəb endometrial hiperplaziyada",
+        "uşaqlıq boşluğunda döl yumurtasının qalıqları qalarsa"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "172. Kombinə olunmuş oral kontraseptivlərlə hormon əvəzedici müalicəyə əks göstərişdir:",
+      "options": [
+        "arterial təzyiqin normal olması",
+        "dəmir defisitli anemiya",
+        "menometrorragiya",
+        "endometrioz",
+        "süd vəziləri və cinsiyyət orqanlarının hormondan asılı bədxassəli şişləri"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "173. Polikistoz yumurtalaqlar sindromunda icra olunan cərrahi əməliyyata aid deyil:",
+      "options": [
+        "yumurtalıqlarin dekapsulyasiyası",
+        "yumurtalıqların pazvari rezeksiyası",
+        "yumurtalıqların termokauterizasiyası",
+        "yumurtalıqlarin termovaporizasiyası",
+        "ikitərəfli ovariektomiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "174. 1-8 yaşlı qızlarda vulvovaginitin əsas səbəblərindən biridir:",
+      "options": [
+        "uşaqlıq yolunda yad cisim",
+        "şəkərli diabet",
+        "hormonal dərman preparatlarının qəbulu",
+        "uşaqlıq yolunun travması",
+        "qurd invaziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "175. Aspermiya:",
+      "options": [
+        "spermatozoidlərin hərəkətliliyinin azalmasıdır",
+        "normal morfologiyalı spermatozoidlərin <14% olmasıdır",
+        "eyakulyatda spermatozoidlərin olmamasıdır",
+        "eyakulyatın olmamasıdır",
+        "spermatozoidlərin <20·106/ml olmasıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "176. Sonsuzluq zamanı laparoskopiyaya göstəriş:",
+      "options": [
+        "hiperprolaktinemiya",
+        "davamlı anovulyasiya",
+        "lütein fazasının çatışmazlığı",
+        "polikistoz yumurtalıqlar sindromu",
+        "hipotireoz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "177. Hamiləliyin erkən müddətlərinin diaqnostikası üçün qanda təyin edilən hormon:",
+      "options": [
+        "estradiol",
+        "tireotronp hormon",
+        "xorionik qonadotropin",
+        "prolaktin",
+        "somatotrop hormon"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "178. Uşaqlıq boynunun fon xəstəliklərinə aid deyil:",
+      "options": [
+        "eritroplagiya",
+        "psevdoeroziya",
+        "ektropion",
+        "sadə leykoplagiya",
+        "proliferativ leykoplagiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "179. Yumurtalıqların şişəbənzər törəmələrinə aiddir:",
+      "options": [
+        "disherminoma",
+        "sadə seroz sistadenoma",
+        "papilyar sistadenoma",
+        "sarı cismin sisti",
+        "dermoid sist"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "180. 18 yaşlı qızda sadə seroz sistadenoma zamanı əməliyyatın həcmi:",
+      "options": [
+        "uşaqlığın artımlarla birlikdə uşaqlıq yoluüstü amputasiyası",
+        "piyliyin biopsiyası ilə adneksektomiya",
+        "yumurtalığın normal toxuma səviyyəsində rezeksiyası",
+        "ikinci yumurtalığın biopsiyası ilə adneksektomiya",
+        "zədələnmiş tərəfdə adneksektomiya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "181. Dermoid sistlərin müalicəsi hansıdır?",
+      "options": [
+        "sorucu terapiyanın təyini",
+        "fizioterapiya",
+        "nəzarət",
+        "cərrahi müdaxilə",
+        "immunomodulyatorların təyini"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "182. Yumurtalıq şişinin cərrahi ayaqcığına aid deyil:",
+      "options": [
+        "qif-çanaq bağı",
+        "mezovarium",
+        "uşaqlıq borusu",
+        "uşaqlığın girdə bağı",
+        "yumurtalığın xüsusi bağı"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "183. Postmenopauzal dövrdə risk qrupuna aid olmayan qadınlarda USM ilə skrininq hansı tezliklə həyata keçirilir?",
+      "options": [
+        "2 ayda 1 dəfə",
+        "2 ildə 1 dəfə",
+        "3 ildə 1 dəfə",
+        "ildə 1 dəfə",
+        "ildə 4 dəfə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "184. Yumurtalıqların xoşxassəli şişlərinin ən effektli diaqnostik üsuludur:",
+      "options": [
+        "laparoskopiya",
+        "kompyuter tomoqrafiya",
+        "transabdominal exoqrafiya",
+        "transvaginal exoqrafiya",
+        "maqnit-rezonans tomoqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "185. Reyter xəstəliyinin törədicisidir:",
+      "options": [
+        "Mycoplasma hominis",
+        "Gardnerella vaginalis",
+        "Trichomonas vaginalis",
+        "Chlamidia trachomatis",
+        "Neisseria gonorrhoeae"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "186. Bakterial vaginozun diaqnostik meyarı deyil:",
+      "options": [
+        "kreməbənzər spesifik ifrazatın olması",
+        "müsbət amin testi",
+        "uşaqlıq yolunda pH 3,8-4,5",
+        "uşaqlıq yolunda pH >4,5",
+        "uşaqlıq yolu yaxmasında açarvari hüceyrələrin olması"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "187. Uşaqlıq miomasında icra olunan radikal əməliyyatdır:",
+      "options": [
+        "uşaqlığın hündürdən amputasiyası",
+        "uşaqlıq arteriyalarının embolizasiyası",
+        "uşaqlığın ekstirpasiyası",
+        "konservativ miomektomiya",
+        "uşaqlığın defundasiyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "188. Genital vərəmdə ən az zədələnir:",
+      "options": [
+        "uşaqlıq boynu",
+        "endometrium",
+        "yumurtalıq",
+        "uşaqlıq boruları",
+        "xarici cinsiyyət orqanları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "189. Endometriumun müayinəsi üçün tətbiq olunmur:",
+      "options": [
+        "hidrosonoqrafiya",
+        "endometriumun biopsiya",
+        "histeroskopiya",
+        "laparoskopiya",
+        "histerosalpinqoqrafiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "190. Uşaqlıq boynunun uşaqlıq yolu hissəsinin müayinəsi üçün istifadə edilir:",
+      "options": [
+        "histerosalpinqoqrafiya",
+        "transvaginal ultrasəs müayinə",
+        "hidrosonoqrafiya",
+        "laparoskopiya",
+        "kolposkopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "191. Aybaşı siklinin I fazasının sonunda baş verir:",
+      "options": [
+        "progesteronun qanda konsentrasiyasının maksimal həddə qədər yüksəlməsi",
+        "endometriumda sekretor dəyişikliklərin maksimum həddə çatması",
+        "estradiolun qanda konsentrasiyasının azalması",
+        "endometrium hüceyrələrinin mitotik aktivliyinin azalması",
+        "dominant follikulun partlaması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "192. Disfunksional uşaqlıq qanaxmalarının baş vermə səbəbləri:",
+      "options": [
+        "qırmızı qurdeşənəyi xəstəliyi",
+        "servisit",
+        "Villebrand xəstəliyi",
+        "anovulyasiya",
+        "uşaqlığın submukoz mioması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "193. Cinsi yetişkənlik dövründə disfunksional uşaqlıq qanaxmasının müalicəsində hansı dərman preparatları tətbiq olunmur?",
+      "options": [
+        "estrogen-hestagenlər",
+        "uterotonik preparatlar",
+        "qansaxlayıcı preparatlar",
+        "vitaminlər",
+        "androgenlər"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "194. Aybaşının baş verməsi asılı deyil:",
+      "options": [
+        "steroid hormonların səviyyəsindən",
+        "qonadoliberinin səviyyəsindən",
+        "endometriumun cinsi hormonlara həssaslığından",
+        "qonadotrop hormonların səviyyəsindən",
+        "fallop borularının keçiriciliyindən"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "195. Kəskin endometritdə əsas klinik əlamət:",
+      "options": [
+        "cinsiyyət yollarından irinli ifrazatın gəlməsi",
+        "aybaşından əvvəl və sonra uşaqlıq yolundan tünd qanlı ifrazatın gəlməsi",
+        "yüksək qızdırma, titrəmə, kiçik çanaqda güçlü ağrılar",
+        "xroniki çanaq ağrıları",
+        "dispareuniya"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "196. Xroniki çanaq ağrıları əsasən baş vermir:",
+      "options": [
+        "osteoxondrozda",
+        "kiçik çanaq venalarının varikoz genişlənməsində",
+        "xroniki adneksitdə",
+        "xarici genital endometriozda",
+        "uşaqlıq boynunun endometriozunda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "197. Qonoreyanın effektsiz müalicəsi asılıdır: \n1) Qonokokların β-laktamaza ifraz etməsindən \n2) Antibiotiklərin adekvat təyinindən \n3) Qonokokların L-forma yaratmasından \n4) Qonokokların hüceyrədaxili yerləşməsindən \n5) Qonokokların çoxqatlı yastı epitelə trop olmasından",
+      "options": [
+        "2,3,5",
+        "3,4,5",
+        "2,4,5",
+        "1,3,5",
+        "1,3,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "198. Xroniki süzənəyi olan xəstələrin müalicəsində istifadə olunmur:",
+      "options": [
+        "0,5-1% gümüş nitrat məhlulu ilə sidik kanalının yuyulması",
+        "qonovaksin",
+        "protorqol məhlulu ilə uşaqlıq yolunun yuyulması",
+        "pirogenal",
+        "sanator-kurort müalicəsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "199. Vaginal kandidozun əsas törədicisidir:",
+      "options": [
+        "Mycoplasma hominis",
+        "Gardnerella vaginalis",
+        "Trichomonas vaginalis",
+        "Neisseria gonorrhoeae",
+        "Candida albicans"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "200. Chlamidia trachomatis əsasən səbəb olur: \n1) Urogenital xlamidioza \n2) Sepsisə \n3) Zöhrəvi limfoqranulemaya \n4) Traxomaya \n5) Artritə",
+      "options": [
+        "2,3,5",
+        "2,4,5",
+        "2,3,4",
+        "1,2,5",
+        "1,3,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "201. Fits-Xyu-Kurtis sindromu müşahidə olunur:",
+      "options": [
+        "qradnerelyoz və kandidozda",
+        "süzənək və xlamidiozda",
+        "trixomoniaz və kandidozda",
+        "vərəm və genital herpesdə",
+        "trixomoniaz və QİÇS zamanı"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "202. Miomatoz düyünün nekrozu hansı dövrdə daha çox rast gəlinir?",
+      "options": [
+        "premenopauzal dövrdə",
+        "aybaşıdan sonrakı dövrdə",
+        "hamiləlik zamanı, doğuşdan və abortdan sonrakı dövrdə",
+        "aybaşıya 3-5 gün qalmış",
+        "aybaşı siklinin ortasında"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "203. Endometriumun xərçəngönü xəstəliklərinə aiddir: \n1) Sadə atipik hiperplaziya \n2) Adenomatoz poliplər \n3) Sadə endometrial hiperplaziya \n4) Mürəkkəb atipik hiperplaziya \n5) Adenomioz",
+      "options": [
+        "3,4,5",
+        "2,3,5",
+        "2,3,4",
+        "1,2,4",
+        "1,3,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "204. Endometriumun hormondan asılı xərçənginin risk amili deyil:",
+      "options": [
+        "hepatobiliar sistemin xəstəlikləri",
+        "şəkərli diabet",
+        "III-IV dərəcəli visseral piylənmə",
+        "endometriumda atrofik dəyişikliklərin olması",
+        "yumurtalığda hormonal aktiv strukturlarının olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "205. Kiçik çanaq üzvlərinin kəskin iltihabi xəstəliklərinin müalicəsində əsasən tətbiq edilmir:",
+      "options": [
+        "nitroimidazol törəmələri",
+        "desintoksikasion terapiya",
+        "geniş təsir spektrli antibiotiklər",
+        "fizioterapiya",
+        "antifunqal preparatlar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "206. Uşaqlıq yolunun və uşaqlıq boynunun aplaziyasında müşahidə olunur:",
+      "options": [
+        "yatrogen amenoreya",
+        "hematokolpos",
+        "menorragiya",
+        "metrorragiya",
+        "hematometra"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "207. Normal aybaşı zamanı itirilən qanın miqdarı:",
+      "options": [
+        "100-150 ml",
+        "20-30 ml",
+        "150-200 ml",
+        "50-70 ml",
+        "200-250 ml"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "208. Endometriumun funksional qatının deskvamasiyasının səbəbidir:",
+      "options": [
+        "qanda prolaktinin səviyyəsinin enməsi",
+        "qanda estradiolun səviyyəsinin yüksəlməsi",
+        "follitropinin «pik» səviyyədə ifrazı",
+        "lyutrotropinin «pik» səviyyədə ifrazı",
+        "qanda estrogenlərin və progesteronun səviyyəsinin enməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "209. Bazal termometriya zamanı hipertermik reaksiya hansı hormonun təsiri ilə əlaqədardır?",
+      "options": [
+        "estradiolun",
+        "lüteinləşdirici hormonun",
+        "progesteronun",
+        "follikulstimuləedici hormonun",
+        "adrenokortikotrop hormonun"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "210. Aybaşı siklinin ortasında lüteinləşdirici hormonun «pik» səviyyəyə qalxması əlaqədardır:",
+      "options": [
+        "estrogen və progesteronun səviyyəsinin enməsi ilə",
+        "follitropinin azalması ilə",
+        "qanda prolaktinin səviyyəsinin xeyli qalxması ilə",
+        "estradiolun səviyyəsinin xeyli yüksəlməsi ilə",
+        "qonadotropin rilizinq hormonun azalması ilə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "211. Qonadoliberinin sintezi baş verir:",
+      "options": [
+        "baş beyin qabığının neyronlarında",
+        "onurğa beyninin neyronlarında",
+        "hipofizin arxa payında",
+        "hipofizin ön payında",
+        "hipotalamusun nüvələrində"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "212. Hipomenoreya:",
+      "options": [
+        "aybaşılararası intervalın artmasıdır",
+        "aybaşı sikli ilə əlaqədar olan qanaxmalardır",
+        "aybaşılararası az qanlı ifrazatın gəlməsidir",
+        "aybaşı vaxtı itirilən qanın miqdarının azalmasıdır",
+        "nadir və ağrılı aybaşılardır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "213. Həqiqi amenoreyanın səbəbidir:",
+      "options": [
+        "uşaqlığın aplaziyası",
+        "uşaqlıq boynu kanalının atreziyası",
+        "qızlıq pərdəsinin atreziyası",
+        "uşaqlıq yolunun atreziyası",
+        "hipofizin mikro- və ya makroadenoması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "214. Amenoreyanın səbəbini aşkar etmək üçün əsasən istifadə edilmir:",
+      "options": [
+        "funksional diaqnostika sınaqları",
+        "kranioqrafiya",
+        "funksional hormonal sınaqlar",
+        "histerosalpinqoqrafiya",
+        "daxili cinsiyyət üzvlərinin ultrasəs müayinəsi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "215. Kombinə edilmiş estrogen-hestagen preparatlarla aparılan funksional sınağın nəticəsinin mənfi olması amenoreyanın hansı formasında müşahidə edilir?",
+      "options": [
+        "hipotalamik",
+        "yumurtalıq",
+        "böyrəküstü vəzi mənşəli",
+        "uşaqlıq",
+        "hipofizar"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "216. Polikistoz yumurtalıqlar sindromunda göstərilən simptomlardan hansı olmur?",
+      "options": [
+        "I-li sonsuzluq",
+        "hirsutizm",
+        "sümük kütləsinin azalması",
+        "uşaqlığın hipoplaziyası",
+        "hər iki yumurtalığın böyüməsi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "217. Reproduktiv dövrdə anovulyator disfunksional uşaqlıq qanaxması üçün səciyyəvidir: \n1) Progesteron defisiti \n2) Hiperprogesteronemiya \n3) Nisbi hiperestrogeniya \n4) Mütləq hiperestrogeniya \n5) Testosteronun defisiti",
+      "options": [
+        "3,4,5",
+        "2,3,4",
+        "1,4,5",
+        "1,3,5",
+        "1,3,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "218. Postmenopauzal dövrdə cinsiyyət yollarından qanlı ifrazatın gəlməsinin əsas səbəblərindən biridir:",
+      "options": [
+        "endometrial polip",
+        "yumurtalıqların xərçəngi",
+        "uşaqlığın submukoz mioması",
+        "adenomioz",
+        "endometriumun xərçəngi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "219. Daxili cinsiyyət üzvlərinin vərəmi hansı yaş dövrlərində daha çox aşkarlanır?",
+      "options": [
+        "neytral dövrdə",
+        "südəmər dövrdə",
+        "premenopauzal dövrdə",
+        "pubertat dövrdə",
+        "reproduktiv dövrdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "220. Hansı sidik-cinsiyyət üzvü qalxan süzənəyə ən çox məruz qalır?",
+      "options": [
+        "uşaqlıq yolu",
+        "uretra",
+        "parauretral vəzilər",
+        "uşaqlıq boynu kanalı",
+        "uşaqlıq böruları"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "221. Endometriumun xərçəngönü xəstəlikləri və xərçənginin risk amili deyil:",
+      "options": [
+        "şəkərli diabet",
+        "piylənmə və arterial hipertenziya",
+        "endokrin mənşəli sonsuzluq",
+        "uşaqlıqdaxili kontraseptiv vasitələrdən istifadə",
+        "davamlı anovulyasiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "222. Patoloji amenoreya baş vermir:",
+      "options": [
+        "hipofizin mikro- və makroadenomasında",
+        "testikulyar feminizasiya sindromunda",
+        "neyrogen anoreksiyada",
+        "hipotireozda",
+        "qızlıq pərdəsinin atreziyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "223. Postmenopauzal osteoporozun xarakterik klinik əlaməti deyil:",
+      "options": [
+        "onurğanın hərəkətlərinin proqressivləşən məhdudlaşması",
+        "boyun kiçilməsi",
+        "bədən çəkisinin azalması",
+        "onurğa sütununun bel-oma nahiyyəsində ağrılar",
+        "sümük kütləsinin artması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "224. 49 yaşlı qadinda disfunksional uşaqlıq qanaxmasının profilaktikası üçün sintetik hestagenlər verilir:",
+      "options": [
+        "aybaşının 18-ci günündən 28-ci gününədək",
+        "aybaşının 5-ci günündən 26-ci gününədək",
+        "aybaşınin 16-ci günündən 26-ci gününədək",
+        "sintetik hestagenlərin verilməsi məsləhət görülmür",
+        "fasiləsiz rejimdə"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "225. Uşaqlıq boynunun epiteldaxili xərçənginin diaqnozunun qoyulması üçün əsasdır:",
+      "options": [
+        "uşaqlıq boynunun uşaqlıq yolu hissəsindən götürülmüş yaxmanın sitoloji müayinəsi",
+        "genişləndirilmiş kolposkopiya",
+        "histeroskopiya",
+        "servikoskopiya",
+        "endoserviks qaşıntısının və uşaqlıq boynu bioptatının histoloji müayinəsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "226. Müller axacaqlarının natamam bırləşməsi zamanı yaranır:",
+      "options": [
+        "qonadların disgeneziyası",
+        "Rokitanski-Küster-Mayer sindromu",
+        "uşaqlıq daxili arakəsmə",
+        "qızlıq pərdəsinin atreziyası",
+        "uşaqlıq yolunun atreziyası"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "227. Qızlıq pərdəsinin atreziyası zamanı müşahidə edilmir:",
+      "options": [
+        "hematokolpos",
+        "arterial təzyiqin düşməsi və nəbzin tezləşməsi",
+        "qarnın aşağı nahiyyəsində siklik ağrılar",
+        "defekasiya aktının çətinləşməsi",
+        "sıdık ifrazının çətinləşməsi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "228. Reproduktiv yaşda olan qadında yumurtalığın xoşxassəli şişi zamanı müalicə taktikası:",
+      "options": [
+        "gözləmə taktikası, fəsadlaşma baş verərsə, laparotomiya, adneksektomiya",
+        "təcili laparotomiya və ya laparoskopiya, adneksektomiya",
+        "2-3 ay müddətində hormonal müalicə, effekt olmazsa laparotomiya və adneksektomiya",
+        "1-2 aybaşı sikli iltihabəleyi müalicə, effekt olmazsa, laparotomiya və yumurtalığın rezeksiyası",
+        "planlı qaydada laparotomiya, yumurtalığın rezeksiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "229. Yumurtalığın şışəbənzər törəmələrinə aid deyil:",
+      "options": [
+        "paraovarial sistlər",
+        "sarı cismin sisti",
+        "follikulyar sıstlər",
+        "tekarlütein sistlər",
+        "sadə seroz sistadenoma"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "230. Kontrasepsiya məqsədilə kombinə olunmuş estrogen-hestagen plastlar təyin edilir:",
+      "options": [
+        "aybaşı ərəfəsində",
+        "aybaşı günündən asılı olmayaraq",
+        "aybaşı siklinin 18-ci günündən",
+        "aybaşı siklinin I günündən etibarən",
+        "ovulyasiya günündən"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "231. Kombinə olunmuş oral kontraseptivlərin təyini məsləhət deyil:",
+      "options": [
+        "abortdan dərhal sonar hamiləlikdən qorunmaq istəyənlərə",
+        "yumurtalığın xərçənginə irsi meylliyi olan qadinlara",
+        "anamnezində uşaqlıqdankənar hamiləliyi və ya kesar kəsiyi əməliyyatı olanlara",
+        "ağır arterial hipertenziyalı qadinlara",
+        "alqodismenoreyalı qadınlara"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "232. Endokrin sonsuzluq baş vermir:",
+      "options": [
+        "adrenogenital sindromda",
+        "yumurtalığın qranulyozhüceyrəli şişlərində",
+        "hipotalamo-hipofizar disfunksiyada",
+        "qeyri-yetkin teratoma zamanı",
+        "hipofizin prolaktin sintez edən şişlərində"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "233. Uşaqlıq borularının keçiriciliyinin pozulmasının əsas səbəbi deyil:",
+      "options": [
+        "süzənək və vərəm mənşəli salpingit",
+        "qarın boşluğu və kiçik çanaq orqanlarında aparılan cərrahi əməliyyatlar",
+        "xarici genital endometrioz",
+        "uşaqlığın subseroz mioması",
+        "genital xlamidioz"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "234. Mərkəzi mənşəli cinsi yetişkənliyin ləngiməsinin əsas səbəbi deyil:",
+      "options": [
+        "hipotalamusun tənzimləyici funksiyasının pozulması",
+        "infeksion-toksik xəstəliklər",
+        "irsi hipotalamo-hipofizar çatışmazlıq",
+        "stres",
+        "yumurtalıqların disgeneziyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "235. Cinsi yetişkənliyin ləngiməsi üçün xarakterik əlamət deyil:",
+      "options": [
+        "sümük yaşının təqvim yaşına uyğun olmaması",
+        "cinsi yetişkənlik dövründə süd vəzilərinin inkişafdan qalması",
+        "cinsi yetişkənlik dövründə ikincili cinsi əlamətlərin inkişafdan qalması",
+        "8 yaşlı qızda süd vəzilərinin inkişaf etməsi",
+        "yevnuxoid bədən quruluşunun olması"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "236. Prolaktin ifrazının əsas ingibitorudur:",
+      "options": [
+        "opioid peptidlər",
+        "tireoliberin",
+        "dofamin",
+        "serotonin",
+        "noradrenalin"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "237. Meyqs üçlüyü yumurtalığın hansı şişində müşahidə olunur?",
+      "options": [
+        "follikulyar sistlərdə",
+        "papilyar sistadenomada",
+        "sadə seroz sistadenomada",
+        "sarı cismin sistində",
+        "fibromada"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "238. Menarxe :",
+      "options": [
+        "aybaşının 6 ay müddətində olmamasıdır",
+        "süd vəzilərinin inkişafıdır",
+        "qoltuqaltı tüklənmədir",
+        "ilk cinsi əlaqədir",
+        "ilk aybaşıdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "239. İlk aybaşı necə adlanır",
+      "options": [
+        "telarxe",
+        "adrenarxe",
+        "menarxe",
+        "amenoreya",
+        "koitarxe"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "240. Hipo-, oliqo- və opsomenoreya birgə hansı sindromun əlamətləridir?",
+      "options": [
+        "Rokitanski-Küster-Mayer sindromunun",
+        "hipermenstrual sindromun",
+        "İtsenko-Kuşinq sindromunun",
+        "Sevic sindromunun",
+        "hipomenstrual sindromun"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "241. Poli-, hiper- və proyomenoreya nə zaman müşahidə olunur?",
+      "options": [
+        "İtsenko-Kuşinq sindromunda",
+        "Sevic sindromunda",
+        "hipomenstrual sindromda",
+        "hipermenstrual sindromda",
+        "Rokitanski –Küster-Mayer sindromunda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "242. Predovulyator follikulun diametri:",
+      "options": [
+        "12 mm",
+        "10 mm",
+        "8 mm",
+        "20 mm",
+        "40 mm"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "243. Menopauza dövrü üçün səciyyəvi deyil:",
+      "options": [
+        "uşaqlıq yolunda quruluq, cinsi əlaqə zamanı ağrının olması",
+        "baş ağrısı, arterial təzyiqin yüksəlməsi",
+        "dizurik əlamətlər , nikturiya",
+        "tərləmə, başa, boyuna istiqəlmə hissi",
+        "siklik təkrarlanan qanaxmaların olması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "244. Reproduktiv dövr üçün ən çox səciyyəvidir :",
+      "options": [
+        "baş ağrısı, arterial təzyiqin yüksəlməsi",
+        "siklik təkrarlanan qanaxmaların olması",
+        "dizurik əlamətlər, nikturiya",
+        "tərləmə, başa, boyuna istiqəlmə hissi",
+        "uşaqlıq yolunda quruluq, cinsi əlaqə zamanı ağrının olması"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "245. Follikulstimuləedici hormonun funksiyasına aiddir: \n1) Tekahüceyrələrdə androgen hormonlarının sintezini təmin edir \n2) Yumurtalıqlarda follikulların böyüməsini və yumurta hüceyrənin yetişməsini təmin edir \n3) Qranulyoz hüceyrələrin proliferasiyasını təmin edir \n4) Ovulyasiyanın baş verməsini və progesteron sintezini təmin edir \n5) Yetişən follikulda aromatazanı aktivləşdirərək androgenlərin estrogenlərə konversiyasını artırır",
+      "options": [
+        "1,2,3",
+        "1,4,5",
+        "3,4,5",
+        "1,3,5",
+        "2,3,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "246. Lüteinləşdirici hormonun funksiyasına aiddir: \n1) Tekahüceyrələrdə androgen hormonların sintezini təmin edir \n2) Yumurtalıqlarda follikulların böyüməsini və yumurta hüceyrənin yetişməsini təmin edir \n3) FSH ilə birgə ovulyasiyasının baş verməsini təmin edir \n4) Qranulyoz hüceyrələrin proliferasiyasını təmin edir \n5) Ovulyasiyadan sonra sarı cisimdə lüteinləşmiş qranulyoz hüceyrələr tərəfindən progesteron sintezini təmin edir",
+      "options": [
+        "1,4,5",
+        "2,4,5",
+        "3,4,5",
+        "1,2,3",
+        "1,3,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "247. Yatrogen amenoreya yaranmır:",
+      "options": [
+        "total ovariektomiyadan sonra",
+        "histerektomiyadan sonra",
+        "antiestrogen preparatların qəbulundan sonra",
+        "qonadotropinlərin aqonistlərini qəbul edərkən",
+        "qızlıq pərdəsinin atreziyasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "248. Yatrogen amenoreya müşahidə olunur :",
+      "options": [
+        "uşaqlıq yolunun tam aplaziyasında",
+        "servikal kanalın atreziyasında",
+        "total ovariektomiyadan sonra",
+        "Rokitanski-Küster-Mayer sindomunda",
+        "qızlıq pərdəsinin atreziyasında"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "249. İkincili amenoreya:",
+      "options": [
+        "aybaşı günlərinin artmasıdır",
+        "aybaşıların ağrılı olmasıdır",
+        "aybaşı günlərinin azalmasıdır",
+        "əvvəllər aybaşı olmuş qadınlarda 6 aydan çox aybaşının olmamasıdır",
+        "aybaşının əvvəldən olmamasıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "250. Doğuşdan və ya abortdan sonra massiv qanaxma əsas etioloji amilidir:",
+      "options": [
+        "Şereşevski –Terner sindromunun",
+        "Sevic sindromunun",
+        "Rokitanski-Küster-Mayer sindromunun",
+        "İtsenko-Kuşinq sindromunun",
+        "Şiyen sindromun"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "251. Şiyen sindromunun əsas etioloji amilidir:",
+      "options": [
+        "qonadotropinlərin aqonistlərinin təyini",
+        "total ovariektomiya",
+        "antiestrogen preparatların qəbulu",
+        "doğuşdan və ya abortdan sonra massiv qanaxma",
+        "histerektomiya"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "252. Premenopauzal dövrü disfunksional uşaqlıq qanaxmalarında hestagenlərlə müalicə:",
+      "options": [
+        "uşaqlığın uşaqlıq yolu üstü amputasiyasından sonra aparılır",
+        "endometriumun ablaziyasından sonra aparılır",
+        "hestagenlərlə müalicəyə ehtiyac yoxdur",
+        "endometriumun qaşıntısının histoloji müayinəsindən sonar aparılır",
+        "uşaqlığın ekstirpasiyasından sonar aparılır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "253. Adrenogenital sindromun sadə viril formasının müalicəsində ən çox istifadə olunan preparatdır:",
+      "options": [
+        "bromokriptin",
+        "kombinə olunmuş oral kontraseptivlər",
+        "sedativ preparatlar",
+        "qlükokortikosteroidlər",
+        "insulin"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "254. Birinci amenoreya nədir?",
+      "options": [
+        "aybaşılararası qan itkisinin artmasıdır",
+        "aybaşı zamanı qan itkisinin artmasıdır",
+        "2 ay müddətində aybaşıların olmamasıdır",
+        "4 ay müddətində aybaşıların olmamasıdır",
+        "16 yaşda olan qızda spontan aybaşının olmamasıdır"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "255. Tireotrop hormon harada sintez olunur ?",
+      "options": [
+        "hipotalamusda",
+        "böyrəküstü vəzidə",
+        "adenohipofizdə",
+        "qalxanabənzər vəzidə",
+        "yumurtalıqlarda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "256. Yumurtalıqların şişəbənzər törəmələrinə aiddir:",
+      "options": [
+        "disherminoma",
+        "psevdomusinoz sistadenoma",
+        "papilyar sistadenoma",
+        "paraovarial sist",
+        "dermoid sist"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "257. Süzənək infeksiyasının törədicilidir:",
+      "options": [
+        "Trichomonas vaginalis",
+        "Chlamidia trachomatis",
+        "Staphylacoccus aureus",
+        "Gardnerella vaginalis",
+        "Neisseria gonorrhoeae"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "258. Uşaqlığın miomasında icra olunan radikal əməliyyatdır:",
+      "options": [
+        "uşaqlıq arteriyalarının embolizasiyası",
+        "uşaqlığın hündürdən amputasiyası",
+        "uşaqlığın defundasiyası",
+        "konservativ miomektomiya",
+        "uşaqlığın uşaqlıq yoluüstü amputasiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "259. Oliqomenoreya:",
+      "options": [
+        "aybaşı sikli ilə əlaqədar olan qanaxmalardır",
+        "aybaşılararası az qanlı ifrazatın gəlməsidir",
+        "aybaşı vaxtı itirilən qanın miqdarının azalmasıdır",
+        "aybaşılararası intervalın artmasıdır",
+        "nadir və ağrılı aybaşılardır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "260. Yumurtalığın həqiqi şişlərinə aiddir:",
+      "options": [
+        "tekalütein sist",
+        "sarı cismin sisti",
+        "qeyri-yetkin teratoma",
+        "follikulyar sist",
+        "paraovarial sist"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "261. Reproduktiv sistemin tənziminin ikinci səviyyəsinə aiddir:",
+      "options": [
+        "yumurtalıqlar",
+        "hipotalamus",
+        "beyin qabığı",
+        "hippokamp",
+        "hipofiz"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "262. Reproduktiv sistemin tənziminin üçüncü səviyyəsinə aiddir:",
+      "options": [
+        "beyin qabığı",
+        "yumurtalıqlar",
+        "hippokamp",
+        "adenohipofiz",
+        "hipotalamus"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "263. Reproduktiv sistemin təmziminin dördüncü səviyyəsinə aiddir:",
+      "options": [
+        "hədəf orqanları",
+        "beyin qabığı",
+        "yumurtalıqlar",
+        "hipofiz",
+        "hipotalamus"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "264. Qonadotropin-rilizing hormon sintez olunur:",
+      "options": [
+        "endometriumda",
+        "böyrəküstü vəzidə",
+        "yumurtalıqda",
+        "hipofizdə",
+        "hipotalamusda"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "265. Follikulstimuləedici hormon sintez olunur:",
+      "options": [
+        "endometriumda",
+        "böyrəküstü vəzidə",
+        "adenohipofizdə",
+        "hipotalamusda",
+        "yumurtalıqda"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "266. Servikal seliyin reaksiyası:",
+      "options": [
+        "neytraldır",
+        "zəif qələvidir",
+        "kəskin qələvidir",
+        "zəif turşdur",
+        "kəskin turşdur"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "267. Uşaqlıq yolunda pH:",
+      "options": [
+        "7,0-7,2",
+        "7,2-7,4",
+        "8,1-8,4",
+        "1,2-3,5",
+        "3,8-4,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "268. Spermatozoidlər mayalandırma qabiliyyətini saxlayırlar:",
+      "options": [
+        "12 günə qədər",
+        "10 günə qədər",
+        "1 gün",
+        "2 günə qədər",
+        "0,5 gün"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "269. Yumurta hüceyrə orta hesabla mayalanma qabiliyyətini saxlayır:",
+      "options": [
+        "3 saat",
+        "114 saat",
+        "1 saat",
+        "72 saat",
+        "24 saat"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "270. Mayalanma əsasən baş verir:",
+      "options": [
+        "uşaqlıqda",
+        "uşaqlıq borusunun intramural hissəsində",
+        "uşaqlıq boynunda",
+        "uşaqlıq borusunun ampulyar hissəsində",
+        "uşaqlıq yolunda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "271. 47 yaşlı qadında sol yumurtalığın sərhəd tipli papilyar sistadenoması aşkar edilib. Taktika:",
+      "options": [
+        "uşaqlığın uşaqlıq yolüstü amputasiyası",
+        "sol tərəfli adneksektomiya",
+        "sol yumurtalığın sağlam toxuma sərhəddində rezeksiyası",
+        "sol tərəfli ovariektomiya",
+        "uşaqlığın artımlarla birgə ekstirpasiyası və omentektomiys"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "272. 35 yaşlı qadında aybaşı vaxtı sancı şəkilli ağrılar baş verir, vaginal müayinədə servikal kanaldan girdə, 3 sm diametrli ağımtıl, üzərində petexial qansızmalar olan bərk düyünün xaric olması görünür. Qadının anamnezində aybaşıların hiperpolimenoreya tipli pozulmaları və uşağlığın submukoz mioması olub. Ən çox ehtimal edilən diaqnoz:",
+      "options": [
+        "uşaqlıq boynu kanalınin polipi",
+        "endometriumun fibroz polipi",
+        "uşaqlığın xərcəngi",
+        "uşaqlıq cisminin endometriozu",
+        "uşaqlığın submukoz miomasının ekspulsiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "273. 16 yaşlı qız birincili amenoreyaya gorə ginekoloqa müraciət edib. İkincili cinsi əlamətlər normal inkişaf etmiş, sümük yaşı təqvim yaşına uyğun gəlir. Ultrasəs müayinədə uşaqlıq yoxdur, normal ölçüdə yumurtalıqlar aşkar olunub, sağ böyrəyin çanaq distopiyası, sol böyrəyin ikiləşməsi, qanda FSH, LH, E2 normal, kariotip müayinədə 46, XX təyin edilib. Ehtimal olunan diaqnoz:",
+      "options": [
+        "Şereşevski-Terner sindromu",
+        "Mak-Kyun-Olbrayt-Braysev sindromu",
+        "İtsenko-Kuşinq sindromu",
+        "Rokitanski-Küster-Mayer sindromu",
+        "Sevic sindromu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "274. 16 yaşlı qız ginekoloqa ikincili cinsi əlamətlərin olmaması və birincili amenoreya şikayətləri ilə daxil olub. Qızın boyu 135 sm-r. Baxış zamanı çəlləyəbənzər döş qəfəsi və boyunda qanadabənzər büküşlər, ultrasəs müayinədə yumurtalıqların yerində birləşdirici toxuma elementləri, qanda FSH və LH-ın səviyyəsinin yüksəlməsi, estradiolun azalması, kariotip müayinədə isə 45, XO aşkar edilib. Diaqnoz:",
+      "options": [
+        "Rokitanski-Küster-Mayer sindromu",
+        "Mak-Kyun-Olbrayt Braysev sindromu",
+        "Şereşevski-Terner sindromu",
+        "Sevic sindromu",
+        "İtsenko-Kuşinq sindromu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "275. 5 yaşlı qızda vaxtından əvvəl cinsi inkişaf aşkar edilib. Dəridə piqment ləkələri və borulu sümüklərdə fibroz displaziya aşkar edilib. Ehtimal olunan diaqnoz:",
+      "options": [
+        "Şereşevski-Terner sindromu",
+        "itsenko-Kuşinq sindromu",
+        "Rokitanski-Küster-Mayer sindromu",
+        "Mak-Kyun-Olbrayt-Braysev sindromu",
+        "Sevic sindromu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "276. Reproduktiv yaşda olan sağlam qadının aybaşı ləngiməsi zamanı istisna etmək lazımdır:",
+      "options": [
+        "yumurtalığın hormonal aktiv şişlərini",
+        "böyrəküstü vəzi qabığının çatışmazlığını",
+        "mərkəzi sinir sisteminin zədələnməsini",
+        "hamiləliyi",
+        "iltihabi xəstəlikləri"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "277. Uşaqlıqdaxili sinexiyaların histeroskopik adgeziolizisdən sonra residiv verməməsi üçün təklif olunan variant deyil:",
+      "options": [
+        "uşaqlıq boşluğuna Lipps ilgəyinin qoyulması",
+        "xüsusi çapıqəleyhi gelin istifadəsi",
+        "yüksək dozada estrogen-hestagen preparatların tətbiqi",
+        "uşaqlıq boşluğuna Fole kateterinin qoyulması",
+        "androgen preparatların təyini"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "278. Uşaqlıq yolunun çoxqatlı yastı epitelinin ara qat hüceyrələri hansı hormonun təsirindən daha da çoxalırlar?",
+      "options": [
+        "DHEA-S-in",
+        "androgenlərin",
+        "prolaktinin",
+        "progesteronun",
+        "estrogenlərin"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "279. Yumurtalığın qranulyoz hüceyrəli şişləri postmenopauzal dövrdə ən çox hansı klinik əlamətləri verir? \n1) Cinsiyyət yollarından qanlı ifrazat \n2) Amenoreya \n3) Qadının cavanlaşması \n4) Hipomenstrual sindrom \n5) Endometriumun hiperplastik prosesləri",
+      "options": [
+        "3,4,5",
+        "1,4,5",
+        "2,3,4",
+        "1,3,5",
+        "2,4,5"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "280. Yumurtalıqların xərçənginə görə yüksək risk qrupuna aid deyil:",
+      "options": [
+        "əvvəllər yumurtalıqların xoşxassəli şişlərinə görə əməliyyat olan qadınlar",
+        "endometriumun residivləşən hiperplastik prosesləri olan qadınlar",
+        "reproduktiv və menstrual funksiyanın pozulması olmayan qadınlar",
+        "yumurtalıqların funksiyasının və fertilliyin pozulması olan qadınlar",
+        "uzun müddət tuboovarial törəmələrə görə nəzarətdə olan qadınlar"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "281. Ginekoloji praktikada “kəskin qarın ”yaradan xəstəliklərin simptomlarına aid deyil:",
+      "options": [
+        "peritonun qıcıqlanma simptomu",
+        "bağırsaqdan nəcis və qaz ifrazının pozulması",
+        "ürəkbulanma, qusma",
+        "ağrı sindromunun qəflətən başlaması",
+        "arterial təzyiqin yüksəlməsi"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "282. Uşaqlığın miomasında “Mirena”- nın istifadəsinə göstərişdir:",
+      "options": [
+        "cərrahi əməliyyata mütləq göstərişlərin olması",
+        "uşaqlıq buynunun residivləşən fon xəstəlikləri",
+        "reproduktiv sistemin kəskinləşən xroniki iltihabi xəstəlikləri",
+        "uşaqlıqda submukoz miomanın olması",
+        "uşaqlığın 6-8 həftəlik hamiləlikdən böyük olmayan subseroz mioması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "283. “Duqlasın qışqırığı” simptomu hansı klinik halda müşahidə oluna bilər?",
+      "options": [
+        "yumurtalığın follikulyar sistində",
+        "uşaqlıq artımlarının xroniki iltihabi xəstəliklərində",
+        "uşaqlıq divarının natamam perforasiyası zamanı",
+        "boru hamiləliyində uşaqlıq borusunun cırılması zamanı",
+        "başlanmış və təhlükəli düşüklərdə"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "284. Boru hamiləliyində uşaqlıq borusunun cırılması zamanı vaginal- abdominal müayinədə aşkar olunur: \n1) “Üzən uşaqlıq” simptomu \n2) “Duqlasın qışqırığı” \n3) Uşaqlığın ön divarında bərk, hərəkətli törəmənin olması \n4) Uşaqlıq boynunun traksiyası zamanı ağrının olması \n5) Uşaqlığın yan tərəfində elastik konsistensiyalı ağrısız törəmənin olması",
+      "options": [
+        "3,4,5",
+        "2,3,5",
+        "1,3,5",
+        "1,2,4",
+        "2,3,4"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "285. 32 yaşlı qadın 22.11.2012 tarixində cinsi əlaqədən sonra qəflətən başlayan, düz bağırsağa, ayaqlara irradiasiya edən ağrı, zəiflik, başgicəllənmə şikayətləri ilə ginekoloji stasionara müraciət etmişdir. Qadın son 3 aydır kardioaspirin qəbul edir. Aybaşı sikli normal, son aybaşı 8.11.2012, dəri və görünən selikli qişalar avazımış, A/T 80/50 mm c/st., nəbz 1 dəqiqədə 100 vurğu, zəif dolğunluqda və gərginlikdədir. Dil quru, qarın gərgindir , sol qalça nahiyyəsində kəskin ağrı qeyd olunur və Şötkin – Blümberq simptomu müsbətdir. Ginekoloji müayinədə : uşaqlıq normal, sol tərəfdə artım ağrılı, sol yumurtalıq bir qədər böyümüş , uşaqlıq yolu tağları sallanır, traksiya ağrılıdır. Hamiləlik testi “-”, USM-də qarın boşluğunda çoxlu sərbəst maye aşkar olunur, Hb 76 q/l. Diaqnoz:",
+      "options": [
+        "uşaqlıq artımlarının kəskin iltihabı",
+        "uşaqlıq boynu hamiləliyi",
+        "uşaqlığın mioması",
+        "uşaqlıqdankənar boru hamiləliyinin pozulması",
+        "sol yumurtalığın apopleksiyasının hemorragik forması"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "286. Uşaqlıqda yad cismin olması zamanı ən çox müşahidə olunan klinik əlamətlər: \n1) Menometrorragiya \n2) Amenoreya \n3) İkincili sonsuzluq \n4) Xroniki endometrit \n5) Pelvioperitonit",
+      "options": [
+        "3, 4, 5",
+        "2, 3, 5",
+        "2, 4, 5",
+        "1, 2, 3",
+        "1, 3, 4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "287. Uşaqlıqda ən çox hansı yad cisimlər aşkarlana bilər? \n1) Uşaqlıqdaxili kontraseptivlər \n2) Endometriumun fibroz polipləri \n3) Sümük qalıqları \n4) Uşaqlığın submukoz mioması \n5) Müxtəlif liqaturalar",
+      "options": [
+        "1, 4, 5",
+        "3, 4, 5",
+        "2, 3, 5",
+        "2, 4, 5",
+        "1, 3, 5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "288. Rentgen mammoqrafiyanın aparılması məqsədəuyğundur:",
+      "options": [
+        "aybaşı başlayan kimi",
+        "siklin günündən asılı olmayaraq",
+        "ovulyasiya zamanı",
+        "aybaşı siklinin II fazasında",
+        "aybaşı siklinin I fazasında"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "289. Əvəzedici hormonal terapiya aparılmır:",
+      "options": [
+        "yumurtalıqların tükənmə sindromunda",
+        "yumurtalıqların rezistentliyi sindromunda",
+        "reproduktiv yaşda olan qadınlarda cərrahi menopauza zamanı",
+        "yumurtalığın feminizəedici şişlərində",
+        "Şereşevski-Terner sindromunda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "290. Uşaqlıqdaxili yayılmış sinexiyaların histeroskopik adgeziolizisindən sonra hamiləlik baş vermişsə, belə hamilələr nə üçün yüksək risk qrupuna aid edilirlər? \n1) Belə hamilələrdə spontan düşük baş verə bilər \n2) Belə hamilələrdə hipertenziv vəziyyətlər tez-tez müşahidə olunur \n3) Belə hamilələrdə vaxtından əvvəl doğuş baş verə bilər \n4) Belə hamilələrdə dölün bətndaxili inkişaf qüsurları tez-tez müşahidə olunur \n5) Belə hamilələrdə ciftin patologiyaları çox rast gəlinir",
+      "options": [
+        "2,4,5",
+        "2,3,5",
+        "3,4,5",
+        "1,2,3",
+        "1,3,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "291. Uşaqlığın hiperantefleksiyasında vaginal- abdominal müayinə zamanı aşkar edilmir:",
+      "options": [
+        "uşaqlıq yolu tağlarının hamar olması",
+        "dar uşaqlıq yolu",
+        "önə doğru kəskin əyilmiş kiçik uşaqlıq",
+        "uzun, konus formalı uşaqlıq boynu",
+        "arxaya doğru əyilmiş iri uşaqlıq"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "292. 26 yaşlı qadında yumurtalığın sadə seroz sistadenoması zamanı təklif edilən cərrahi müalicə:",
+      "options": [
+        "kollateral yumurtalığın biopsiyası ilə şiş olan tərəfdə adneksektomiya",
+        "uşaqlığın artımlarla birgə ekstirpasiyası",
+        "şiş olan tərəfdə adneksektomiya",
+        "uşaqlığın artımlarla birgə uşaqlıq yoluüstü amputasiyası",
+        "sağlam toxuma sərhəddində şişin soyulub çıxarılması ekstirpasiyası"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "293. Uşaqlıq boynunun fon xəstəliklərinə aid deyil:",
+      "options": [
+        "uşaqlıq boynunun polipləri",
+        "uşaqlıq boynunun ektopiyası",
+        "ektropion",
+        "sadə leykoplagiya",
+        "servikal intraepitelial neoplaziya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "294. Adenomatoz poliplər:",
+      "options": [
+        "endometriumun follikulyar fazaya uyğun normal fizioloji quruluşudur",
+        "endometriumun mürəkkəb hiperplaziyasıdır",
+        "endometriumun lüteal fazaya uyğun normal fizioloji quruluşudur",
+        "endometriumun xərçəngönü xəstəliklərinə aiddir",
+        "endometriumun sadə hiperplaziyasıdır"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "295. “Mirena” istifadə edilir:",
+      "options": [
+        "2 il müddətində",
+        "5 il müddətində",
+        "15 il müddətində",
+        "10 il müddətində",
+        "1 il müddətində"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "296. Yumurtalığın qranulyoz hüceyrəli şişləri qadın həyatının ən çox hansı yaş dövrlərində müşahidə olunur? \n1) Yeniyetmə dövründə \n2) Postmenopauzal dövrdə \n3) Premenopauzal dövrdə \n4) Reproduktiv dövrdə \n5) Yenidoğulma dövründə",
+      "options": [
+        "1,2",
+        "2,5",
+        "3,5",
+        "4,5",
+        "1,4"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "297. Müller axacaqlarından yaranır: \n1) Uşaqlıq yolunun distal hissəsi \n2) Uşaqlıq yolunun proksimal hissəsi \n3) Yumurtalıqlar \n4) Uşaqlıq boruları \n5) Uşaqlıq",
+      "options": [
+        "1, 2, 3",
+        "1, 3, 5,",
+        "2, 4, 5",
+        "3, 4, 5",
+        "2, 3, 4"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "298. Uşaqlıqdaxili sinexiyaların diaqnostik üsulu deyil:",
+      "options": [
+        "histeroskopiya",
+        "transvaginal ultrasəs müayinə",
+        "hidrosonoqrafiya",
+        "histerosalpinqoqrafiya",
+        "laparoskopiya"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "299. Uşaqlıqdaxili arakəsmə müşahidə edildiyi təqdirdə hamiləliyin gedişi nə üçün fəsadlaşır? \n1) Uşaqlıq boşluğunun həcmi kifayət qədər kiçik olduğundan arakəsmə dölün inkişafına mane olur \n2) Uşaqlıqdaxili arakəsmədə qan dövranında durğunluq olduğu üçün burada dölün inkişafı qeyri-mümkündür \n3) Uşaqlıqdaxili arakəsmə çox vaxt istmiko- servikal çatışmazlıq ilə müştərək müşahidə edilir \n4) Uşaqlıqdaxili arakəsmədə eksudativ – proliferativ ilthab dölün inkişafına mane olur \n5) Döl yumurtası arakəsmənin damarsız hissəsinə implantasiya olunduqda embrionun adekvat inkişafı təmin oluna bilmir",
+      "options": [
+        "2,4,5",
+        "1,4,5",
+        "2,3,5",
+        "3,4,5",
+        "1,3,5"
+      ],
+      "correct": 4
+    },
+    {
+      "question": "300. Uşaqlıq boynunun fon və xərçənqönü xəstəliklərinin diaqnostikasında istifadə edilən metodlara aiddir: \n1) Kolposkopiya \n2) Laparoskopiya \n3) Papillomavirusun təyini \n4) Transvaginal USM \n5) Sitoloji müayinə",
+      "options": [
+        "1,2,4",
+        "3,4,5",
+        "2,4,5",
+        "1,3,5",
+        "2,3,5"
+      ],
+      "correct": 3
+    }
+  ]
+}

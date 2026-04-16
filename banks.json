@@ -1,0 +1,241 @@
+{
+  "Daxili xəstəliklər": {
+    "Kardiologiya": {
+      "Kardiologiya 1.0": "questions/dx/kardio/Kardiologiya 1.0.json",
+      "Kardiologiya-Doctors Team 2025": "questions/dx/kardio/Kardiologiya-Doctors Team 2025.json",
+      "Qeyret kardio kons": "questions/dx/kardio/qeyret-kardio.json"
+    },
+    "Pulmonologiya": {
+      "Pulmo 1": "questions/dx/pulmo/pulmo 1.json",
+      "Pulmo 2": "questions/dx/pulmo/pulmo 2.json",
+      "Pulmo 3": "questions/dx/pulmo/pulmo 3.json",
+      "Qeyret pulmo kons": "questions/dx/pulmo/qeyret-pulmo.json"
+    },
+    "Qastroenterologiya": {
+      "Qastro 1.0": "questions/dx/qastro/Qastro 1.0.json",
+      "Qastro düzəlişli son DT 2025": "questions/dx/qastro/Qastro düzəlişli son-Doctors Team 2025.json",
+      "Qeyret qastro kons": "questions/dx/qastro/qeyret-qastro.json"
+    },
+    "Endokrinologiya": {
+      "Endokrin 199 A": "questions/dx/endokrin/Endokrin 199 A.json",
+      "Endo (cavablı)": "questions/dx/endokrin/Endo (cavablı).json",
+      "Endokrinologiya (Doctors-team)": "questions/dx/endokrin/Endokrinologiya (Doctors-team).json",
+      "Qeyret endokrin kons": "questions/dx/endokrin/qeyret-endokrin.json"
+    },
+    "Nefrologiya": {
+      "Nefro bank": "questions/Nefro A/Nefro_bank.json",
+      "Nefrologiya 937": "questions/Nefro A/nefrologiya 937.json",
+      "Nefrologiya test": "questions/Nefro A/Nefrologiya test.json",
+      "Qeyret nefro kons": "questions/dx/nefro/qeyret-nefro.json"
+    },
+    "Hematologiya": {
+      "Hematologiya (Doctors Team)": "questions/dx/hemato/Hematologiya (Doctors Team).json",
+      "Qeyret hemato kons": "questions/dx/hemato/qeyret-hemato.json"
+    },
+    "A cavablı testlər": {
+      "DX1 399 A": "questions/DX A cavablı testlər/DX1 399 A.json",
+      "DX2 545 A": "questions/DX A cavablı testlər/DX2 545 A.json",
+      "DX3 524 A": "questions/DX A cavablı testlər/DX3 524 A.json",
+      "DX4 532 A": "questions/DX A cavablı testlər/DX4 532 A.json"
+    },
+    "Dövlət imtahanı": {
+      "Dak Daxili Xəstəliklər": "questions/DAK 2025/Dak Daxili Xəstəliklər.json"
+    }
+  },
+  "Cərrahiyyə": {
+    "Cərrahi xəstəliklər": {
+      "CX1 551 A": "questions/cx/CX1 551 A.json",
+      "CX2 732 A": "questions/cx/CX2 732 A.json",
+      "CX3 486": "questions/cx/CX3 486.json",
+      "CX TQDK": "questions/cx/CX TQDK.json",
+      "CX-sari": "questions/semestr 2025/CX-sari.json",
+      "DQBOCX": "questions/semestr 2025/dos qefesi.json",
+      "Hepatobiliar cərrahiyyə Doctors Team 2025": "questions/cx/Hepatobiliar cərrahiyyə Doctors Team 2025.json",
+      "Mədə bağırsaq sisteminin cərrahi xəstəlikləri DT 2023": "questions/cx/Mədə_bağırsaq_sisteminin_cərrahi_xəstəlikləri_Doctors_Team_2023.json",
+      "Periferik damar Endokrin cərrahiyyə 2025 Doctors Team": "questions/cx/Periferik damar Endokrin cərrahiyyə 2025 Doctors Team.json",
+      "Torakal cərrahiyyə-Doctors Team 2025": "questions/cx/Torakal cərrahiyyə-Doctors Team 2025.json",
+      "Plastik cərrahiyyə-Doctors Team 2025": "questions/cx/Plastik cərrahiyyə-Doctors Team 2025.json"
+    },
+    "Ümumi cərrahiyyə": {
+      "UC_689_A": "questions/üc/UC_689_A.json",
+      "UmCer1 368 A": "questions/üc/UmCer1 368 A.json",
+      "UmCer2 A 399": "questions/üc/UmCer2 A 399.json"
+    },
+    "Uşaq cərrahiyyəsi": {
+      "Uşaq cərrahlığı-Doctors Team 2025": "questions/uc/Uşaq cərrahlığı-Doctors Team 2025.json"
+    },
+    "Dövlət imtahanı": {
+      "DAK Cərrahi Xəstəliklər": "questions/DAK 2025/Dak Cərrahi Xəstəliklər.json"
+    }
+  },
+  "Psixiatriya": {
+    "Psixiatriya 396 A": "questions/psix/Psixiatriya 396 A.json",
+    "Psixiatriya2 548 A": "questions/psix/Psixiatriya2 548 A.json"
+  },
+  "Uşaq xəstəlikləri": {
+    "UX1 423 A": "questions/ux/UX1 423 A.json",
+    "UX2 599 A": "questions/ux/UX2 599 A.json",
+    "UX3 799 A": "questions/ux/UX3 799 A.json",
+    "Ux-işareli.Mpf1": "questions/semestr 2025/Ux-işareli.Mpf1.json",
+    "Neonatologiya": "questions/ux/Neonatologiya.json"
+  },
+  "Mamalıq və ginekologiya": {
+    "Mamlıq": {
+      "Mamaliq1 512 A": "questions/mama-ginek/Mamaliq1 512 A.json",
+      "Mamaliq2 693 A": "questions/mama-ginek/Mamaliq2 693 A.json"
+    },
+    "Ginekologiya": {
+      "Ginekologiya1 344 A": "questions/mama-ginek/Ginekologiya1 344 A.json",
+      "Ginekologiya2 341 A": "questions/mama-ginek/Ginekologiya2 341 A.json",
+      "ginekologiya 2025": "questions/semestr 2025/ginekologiya 2025.json"
+    },
+    "Dövlət imtahanı": {
+      "DAK Mamalıq-Ginekologiya": "questions/DAK 2025/DAK Mamalıq-Ginekologiya.json"
+    }
+  },
+  "Yoluxucu xəstəliklər": {
+    "Yoluxucu1 455 A": "questions/yx/Yoluxucu1 455 A.json",
+    "Yoluxucu2 311 A": "questions/yx/Yoluxucu2 311 A.json",
+    "Yoluxucu3 438 A": "questions/yx/Yoluxucu3 438 A.json"
+  },
+  "Ümumi sınaqlar": {
+    "Kardiologiya ümumi": {
+      "banks": [
+        "Kardiologiya 1.0",
+        "Kardiologiya-Doctors Team 2025",
+        "Qeyret kardio kons"
+      ],
+      "total": 15
+    },
+    "Pulmonologiya ümumi": {
+      "banks": [
+        "Pulmo 1",
+        "Pulmo 2",
+        "Pulmo 3",
+        "Qeyret pulmo kons"
+      ],
+      "total": 15
+    },
+    "Qastroenterologiya ümumi": {
+      "banks": [
+        "Qastro 1.0",
+        "Qastro düzəlişli son DT 2025",
+        "Qeyret qastro kons"
+      ],
+      "total": 15
+    },
+    "Endokrinologiya ümumi": {
+      "banks": [
+        "Endokrin 199 A",
+        "Endo (cavablı)",
+        "Endokrinologiya (Doctors-team)",
+        "Qeyret endokrin kons"
+      ],
+      "total": 15
+    },
+    "Nefrologiya ümumi": {
+      "banks": [
+        "Nefro bank",
+        "Nefrologiya 937",
+        "Nefrologiya test",
+        "Qeyret nefro kons"
+      ],
+      "total": 15
+    },
+    "Hematologiya ümumi": {
+      "banks": [
+        "Hematologiya (Doctors Team)",
+        "Qeyret hemato kons"
+      ],
+      "total": 15
+    },
+    "Daxili xəstəliklər ümumi": {
+      "parts": {
+        "Kardiologiya ümumi": 8,
+        "Pulmonologiya ümumi": 8,
+        "Qastroenterologiya ümumi": 8,
+        "Endokrinologiya ümumi": 6,
+        "Nefrologiya ümumi": 6,
+        "Hematologiya ümumi": 6
+      }
+    },
+    "Uşaq xəstəlikləri ümumi": {
+      "banks": [
+        "UX1 423 A",
+        "UX2 599 A",
+        "UX3 799 A",
+        "Ux-işareli.Mpf1",
+        "Neonatologiya"
+      ],
+      "total": 15
+    },
+    "Cərrahi xəstəliklər ümumi": {
+      "banks": [
+        "CX1 551 A",
+        "CX2 732 A",
+        "CX3 486",
+        "CX TQDK",
+        "CX-sari",
+        "DQBOCX"
+      ],
+      "total": 15
+    },
+    "Ümumi cərrahiyyə ümumi": {
+      "banks": [
+        "UC_689_A",
+        "UmCer1 368 A",
+        "UmCer2 A 399"
+      ],
+      "total": 15
+    },
+    "Uşaq cərrahiyyəsi ümumi": {
+      "banks": [
+        "Uşaq cərrahlığı-Doctors Team 2025"
+      ],
+      "total": 15
+    },
+    "Cərrahiyyə ümumi": {
+      "parts": {
+        "Cərrahi xəstəliklər ümumi": 9,
+        "Ümumi cərrahiyyə ümumi": 8,
+        "Uşaq cərrahiyyəsi ümumi": 3
+      }
+    },
+    "Psixiatriya ümumi": {
+      "banks": [
+        "Psixiatriya 396 A",
+        "Psixiatriya2 548 A"
+      ],
+      "total": 15
+    },
+    "Mamalıq ümumi": {
+      "banks": [
+        "Mamaliq1 512 A",
+        "Mamaliq2 693 A"
+      ],
+      "total": 15
+    },
+    "Ginekologiya ümumi": {
+      "banks": [
+        "Ginekologiya1 344 A",
+        "Ginekologiya2 341 A",
+        "ginekologiya 2025"
+      ],
+      "total": 15
+    },
+    "Mamalıq və ginekologiya ümumi": {
+      "parts": {
+        "Mamalıq ümumi": 10,
+        "Ginekologiya ümumi": 10
+      }
+    },
+    "Yoluxucu xəstəliklər ümumi": {
+      "banks": [
+        "Yoluxucu1 455 A",
+        "Yoluxucu2 311 A",
+        "Yoluxucu3 438 A"
+      ],
+      "total": 15
+    }
+  }
+}
