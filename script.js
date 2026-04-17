@@ -135,41 +135,46 @@ async function loadQuiz(shuffle) {
 }
 
 function jumpToQuestion() {
-    const total = currentQuestions.length;
-    if (total === 0) return;
-
     const modal = document.getElementById('jump-modal');
-    const desc = document.getElementById('jump-modal-desc');
     const input = document.getElementById('jump-input');
+    const total = currentQuestions.length;
 
-    desc.innerText = `1 və ${total} arası rəqəm daxil edin`;
-    input.value = ''; // İçini təmizlə
-    modal.classList.remove('hidden');
-    input.focus();
+    if (!modal || !input || total === 0) return;
+
+    input.value = '';
+    input.placeholder = `1 - ${total}`;
     
-    tg.HapticFeedback.impactOccurred('light');
+    modal.classList.remove('hidden');
+    setTimeout(() => input.focus(), 100);
 }
 
 function closeJumpModal() {
-    document.getElementById('jump-modal').classList.add('hidden');
+    const modal = document.getElementById('jump-modal');
+    if (modal) modal.classList.add('hidden');
 }
 
 function confirmJump() {
-    const total = currentQuestions.length;
     const input = document.getElementById('jump-input');
+    const modal = document.getElementById('jump-modal');
+    const total = currentQuestions.length;
+
+    if (!input) return;
+
     const num = parseInt(input.value);
 
     if (!isNaN(num) && num >= 1 && num <= total) {
         quizState.index = num - 1;
-        answered = false;
-        showQuestion();
         closeJumpModal();
-        tg.HapticFeedback.notificationOccurred('success');
+        showQuestion();
+        tg.HapticFeedback.impactOccurred('medium');
     } else {
-        // Səhv daxil edilibsə inputu qırmızı elə və titrət
-        input.classList.add('border-red-500', 'animate-shake');
+        // ❗ səhv daxil ediləndə animasiya
+        input.classList.add('animate-shake');
         tg.HapticFeedback.notificationOccurred('error');
-        setTimeout(() => input.classList.remove('border-red-500', 'animate-shake'), 500);
+
+        setTimeout(() => {
+            input.classList.remove('animate-shake');
+        }, 300);
     }
 }
 
