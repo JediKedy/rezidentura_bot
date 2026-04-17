@@ -8,46 +8,47 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
-            darkMode: 'media', 
-            theme: {
-                extend: {
-                    colors: {
-                        brand: {
-                            light: '#3b82f6',
-                            dark: '#60a5fa',
-                        }
-                    }
-                }
-            }
+            darkMode: 'media',
+            theme: { extend: { colors: { brand: { light: '#3b82f6', dark: '#60a5fa' } } } }
         }
     </script>
 </head>
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-slate-100 min-h-screen transition-colors duration-200">
     
     <div class="max-w-md mx-auto px-4 py-6">
-        <header class="mb-8 flex flex-col gap-2">
-    <div class="flex items-center justify-between">
-        <h1 id="title" class="text-2xl font-bold tracking-tight">Kateqoriyalar</h1>
-        <button id="back-btn" onclick="goBack()" class="hidden p-2 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800">
-            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6"><path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" /></svg>
-        </button>
-    </div>
+        <header class="mb-6 flex flex-col gap-3">
+            <div class="flex items-center justify-between">
+                <h1 id="title" class="text-2xl font-bold tracking-tight text-blue-600 dark:text-blue-400 uppercase">Yüklənir...</h1>
+                <button id="back-btn" onclick="goBack()" class="hidden p-2 rounded-full hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
+                        <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
+                    </svg>
+                </button>
+            </div>
 
-    <div id="search-container" class="relative mt-2">
-        <input type="text" id="search-input" placeholder="Bank axtar..." 
-               class="w-full p-3 pl-10 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 outline-none focus:ring-2 focus:ring-blue-500 transition-all text-sm">
-        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="absolute left-3 top-3.5 w-4 h-4 opacity-40">
-            <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
-        </svg>
-    </div>
-    
-    </header>
+            <div id="search-container" class="relative">
+                <input type="text" id="search-input" placeholder="Bank axtar..." 
+                       class="w-full p-3 pl-10 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 outline-none focus:ring-2 focus:ring-blue-500 transition-all text-sm">
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="absolute left-3 top-3 w-4 h-4 opacity-40">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z" />
+                </svg>
+            </div>
+            
+            <div id="stats-bar" class="hidden flex flex-col gap-2">
+                <div class="flex items-center justify-between text-sm font-bold opacity-80">
+                    <div class="flex items-center gap-1">
+                        <span id="progress" class="bg-blue-100 dark:bg-blue-900/40 text-blue-600 px-2 py-0.5 rounded">0/0</span>
+                    </div>
+                    <div class="flex items-center gap-3">
+                        <span class="text-green-500 flex items-center gap-1">● <span id="score-correct">0</span></span>
+                        <span class="text-red-500 flex items-center gap-1">● <span id="score-wrong">0</span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
 
         <main id="content" class="space-y-3">
-            <div class="flex justify-center py-12">
-                <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500"></div>
-            </div>
-        </main>
+            </main>
     </div>
 
     <script src="script.js"></script>
