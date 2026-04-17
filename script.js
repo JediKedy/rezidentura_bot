@@ -1,29 +1,40 @@
 const tg = window.Telegram.WebApp;
 tg.ready();
-tg.expand(); // Tətbiqi tam ekrana yayır
+tg.expand(); // Tətbiqi tam ekrana açır
 
 let banksData = {};
 let currentQuestions = [];
-let quizState = { index: 0, correct: 0, incorrect: 0, history: [], currentPath: null };
+let quizState = { 
+    index: 0, 
+    correct: 0, 
+    incorrect: 0, 
+    history: [], 
+    currentPath: null 
+};
 
+// Heroicons SVGs
 const ICONS = {
     folder: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 opacity-70"><path stroke-linecap="round" stroke-linejoin="round" d="M2.25 12.75V12A2.25 2.25 0 014.5 9.75h15A2.25 2.25 0 0121.75 12v.75m-18.75 0a2.25 2.25 0 00-2.25 2.25v4.5A2.25 2.25 0 004.5 21.75h15a2.25 2.25 0 002.25-2.25v-4.5a2.25 2.25 0 00-2.25-2.25m-18.75 0V9a2.25 2.25 0 012.25-2.25h1.384a2.25 2.25 0 001.632-.833l1.157-1.157a2.25 2.25 0 011.632-.833h2.392a2.25 2.25 0 011.632.833l1.157 1.157a2.25 2.25 0 001.632.833H18a2.25 2.25 0 012.25 2.25V9" /></svg>`,
     file: `<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-5 h-5 text-blue-500"><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 00-3.375-3.375h-1.5A1.125 1.125 0 0113.5 7.125v-1.5a3.375 3.375 0 00-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 00-9-9z" /></svg>`,
-    check: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clip-rule="evenodd" /></svg>`
+    check: `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-8 h-8"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.857-9.809a.75.75 0 00-1.214-.882l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clip-rule="evenodd" /></svg>`
 };
 
 async function init() {
     try {
         const res = await fetch('banks.json');
+        if (!res.ok) throw new Error();
         banksData = await res.json();
         setupSearch();
         renderMenu(banksData, "Kateqoriyalar");
     } catch (e) {
-        document.getElementById('content').innerHTML = `<div class="p-4 bg-red-100 text-red-700 rounded-lg text-center">Fayllar yüklənmədi.</div>`;
+        document.getElementById('content').innerHTML = `
+            <div class="p-4 bg-red-100 text-red-700 rounded-xl text-center font-medium">
+                Xəta: Banks.json yüklənə bilmədi.
+            </div>`;
     }
 }
 
-// 🔎 Axtarış Funksiyası
+// 🔍 Axtarış funksiyası (Yalnız menyuda işləyir)
 function setupSearch() {
     const searchInput = document.getElementById('search-input');
     searchInput.addEventListener('input', (e) => {
@@ -43,14 +54,15 @@ function renderMenu(data, title) {
     document.getElementById('title').innerText = title;
     document.getElementById('stats-bar').classList.add('hidden');
     
-    // Əgər quiz başlayıbsa axtarışı gizlə
-    searchContainer.classList.toggle('hidden', typeof data === 'string');
-    container.innerHTML = '';
-
+    // Əgər obyekt deyilsə (fayl yoludursa), quiz başlama ekranına keç
     if (typeof data === 'string') {
+        searchContainer.classList.add('hidden');
         startQuizSetup(data);
         return;
     }
+
+    searchContainer.classList.remove('hidden');
+    container.innerHTML = '';
 
     Object.keys(data).forEach(key => {
         const isFile = typeof data[key] === 'string';
@@ -66,7 +78,7 @@ function renderMenu(data, title) {
         btn.onclick = () => {
             quizState.history.push({data: data, title: title});
             document.getElementById('back-btn').classList.remove('hidden');
-            document.getElementById('search-input').value = ''; // Axtarışı sıfırla
+            document.getElementById('search-input').value = ''; 
             renderMenu(data[key], key);
         };
         container.appendChild(btn);
@@ -82,33 +94,49 @@ function goBack() {
 function startQuizSetup(path) {
     quizState.currentPath = path;
     document.getElementById('content').innerHTML = `
-        <div class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm text-center">
-            <h2 class="text-lg font-bold mb-4">Hazırsınız?</h2>
+        <div class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm text-center animate-in zoom-in duration-300">
+            <h2 class="text-xl font-bold mb-6">Hazırsınız?</h2>
             <div class="grid gap-3">
-                <button onclick="loadQuiz(true)" class="w-full py-3 bg-blue-600 text-white rounded-xl font-semibold">Qarışdıraraq başla</button>
-                <button onclick="loadQuiz(false)" class="w-full py-3 bg-slate-100 dark:bg-slate-800 rounded-xl font-semibold text-slate-600 dark:text-slate-300">Ardıcıllıqla başla</button>
+                <button onclick="loadQuiz(true)" class="w-full py-4 bg-blue-600 text-white rounded-xl font-bold shadow-lg shadow-blue-500/20 active:scale-95 transition-transform">Qarışdıraraq başla</button>
+                <button onclick="loadQuiz(false)" class="w-full py-4 bg-slate-100 dark:bg-slate-800 rounded-xl font-bold text-slate-600 dark:text-slate-300 active:scale-95 transition-transform">Ardıcıllıqla başla</button>
             </div>
         </div>
     `;
 }
 
+async function loadQuiz(shuffle) {
+    try {
+        const res = await fetch(quizState.currentPath);
+        const data = await res.json();
+        currentQuestions = data.questions;
+        if (shuffle) currentQuestions.sort(() => Math.random() - 0.5);
+        
+        quizState.index = 0; 
+        quizState.correct = 0; 
+        quizState.incorrect = 0;
+        showQuestion();
+    } catch (e) {
+        alert("Sual faylı yüklənmədi!");
+    }
+}
+
 function showQuestion() {
     const q = currentQuestions[quizState.index];
     document.getElementById('stats-bar').classList.remove('hidden');
-    document.getElementById('search-container').classList.add('hidden'); // Quiz zamanı axtarışı bağla
+    document.getElementById('search-container').classList.add('hidden');
     updateStats();
 
     const container = document.getElementById('content');
     container.innerHTML = `
-        <div class="space-y-4 animate-in fade-in duration-300">
-            ${q.image ? `<img src="${q.image}" class="w-full rounded-2xl border border-slate-200 dark:border-slate-800">` : ''}
+        <div class="space-y-4 animate-in fade-in slide-in-from-bottom-4 duration-300">
+            ${q.image ? `<img src="${q.image}" class="w-full rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm">` : ''}
             <div class="p-5 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm">
-                <p class="text-lg font-medium leading-relaxed">${q.question}</p>
+                <p class="text-lg font-semibold leading-relaxed">${q.question}</p>
             </div>
             <div class="grid gap-2" id="options-box"></div>
             <div id="action-area" class="pt-4 hidden">
-                <button onclick="nextStep()" class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/30 flex items-center justify-center gap-2">
-                    Növbəti sual
+                <button onclick="nextStep()" class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/30 flex items-center justify-center gap-2 active:scale-[0.98] transition-all">
+                    NÖVBƏTİ SUAL
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-5 h-5"><path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" /></svg>
                 </button>
             </div>
@@ -118,9 +146,9 @@ function showQuestion() {
     const optionsBox = document.getElementById('options-box');
     q.options.forEach((opt, idx) => {
         const btn = document.createElement('button');
-        btn.className = "option-btn flex items-start gap-3 w-full p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl text-left transition-all";
+        btn.className = "option-btn flex items-start gap-3 w-full p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl text-left transition-all hover:bg-slate-50 dark:hover:bg-slate-800/50";
         btn.innerHTML = `
-            <span class="flex-none flex items-center justify-center w-6 h-6 rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold">${String.fromCharCode(65+idx)}</span>
+            <span class="flex-none flex items-center justify-center w-6 h-6 rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold text-slate-500">${String.fromCharCode(65+idx)}</span>
             <span class="flex-1 text-sm md:text-base">${opt}</span>
         `;
         btn.onclick = () => selectOption(btn, idx);
@@ -136,20 +164,19 @@ function selectOption(selectedBtn, selectedIdx) {
     allBtns.forEach(b => b.disabled = true);
 
     if (selectedIdx === q.correct) {
-        // DÜZGÜN
+        // Düzgün cavab
         selectedBtn.classList.add('!border-green-500', '!bg-green-50', 'dark:!bg-green-900/20');
         quizState.correct++;
         tg.HapticFeedback.notificationOccurred('success');
     } else {
-        // SƏHV
+        // Səhv cavab
         selectedBtn.classList.add('!border-red-500', '!bg-red-50', 'dark:!bg-red-900/20');
-        // Düzgün olanı göstər
+        // Əsl düzgün cavabı yaşıl göstər
         allBtns[q.correct].classList.add('!border-green-500', 'dark:!border-green-500/40', 'animate-pulse');
         quizState.incorrect++;
         tg.HapticFeedback.notificationOccurred('error');
     }
 
-    // Növbəti düyməsini göstər
     actionArea.classList.remove('hidden');
 }
 
@@ -163,25 +190,42 @@ function nextStep() {
 }
 
 function updateStats() {
-    document.getElementById('progress').innerText = `${quizState.index + 1}/${currentQuestions.length}`;
-    document.getElementById('score-correct').innerText = quizState.correct;
-    document.getElementById('score-wrong').innerText = quizState.incorrect;
+    const progress = document.getElementById('progress');
+    const correctLabel = document.getElementById('score-correct');
+    const wrongLabel = document.getElementById('score-wrong');
+    
+    if(progress) progress.innerText = `${quizState.index + 1}/${currentQuestions.length}`;
+    if(correctLabel) correctLabel.innerText = quizState.correct;
+    if(wrongLabel) wrongLabel.innerText = quizState.incorrect;
 }
 
 function showResults() {
+    document.getElementById('stats-bar').classList.add('hidden');
     document.getElementById('content').innerHTML = `
-        <div class="bg-white dark:bg-slate-900 p-8 rounded-3xl shadow-xl text-center border border-slate-200 dark:border-slate-800">
-            <div class="w-16 h-16 bg-blue-100 dark:bg-blue-900/30 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+        <div class="bg-white dark:bg-slate-900 p-8 rounded-3xl shadow-xl text-center border border-slate-200 dark:border-slate-800 animate-in zoom-in duration-300">
+            <div class="w-20 h-20 bg-blue-100 dark:bg-blue-900/30 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-6">
                 ${ICONS.check}
             </div>
-            <h2 class="text-2xl font-bold mb-2">Nəticə</h2>
-            <div class="flex justify-center gap-6 my-6">
-                <div><p class="text-2xl font-bold text-green-500">${quizState.correct}</p><p class="text-xs opacity-60">Düzgün</p></div>
-                <div><p class="text-2xl font-bold text-red-500">${quizState.incorrect}</p><p class="text-xs opacity-60">Səhv</p></div>
+            <h2 class="text-2xl font-bold mb-2 text-slate-800 dark:text-white">Test Bitdi!</h2>
+            <p class="text-slate-500 dark:text-slate-400 mb-8">Nəticələriniz aşağıdakı kimidir:</p>
+            
+            <div class="grid grid-cols-2 gap-4 mb-8">
+                <div class="p-4 bg-green-50 dark:bg-green-900/10 rounded-2xl border border-green-100 dark:border-green-900/30">
+                    <p class="text-3xl font-black text-green-600">${quizState.correct}</p>
+                    <p class="text-xs font-bold text-green-700/60 uppercase tracking-wider">Düzgün</p>
+                </div>
+                <div class="p-4 bg-red-50 dark:bg-red-900/10 rounded-2xl border border-red-100 dark:border-red-900/30">
+                    <p class="text-3xl font-black text-red-600">${quizState.incorrect}</p>
+                    <p class="text-xs font-bold text-red-700/60 uppercase tracking-wider">Səhv</p>
+                </div>
             </div>
-            <button onclick="location.reload()" class="w-full py-4 bg-slate-900 dark:bg-blue-600 text-white rounded-2xl font-bold">Yenidən Başla</button>
+
+            <button onclick="location.reload()" class="w-full py-4 bg-slate-900 dark:bg-blue-600 text-white rounded-2xl font-bold shadow-lg active:scale-95 transition-all">
+                ANA SƏHİFƏYƏ QAYIT
+            </button>
         </div>
     `;
+    tg.HapticFeedback.notificationOccurred('warning');
 }
 
 init();
