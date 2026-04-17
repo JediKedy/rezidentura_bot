@@ -32,13 +32,15 @@ async function init() {
 
 function setupSearch() {
     const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', (e) => {
-        const term = e.target.value.toLowerCase();
-        document.querySelectorAll('.menu-item').forEach(item => {
-            const text = item.querySelector('span').innerText.toLowerCase();
-            item.style.display = text.includes(term) ? 'flex' : 'none';
+    if (searchInput) {
+        searchInput.addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            document.querySelectorAll('.menu-item').forEach(item => {
+                const text = item.querySelector('span').innerText.toLowerCase();
+                item.style.display = text.includes(term) ? 'flex' : 'none';
+            });
         });
-    });
+    }
 }
 
 function renderMenu(data, title) {
@@ -87,7 +89,7 @@ function startQuizSetup(path) {
     quizState.currentPath = path;
     document.getElementById('content').innerHTML = `
         <div class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm text-center">
-            <h2 class="text-xl font-bold mb-6 italic text-blue-600">Hazırsınız?</h2>
+            <h2 class="text-xl font-bold mb-6 text-blue-600">Hazırsınız?</h2>
             <div class="grid gap-3">
                 <button onclick="loadQuiz(true)" class="w-full py-4 bg-blue-600 text-white rounded-xl font-bold active:scale-95 transition-transform">Qarışdıraraq başla</button>
                 <button onclick="loadQuiz(false)" class="w-full py-4 bg-slate-100 dark:bg-slate-800 rounded-xl font-bold active:scale-95 transition-transform">Ardıcıllıqla başla</button>
@@ -96,7 +98,6 @@ function startQuizSetup(path) {
     `;
 }
 
-// 🔀 Massiv qarışdırma (Fisher-Yates algoritmi)
 function shuffleArray(arr) {
     for (let i = arr.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -104,7 +105,6 @@ function shuffleArray(arr) {
     }
 }
 
-// 🔀 Variantları qarışdırıb yeni düzgün indeksi tapmaq
 function shuffleOptions(q) {
     const correctAnswerText = q.options[q.correct];
     const shuffled = [...q.options];
@@ -120,14 +120,9 @@ async function loadQuiz(shuffle) {
     try {
         const res = await fetch(quizState.currentPath);
         const data = await res.json();
-        
-        // Sualları kopyala
         let questions = [...data.questions];
 
-        // 1. Sualları qarışdır (əgər seçilibsə)
         if (shuffle) shuffleArray(questions);
-
-        // 2. HƏR BİR sualın variantlarını mütləq qarışdır (həm ardıcıl, həm qarışıqda)
         currentQuestions = questions.map(q => shuffleOptions(q));
         
         quizState.index = 0; 
@@ -136,6 +131,45 @@ async function loadQuiz(shuffle) {
         showQuestion();
     } catch (e) {
         alert("Sual faylı yüklənmədi!");
+    }
+}
+
+function jumpToQuestion() {
+    const total = currentQuestions.length;
+    if (total === 0) return;
+
+    const modal = document.getElementById('jump-modal');
+    const desc = document.getElementById('jump-modal-desc');
+    const input = document.getElementById('jump-input');
+
+    desc.innerText = `1 və ${total} arası rəqəm daxil edin`;
+    input.value = ''; // İçini təmizlə
+    modal.classList.remove('hidden');
+    input.focus();
+    
+    tg.HapticFeedback.impactOccurred('light');
+}
+
+function closeJumpModal() {
+    document.getElementById('jump-modal').classList.add('hidden');
+}
+
+function confirmJump() {
+    const total = currentQuestions.length;
+    const input = document.getElementById('jump-input');
+    const num = parseInt(input.value);
+
+    if (!isNaN(num) && num >= 1 && num <= total) {
+        quizState.index = num - 1;
+        answered = false;
+        showQuestion();
+        closeJumpModal();
+        tg.HapticFeedback.notificationOccurred('success');
+    } else {
+        // Səhv daxil edilibsə inputu qırmızı elə və titrət
+        input.classList.add('border-red-500', 'animate-shake');
+        tg.HapticFeedback.notificationOccurred('error');
+        setTimeout(() => input.classList.remove('border-red-500', 'animate-shake'), 500);
     }
 }
 
@@ -153,7 +187,7 @@ function showQuestion() {
             </div>
             <div class="grid gap-2" id="options-box"></div>
             <div id="action-area" class="pt-4 hidden">
-                <button onclick="nextStep()" class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/30 flex items-center justify-center gap-2">
+                <button onclick="nextStep()" class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/30 flex items-center justify-center gap-2 active:scale-95 transition-all">
                     NÖVBƏTİ SUAL
                 </button>
             </div>
@@ -163,10 +197,10 @@ function showQuestion() {
     const optionsBox = document.getElementById('options-box');
     q.options.forEach((opt, idx) => {
         const btn = document.createElement('button');
-        btn.className = "option-btn flex items-start gap-3 w-full p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl text-left transition-all";
+        btn.className = "option-btn flex items-start gap-3 w-full p-4 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl text-left transition-all active:bg-blue-50 dark:active:bg-blue-900/20";
         btn.innerHTML = `
-            <span class="flex-none flex items-center justify-center w-6 h-6 rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold">${String.fromCharCode(65+idx)}</span>
-            <span class="flex-1">${opt}</span>
+            <span class="flex-none flex items-center justify-center w-6 h-6 rounded-full bg-slate-100 dark:bg-slate-800 text-xs font-bold text-slate-500">${String.fromCharCode(65+idx)}</span>
+            <span class="flex-1 text-sm md:text-base">${opt}</span>
         `;
         btn.onclick = () => selectOption(btn, idx);
         optionsBox.appendChild(btn);
@@ -213,16 +247,16 @@ function showResults() {
             <div class="w-20 h-20 bg-blue-100 dark:bg-blue-900/30 text-blue-600 rounded-full flex items-center justify-center mx-auto mb-6">${ICONS.check}</div>
             <h2 class="text-2xl font-bold mb-4">Test Bitdi!</h2>
             <div class="grid grid-cols-2 gap-4 mb-8">
-                <div class="p-4 bg-green-50 dark:bg-green-900/10 rounded-2xl">
+                <div class="p-4 bg-green-50 dark:bg-green-900/10 rounded-2xl border border-green-100 dark:border-green-900/30">
                     <p class="text-3xl font-black text-green-600">${quizState.correct}</p>
                     <p class="text-xs uppercase opacity-60">Düzgün</p>
                 </div>
-                <div class="p-4 bg-red-50 dark:bg-red-900/10 rounded-2xl">
+                <div class="p-4 bg-red-50 dark:bg-red-900/10 rounded-2xl border border-red-100 dark:border-red-900/30">
                     <p class="text-3xl font-black text-red-600">${quizState.incorrect}</p>
                     <p class="text-xs uppercase opacity-60">Səhv</p>
                 </div>
             </div>
-            <button onclick="location.reload()" class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold">ANA SƏHİFƏ</button>
+            <button onclick="location.reload()" class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg">ANA SƏHİFƏ</button>
         </div>
     `;
     tg.HapticFeedback.notificationOccurred('warning');
