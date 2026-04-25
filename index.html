@@ -26,7 +26,7 @@
   .animate-in { animation: fadeSlideIn 0.28s ease forwards; }
 
   @keyframes zoomIn {
-    from { opacity: 0; transform: scale(0.92); }
+    from { opacity: 0; transform: scale(0.93); }
     to   { opacity: 1; transform: scale(1); }
   }
   .zoom-in { animation: zoomIn 0.28s ease forwards; }
@@ -34,29 +34,40 @@
 </head>
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-white min-h-screen">
 
-<div class="max-w-md mx-auto p-4 space-y-4">
+<div class="max-w-md mx-auto p-4 space-y-3">
 
   <!-- HEADER -->
   <div class="flex justify-between items-center">
     <h1 id="title" class="font-bold text-lg text-blue-600 truncate">Yüklənir...</h1>
-    <button id="back-btn" onclick="goBack()" class="hidden p-2 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 active:scale-95 transition-all text-base leading-none">
+    <!-- HTML back btn kept as fallback; Telegram BackButton is primary -->
+    <button id="back-btn" onclick="goBack()"
+      class="hidden p-2 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 active:scale-95 transition-all text-base leading-none">
       ←
     </button>
   </div>
 
+  <!-- USER GREETING -->
+  <p id="user-greeting" class="text-sm text-slate-500 dark:text-slate-400 hidden"></p>
+
   <!-- SEARCH -->
   <div id="search-container">
     <input id="search-input" type="text" placeholder="Axtar..."
-      class="w-full p-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 outline-none focus:ring-2 focus:ring-blue-400 transition-all" />
+      class="w-full p-3 rounded-xl border border-slate-200 dark:border-slate-700
+             bg-white dark:bg-slate-900 outline-none focus:ring-2 focus:ring-blue-400 transition-all" />
   </div>
 
   <!-- STATS BAR -->
   <div id="stats-bar" class="hidden flex justify-between items-center text-sm">
     <div class="flex items-center gap-2">
-      <span id="progress" class="px-2 py-1 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-300 rounded text-xs font-semibold">0/0</span>
-      <button onclick="jumpToQuestion()" class="text-xs bg-slate-200 dark:bg-slate-800 px-2 py-1 rounded hover:bg-slate-300 dark:hover:bg-slate-700 transition-colors">
+      <span id="progress"
+        class="px-2 py-1 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-300 rounded text-xs font-semibold">
+        0/0
+      </span>
+      <button onclick="jumpToQuestion()"
+        class="text-xs bg-slate-200 dark:bg-slate-800 px-2 py-1 rounded hover:bg-slate-300 dark:hover:bg-slate-700 transition-colors">
         Keçid
       </button>
+      <span id="bookmark-count" class="text-xs text-yellow-500 font-semibold"></span>
     </div>
     <div class="flex gap-3">
       <span class="text-green-500 font-semibold">✔ <span id="score-correct">0</span></span>
@@ -74,14 +85,16 @@
   class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50"
   onclick="closeJumpModal()">
   <div onclick="event.stopPropagation()"
-    class="bg-white dark:bg-slate-900 p-6 rounded-2xl w-72 text-center relative shadow-xl border border-slate-200 dark:border-slate-700">
-    <button onclick="closeJumpModal()" class="absolute top-3 right-3 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 transition-colors text-lg leading-none">
+    class="bg-white dark:bg-slate-900 p-6 rounded-2xl w-72 text-center relative shadow-xl border border-slate-200 dark:border-slate-700 animate-in">
+    <button onclick="closeJumpModal()"
+      class="absolute top-3 right-3 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 transition-colors text-lg leading-none">
       ✕
     </button>
     <h3 class="font-bold mb-1 text-base">Suala keçid</h3>
     <p id="jump-hint" class="text-xs text-slate-400 mb-4"></p>
     <input id="jump-input" type="number" placeholder="№"
-      class="w-full p-3 text-center border border-slate-200 dark:border-slate-700 rounded-xl mb-4 dark:bg-slate-800 outline-none focus:ring-2 focus:ring-blue-400 transition-all text-lg font-bold" />
+      class="w-full p-3 text-center border border-slate-200 dark:border-slate-700 rounded-xl mb-4
+             dark:bg-slate-800 outline-none focus:ring-2 focus:ring-blue-400 transition-all text-lg font-bold" />
     <button onclick="confirmJump()"
       class="w-full bg-blue-600 text-white p-3 rounded-xl font-bold active:scale-95 transition-transform">
       Keç
@@ -91,13 +104,9 @@
 
 <script src="script.js"></script>
 <script>
-  // Theme sync — tg is already declared in script.js, no redeclaration here
+  // Theme — tg is declared in script.js, no redeclaration
   function initTheme() {
-    if (tg.colorScheme === 'dark') {
-      document.documentElement.classList.add('dark');
-    } else {
-      document.documentElement.classList.remove('dark');
-    }
+    document.documentElement.classList.toggle('dark', tg.colorScheme === 'dark');
   }
   tg.onEvent('themeChanged', initTheme);
   initTheme();
@@ -107,7 +116,7 @@
     const modal = document.getElementById('jump-modal');
     if (modal.classList.contains('hidden')) return;
     if (e.key === 'Escape') closeJumpModal();
-    if (e.key === 'Enter') confirmJump();
+    if (e.key === 'Enter')  confirmJump();
   });
 </script>
 </body>
