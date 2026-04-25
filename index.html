@@ -1,109 +1,114 @@
 <!DOCTYPE html>
 <html lang="az">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rezidentura Bot</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rezidentura Bot</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = { darkMode: 'class' }
+</script>
+<style>
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20%       { transform: translateX(-7px); }
+    40%       { transform: translateX(7px); }
+    60%       { transform: translateX(-4px); }
+    80%       { transform: translateX(4px); }
+  }
+  .animate-shake { animation: shake 0.35s ease; }
 
-    <script src="https://telegram.org/js/telegram-web-app.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .animate-in { animation: fadeSlideIn 0.28s ease forwards; }
 
-    <script>
-        tailwind.config = {
-            darkMode: 'class'
-        }
-    </script>
+  @keyframes zoomIn {
+    from { opacity: 0; transform: scale(0.92); }
+    to   { opacity: 1; transform: scale(1); }
+  }
+  .zoom-in { animation: zoomIn 0.28s ease forwards; }
+</style>
 </head>
-
 <body class="bg-slate-50 text-slate-900 dark:bg-slate-950 dark:text-white min-h-screen">
 
 <div class="max-w-md mx-auto p-4 space-y-4">
 
-    <!-- HEADER -->
-    <div class="flex justify-between items-center">
-        <h1 id="title" class="font-bold text-lg text-blue-600 truncate">Yüklənir...</h1>
+  <!-- HEADER -->
+  <div class="flex justify-between items-center">
+    <h1 id="title" class="font-bold text-lg text-blue-600 truncate">Yüklənir...</h1>
+    <button id="back-btn" onclick="goBack()" class="hidden p-2 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 active:scale-95 transition-all text-base leading-none">
+      ←
+    </button>
+  </div>
 
-        <button id="back-btn" onclick="goBack()" class="hidden p-2">
-            ←
-        </button>
+  <!-- SEARCH -->
+  <div id="search-container">
+    <input id="search-input" type="text" placeholder="Axtar..."
+      class="w-full p-3 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 outline-none focus:ring-2 focus:ring-blue-400 transition-all" />
+  </div>
+
+  <!-- STATS BAR -->
+  <div id="stats-bar" class="hidden flex justify-between items-center text-sm">
+    <div class="flex items-center gap-2">
+      <span id="progress" class="px-2 py-1 bg-blue-100 dark:bg-blue-900/40 text-blue-600 dark:text-blue-300 rounded text-xs font-semibold">0/0</span>
+      <button onclick="jumpToQuestion()" class="text-xs bg-slate-200 dark:bg-slate-800 px-2 py-1 rounded hover:bg-slate-300 dark:hover:bg-slate-700 transition-colors">
+        Keçid
+      </button>
     </div>
-
-    <!-- SEARCH -->
-    <div id="search-container">
-        <input id="search-input" type="text" placeholder="Axtar..."
-            class="w-full p-3 rounded-xl border dark:bg-slate-900">
+    <div class="flex gap-3">
+      <span class="text-green-500 font-semibold">✔ <span id="score-correct">0</span></span>
+      <span class="text-red-500 font-semibold">✘ <span id="score-wrong">0</span></span>
     </div>
+  </div>
 
-    <!-- STATS -->
-    <div id="stats-bar" class="hidden flex justify-between text-sm">
-        <div class="flex items-center gap-2">
-            <span id="progress" class="px-2 py-1 bg-blue-100 text-blue-600 rounded text-xs">0/0</span>
-            <button onclick="jumpToQuestion()" class="text-xs bg-slate-200 px-2 py-1 rounded">
-                Keçid
-            </button>
-        </div>
-
-        <div class="flex gap-3">
-            <span class="text-green-500">✔ <span id="score-correct">0</span></span>
-            <span class="text-red-500">✘ <span id="score-wrong">0</span></span>
-        </div>
-    </div>
-
-    <!-- CONTENT -->
-    <div id="content"></div>
+  <!-- MAIN CONTENT -->
+  <div id="content"></div>
 
 </div>
 
-<!-- JUMP MODAL -->
+<!-- JUMP TO QUESTION MODAL -->
 <div id="jump-modal"
-     class="hidden fixed inset-0 bg-black/50 flex items-center justify-center"
-     onclick="closeJumpModal()">
-
-    <div onclick="event.stopPropagation()"
-         class="bg-white dark:bg-slate-900 p-6 rounded-2xl w-64 text-center relative">
-
-        <!-- CLOSE -->
-        <button onclick="closeJumpModal()" class="absolute top-2 right-2">
-            ✕
-        </button>
-
-        <h3 class="font-bold mb-4">Suala keçid</h3>
-
-        <input id="jump-input" type="number" placeholder="№"
-            class="w-full p-3 text-center border rounded mb-4 dark:bg-slate-800">
-
-        <button onclick="confirmJump()"
-            class="w-full bg-blue-600 text-white p-3 rounded">
-            Keç
-        </button>
-    </div>
+  class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50"
+  onclick="closeJumpModal()">
+  <div onclick="event.stopPropagation()"
+    class="bg-white dark:bg-slate-900 p-6 rounded-2xl w-72 text-center relative shadow-xl border border-slate-200 dark:border-slate-700">
+    <button onclick="closeJumpModal()" class="absolute top-3 right-3 text-slate-400 hover:text-slate-600 dark:hover:text-slate-200 transition-colors text-lg leading-none">
+      ✕
+    </button>
+    <h3 class="font-bold mb-1 text-base">Suala keçid</h3>
+    <p id="jump-hint" class="text-xs text-slate-400 mb-4"></p>
+    <input id="jump-input" type="number" placeholder="№"
+      class="w-full p-3 text-center border border-slate-200 dark:border-slate-700 rounded-xl mb-4 dark:bg-slate-800 outline-none focus:ring-2 focus:ring-blue-400 transition-all text-lg font-bold" />
+    <button onclick="confirmJump()"
+      class="w-full bg-blue-600 text-white p-3 rounded-xl font-bold active:scale-95 transition-transform">
+      Keç
+    </button>
+  </div>
 </div>
 
 <script src="script.js"></script>
-
 <script>
-const tg = window.Telegram.WebApp;
-
-function initTheme() {
+  // Theme sync — tg is already declared in script.js, no redeclaration here
+  function initTheme() {
     if (tg.colorScheme === 'dark') {
-        document.documentElement.classList.add('dark');
+      document.documentElement.classList.add('dark');
     } else {
-        document.documentElement.classList.remove('dark');
+      document.documentElement.classList.remove('dark');
     }
-}
+  }
+  tg.onEvent('themeChanged', initTheme);
+  initTheme();
 
-tg.onEvent('themeChanged', initTheme);
-initTheme();
-
-// ESC / ENTER
-document.addEventListener('keydown', (e) => {
+  // Keyboard shortcuts for jump modal
+  document.addEventListener('keydown', (e) => {
     const modal = document.getElementById('jump-modal');
     if (modal.classList.contains('hidden')) return;
-
     if (e.key === 'Escape') closeJumpModal();
     if (e.key === 'Enter') confirmJump();
-});
+  });
 </script>
-
 </body>
 </html>
