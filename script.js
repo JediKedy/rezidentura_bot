@@ -12,6 +12,7 @@ let banksData        = {};
 let currentQuestions = [];
 let timerInterval    = null;
 let lastShuffle      = true;
+let currentFetch     = null; // FIX #3 — AbortController üçün
 
 const TIMER_SECONDS  = 30;
 
@@ -19,6 +20,7 @@ let quizState = {
     index:        0,
     correct:      0,
     incorrect:    0,
+    skipped:      0, // FIX #4 — skipped suallar
     history:      [],
     currentPath:  null,
     currentTitle: '',
@@ -29,6 +31,17 @@ let quizState = {
 };
 
 // ═══════════════════════════════════════════════════════════════════════════════
+// FIX #1 — XSS SANITIZER
+// innerHTML-ə yazılmadan əvvəl bütün user/data məlumatları bu funksiyadən keçir
+// ═══════════════════════════════════════════════════════════════════════════════
+function sanitize(str) {
+    if (str === null || str === undefined) return '';
+    const div = document.createElement('div');
+    div.textContent = String(str);
+    return div.innerHTML;
+}
+
+// ═══════════════════════════════════════════════════════════════════════════════
 // CLOUD STORAGE  (graceful fallback to localStorage)
 // ═══════════════════════════════════════════════════════════════════════════════
 const CS = {
@@ -36,14 +49,23 @@ const CS = {
         return new Promise(resolve => {
             try {
                 tg.CloudStorage.getItem(key, (err, val) => resolve(err ? null : val));
-            } catch { resolve(localStorage.getItem(key)); }
+            } catch (e) {
+                // FIX #5 — xəta log edilir, itmir
+                console.warn('CloudStorage.get fallback:', e);
+                resolve(localStorage.getItem(key));
+            }
         });
     },
     set(key, value) {
         return new Promise(resolve => {
             try {
                 tg.CloudStorage.setItem(key, value, () => resolve());
-            } catch { localStorage.setItem(key, value); resolve(); }
+            } catch (e) {
+                // FIX #5 — xəta log edilir, itmir
+                console.warn('CloudStorage.set fallback:', e);
+                localStorage.setItem(key, value);
+                resolve();
+            }
         });
     },
     async getJSON(key, fallback = null) {
@@ -73,7 +95,8 @@ async function init() {
 
     const user = tg.initDataUnsafe?.user;
     if (user?.first_name) {
-        document.getElementById('user-greeting').textContent = `Salam, ${user.first_name}! 👋`;
+        // sanitize istifadəçi adına da tətbiq edilir
+        document.getElementById('user-greeting').textContent = `Salam, ${sanitize(user.first_name)}! 👋`;
     }
 
     try {
@@ -85,7 +108,7 @@ async function init() {
     } catch (e) {
         document.getElementById('content').innerHTML =
             `<div class="p-4 bg-red-100 dark:bg-red-900/20 text-red-700 dark:text-red-300 rounded-xl text-center">
-                Xəta: banks.json yüklənə bilmədi.<br><small class="opacity-60">${e.message}</small>
+                Xəta: banks.json yüklənə bilmədi.<br><small class="opacity-60">${sanitize(e.message)}</small>
              </div>`;
     }
 }
@@ -104,15 +127,17 @@ function syncTgBackButton() {
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // TELEGRAM MAIN BUTTON
+// FIX #6 — onClick çoxlu qeydiyyatının qarşısı alınır
 // ═══════════════════════════════════════════════════════════════════════════════
 function showTgMainButton(text, callback) {
+    tg.MainButton.offClick();         // FIX #6 — əvvəlki handler silinir
     tg.MainButton.setText(text);
     tg.MainButton.onClick(callback);
     tg.MainButton.show();
 }
 
 function hideTgMainButton() {
-    tg.MainButton.offClick();
+    tg.MainButton.offClick();         // FIX #6 — burada da təmizlə
     tg.MainButton.hide();
 }
 
@@ -222,10 +247,11 @@ async function renderMenu(data, title) {
             "menu-item w-full flex items-center justify-between p-4 " +
             "bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 " +
             "rounded-xl mb-2 active:scale-95 transition-all";
+        // FIX #1 — key sanitize edilir
         btn.innerHTML = `
             <div class="flex items-center gap-3 min-w-0">
                 ${isFile ? ICONS.file : ICONS.folder}
-                <span class="item-label font-medium text-left truncate">${key}</span>
+                <span class="item-label font-medium text-left truncate">${sanitize(key)}</span>
             </div>
             <div class="flex items-center gap-2 flex-none ml-2">
                 ${bestBadge}
@@ -249,10 +275,11 @@ function makeQuickCard(item, icon) {
         "menu-item w-full flex items-center justify-between p-3 " +
         "bg-blue-50 dark:bg-blue-900/20 border border-blue-100 dark:border-blue-900/40 " +
         "rounded-xl mb-2 active:scale-95 transition-all";
+    // FIX #1 — title sanitize edilir
     btn.innerHTML = `
         <div class="flex items-center gap-2 min-w-0">
             ${ICONS.file}
-            <span class="item-label text-sm font-medium text-left truncate">${item.title}</span>
+            <span class="item-label text-sm font-medium text-left truncate">${sanitize(item.title)}</span>
         </div>
         <span class="text-lg flex-none">${icon}</span>`;
     btn.onclick = () => {
@@ -300,28 +327,37 @@ async function startQuizSetup(path, title) {
            </div>`
         : `<p class="text-sm text-slate-400 mb-5">İlk dəfə açılır 🆕</p>`;
 
-    document.getElementById('content').innerHTML = `
+    // FIX #2 — onclick inline string əvəzinə data-atributları istifadə edilir
+    const container = document.getElementById('content');
+    container.innerHTML = `
         <div class="bg-white dark:bg-slate-900 p-6 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm text-center animate-in">
             <div class="flex items-center justify-between mb-1">
                 <h2 class="text-xl font-bold text-blue-600 flex-1 text-center">Hazırsınız?</h2>
-                <button onclick="toggleFavorite('${path}', '${quizState.currentTitle.replace(/'/g,"\\'")}');"
+                <button id="fav-toggle-btn"
                     class="p-2 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors" title="Sevimlilərə əlavə et">
                     ${isFav ? ICONS.bookmarkFill : ICONS.bookmark}
                 </button>
             </div>
-            <p class="text-sm text-slate-400 mb-4">${quizState.currentTitle}</p>
+            <p class="text-sm text-slate-400 mb-4">${sanitize(quizState.currentTitle)}</p>
             ${statHtml}
             <div class="grid gap-3">
-                <button onclick="loadQuiz(true)"
+                <button id="shuffle-start-btn"
                     class="w-full py-4 bg-blue-600 text-white rounded-xl font-bold active:scale-95 transition-transform shadow-lg shadow-blue-500/20">
                     🔀 Qarışdıraraq başla
                 </button>
-                <button onclick="loadQuiz(false)"
+                <button id="seq-start-btn"
                     class="w-full py-4 bg-slate-100 dark:bg-slate-800 rounded-xl font-bold active:scale-95 transition-transform">
                     📋 Ardıcıllıqla başla
                 </button>
             </div>
         </div>`;
+
+    // FIX #2 — data-atributlardan oxuyaraq təhlükəsiz şəkildə handler qoşulur
+    document.getElementById('fav-toggle-btn').addEventListener('click', () => {
+        toggleFavorite(quizState.currentPath, quizState.currentTitle);
+    });
+    document.getElementById('shuffle-start-btn').addEventListener('click', () => loadQuiz(true));
+    document.getElementById('seq-start-btn').addEventListener('click', () => loadQuiz(false));
 
     await addRecent(path, quizState.currentTitle);
 }
@@ -347,6 +383,7 @@ function resetQuizState() {
     quizState.index        = 0;
     quizState.correct      = 0;
     quizState.incorrect    = 0;
+    quizState.skipped      = 0; // FIX #4
     quizState.wrongIndices = [];
     quizState.bookmarks    = new Set();
     quizState.answered     = {};
@@ -357,10 +394,17 @@ function resetQuizState() {
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // LOAD QUIZ
+// FIX #3 — AbortController ilə köhnə fetch ləğv edilir
 // ═══════════════════════════════════════════════════════════════════════════════
 async function loadQuiz(shuffle, questionsOverride = null) {
     lastShuffle = shuffle;
     stopTimer();
+
+    // FIX #3 — əvvəlki fetch varsa ləğv et
+    if (currentFetch) {
+        currentFetch.abort();
+        currentFetch = null;
+    }
 
     document.getElementById('content').innerHTML =
         `<div class="flex flex-col items-center gap-3 py-12 text-slate-400">
@@ -376,10 +420,14 @@ async function loadQuiz(shuffle, questionsOverride = null) {
         if (questionsOverride) {
             questions = [...questionsOverride];
         } else {
-            const res = await fetch(quizState.currentPath);
+            // FIX #3 — AbortController yaradılır
+            const ctrl = new AbortController();
+            currentFetch = ctrl;
+            const res = await fetch(quizState.currentPath, { signal: ctrl.signal });
             if (!res.ok) throw new Error(`HTTP ${res.status}`);
             const data = await res.json();
             questions = [...data.questions];
+            currentFetch = null;
         }
 
         if (shuffle) shuffleArray(questions);
@@ -387,9 +435,11 @@ async function loadQuiz(shuffle, questionsOverride = null) {
         currentQuestions = questions.map(q => shuffleOptions(q));
         showQuestion();
     } catch (e) {
+        // FIX #3 — abort xətası normal xəta kimi göstərilmir
+        if (e.name === 'AbortError') return;
         document.getElementById('content').innerHTML =
             `<div class="p-4 bg-red-100 dark:bg-red-900/20 text-red-700 dark:text-red-300 rounded-xl text-center">
-                Sual faylı yüklənmədi!<br><small class="opacity-60">${e.message}</small>
+                Sual faylı yüklənmədi!<br><small class="opacity-60">${sanitize(e.message)}</small>
              </div>`;
     }
 }
@@ -438,16 +488,20 @@ function timeUp() {
     }
     quizState.incorrect++;
     quizState.wrongIndices.push(quizState.index);
-    quizState.answered[quizState.index] = false;
+    // FIX #4 — skipped kimi qeyd edilir (vaxt bitib cavablanmayan)
+    quizState.skipped++;
+    quizState.answered[quizState.index] = 'skipped';
 
     const actionArea = document.getElementById('action-area');
     if (actionArea) {
         actionArea.innerHTML = `
             <p class="text-center text-red-500 font-bold mb-3 animate-in">⏰ Vaxt bitdi!</p>
-            <button onclick="nextStep()"
+            <button id="time-up-next-btn"
                 class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/25 active:scale-95 transition-all">
                 NÖVBƏTİ SUAL →
             </button>`;
+        // FIX #2 — onclick inline əvəzinə addEventListener
+        document.getElementById('time-up-next-btn').addEventListener('click', nextStep);
         actionArea.classList.remove('hidden');
     }
     tg.MainButton.enable();
@@ -466,7 +520,7 @@ function showQuestion() {
 
     document.getElementById('content').innerHTML = `
         <div class="space-y-3 animate-in">
-            ${q.image ? `<img src="${q.image}" class="w-full rounded-2xl border border-slate-200 dark:border-slate-800 object-cover">` : ''}
+            ${q.image ? `<img src="${sanitize(q.image)}" class="w-full rounded-2xl border border-slate-200 dark:border-slate-800 object-cover">` : ''}
 
             <!-- Progress bar / timer -->
             <div class="bg-slate-100 dark:bg-slate-800 rounded-full h-1.5 overflow-hidden">
@@ -476,8 +530,8 @@ function showQuestion() {
             <!-- Question card -->
             <div class="p-5 bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 shadow-sm">
                 <div class="flex items-start justify-between gap-3">
-                    <p class="text-base font-semibold leading-relaxed flex-1">${q.question}</p>
-                    <button id="bookmark-btn" onclick="toggleBookmark()"
+                    <p class="text-base font-semibold leading-relaxed flex-1">${sanitize(q.question)}</p>
+                    <button id="bookmark-btn"
                         class="flex-none p-1.5 rounded-xl hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors">
                         ${isBookmarked ? ICONS.bookmarkFill : ICONS.bookmark}
                     </button>
@@ -494,12 +548,17 @@ function showQuestion() {
 
             <!-- Action area -->
             <div id="action-area" class="pt-1 hidden">
-                <button onclick="nextStep()"
+                <button id="next-question-btn"
                     class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/25 active:scale-95 transition-all">
                     NÖVBƏTİ SUAL →
                 </button>
             </div>
         </div>`;
+
+    // FIX #2 — bookmark üçün addEventListener
+    document.getElementById('bookmark-btn').addEventListener('click', toggleBookmark);
+    // FIX #2 — next button üçün addEventListener
+    document.getElementById('next-question-btn').addEventListener('click', nextStep);
 
     const optionsBox = document.getElementById('options-box');
     q.options.forEach((opt, idx) => {
@@ -513,8 +572,8 @@ function showQuestion() {
                          bg-slate-100 dark:bg-slate-800 text-xs font-bold text-slate-500">
                 ${String.fromCharCode(65 + idx)}
             </span>
-            <span class="flex-1 text-sm md:text-base">${opt}</span>`;
-        btn.onclick = () => selectOption(btn, idx);
+            <span class="flex-1 text-sm md:text-base">${sanitize(opt)}</span>`;
+        btn.addEventListener('click', () => selectOption(btn, idx));
         optionsBox.appendChild(btn);
     });
 
@@ -596,20 +655,33 @@ function updateStats() {
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // RESULTS SCREEN
+// FIX #4 — skipped suallar ayrıca göstərilir
 // ═══════════════════════════════════════════════════════════════════════════════
 async function showResults() {
     stopTimer();
     hideTgMainButton();
     document.getElementById('stats-bar').classList.add('hidden');
 
-    const total = currentQuestions.length;
-    const pct   = Math.round((quizState.correct / total) * 100);
-    const emoji = pct >= 80 ? '🎉' : pct >= 50 ? '👍' : '💪';
-    const stars  = pct >= 80 ? '⭐⭐⭐' : pct >= 60 ? '⭐⭐' : pct >= 40 ? '⭐' : '';
+    const total   = currentQuestions.length;
+    const pct     = Math.round((quizState.correct / total) * 100);
+    const emoji   = pct >= 80 ? '🎉' : pct >= 50 ? '👍' : '💪';
+    const stars   = pct >= 80 ? '⭐⭐⭐' : pct >= 60 ? '⭐⭐' : pct >= 40 ? '⭐' : '';
 
-    const stat       = await saveResult(quizState.currentPath, quizState.correct, total);
-    const hasWrong   = quizState.wrongIndices.length > 0;
-    const hasBM      = quizState.bookmarks.size > 0;
+    // FIX #4 — skipped count hesablanır
+    const skippedCount = Object.values(quizState.answered)
+        .filter(v => v === 'skipped').length;
+
+    const stat     = await saveResult(quizState.currentPath, quizState.correct, total);
+    const hasWrong = quizState.wrongIndices.length > 0;
+    const hasBM    = quizState.bookmarks.size > 0;
+
+    // FIX #4 — skipped bloku şərtli göstərilir
+    const skippedHtml = skippedCount > 0
+        ? `<div class="p-4 bg-yellow-50 dark:bg-yellow-900/10 rounded-2xl border border-yellow-100 dark:border-yellow-900/30">
+               <p class="text-3xl font-black text-yellow-500">${skippedCount}</p>
+               <p class="text-xs uppercase tracking-wide opacity-60 mt-1">Keçildi ⏰</p>
+           </div>`
+        : '';
 
     document.getElementById('content').innerHTML = `
         <div class="bg-white dark:bg-slate-900 p-7 rounded-3xl text-center border border-slate-200 dark:border-slate-800 zoom-in shadow-sm space-y-4">
@@ -623,15 +695,16 @@ async function showResults() {
                 <p class="text-slate-400 text-sm mt-1">${pct}% düzgün cavab</p>
             </div>
 
-            <div class="grid grid-cols-2 gap-3">
+            <div class="grid grid-cols-${skippedCount > 0 ? '3' : '2'} gap-3">
                 <div class="p-4 bg-green-50 dark:bg-green-900/10 rounded-2xl border border-green-100 dark:border-green-900/30">
                     <p class="text-3xl font-black text-green-600">${quizState.correct}</p>
                     <p class="text-xs uppercase tracking-wide opacity-60 mt-1">Düzgün</p>
                 </div>
                 <div class="p-4 bg-red-50 dark:bg-red-900/10 rounded-2xl border border-red-100 dark:border-red-900/30">
-                    <p class="text-3xl font-black text-red-600">${quizState.incorrect}</p>
+                    <p class="text-3xl font-black text-red-600">${quizState.incorrect - skippedCount}</p>
                     <p class="text-xs uppercase tracking-wide opacity-60 mt-1">Səhv</p>
                 </div>
+                ${skippedHtml}
             </div>
 
             <div class="grid grid-cols-3 gap-2 text-center">
@@ -650,34 +723,42 @@ async function showResults() {
             </div>
 
             <div class="grid gap-2">
-                <button onclick="showReview()"
+                <button id="show-review-btn"
                     class="w-full py-3 bg-slate-100 dark:bg-slate-800 rounded-2xl font-bold active:scale-95 transition-transform text-sm">
                     📋 Cavabları göstər
                 </button>
                 ${hasWrong ? `
-                <button onclick="retryWrong()"
+                <button id="retry-wrong-btn"
                     class="w-full py-3 bg-orange-100 dark:bg-orange-900/20 text-orange-600 dark:text-orange-400 rounded-2xl font-bold active:scale-95 transition-transform text-sm">
                     🔁 Səhvləri təkrar et (${quizState.wrongIndices.length})
                 </button>` : ''}
                 ${hasBM ? `
-                <button onclick="retryBookmarks()"
+                <button id="retry-bm-btn"
                     class="w-full py-3 bg-yellow-100 dark:bg-yellow-900/20 text-yellow-700 dark:text-yellow-400 rounded-2xl font-bold active:scale-95 transition-transform text-sm">
                     🔖 İşarələnənləri təkrar et (${quizState.bookmarks.size})
                 </button>` : ''}
-                <button onclick="shareResult(${pct}, ${quizState.correct}, ${total})"
+                <button id="share-btn"
                     class="w-full py-3 bg-blue-100 dark:bg-blue-900/20 text-blue-600 dark:text-blue-400 rounded-2xl font-bold active:scale-95 transition-transform text-sm">
                     📤 Nəticəni paylaş
                 </button>
-                <button onclick="loadQuiz(true)"
+                <button id="restart-btn"
                     class="w-full py-4 bg-blue-600 text-white rounded-2xl font-bold shadow-lg shadow-blue-500/20 active:scale-95 transition-transform">
                     🔀 Yenidən
                 </button>
-                <button onclick="returnToHome()"
+                <button id="home-btn"
                     class="w-full py-3 bg-slate-100 dark:bg-slate-800 rounded-2xl font-bold active:scale-95 transition-transform">
                     🏠 Ana Səhifə
                 </button>
             </div>
         </div>`;
+
+    // FIX #2 — bütün onclick-lər addEventListener ilə əvəz edilir
+    document.getElementById('show-review-btn').addEventListener('click', showReview);
+    if (hasWrong) document.getElementById('retry-wrong-btn').addEventListener('click', retryWrong);
+    if (hasBM)    document.getElementById('retry-bm-btn').addEventListener('click', retryBookmarks);
+    document.getElementById('share-btn').addEventListener('click', () => shareResult(pct, quizState.correct, total));
+    document.getElementById('restart-btn').addEventListener('click', () => loadQuiz(true));
+    document.getElementById('home-btn').addEventListener('click', returnToHome);
 
     tg.HapticFeedback.notificationOccurred('warning');
 }
@@ -691,19 +772,23 @@ function showReview() {
     container.innerHTML = '';
 
     currentQuestions.forEach((q, idx) => {
-        const wasAnswered = quizState.answered[idx] !== undefined;
-        const wasCorrect  = quizState.answered[idx] === true;
-        const statusIcon  = !wasAnswered ? '⏰' : wasCorrect ? '✅' : '❌';
+        const ans         = quizState.answered[idx];
+        const wasSkipped  = ans === 'skipped';
+        const wasAnswered = ans !== undefined && !wasSkipped;
+        const wasCorrect  = ans === true;
+        // FIX #4 — skipped ayrıca ikonu var
+        const statusIcon  = wasSkipped ? '⏰' : !wasAnswered ? '➖' : wasCorrect ? '✅' : '❌';
 
         const card = document.createElement('div');
         card.className =
             "p-4 bg-white dark:bg-slate-900 border rounded-2xl mb-3 " +
             (wasCorrect  ? 'border-green-200 dark:border-green-900/40' :
+             wasSkipped  ? 'border-yellow-200 dark:border-yellow-900/40' :
              wasAnswered ? 'border-red-200 dark:border-red-900/40' :
                            'border-slate-200 dark:border-slate-800');
         card.innerHTML = `
             <p class="text-xs text-slate-400 mb-1 font-medium">${statusIcon} Sual ${idx + 1}</p>
-            <p class="font-semibold text-sm mb-3 leading-snug">${q.question}</p>
+            <p class="font-semibold text-sm mb-3 leading-snug">${sanitize(q.question)}</p>
             ${q.options.map((opt, i) => `
                 <div class="flex items-center gap-2 text-sm py-1.5 px-3 rounded-xl mb-1 ${
                     i === q.correct
@@ -714,7 +799,7 @@ function showReview() {
                                  bg-slate-100 dark:bg-slate-800 text-xs font-bold">
                         ${String.fromCharCode(65 + i)}
                     </span>
-                    ${opt}${i === q.correct ? ' ✓' : ''}
+                    ${sanitize(opt)}${i === q.correct ? ' ✓' : ''}
                 </div>`).join('')}`;
         container.appendChild(card);
     });
@@ -722,7 +807,7 @@ function showReview() {
     const backBtn = document.createElement('button');
     backBtn.className = "w-full py-3 bg-slate-100 dark:bg-slate-800 rounded-2xl font-bold active:scale-95 transition-transform mt-2 mb-6";
     backBtn.textContent = '← Nəticəyə qayıt';
-    backBtn.onclick = showResults;
+    backBtn.addEventListener('click', showResults);
     container.appendChild(backBtn);
 }
 
@@ -766,7 +851,6 @@ async function toggleFavorite(path, title) {
         tg.HapticFeedback.impactOccurred('medium');
     }
     await saveFavorites(favs);
-    // Re-render setup screen to flip the bookmark icon
     await startQuizSetup(path, title);
 }
 
