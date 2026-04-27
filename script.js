@@ -91,6 +91,7 @@ const ICONS = {
 // BOOTSTRAP
 // ═══════════════════════════════════════════════════════════════════════════════
 async function init() {
+    setupOfflineBanner();
     tg.BackButton.onClick(handleBackButton);
 
     const user = tg.initDataUnsafe?.user;
@@ -404,6 +405,7 @@ async function loadQuiz(shuffle, questionsOverride = null) {
     if (currentFetch) {
         currentFetch.abort();
         currentFetch = null;
+        cacheQuizFile(quizState.currentPath);
     }
 
     document.getElementById('content').innerHTML =
@@ -904,6 +906,66 @@ function confirmJump() {
         setTimeout(() => input.classList.remove('animate-shake'), 400);
     }
 }
+
+function setupOfflineBanner() {
+    // Banner elementini HTML-də yarat (bir dəfə)
+    const existing = document.getElementById('offline-banner');
+    if (existing) return;
+ 
+    const banner = document.createElement('div');
+    banner.id = 'offline-banner';
+    banner.style.cssText = `
+        display: none;
+        position: sticky; top: 0; z-index: 100;
+        background: #854F0B; color: #FAEEDA;
+        text-align: center; font-size: 13px; font-weight: 500;
+        padding: 8px 16px; border-radius: 0 0 12px 12px;
+        margin: -16px -16px 8px -16px;
+    `;
+    banner.textContent = '📵 Offline rejimdəsiniz — keşlənmiş suallar mövcuddur';
+ 
+    // max-w-md div-in içinə ilk element kimi əlavə et
+    const container = document.querySelector('.max-w-md');
+    if (container) container.prepend(banner);
+ 
+    // Online/offline event-lər
+    function updateBanner() {
+        banner.style.display = navigator.onLine ? 'none' : 'block';
+    }
+ 
+    window.addEventListener('online',  updateBanner);
+    window.addEventListener('offline', updateBanner);
+    updateBanner(); // başlanğıc vəziyyəti
+}
+
+function cacheQuizFile(path) {
+    if (!navigator.serviceWorker?.controller) return;
+    navigator.serviceWorker.controller.postMessage({
+        type: 'CACHE_QUIZ',
+        path: path
+    });
+}
+
+function showUpdateBanner() {
+    const banner = document.createElement('div');
+    banner.style.cssText = `
+        position: sticky; top: 0; z-index: 101;
+        background: #185FA5; color: #E6F1FB;
+        display: flex; align-items: center; justify-content: space-between;
+        font-size: 13px; padding: 8px 16px;
+        border-radius: 0 0 12px 12px;
+        margin: -16px -16px 8px -16px;
+    `;
+    banner.innerHTML = `
+        <span>🔄 Yeni versiya mövcuddur</span>
+        <button style="background:#0C447C;color:#E6F1FB;border:none;
+                       border-radius:6px;padding:4px 10px;font-size:12px;cursor:pointer"
+            onclick="location.reload()">Yenilə</button>
+    `;
+    const container = document.querySelector('.max-w-md');
+    if (container) container.prepend(banner);
+}
+
 
 // ═══════════════════════════════════════════════════════════════════════════════
 // START

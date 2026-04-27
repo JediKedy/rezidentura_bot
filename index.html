@@ -4,7 +4,31 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Rezidentura Bot</title>
+<script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+      .then(reg => {
+        console.log('SW qeydiyyat oldu:', reg.scope);
+ 
+        // Yeni SW varsa — istifadəçiyə bildiriş ver (isteğe bağlı)
+        reg.addEventListener('updatefound', () => {
+          const newSW = reg.installing;
+          newSW.addEventListener('statechange', () => {
+            if (newSW.state === 'installed' && navigator.serviceWorker.controller) {
+              // Köhnə cache var, yeni versiya gəldi
+              // showUpdateBanner() -- aşağıdakı funksiya ilə
+              console.log('Yeni versiya mövcuddur');
+            }
+          });
+        });
+      })
+      .catch(err => console.warn('SW qeydiyyat xətası:', err));
+  }
+</script>
+
+<script src="sw.js"></script>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
+<script src="script.js"></script>
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = { darkMode: 'class' }
@@ -102,7 +126,6 @@
   </div>
 </div>
 
-<script src="script.js"></script>
 <script>
   // Theme — tg is declared in script.js, no redeclaration
   function initTheme() {
