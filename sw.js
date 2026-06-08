@@ -3,7 +3,7 @@
 // Strategiya: Cache-first statik fayllar, Network-first JSON suallar
 // ═══════════════════════════════════════════════════════════════════════════════
 
-const CACHE_NAME    = 'quiz-bot-v1';
+const CACHE_NAME    = 'quiz-bot-v1.0.2';
 const STATIC_ASSETS = [
     '/',
     '/index.html',
